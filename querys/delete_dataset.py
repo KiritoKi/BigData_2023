@@ -17,7 +17,6 @@ def deleteAll():
             estudantes.reset_sequence(db)
             lideres.reset_sequence(db)
             pesquisadores.reset_sequence(db)
-            grupo_de_pesquisa.reset_sequence(db)
         
         return True
     except Exception as e:

@@ -1,6 +1,6 @@
 from typing import Generic, List, Type, TypeVar, Optional
 from pydantic import BaseModel
-from sqlalchemy import Table, func, asc
+from sqlalchemy import Table, func, asc, text
 from sqlalchemy.orm import Session, attributes
 from sqlalchemy.sql import select, insert, Select, delete
 
@@ -53,6 +53,7 @@ class Base(Generic[TableType, SelectSchemaType]):
     
     def reset_sequence(self, db: Session):
         table_name = self.table.name
-        query = f"SELECT setval(pg_get_serial_sequence('{table_name}', 'id'), coalesce(max(id), 1), false) FROM {table_name};"
+        primary_key_column = [column.name for column in self.table.columns if column.primary_key][0]
+        query = text(f"SELECT setval(pg_get_serial_sequence('{table_name}', '{primary_key_column}'), coalesce(max({primary_key_column}), 1), false) FROM {table_name};")
         db.execute(query)
         db.commit()

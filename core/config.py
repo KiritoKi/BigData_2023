@@ -2,7 +2,6 @@ from os import environ
 from typing import Optional, Dict, Any
 
 from dotenv import load_dotenv
-from decouple import config
 from pydantic import validator
 from pydantic_settings import BaseSettings
 
