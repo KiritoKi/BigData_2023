@@ -1,0 +1,1 @@
+from .pesquisadores import schemaPesquisadores
