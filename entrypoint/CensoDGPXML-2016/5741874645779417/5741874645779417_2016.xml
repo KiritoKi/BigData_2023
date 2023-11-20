@@ -1,0 +1,1452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="5741874645779417"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="104104"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="09102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="4644739255776557" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE=""
+                           NOME-DO-ORGAO="Instituto Nacional de Pesquisas Espaciais"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SP"
+                           SIGLA-DA-INSTITUICAO="INPE"
+                           NOME-DA-INSTITUICAO="Instituto Nacional de Pesquisas Espaciais"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="1984"
+                           NOME-DO-GRUPO="Geoinformática e Modelagem Ambiental">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="0333390666972274" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Gilberto Camara Neto"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="6187040703676041" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Lúbia Vinhas"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3549904" DDDFAX="01"
+                                       LONGITUDE="-45.85963749999996"
+                                       LATITUDE="-23.2065097"
+                                       CAIXA-POSTAL="515"
+                                       LOCALIDADE="São José dos Campos"
+                                       NUMERO="1758"
+                                       COMPLEMENTO="Divisão de Processamento de Imagens"
+                                       LOGRADOURO="Avenida dos Astronautas - de 1372/1373 ao fim"
+                                       HOME-PAGE="http://www.geoinformatics.cc"
+                                       E-MAIL="gilberto.camara@inpe.br"
+                                       FAX="39456468"
+                                       RAMAL=""
+                                       TELEFONE="39456499"
+                                       DDD="01"
+                                       CEP="12227010"
+                                       CIDADE="São José dos Campos"
+                                       UF="SP"
+                                       BAIRRO="Jardim da Granja"/>
+      <REPERCUSSOES>O grupo de pesquisa em Geoinformática e Modelagem Ambiental foi criado no INPE em 1984, com o objetivo de fazer pesquisas e desenvolver tecnologia na área. Nestes 30 anos, o grupo produziu e orientou mais de 100 teses de Mestrado e Doutorado na área, e publicou mais de 200 artigos em revistas científicas e congressos com "peer-review", que já foram citados mais de 10.000 vezes, segundo o Google Scholar. O grupo desenvolve softwares livres, que é amplamente utilizado no Brasil e no Exterior. Dentre os sistemas desenvolvidos, estão: (a) SPRING, sistema para processamento de imagens e dados georeferenciados, que já foi distribuídos para mais de 200.000 especialistas no Brasil e no Exterior; (b) Terralib, biblioteca para desenvolvimento de bancos de dados e aplicativos geográficos multiusuários; (c) TerraView, software para visualização e análise de dados; (d) TerraME, para modelagem ambiental em espaços celulares e com suporte a agentes; (e) GeoDMA, para mineração de dados geográficos.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="CÂMARA, G.;Câmara, Gilberto;Camara, Gilberto;CÃ¢MARA, GILBERTO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0333390666972274"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Gilberto Camara Neto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem das Interações Sociedade-Natureza"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens de Sensores Remotos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Bancos de Dados Geográficos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Espacial"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geocartografia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geoprocessamento</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sensoriamento Remoto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="VINHAS, L.;Vinhas, Lubia;Vinhas, Lúbia"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="F"
+                   NRO-ID-CNPQ="6187040703676041"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Lúbia Vinhas">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens de Sensores Remotos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Bancos de Dados Geográficos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geoprocessamento</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="NAMIKAWA, L. M.;NAMIKAWA, L" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0983590211329242"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Laercio Massaru Namikawa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Espacial"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geografia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geografia Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FELGUEIRAS, C. A.;Felgueiras, Carlos A.;FELGUEIRAS, CARLOS ALBERTO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2916855460918534"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Carlos Alberto Felgueiras">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Espacial"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geoestatística</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem Digital de Terreno</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FONSECA, L. M. G.;Fonseca, Leila M.G.;MARIA GARCIA FONSECA, LEILA;Fonseca, Leila Maria Garcia;FONSECA, LEILA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="F"
+                   NRO-ID-CNPQ="5123287769635741"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Leila Maria Garcia Fonseca">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens de Sensores Remotos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Digital de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Digital de Sinais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Padrões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sensoriamento Remoto</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="D'ALGE, J. C. L." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8486813533841352"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Julio Cesar Lima D'Alge">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens de Sensores Remotos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cartografia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SOUZA, R. C. M." TITULACAO-MAXIMA="Graduação"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8588835254294672"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ricardo Cartaxo Modesto de Souza">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens de Sensores Remotos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Bancos de Dados Geográficos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geocartografia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Satélites e Outros Dispositivos Aeroespaciais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sensoriamento Remoto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FERREIRA, K. R.;FERREIRA, KARINE REIS"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="F"
+                   NRO-ID-CNPQ="1014575950191035"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Karine Reis Ferreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens de Sensores Remotos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Bancos de Dados Geográficos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados Geográficos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informações Geográficas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="QUEIROZ, Gilberto Ribeiro de;Queiroz, Gilberto;DE QUEIROZ, GILBERTO R."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9981634193003068"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Gilberto Ribeiro de Queiroz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens de Sensores Remotos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Bancos de Dados Geográficos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bancos de Dados Espaciais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento de Sistemas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geometria Computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação Geográficos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CAMARGO, E. C. G.;CAMARGO, EDUARDO C. G."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0271662670324136"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Eduardo Celso Gerbi Camargo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Espacial"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geoestatística</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Regressão e Correlação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sensoriamento Remoto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistema de Informação Geográfica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CORDEIRO, João Pedro Cerveira;Cerveira Cordeiro, João Pedro;CORDEIRO, João Pedro"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8916994738849803"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="João Pedro Cerveira Cordeiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Espacial"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ROSIM, Sergio;ROSIM, SERGIO" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="11"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2442547278150847"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Sergio Rosim">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Hidrológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geoprocessamento</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="RENNÓ, C. D.;RENNÓ, CAMILO D.;RENNÓ, CAMILO;RENNÓ, CAMILO DALELES;RENNO, CAMILO D.;RENNO, CAMILO DALELES;RENNÓ, C D"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="12"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7712719010541171"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Camilo Daleles Rennó">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Hidrológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Agronomia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hidrologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Probabilidade e Estatística Aplicadas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sensoriamento Remoto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ORTIZ, J. O.;DE OLIVEIRA ORTIZ, JUSSARA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="13"
+                   SEXO="F"
+                   NRO-ID-CNPQ="1649941449641846"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Jussara de Oliveira Ortiz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Espacial"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>CARTOGRAFIA</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geociências</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Probabilidade e Estatística Aplicadas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LOPES, Eymar Silva Sampaio" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="14"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9390361877489668"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Eymar Silva Sampaio Lopes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem das Interações Sociedade-Natureza"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Hidrológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geologia Ambiental</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sensoriamento Remoto</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ESCADA, M. I. S.;Escada, Maria Isabel S.;Sobral Escada, Maria Isabel;Escada, Maria Isabel Sobral"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="15"
+                   SEXO="F"
+                   NRO-ID-CNPQ="9947670889009026"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Maria Isabel Sobral Escada">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem das Interações Sociedade-Natureza"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Espacial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Regional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ecologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geotecnologias</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sensoriamento Remoto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Uso da Terra</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="OLIVEIRA, J. R. F.;OLIVEIRA, João Ricardo de Freitas;João R. de F. Oliveira;de F. Oliveira, João R.;DE FREITAS OLIVEIRA, JOÃO R.;de Freitas Oliveira, João Ricardo"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="16"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5067006506847859"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="João Ricardo de Freitas Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Hidrológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Algoritmos Genéticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>geoprocessamento</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem Hidrologica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Morfologia Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ANDRADE, P. R.;ANDRADE, P.;ANDRADE, P. R. D.;NETO, P. R. A.;Andrade, Pedro;DE ANDRADE, PEDRO RIBEIRO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="17"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3800022078311584"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Pedro Ribeiro de Andrade Neto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem das Interações Sociedade-Natureza"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Espacial"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geoinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem Ambiental</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Simulação Social</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="AMARAL, S.;Amaral, Silvana" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="18"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3854323052723159"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Silvana Amaral Kampel">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem das Interações Sociedade-Natureza"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem para Estudos de Biodiversidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Espacial"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geoprocessamento e Análise Espacial de Processos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MONTEIRO, A. M. V.;Monteiro, Antonio Miguel;Monteiro, Antonio Miguel Vieira;Monteiro, Antonio MV;Vieira Monteiro, Antônio Miguel;Monteiro, Antônio Miguel V.;Monteiro, A.M.V.;Monteiro, Antonio M.V.;Vieira Monteiro, Antonio Miguel;AMV Monteiro;Monteiro, AMV;Antonio Miguel Vieira Monteiro;Antônio Miguel Vieira Monteiro;MONTEIRO, ANTONIO MIGUEL V."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="19"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0654596992211296"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Antonio Miguel Vieira Monteiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem das Interações Sociedade-Natureza"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens de Sensores Remotos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Bancos de Dados Geográficos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Espacial"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geociências</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geoprocessamento</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos e Técnicas Para o Planejamento Urbano e Regional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Satélites e Outros Dispositivos Aeroespaciais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Saúde Pública</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="DAL'ASTA, Ana Paula;DAL'ASTA, A. P"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SILVANA AMARAL KAMPEL"
+                 NRO-ID-CNPQ-ORIENTADOR="3854323052723159"
+                 SEQUENCIA-ESTUDANTE="2104460"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8407302694962257"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ana Paula Dal'Asta">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem das Interações Sociedade-Natureza"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geografia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geografia Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geomorfologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="KLIPPEL, S.;KLIPPEL, SANDRO" NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SILVANA AMARAL KAMPEL"
+                 NRO-ID-CNPQ-ORIENTADOR="3854323052723159"
+                 SEQUENCIA-ESTUDANTE="155086"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3008046410601294"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Sandro Klippel">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem para Estudos de Biodiversidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Avaliação de Estoques Pesqueiros Marinhos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fatores Abióticos do Mar</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Interação entre os Organismos Marinhos e os Parâmetros Ambientais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Manejo e Conservação de Recursos Pesqueiros Marinhos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Variáveis Físicas da Água do Mar</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="RIBEIRO, R. M." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SILVANA AMARAL KAMPEL"
+                 NRO-ID-CNPQ-ORIENTADOR="3854323052723159"
+                 SEQUENCIA-ESTUDANTE="4450301"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4609310306920975"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Renata Maciel Ribeiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Hidrológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação Ambiental</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geociências</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sensoriamento Remoto</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="REIS, J. B. C." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CAMILO DALELES RENNO"
+                 NRO-ID-CNPQ-ORIENTADOR="7712719010541171"
+                 SEQUENCIA-ESTUDANTE="3571748"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4540188308125517"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="João Bosco Coura dos Reis">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Hidrológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciências Ambientais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geografia Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geotecnologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sensoriamento Remoto</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MOULATLET, G. M.;MASSAINE MOULATLET, GABRIEL;MOULATLET, G.;MOULATLET, GABRIEL M."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CAMILO DALELES RENNO"
+                 NRO-ID-CNPQ-ORIENTADOR="7712719010541171"
+                 SEQUENCIA-ESTUDANTE="3211662"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1539963599734036"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gabriel Massaine Moulatlet">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Hidrológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ecologia de plantas de sub-bosque</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hidrologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SIANI, S. M. O." NIVEL-DE-TREINAMENTO="Especialização"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SILVANA AMARAL KAMPEL"
+                 NRO-ID-CNPQ-ORIENTADOR="3854323052723159"
+                 SEQUENCIA-ESTUDANTE="5192479"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4266005890551672"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Sacha Maruã Ortiz Siani">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem das Interações Sociedade-Natureza"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciências Ambientais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sensoriamento Remoto</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CONCEIÇÃO, M. C." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SILVANA AMARAL KAMPEL"
+                 NRO-ID-CNPQ-ORIENTADOR="3854323052723159"
+                 SEQUENCIA-ESTUDANTE="5190461"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7188355926476597"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Mariana Cavalcanti da Conceição">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem para Estudos de Biodiversidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BERTONCINI, A. L. S." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CAMILO DALELES RENNO"
+                 NRO-ID-CNPQ-ORIENTADOR="7712719010541171"
+                 SEQUENCIA-ESTUDANTE="3332088"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7908198243735727"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="André Luis da Silva Bertoncini">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Hidrológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geociências</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geografia Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geoprocessamento</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hidrologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sensoriamento Remoto</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MACIEL, A. M.;MACIEL, ADELINE M.;Adeline Marinho Maciel"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="GILBERTO CAMARA NETO"
+                 NRO-ID-CNPQ-ORIENTADOR="0333390666972274"
+                 SEQUENCIA-ESTUDANTE="3229495"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9198589807862587"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Adeline Marinho Maciel">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Bancos de Dados Geográficos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia e Técnicas da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mineração de Dados</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SIMÕES, Rolf Ezequiel de Oliveira"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="GILBERTO CAMARA NETO"
+                 NRO-ID-CNPQ-ORIENTADOR="0333390666972274"
+                 SEQUENCIA-ESTUDANTE="458863"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3441488230835922"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rolf Ezequiel de Oliveira Simões">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Bancos de Dados Geográficos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Simulações Empresariais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MELO, L. G. P." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUBIA VINHAS"
+                 NRO-ID-CNPQ-ORIENTADOR="6187040703676041"
+                 SEQUENCIA-ESTUDANTE="4663334"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3244404653864829"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luan Gaspar Pinto de Melo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Bancos de Dados Geográficos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="JARDIM, A. C.;COPERTINO JARDIM, ALEXANDRE"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SERGIO ROSIM"
+                 NRO-ID-CNPQ-ORIENTADOR="2442547278150847"
+                 SEQUENCIA-ESTUDANTE="687541"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3808235682713305"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alexandre Copertino Jardim">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Hidrológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Padrões de Programação (OO)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Digital de Imagem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Orientada a Objetos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SÁNCHEZ, A." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="GILBERTO CAMARA NETO"
+                 NRO-ID-CNPQ-ORIENTADOR="0333390666972274"
+                 SEQUENCIA-ESTUDANTE="5942905"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7009551746793478"
+                 PAIS-DE-NASCIMENTO="COL"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Alber Hamersson Sánchez Ipia">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Bancos de Dados Geográficos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geoinformatics</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Chaparro, O." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CAMILO DALELES RENNO"
+                 NRO-ID-CNPQ-ORIENTADOR="7712719010541171"
+                 SEQUENCIA-ESTUDANTE="5041952"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4455498155044323"
+                 PAIS-DE-NASCIMENTO="COL"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Omar Felipe Chaparro Saavedra">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Hidrológica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hidrologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hidrologia Florestal</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Recursos Florestais e Engenharia Florestal</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sensoriamento Remoto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação Geográfica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2524733847621259"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha de pesquisa busca analisar, propor e implementar ferramentas de análise espacial em SIG, baseadas em técncias de Estatística Espacial e Geoestatística. Estas técnicas permitem construir indicadores de dinâmica social e qualidade ambiental, que incorporam o espaço como elemento da análise quantitativa."
+                         NOME-DA-LINHA-DE-PESQUISA="Análise Espacial"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Geoestatística</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Estatística Espacial</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Geoinformática</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0333390666972274" NOME-COMPLETO="Gilberto Camara Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="19502"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0983590211329242" NOME-COMPLETO="Laercio Massaru Namikawa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="146042"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2916855460918534" NOME-COMPLETO="Carlos Alberto Felgueiras"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="14517"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0271662670324136" NOME-COMPLETO="Eduardo Celso Gerbi Camargo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="145917"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8916994738849803" NOME-COMPLETO="João Pedro Cerveira Cordeiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2121607"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1649941449641846" NOME-COMPLETO="Jussara de Oliveira Ortiz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="101822"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3800022078311584" NOME-COMPLETO="Pedro Ribeiro de Andrade Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="284501"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3854323052723159" NOME-COMPLETO="Silvana Amaral Kampel"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="92904"
+                               SEQUENCIA-PESQUISADOR="8"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0654596992211296" NOME-COMPLETO="Antonio Miguel Vieira Monteiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11581"
+                               SEQUENCIA-PESQUISADOR="9"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10705074" CODIGO-ESPECIALIDADE="10705074"
+                                  CODIGO-SUB-AREA="10705007"
+                                  CODIGO-AREA="10700005"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Geocartografia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geografia Física"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Geociências"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="228"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="60502010" CODIGO-ESPECIALIDADE="60502010"
+                                  CODIGO-SUB-AREA="60502002"
+                                  CODIGO-AREA="60500000"
+                                  CODIGO-GRANDE-AREA="60000007"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Informação, Cadastro e Mapeamento"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Métodos e Técnicas do Planejamento Urbano e Regional"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Planejamento Urbano e Regional"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="999"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40601005" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="40601005"
+                                  CODIGO-AREA="40600009"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Epidemiologia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Saúde Coletiva"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="726"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.6"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5248638538809470"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha de pesquisa busca desenvolver soluções que permitam a plena integração dos dados espaciais com os dados descritivos armazenados em sistemas gerenciadores de bancos de dados (SGBD). O grande desafio do século 21 é o armazenamento e recuperação eficiente de grandes volumes de dados espaciais, especialmente das imagens de sensoriamento remoto. "
+                         NOME-DA-LINHA-DE-PESQUISA="Bancos de Dados Geográficos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Geoprocessamento</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Bancos de Dados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Big data</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0333390666972274" NOME-COMPLETO="Gilberto Camara Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="19502"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6187040703676041" NOME-COMPLETO="Lúbia Vinhas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="118473"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8588835254294672" NOME-COMPLETO="Ricardo Cartaxo Modesto de Souza"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="350026"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1014575950191035" NOME-COMPLETO="Karine Reis Ferreira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="276467"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9981634193003068" NOME-COMPLETO="Gilberto Ribeiro de Queiroz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="519468"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0654596992211296" NOME-COMPLETO="Antonio Miguel Vieira Monteiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11581"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9198589807862587" NOME-COMPLETO="Adeline Marinho Maciel"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3229495"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3441488230835922" NOME-COMPLETO="Rolf Ezequiel de Oliveira Simões"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="458863"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3244404653864829" NOME-COMPLETO="Luan Gaspar Pinto de Melo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4663334"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7009551746793478" NOME-COMPLETO="Alber Hamersson Sánchez Ipia"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5942905"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303030" CODIGO-ESPECIALIDADE="10303030"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Banco de Dados"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="59"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Geoprocessamento"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10705074" CODIGO-ESPECIALIDADE="10705074"
+                                  CODIGO-SUB-AREA="10705007"
+                                  CODIGO-AREA="10700005"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Geocartografia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geografia Física"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Geociências"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="228"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6288420096488090"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de técnicas e métodos para processamento de grandes volumes de imagens de sensores remotos, com ênfase na mineração  de dados e técnicas de análise estatística voltadas para &#34;big data&#34;"
+                         NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens de Sensores Remotos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Sensoriamento Remoto</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Processamento de Imagens</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0333390666972274" NOME-COMPLETO="Gilberto Camara Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="19502"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6187040703676041" NOME-COMPLETO="Lúbia Vinhas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="118473"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5123287769635741" NOME-COMPLETO="Leila Maria Garcia Fonseca"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="50141"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8486813533841352" NOME-COMPLETO="Julio Cesar Lima D'Alge"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2154"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8588835254294672" NOME-COMPLETO="Ricardo Cartaxo Modesto de Souza"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="350026"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1014575950191035" NOME-COMPLETO="Karine Reis Ferreira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="276467"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9981634193003068" NOME-COMPLETO="Gilberto Ribeiro de Queiroz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="519468"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0654596992211296" NOME-COMPLETO="Antonio Miguel Vieira Monteiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11581"
+                               SEQUENCIA-PESQUISADOR="8"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303057" CODIGO-ESPECIALIDADE="10303057"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento Gráfico (Graphics)"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="61"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento de Imagens"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="A.01"
+                                SUBSETOR="Agricultura, Pecuária e Serviços Relacionados"
+                                SETOR="Agricultura, Pecuária, Produção Florestal, Pesca e Aqüicultura"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5119555940476702"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha de pesquisa busca  de prover representações realistas de processos espaço-temporais, em aplicações como Mudanças de Uso da Terra e Dinâmica Urbana. Para tanto, enfatiza o estudo e a caracterização dos processos urbanos e ambientais, com ênfase no estudo da dinâmica de mudanças de uso e cobertura da terra na Brasil."
+                         NOME-DA-LINHA-DE-PESQUISA="Modelagem das Interações Sociedade-Natureza"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Dinâmica Urbana</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Mudanças de uso da terra</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Desmatamento</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Segregação Urbana</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0333390666972274" NOME-COMPLETO="Gilberto Camara Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="19502"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9390361877489668" NOME-COMPLETO="Eymar Silva Sampaio Lopes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="117552"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9947670889009026" NOME-COMPLETO="Maria Isabel Sobral Escada"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="368043"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3800022078311584" NOME-COMPLETO="Pedro Ribeiro de Andrade Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="284501"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3854323052723159" NOME-COMPLETO="Silvana Amaral Kampel"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="92904"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0654596992211296" NOME-COMPLETO="Antonio Miguel Vieira Monteiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11581"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8407302694962257" NOME-COMPLETO="Ana Paula Dal'Asta"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2104460"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4266005890551672" NOME-COMPLETO="Sacha Maruã Ortiz Siani"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5192479"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Geoprocessamento"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10705074" CODIGO-ESPECIALIDADE="10705074"
+                                  CODIGO-SUB-AREA="10705007"
+                                  CODIGO-AREA="10700005"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Geocartografia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geografia Física"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Geociências"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="228"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="A" SUBSETOR=""
+                                SETOR="Agricultura, Pecuária, Produção Florestal, Pesca e Aqüicultura"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9417106774576174"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha de pesquisa desenvolve métodos e técnicas para modelagem hidrológica. O objetivo é produzir sistemas que sejam eficiente para analisar e extrair informação de grandes bacias de drenagem. A equipe desenvolve a plataforma TerraHidro para modelagem hidrológica distribuída."
+                         NOME-DA-LINHA-DE-PESQUISA="Modelagem Hidrológica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Hidrologia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Modelos digitais de terreno</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Sistemas de informação geográfica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2442547278150847" NOME-COMPLETO="Sergio Rosim"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="46822"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7712719010541171" NOME-COMPLETO="Camilo Daleles Rennó"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="340528"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9390361877489668" NOME-COMPLETO="Eymar Silva Sampaio Lopes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="117552"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5067006506847859" NOME-COMPLETO="João Ricardo de Freitas Oliveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="249216"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4609310306920975" NOME-COMPLETO="Renata Maciel Ribeiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4450301"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4540188308125517" NOME-COMPLETO="João Bosco Coura dos Reis"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3571748"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1539963599734036" NOME-COMPLETO="Gabriel Massaine Moulatlet"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3211662"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7908198243735727" NOME-COMPLETO="André Luis da Silva Bertoncini"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3332088"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3808235682713305" NOME-COMPLETO="Alexandre Copertino Jardim"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="687541"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4455498155044323" NOME-COMPLETO="Omar Felipe Chaparro Saavedra"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5041952"
+                             SEQUENCIA-ESTUDANTE="6"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Geoprocessamento"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="A" SUBSETOR=""
+                                SETOR="Agricultura, Pecuária, Produção Florestal, Pesca e Aqüicultura"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9703324643919622"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Biodiversidade pode ser definida pela variabilidade de formas de vida presentes em uma determinada região, expressa pelo total de genes, espécies, ecossistemas e diversidade cultural humana.  O objetivo dessa linha de pesquisa é contribuir e apoiar as pesquisas que buscam documentar a biodiversidade e desenvolver estratégias e ferramentas para mapear e conservá-la, usando geoinformação e o sensoriamento remoto como ferramentas e fontes de dados essenciais."
+                         NOME-DA-LINHA-DE-PESQUISA="Modelagem para Estudos de Biodiversidade"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">biodiversidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">sensoriamento remoto</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3854323052723159" NOME-COMPLETO="Silvana Amaral Kampel"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="92904"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3008046410601294" NOME-COMPLETO="Sandro Klippel"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="155086"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7188355926476597" NOME-COMPLETO="Mariana Cavalcanti da Conceição"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5190461"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10700005" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="10700005"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Geociências"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="178"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="3042165052807865"
+               RAZAO-SOCIAL-DA-EMPRESA="International Institute For Applied Systems Analysis"
+               NATUREZA-JURIDICA=""
+               SEGMENTO-ECONOMICO=""
+               CNPJ=""
+               LOCALIDADE="Laxenburg"
+               CIDADE="Laxenburg"
+               UF=""
+               SIGLA-DA-EMPRESA="IIASA"
+               NOME-DA-EMPRESA="International Institute For Applied Systems Analysis"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="2692137595903016"
+               RAZAO-SOCIAL-DA-EMPRESA="Bradar Indústria S/A"
+               NATUREZA-JURIDICA="Sociedade Anônima Fechada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="02807737000146"
+               LOCALIDADE="São José dos Campos"
+               CIDADE="São José dos Campos"
+               UF="SP"
+               SIGLA-DA-EMPRESA="BRADAR"
+               NOME-DA-EMPRESA="Bradar Indústria - Matriz"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26.5"
+                                          SUBSETOR="Fabricação de aparelhos e instrumentos de medida, teste e controle; cronômetros e relógios"
+                                          SETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                          GRANDE-SETOR="Indústrias de transformação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                          SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                          SETOR="Atividades dos serviços de tecnologia da informação"
+                                          GRANDE-SETOR="Informação e comunicação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="1"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="K.64.4" SUBSETOR="Arrendamento mercantil"
+                                          SETOR="Atividades de serviços financeiros"
+                                          GRANDE-SETOR="Atividades financeiras, de seguros e serviços relacionados"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="2"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="12">Atividades de engenharia não-rotineira inclusive o desenvolvimento de protótipo, cabeça de série ou planta-piloto para o parceiro</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="14">Desenvolvimento de software não-rotineiro para o grupo pelo parceiro</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="0218292835090319"
+               RAZAO-SOCIAL-DA-EMPRESA="Westfälische Wilhelms - Universität Münster"
+               NATUREZA-JURIDICA=""
+               SEGMENTO-ECONOMICO=""
+               CNPJ="EX36463654"
+               LOCALIDADE="Munster"
+               CIDADE="Munster"
+               UF=""
+               SIGLA-DA-EMPRESA="WWU MÜNSTER"
+               NOME-DA-EMPRESA="University of Münster"
+               SEQUENCIA-EMPRESA="2">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="5253353342250974"
+               RAZAO-SOCIAL-DA-EMPRESA="Centro Brasileiro de Análise e Planejamento"
+               NATUREZA-JURIDICA="Associação Privada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="62579164000172"
+               LOCALIDADE="São Paulo"
+               CIDADE="São Paulo"
+               UF="SP"
+               SIGLA-DA-EMPRESA="CEBRAP"
+               NOME-DA-EMPRESA="População e Políticas Públicas"
+               SEQUENCIA-EMPRESA="3">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="9233092156586247"
+               RAZAO-SOCIAL-DA-EMPRESA="Departamento de Epidemiologia e Métodos Quantitativos em Saúde"
+               NATUREZA-JURIDICA="Fundação Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="33781055000135"
+               LOCALIDADE="Rio de Janeiro"
+               CIDADE="Rio de Janeiro"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="ENSP"
+               NOME-DA-EMPRESA="Departamento de Epidemiologia e Métodos Quantitativos em Saúde"
+               SEQUENCIA-EMPRESA="4">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="7075656935959222"
+               RAZAO-SOCIAL-DA-EMPRESA="Empresa Brasileira de Pesquisa Agropecuária"
+               NATUREZA-JURIDICA="Empresa Pública"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="00348003000110"
+               LOCALIDADE="Brasília"
+               CIDADE="Brasília"
+               UF="DF"
+               SIGLA-DA-EMPRESA="EMBRAPA"
+               NOME-DA-EMPRESA="Empresa Brasileira de Pesquisa Agropecuária"
+               SEQUENCIA-EMPRESA="5">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                          SUBSETOR="Pesquisa e desenvolvimento experimental em ciências físicas e naturais"
+                                          SETOR="Pesquisa e desenvolvimento científico"
+                                          GRANDE-SETOR="Atividades profissionais, científicas e técnicas"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="4244471595870451"
+               RAZAO-SOCIAL-DA-EMPRESA="Fundação Getúlio Vargas - FGV"
+               NATUREZA-JURIDICA="Fundação Privada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="33641663000144"
+               LOCALIDADE="São Paulo"
+               CIDADE="São Paulo"
+               UF="SP"
+               SIGLA-DA-EMPRESA="EESP/FGV/SP"
+               NOME-DA-EMPRESA="Escola de Economia de São Paulo"
+               SEQUENCIA-EMPRESA="6">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="4350242495758510"
+               RAZAO-SOCIAL-DA-EMPRESA="Instituto de Pesquisa Econômica e Aplicada"
+               NATUREZA-JURIDICA="Fundação Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="33892175000100"
+               LOCALIDADE="Rio de Janeiro"
+               CIDADE="Rio de Janeiro"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="IPEA"
+               NOME-DA-EMPRESA="Instituto de Pesquisa Econômica e Aplicada"
+               SEQUENCIA-EMPRESA="7">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS>
+      <EQUIPAMENTO DISPONIBILIZADO-OUTROS-PESQUISADORES="S" ESTADO="Atualizado"
+                   SITUACAO="Em operação"
+                   CUSTO-AQUISICAO="300000"
+                   MOEDA-AQUISICAO="REAL"
+                   DATA-FIM-AQUISICAO-EQUIPAMENTO-SISTEMA=""
+                   DATA-INICIO-AQUISICAO-EQUIPAMENTO-SISTEMA=""
+                   ESPECIFICACOES=""
+                   MODELO=""
+                   MARCA="DELL"
+                   NOME="Cluster de big data"
+                   CLASSIFICACAO="Equipamentos de Informática"
+                   TIPO-DE-EQUIPAMENTO="Sistema"
+                   DESENVOLVIMENTO-PROPRIO="N"
+                   SEQUENCIA-EQUIPAMENTO="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Fundação estadual de amparo à pesquisa</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </EQUIPAMENTO>
+   </EQUIPAMENTOS>
+   <SOFTWARES>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="N" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES="O TerraView é um Sistema de Informações Geográficas de propósito geral, construído usando a biblioteca TerraLib. O TerraView tem uma manutenção constante e a sua última versão pode ser consultada em www.dpi.inpe.br/terralib5"
+                MODELO=""
+                VERSAO=""
+                NOME="TerraView"
+                CLASSIFICACAO="Engenharia/estatística/geoprocessamento"
+                TIPO-DE-LICENCIAMENTO="Domínio público"
+                DESENVOLVIMENTO-PROPRIO="N"
+                SEQUENCIA-SOFTWARE="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Orçamento da própria instituição</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES="Sistema de processamento de imagens e dados geográficos. "
+                MODELO=""
+                VERSAO=""
+                NOME="SPRING"
+                CLASSIFICACAO="Demais aplicações"
+                TIPO-DE-LICENCIAMENTO="Livre"
+                DESENVOLVIMENTO-PROPRIO="S"
+                SEQUENCIA-SOFTWARE="1">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Capes</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="1">CNPq</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="2">Finep</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="3">Fundação estadual de amparo à pesquisa</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="4">Orçamento da própria instituição</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="5">Petrobras</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES="Biblioteca para desenvolvimento de aplicativos geográficos, com interfaces para diferentes gerenciadores de dados"
+                MODELO=""
+                VERSAO=""
+                NOME="TerraLib"
+                CLASSIFICACAO="Demais aplicações"
+                TIPO-DE-LICENCIAMENTO="Livre"
+                DESENVOLVIMENTO-PROPRIO="S"
+                SEQUENCIA-SOFTWARE="2">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Capes</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="1">CNPq</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="2">Finep</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="3">Fundação estadual de amparo à pesquisa</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="4">Orçamento da própria instituição</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES=""
+                MODELO=""
+                VERSAO=""
+                NOME="TerraME"
+                CLASSIFICACAO="Engenharia/estatística/geoprocessamento"
+                TIPO-DE-LICENCIAMENTO="Livre"
+                DESENVOLVIMENTO-PROPRIO="N"
+                SEQUENCIA-SOFTWARE="3">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Capes</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="1">CNPq</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="2">Fundação estadual de amparo à pesquisa</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+   </SOFTWARES>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

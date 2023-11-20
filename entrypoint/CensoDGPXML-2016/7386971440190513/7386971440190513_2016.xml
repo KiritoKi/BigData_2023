@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="7386971440190513"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="171348"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="28102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="6335616297186751" CODIGO-AREA-PREDOMINANTE="30500001"
+                           NOME-DA-UNIDADE="Departamento de Engenharia Mecânica"
+                           NOME-DO-ORGAO="Departamento de Engenharia Mecânica"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="PE"
+                           SIGLA-DA-INSTITUICAO="UFPE"
+                           NOME-DA-INSTITUICAO="Universidade Federal de Pernambuco"
+                           AREA-PREDOMINANTE="Engenharia Mecânica"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="1995"
+                           NOME-DO-GRUPO="Grupo de Mecânica Computacional do DEMEC-UFPE">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="6749188011494040" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="José Maria Andrade Barbosa"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="5758189088491797" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Felix Christian Guimarães Santos"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="2611606" DDDFAX="08"
+                                       LONGITUDE="-34.95295629999998"
+                                       LATITUDE="-8.0514444"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Recife"
+                                       NUMERO="S/N"
+                                       COMPLEMENTO="Departamento de Engenharia Mecânica - CTG - UFPE"
+                                       LOGRADOURO="Avenida da Arquitetura"
+                                       HOME-PAGE=""
+                                       E-MAIL="andrade.jmab@gmail.com"
+                                       FAX="21268232"
+                                       RAMAL=""
+                                       TELEFONE="21268230"
+                                       DDD="08"
+                                       CEP="50740550"
+                                       CIDADE="Recife"
+                                       UF="PE"
+                                       BAIRRO="Cidade Universitária"/>
+      <REPERCUSSOES>  O grupo de MECÂNICA COMPUTACIONAL é formado por pesquisadores que atuam em diferentes áreas do conhecimento tendo como sede comum o Laboratório de Computação-LABCOM do Departamento de Engenharia Mecânica da UFPE.   O grupo nasceu da iniciativa de alguns pesquisadores do Departamento de Engenharia Mecânica da UFPE em 1995. É um grupo multidisciplinar  dedicado à formação de pessoal  e contribuição para o desenvolvimento científico e tecnológico.  As atividades de pesquisa estão voltadas ao desenvolvimento de ferramentas computacionais e  procedimentos sistemáticos de modelagem (geométrica, física, matemática e computacional), identificação de parâmetros e solução numérica para simulação do comportamento não linear de sólidos e fluidos, levando em conta efeitos micro-estruturais e térmicos na resposta macroscópica do material.   Os trabalhos do grupo relacionam-se a problemas de interesse da indústria na indústria do petróleo e gás, nuclear, aeroespacial e indústria médica.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="WILLMERSDORF, R. B.;Willmersdorf, Ramiro Brito;WILLMERSDORF, RAMIRO B."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8965627710203749"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ramiro Brito Willmersdorf">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Dinâmica dos Fluidos Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Volumes Finitos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Elementos Finitos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Integridade Estrutural"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação de Alto Desempenho"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Problemas com múltiplas físicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fundamentos Gerais de Projetos das Máquinas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Fluídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="VIDAL FILHO, W. B." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3620776782562201"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Walter de Britto Vidal Filho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem e Simulação de Robôs"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Mecânica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>mecatrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>robótica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MURILO, A;Murilo, A.;MURILO, ANDRÉ" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3577562013244119"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="André Murilo de Almeida Pinto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem e Simulação de Robôs"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle e Automação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Mecânica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecatrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LENCASTRE, Maria;Lencastre, Maria;Cruz, Maria L.P. de M.;CRUZ, M. L. P. M;LENCASTRE PINHEIRO MENEZES E CRUZ, MARIA;LENCASTRE PINHEIRO MENEZES CRUZ, MARIA;LENCASTRE, M.;LENCASTRE, M"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="F"
+                   NRO-ID-CNPQ="9016360553400035"
+                   PAIS-DE-NASCIMENTO="PRT"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Maria Lencastre Pinheiro de Menezes Cruz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Elementos Finitos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BARBOSA, J. M. A.;Barbosa, José M.;Barbosa, José M.A;Andrade Barbosa, J. M.;BARBOSA, JOSÉ MARIA ANDRADE;José Maria Andrade Barbosa;Barbosa, José Maria A;BARBOSA,  JOSÉ MARIA;BARBOSA, JOSE MARIA ANDRADE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6749188011494040"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="José Maria Andrade Barbosa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Elementos Finitos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Integridade Estrutural"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Problemas com múltiplas físicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Tensões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica dos Corpos Rígidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Corpos Sólidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Termodinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transferência de Calor</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LYRA, P. R. M.;Lyra, Paulo Roberto Maciel;Lyra, Paulo Roberto M.;LYRA, P;LYRA, P.R.M.;Lyra, e Paulo Roberto Maciel;Lyra, Paulo Roberto;Maciel Lyra, Paulo Roberto;M. Lyra, Paulo R.;Lyra, Paulo R. M.;LYRA, PAULO R.M.;Paulo Roberto Lyra"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6568615406054840"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Paulo Roberto Maciel Lyra">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Dinâmica dos Fluidos Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Volumes Finitos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Elementos Finitos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação de Alto Desempenho"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Problemas com múltiplas físicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Tensões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica dos Gases</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Fluídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem e Simulação Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transferência de Calor</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANTOS, F. C. G." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5758189088491797"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Felix Christian Guimarães Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Elementos Finitos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biomecânica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Problemas com múltiplas físicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Corpos Sólidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Fluídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem de Sistemas Biológicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LIMA, R. C. F." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="F"
+                   NRO-ID-CNPQ="4457435468771667"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rita de Cassia Fernandes de Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Volumes Finitos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biomecânica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Térmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fenômenos de Transporte</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem de Fenômenos Biológicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem de processo biológicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transferência de Calor em Reatores</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SILVA, J. M. B." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1832440119866667"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="José Maria Bezerra Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Elementos Finitos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fundamentos Gerais de Projetos das Máquinas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos de Síntese e Otimização Aplicados ao Projeto Mecânico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Projetos de Máquinas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria dos Mecanismos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL="" BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOSE MARIA ANDRADE BARBOSA"
+                 NRO-ID-CNPQ-ORIENTADOR="6749188011494040"
+                 SEQUENCIA-ESTUDANTE="907955"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0988956089178453"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Felipe Augusto Cruz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Elementos Finitos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CABRAL, M. A. F. S." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAMIRO BRITO WILLMERSDORF"
+                 NRO-ID-CNPQ-ORIENTADOR="8965627710203749"
+                 SEQUENCIA-ESTUDANTE="2763064"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4484100566828226"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marco Antônio Figueirôa da Silva Cabral">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação de Alto Desempenho"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SENA, L. A. C. V." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAMIRO BRITO WILLMERSDORF"
+                 NRO-ID-CNPQ-ORIENTADOR="8965627710203749"
+                 SEQUENCIA-ESTUDANTE="213706"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0567290180686037"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luiz Augusto Cabral Vitória Sena">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação de Alto Desempenho"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Probabilidade e Estatística Aplicadas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FARIAS, J. R." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="WALTER DE BRITTO VIDAL FILHO"
+                 NRO-ID-CNPQ-ORIENTADOR="3620776782562201"
+                 SEQUENCIA-ESTUDANTE="3466663"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3109822462782819"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Joao Rafael de Braz Coutinho Farias">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem e Simulação de Robôs"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="G Galindez-Ramirez" NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="PAULO ROBERTO MACIEL LYRA"
+                 NRO-ID-CNPQ-ORIENTADOR="6568615406054840"
+                 SEQUENCIA-ESTUDANTE="4157051"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5449313272958536"
+                 PAIS-DE-NASCIMENTO="COL"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Gustavo Galindez Ramirez">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Volumes Finitos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física da Matéria Condensada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Fluídos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ARAUJO, M. C.;ARAÚJO, MARCUS C." NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RITA DE CASSIA FERNANDES DE LIMA"
+                 NRO-ID-CNPQ-ORIENTADOR="4457435468771667"
+                 SEQUENCIA-ESTUDANTE="283375"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4157405186898932"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marcus Costa de Araujo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biomecânica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="RAMOS, F. R. C." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAMIRO BRITO WILLMERSDORF"
+                 NRO-ID-CNPQ-ORIENTADOR="8965627710203749"
+                 SEQUENCIA-ESTUDANTE="2710565"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8297209651692156"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Flavio Rafael Cogo Ramos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação de Alto Desempenho"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CRUZ, J. M." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FELIX CHRISTIAN GUIMARAES SANTOS"
+                 NRO-ID-CNPQ-ORIENTADOR="5758189088491797"
+                 SEQUENCIA-ESTUDANTE="261093"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3061997992607541"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Jacob de Melo Cruz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Elementos Finitos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Máquinas, Motores e Equipamentos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FERREIRA, A. G. A." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FELIX CHRISTIAN GUIMARAES SANTOS"
+                 NRO-ID-CNPQ-ORIENTADOR="5758189088491797"
+                 SEQUENCIA-ESTUDANTE="687972"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2413479993720433"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Afonso Gustavo Ataide Ferreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Elementos Finitos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Computadores</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0788230211961963"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver modelos físicos, matemáticos e numéricos associados à métodoscomputacionais, que possibilitem a simulação de processos naturais ouinduzidos, ocorrendo no meio orgânico vivo."
+                         NOME-DA-LINHA-DE-PESQUISA="Biomecânica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Biomecânica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Simulação de processos biológicos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5758189088491797" NOME-COMPLETO="Felix Christian Guimarães Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="27660"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4457435468771667" NOME-COMPLETO="Rita de Cassia Fernandes de Lima"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="9694"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4157405186898932" NOME-COMPLETO="Marcus Costa de Araujo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="283375"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31301002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="31301002"
+                                  CODIGO-AREA="31300006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Bioengenharia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Biomédica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="647"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501040" CODIGO-ESPECIALIDADE="30501040"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Princípios Variacionais e Métodos Numéricos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="454"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.5"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9504183145214250"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver e aplicar técnicas de computação de alto desempenho,baseadas no uso de computadores de arquitetura avançada, paralelae/ou vetorial, na simulação computação de problemas de grande porte."
+                         NOME-DA-LINHA-DE-PESQUISA="Computação de Alto Desempenho"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Algoritmos não-estruturados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Escoamento compressível</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Processamento de alto desempenho</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Computação Paralela e Distribuída</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Computação Vetorial</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Cluster</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8965627710203749" NOME-COMPLETO="Ramiro Brito Willmersdorf"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="8701"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6568615406054840" NOME-COMPLETO="Paulo Roberto Maciel Lyra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="10145"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4484100566828226"
+                             NOME-COMPLETO="Marco Antônio Figueirôa da Silva Cabral"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2763064"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0567290180686037" NOME-COMPLETO="Luiz Augusto Cabral Vitória Sena"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="213706"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8297209651692156" NOME-COMPLETO="Flavio Rafael Cogo Ramos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2710565"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501040" CODIGO-ESPECIALIDADE="30501040"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Princípios Variacionais e Métodos Numéricos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="454"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30500001" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="449"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0367308802333909"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de algoritmos, programas de computador, formulações, técnicas de soluçãoe aceleração de convergência e ferramentas para apoio (geração de malhas, adaptação,análise de erros) para a simulação computacional do escoamento de fluidos compressíveise incompressíveis."
+                         NOME-DA-LINHA-DE-PESQUISA="Dinâmica dos Fluidos Computacional"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Algoritmos não-estruturados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Escoamento compressível</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Processamento de alto desempenho</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Escoamento Incompressível</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Aerodinâmica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Geração de Malhas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="7">Adaptação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8965627710203749" NOME-COMPLETO="Ramiro Brito Willmersdorf"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="8701"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6568615406054840" NOME-COMPLETO="Paulo Roberto Maciel Lyra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="10145"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501032" CODIGO-ESPECIALIDADE="30501032"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Dinâmica dos Gases"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="453"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501024" CODIGO-ESPECIALIDADE="30501024"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Fluídos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="452"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501040" CODIGO-ESPECIALIDADE="30501040"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Princípios Variacionais e Métodos Numéricos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="454"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1146008217353528"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudar, desenvolver, analisar e implementar métodos numéricos associados àtodas as etapas de solução do método do elemento finito aplicado à problemasem termomecânica dos meios contínuos."
+                         NOME-DA-LINHA-DE-PESQUISA="Elementos Finitos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Análise Matemática</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Elementos Finitos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Equações Diferenciais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Mecânica Computacional</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8965627710203749" NOME-COMPLETO="Ramiro Brito Willmersdorf"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="8701"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9016360553400035"
+                               NOME-COMPLETO="Maria Lencastre Pinheiro de Menezes Cruz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="92779"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6749188011494040" NOME-COMPLETO="José Maria Andrade Barbosa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="88458"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6568615406054840" NOME-COMPLETO="Paulo Roberto Maciel Lyra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="10145"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5758189088491797" NOME-COMPLETO="Felix Christian Guimarães Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="27660"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1832440119866667" NOME-COMPLETO="José Maria Bezerra Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="47379"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0988956089178453" NOME-COMPLETO="Felipe Augusto Cruz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="907955"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3061997992607541" NOME-COMPLETO="Jacob de Melo Cruz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="261093"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2413479993720433" NOME-COMPLETO="Afonso Gustavo Ataide Ferreira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="687972"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501040" CODIGO-ESPECIALIDADE="30501040"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Princípios Variacionais e Métodos Numéricos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="454"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30503035" CODIGO-ESPECIALIDADE="30503035"
+                                  CODIGO-SUB-AREA="30503000"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Análise de Tensões"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Mecânica dos Sólidos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="462"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.71.1"
+                                SUBSETOR="Serviços de arquitetura e engenharia; testes e análises técnicas"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2951915875111722"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento e aplicação prática de programas computacionais baseadosno método dos Volumes Finitos para solução de problemas de engenharia ebiomecânica."
+                         NOME-DA-LINHA-DE-PESQUISA="Volumes Finitos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Algorítimo SIMPLEC</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Esquema PowerLaw</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Up Wind</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8965627710203749" NOME-COMPLETO="Ramiro Brito Willmersdorf"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="8701"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6568615406054840" NOME-COMPLETO="Paulo Roberto Maciel Lyra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="10145"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4457435468771667" NOME-COMPLETO="Rita de Cassia Fernandes de Lima"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="9694"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5449313272958536" NOME-COMPLETO="Gustavo Galindez Ramirez"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4157051"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501024" CODIGO-ESPECIALIDADE="30501024"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Fluídos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="452"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.71.1"
+                                SUBSETOR="Serviços de arquitetura e engenharia; testes e análises técnicas"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0491367058240788"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Determinação da integridade de estruturas com o uso de simulação computacionalcom o método dos elementos finitos, empregando mecânica do dano e fratura, plasticidadee fadiga."
+                         NOME-DA-LINHA-DE-PESQUISA="Integridade Estrutural"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Dano</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Fadiga</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Plasticidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Dutos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8965627710203749" NOME-COMPLETO="Ramiro Brito Willmersdorf"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="8701"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6749188011494040" NOME-COMPLETO="José Maria Andrade Barbosa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="88458"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30102006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30102006"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Estruturas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="356"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30503027" CODIGO-ESPECIALIDADE="30503027"
+                                  CODIGO-SUB-AREA="30503000"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Dinâmica dos Corpos Rígidos, Elásticos e Plásticos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Mecânica dos Sólidos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="461"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.71.1"
+                                SUBSETOR="Serviços de arquitetura e engenharia; testes e análises técnicas"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1471846633199817"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Simulação computacional com o método dos elementos finitos de problemas complexosnos quais acontece o acoplamento entre os efeitos térmicos, mecânicos e fluidos."
+                         NOME-DA-LINHA-DE-PESQUISA="Problemas com múltiplas físicas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Transferência de Calor</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Dinâmica dos Fluidos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Acoplamento Fluido Estrutura</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Múltiplas Físicas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8965627710203749" NOME-COMPLETO="Ramiro Brito Willmersdorf"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="8701"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6749188011494040" NOME-COMPLETO="José Maria Andrade Barbosa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="88458"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6568615406054840" NOME-COMPLETO="Paulo Roberto Maciel Lyra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="10145"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5758189088491797" NOME-COMPLETO="Felix Christian Guimarães Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="27660"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501024" CODIGO-ESPECIALIDADE="30501024"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Fluídos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="452"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501016" CODIGO-ESPECIALIDADE="30501016"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Transferência de Calor"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="451"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30503027" CODIGO-ESPECIALIDADE="30503027"
+                                  CODIGO-SUB-AREA="30503000"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Dinâmica dos Corpos Rígidos, Elásticos e Plásticos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Mecânica dos Sólidos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="461"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.71.1"
+                                SUBSETOR="Serviços de arquitetura e engenharia; testes e análises técnicas"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2302678198408381"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver modelos cinemáticos e dinâmicos de robõs de base fixa ou móvel com o objetivo de simular o comportamento e desenvolver sua programação de controle."
+                         NOME-DA-LINHA-DE-PESQUISA="Modelagem e Simulação de Robôs"
+                         SEQUENCIA-LINHA-DE-PESQUISA="8">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Modelagem</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Robotica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3620776782562201" NOME-COMPLETO="Walter de Britto Vidal Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="220780"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3577562013244119" NOME-COMPLETO="André Murilo de Almeida Pinto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="3486625"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3109822462782819"
+                             NOME-COMPLETO="Joao Rafael de Braz Coutinho Farias"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3466663"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30504074" CODIGO-ESPECIALIDADE="30504074"
+                                  CODIGO-SUB-AREA="30504007"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de Sistemas Mecânicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Projetos de Máquinas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="471"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28.6"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

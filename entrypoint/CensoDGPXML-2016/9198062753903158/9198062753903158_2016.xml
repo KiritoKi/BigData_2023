@@ -1,0 +1,2896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="9198062753903158"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="184028"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="14102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="5803397434196206" CODIGO-AREA-PREDOMINANTE="30400007"
+                           NOME-DA-UNIDADE=""
+                           NOME-DO-ORGAO="Universidade Federal de Campina Grande"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="PB"
+                           SIGLA-DA-INSTITUICAO="UFCG"
+                           NOME-DA-INSTITUICAO="Universidade Federal de Campina Grande"
+                           AREA-PREDOMINANTE="Engenharia Elétrica"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="2000"
+                           NOME-DO-GRUPO="Instrumentação e Metrologia Científicas">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="4016576596215504" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Raimundo Carlos Silvério Freire"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="0873496251879638" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Sebastian Yuri Cavalcanti Catunda"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="2504009" DDDFAX="83"
+                                       LONGITUDE="-35.90839749999998"
+                                       LATITUDE="-7.220422399999999"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Campina Grande"
+                                       NUMERO="882"
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="Universidade Federal de Campina Grande"
+                                       HOME-PAGE="http://www.dee.ufcg.edu.br/~limc"
+                                       E-MAIL="rcsfreire@dee.ufcg.edu.br"
+                                       FAX="21011418"
+                                       RAMAL=""
+                                       TELEFONE="21011447"
+                                       DDD="83"
+                                       CEP="58429900"
+                                       CIDADE="Campina Grande"
+                                       UF="PB"
+                                       BAIRRO="Universitário"/>
+      <REPERCUSSOES>Com as pesquisas desenvolvidas por este grupo, objetiva-se o desenvolvimento de métodos e técnicas de medição e processamento de sinais, bem como de circuitos e sistemas para este fim, visando um conceito amplo de instrumentação inteligente. Pretende-se estudar diversos tipos de sensores, em especial os sensores termo-resistivos, bem como os circuitos de condicionamento e de aquisição para os sinais desses sensores. Além disso, serão estudados também sensores para aplicações em engenharia biomédica. Os circuitos para tratamento de sinais desses sensores deverão ser desenvolvidos utilizando circuitos integrados discretos, FPGA e FPAA, para em seguida fazer a concepção de circuitos integrados mistos reconfiguráveis.Com relação ao processamento de sinais, objetiva-se o desenvolvimento de circuitos condicionadores para amplificação, redução de ruídos, filtragem, etc. Pretende-se desenvolver em especial os conversores A/D que se adaptem dinamicamente a faixa do sinal, com relação à resolução e ao tempo de resposta.Pretende-se, portanto, desenvolver circuitos para processamento de sinais de sensores que possam ser implementados em circuitos integrados (analógicos, digitais ou mistos). Estes circuitos integrados devem ser programáveis para se adaptar as necessidades de utilização numa aplicação específica. O desenvolvimento desses circuitos integrados ou sensores inteligentes deve estar voltado para aplicações que envolvam: medição de temperatura, oxigênio dissolvido, pH, umidade, velocidade de fluidos, radiação solar, condutividade, grandezas elétricas e sinais fisiológicos, etc. Além disso, esses circuitos integrados analógicos ou mistos devem ter a possibilidade de ser reconfiguráveis, de modo a permitir que um mesmo C.I. possa ser usado em aplicações diferentes, através de uma programação de sua configuração interna.</REPERCUSSOES>
+      <REDES-DE-PESQUISA>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA=""
+                           URL-DA-REDE-DE-PESQUISA="http://www.namitec.org.br/"
+                           NOME-DA-REDE-DE-PESQUISA="INCT - NAMITEC"/>
+      </REDES-DE-PESQUISA>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="FREITAS, G. K. M.;SERRES, G. K. F.;SERRES, GEORGINA K. F.;Georgina K. de F. Serres;SERRES, G.K.F.;GEORGINA K. DE F . SERRES;de F Serres, Georgina K.;DE F. SERRES, GEORGINA K.;DE F. SERRES, GEORGINA KARLA;Serres, K F;SERRES, K.F."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0137382086087353"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Georgina Karla de Freitas Serres">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem eletromagnética"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Elétricos, Magnéticos e Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Materiais e Dispositivos Supercondutores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="de MACÊDO, E. C. T.;de Macedo, E. C. T.;de Macedo, E.C.T.;MACEDO, EULER C. T.;MACEDO, E C T DE;DE MACEDO, EULER C. T.;DE MACEDO, EULER CASSIO TAVARES;Euler Tavares Macedo;Macedo, Euler Tavares"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1567664152355721"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Euler Cássio Tavares de Macêdo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação em Sistemas Elétricos de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="13"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Eletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Elétricos de Potência</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ALVES, Rodrigo Leone;ALVES, RODRIGO LEONE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1000805043084706"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rodrigo Leone Alves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Instrumentação Biomédica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instalações Elétricas e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Sinais Biológicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Elétricos de Potência</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transdutores para Aplicações Biomédicas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MELO, H." TITULACAO-MAXIMA="Doutorado" SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2127559774805521"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Hiran de Melo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento Analógico e Digital do Sinais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Avaliação de Integridade Estrutural</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Eletrônicos de Medida e de Controle</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MOLINA R.  Yuri Percy;MOLINA R. Yuri Percy;MOLINA, YURI P.;RODRIGUEZ, YURI PERCY MOLINA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2340781002764990"
+                   PAIS-DE-NASCIMENTO="PER"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Yuri Percy Molina Rodriguez">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="colheita de energia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medição, Controle, Correção e Proteção de Sistemas Elétricos  de Potência</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Elétricos de Potência</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria Geral dos Circuitos Elétricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transmissão da Energia Elétrica, Distribuição da Energia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CUNHA, A. I. A.;Cunha, Ana Isabela Araújo"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="F"
+                   NRO-ID-CNPQ="7248197377172014"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ana Isabela Araújo Cunha">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto e Análise de Circuitos Integrados Analógicos em Tecnologia CMOS para Processamento de Sinais "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="COSTA, E. G.;Costa, E. G.;E. C. Guedes;Da Costa;da Costa, E.G;Da Costa, E. G.;COSTA, EDSON G.;COSTA, E.G. DA;DA COSTA, EDSON;Edson C. Guedes;Guedes, C. Edson;Guedes, Edson C.;Guedes, E. C.;DA COSTA, EDSON G.;GUEDES DA COSTA, EDSON;COSTA, E G DA;DA COSTA, EDSON GUEDES;COSTA, EDSON"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3930289115658143"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Edson Guedes da Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação em Sistemas Elétricos de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="13"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aterramentos Elétricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instalações Elétricas e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Materiais Elétricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Qualidade da Energia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transmissão da Energia Elétrica, Distribuição da Energia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ZURITA, M. E. P. V.;ZURITA, M." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9000340589396730"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcos Eduardo do Prado Villarroel Zurita">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento Analógico e Digital do Sinais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sensores RFID"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Concepção de Circuitos Integrados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>ELETRÔNICA DE SISTEMAS EMBARCADOS</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Eletromecânica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Projeto de Circuitos Integrados Analogicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Projeto de Circuitos Integrados VLSI Digitais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GURJÃO, E. C.;Gurjao, Edmar C.;GURJÃO, E.C.;GURJÃO, EDMAR CANDEIA;Gurjäo, Edmar C."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9200464668550566"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Edmar Candeia Gurjão">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento Analógico e Digital do Sinais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto e Análise de Circuitos Integrados Analógicos em Tecnologia CMOS para Processamento de Sinais "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sensores RFID"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Amostragem Compressiva</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Digital de Sinais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Rádio Definido por Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Radiometria</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ROSKE, L." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6713676949129301"
+                   PAIS-DE-NASCIMENTO="FRA"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Laurent Marcial Pierre ROSKE">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem eletromagnética"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação em Sistemas Elétricos de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="13"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="V. Bourguet;BOURGUET, VINCENT P.M." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7331200835732053"
+                   PAIS-DE-NASCIMENTO="FRA"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Vincent Patrick Marie Bourguet">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Micro-eletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="EWALDO SANTANA;Santana, Ewaldo;SANTANA, EWALDO EDER CARVALHO;SANTANA, EWALDO EDER"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="11"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0660692009750374"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ewaldo Eder Carvalho Santana">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Instrumentação Biomédica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Sinais Biológicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SOUZA, C. P.;DE SOUZA, C. P.;DE SOUZA, Cleonilson Protásio;SOUZA, Cleonilson Protásio;Souza, Cleonilson Protásio;DE SOUZA, CLEONILSON PROTASIO;Cleonilson Protásio de Souza;Cleonilson Protasio de Souza;SOUZA, CLEONILSON PROTASIO DE;Souza, CPD;SOUZA, CLEONILSON P."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="12"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5635983022553950"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Cleonilson Protásio de Souza">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações em Redes de Sensores Sem Fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Testes de circuitos integrados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="colheita de energia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Colheita de energia para microaplicações</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Embarcados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Imunológicos Artificiais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teste de Circuitos VLSI</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SERRES, Alexandre Jean René;Serres, A.;SERRES, ALEXANDRE;SERRES, A.J.R.;SERRES, ALEXANDRE J. R.;SERRES, ALEXANDRE JEAN RENE;SERRES, A. J. R."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="13"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5988817460788034"
+                   PAIS-DE-NASCIMENTO="FRA"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Alexandre Jean René Serres">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem eletromagnética"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sensores RFID"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Elétricos, Magnéticos e Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Eletrônica Industrial, Sistemas e Controles Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FONTGALLAND, G.;FONTGALLAND, GLAUCO;Glauco Fontgalland"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="14"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4256595317953538"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Glauco Fontgalland">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sensores RFID"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Compatibilidade Eletromagnética</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Eletrônicos de Medida e de Controle</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria Eletromagnetica, Microondas, Propagação de Ondas, Antenas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FREIRE, R. C. S.;Freire, R. C. S.;FREIRE, R;Freire, R C S;Freire, Raimundo C. S.;Silvério Freire, Raimundo Carlos;Freire, Raimundo Carlos Silvério;Freire, Raimundo C.S.;FREIRE, RAIMUNDO CARLOS SILVERIO;FREIRE, RAIMUNDO CARLOS S.;FREIRE, RAIMUNDO C.S;FREIRE, R.C.S.;FREIRE, RAIMUNDO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="15"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4016576596215504"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Raimundo Carlos Silvério Freire">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações em Redes de Sensores Sem Fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações de Ligas Amorfas e nanocristalinas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Testes de circuitos integrados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento Analógico e Digital do Sinais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sensores Termorresistivos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas arquiteturas de conversores A/D e D/A"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="14"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação em Sistemas Elétricos de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="8"
+                               SEQUENCIA-LINHA-DE-PESQUISA="13"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="9"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Instrumentação Biomédica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="10"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Elétricos, Magnéticos e Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Médica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="OLIVEIRA, A.;Oliveira, A.;Oliveira, Amauri"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="16"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3603816381832077"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Amauri Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento Analógico e Digital do Sinais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sensores Termorresistivos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Eletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Eletrônicos de Medida e de Controle</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LIMA, R. N.;Lima, Robson Nunes de;DE LIMA, ROBSON N."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="17"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1639120896080078"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Robson Nunes de Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento Analógico e Digital do Sinais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Eletrônica e Telecomunicações</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CATUNDA, S. Y. C.;Catunda, Sebastian Yuri Cavalcanti;CATUNDA, SEBASTIAN Y.C.;CATUNDA, SEBASTIAN YURI;CATUNDA, SEBASTIAN Y. C.;CATUNDA, S. Y."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="18"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0873496251879638"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Sebastian Yuri Cavalcanti Catunda">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento Analógico e Digital do Sinais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sensores Termorresistivos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas arquiteturas de conversores A/D e D/A"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="14"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Elétricos, Magnéticos e Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Eletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LUCIANO, B. A.;LUCIANO, BENEDITO ANTONIO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="19"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2390722791029216"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Benedito Antonio Luciano">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações de Ligas Amorfas e nanocristalinas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Magnéticos , Magnetismos e Eletromagnetismos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medidas Magnéticas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transmissão da Energia Elétrica, Distribuição da Energia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="ARAÚJO, A. L. A." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="4528710"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5887640488734439"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Arthur Luiz Alves de Araújo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sensores Termorresistivos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento de circuitos integrados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sensores termorresistivos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FONSECA, N. S. S. M." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="3297186"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6758262968199437"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Newton Sávio Souza Marques da Fonseca">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sensores Termorresistivos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sensores RFID"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Eletromecânica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Eletrônicos de Medida e de Controle</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="TÔRRES, C. L." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLEONILSON PROTASIO DE SOUZA"
+                 NRO-ID-CNPQ-ORIENTADOR="5635983022553950"
+                 SEQUENCIA-ESTUDANTE="241201"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7973161647125504"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Cláudio Leão Tôrres">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas arquiteturas de conversores A/D e D/A"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="14"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aquisição Digital de Sinais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Eletrificação Rural</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Hardware e Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Projeto e Implementação de Hardware e Software</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CASTRO, M. S.;CASTRO, MALONE S.;DE CASTRO, M. S."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDSON GUEDES DA COSTA"
+                 NRO-ID-CNPQ-ORIENTADOR="3930289115658143"
+                 SEQUENCIA-ESTUDANTE="3282644"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1666463863283206"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Malone Soares de Castro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação em Sistemas Elétricos de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="13"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Elétricos, Magnéticos e Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transmissão da Energia Elétrica, Distribuição da Energia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ALBUQUERQUE, T. C.;ALBUQUERQUE, T.C."
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE JEAN RENE SERRES"
+                 NRO-ID-CNPQ-ORIENTADOR="5988817460788034"
+                 SEQUENCIA-ESTUDANTE="3886546"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3548518251493336"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Túlio Chaves de Albuquerque">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem eletromagnética"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Elétricos, Magnéticos e Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOUSA, C. P." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Iniciação Tecnológica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="6528606"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1720774054871889"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Camila Pereira Sousa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento Analógico e Digital do Sinais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOUZA, A. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="6416165"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4829873390418527"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Arthur Silva Souza">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GUEDES, A. C. S." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="5545948"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3367922401286964"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ariadne Caroline Silva Guedes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação em Sistemas Elétricos de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="13"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ALBUQUERQUE, H. R. R." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="5042707"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4719270856829141"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Hélvio Rubens Reis de Albuquerque">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento Analógico e Digital do Sinais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Eletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metrologia, Técnicas Gerais de Laboratório, Sistema de Instrumentação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ARAÚJO, I. P. B." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="4455741"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9385141206873959"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Igor Paiva Bragante de Araújo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CERQUEIRA, M. M." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="2117289"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7935229115692221"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marcio Mendes Cerqueira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem eletromagnética"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Elétricos, Magnéticos e Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gerência do Projeto e do Produto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento, Projeto e Controle de Sistemas de Produção</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PIMENTEL, R. T." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="6226554"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3152813476211091"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rebeca Thaiana Pimentel">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ANDRADE, H. A.;ANDRADE, HENING A."
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLEONILSON PROTASIO DE SOUZA"
+                 NRO-ID-CNPQ-ORIENTADOR="5635983022553950"
+                 SEQUENCIA-ESTUDANTE="4986282"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0922143462560859"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Hening Almeida de Andrade">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações em Redes de Sensores Sem Fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Eletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica, Mecatrônica e Automação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="AGUIAR, L." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLEONILSON PROTASIO DE SOUZA"
+                 NRO-ID-CNPQ-ORIENTADOR="5635983022553950"
+                 SEQUENCIA-ESTUDANTE="4896744"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7766147278221930"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Larissa Aguiar">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações em Redes de Sensores Sem Fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="AMARAL, F. C. F." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDMAR CANDEIA GURJAO"
+                 NRO-ID-CNPQ-ORIENTADOR="9200464668550566"
+                 SEQUENCIA-ESTUDANTE="6801045"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8531914738767009"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Frederico Carvalho Fontes do Amaral">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento Analógico e Digital do Sinais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ARRUDA, B. W. S." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDMAR CANDEIA GURJAO"
+                 NRO-ID-CNPQ-ORIENTADOR="9200464668550566"
+                 SEQUENCIA-ESTUDANTE="4095819"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5547681254311718"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruno Willian de Souza Arruda">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento Analógico e Digital do Sinais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas arquiteturas de conversores A/D e D/A"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="14"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Imunológicos Artificiais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MELO, P. K. P.;PONTES DE MELO, PRISCILLA K."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="GLAUCO FONTGALLAND"
+                 NRO-ID-CNPQ-ORIENTADOR="4256595317953538"
+                 SEQUENCIA-ESTUDANTE="5016563"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8190283569232381"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Priscilla Kadja Pontes de Melo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem eletromagnética"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Elétricos, Magnéticos e Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FERREIRA, I. R." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="5401826"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8319272621494020"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ianca Rocha Ferreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação em Sistemas Elétricos de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="13"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GUEDES, M. R." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="5544618"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7920667400865413"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Mateus Rodrigues Guedes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento Analógico e Digital do Sinais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LIMA, G. A. S." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA ISABELA ARAUJO CUNHA"
+                 NRO-ID-CNPQ-ORIENTADOR="7248197377172014"
+                 SEQUENCIA-ESTUDANTE="6257047"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2068014107819333"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Grace Anne Santos Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto e Análise de Circuitos Integrados Analógicos em Tecnologia CMOS para Processamento de Sinais "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="REIS, Vanderson de Lima;REIS, VANDERSON LIMA"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDMAR CANDEIA GURJAO"
+                 NRO-ID-CNPQ-ORIENTADOR="9200464668550566"
+                 SEQUENCIA-ESTUDANTE="604554"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4369607033834589"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Vanderson de Lima Reis">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento Analógico e Digital do Sinais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas arquiteturas de conversores A/D e D/A"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="14"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto e Análise de Circuitos Integrados Analógicos em Tecnologia CMOS para Processamento de Sinais "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Processos Eletrônicos, Retroalimentação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS, M. P.;SANTOS, MARAIZA PRESCILA DOS;SANTOS, MARAIZA PRESCILA"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="3391918"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0931431550128738"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Maraiza Prescila dos Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="colheita de energia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOARES, A. W. A." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SEBASTIAN YURI CAVALCANTI CATUNDA"
+                 NRO-ID-CNPQ-ORIENTADOR="0873496251879638"
+                 SEQUENCIA-ESTUDANTE="2956295"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3905527295400010"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Antonio Wallace Antunes Soares">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Eletrônica Industrial, Sistemas e Controles Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica e Sistemas Embarcados</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, F. J. S." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SEBASTIAN YURI CAVALCANTI CATUNDA"
+                 NRO-ID-CNPQ-ORIENTADOR="0873496251879638"
+                 SEQUENCIA-ESTUDANTE="2071496"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0316773915118938"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Francisco Jadilson dos Santos Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Processos Eletrônicos, Retroalimentação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Eletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Eletrônicos de Medida e de Controle</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ARAUJO, L. V." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SEBASTIAN YURI CAVALCANTI CATUNDA"
+                 NRO-ID-CNPQ-ORIENTADOR="0873496251879638"
+                 SEQUENCIA-ESTUDANTE="2956096"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8987432967683006"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Leonardo Vale de Araujo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>MICROELETRÔNICA</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DEUS, M. S.;DE-DEUS, MICHEL S.;DE DEUS, MICHEL SANTANA"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SEBASTIAN YURI CAVALCANTI CATUNDA"
+                 NRO-ID-CNPQ-ORIENTADOR="0873496251879638"
+                 SEQUENCIA-ESTUDANTE="3784559"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5135080776101798"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Michel Santana de Deus">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Eletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Computadores</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MORAES JÚNIOR, T. O.;JÚNIOR, TARCISIO OLIVEIRA DE MORAES;JÚNIOR, TARCÍSIO OLIVEIRA MORAES"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLEONILSON PROTASIO DE SOUZA"
+                 NRO-ID-CNPQ-ORIENTADOR="5635983022553950"
+                 SEQUENCIA-ESTUDANTE="2517227"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0334320944459752"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Tarcísio Oliveira de Moraes Júnior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="colheita de energia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COSTA, Ademir de Jesus;COSTA, A. J." NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA ISABELA ARAUJO CUNHA"
+                 NRO-ID-CNPQ-ORIENTADOR="7248197377172014"
+                 SEQUENCIA-ESTUDANTE="836156"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9716703719458588"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ademir de Jesus Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto e Análise de Circuitos Integrados Analógicos em Tecnologia CMOS para Processamento de Sinais "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Eletrônicos de Medida e de Controle</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CARDOSO, I. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="GLAUCO FONTGALLAND"
+                 NRO-ID-CNPQ-ORIENTADOR="4256595317953538"
+                 SEQUENCIA-ESTUDANTE="5327774"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0482898604136573"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Izadora Soares Cardoso">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações em Redes de Sensores Sem Fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento Analógico e Digital do Sinais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LOBO, P. C.;LOBO, PETROV C." NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BENEDITO ANTONIO LUCIANO"
+                 NRO-ID-CNPQ-ORIENTADOR="2390722791029216"
+                 SEQUENCIA-ESTUDANTE="2923021"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6514989486185329"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Petrov Crescencio Lobo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BRITO, V. S." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDSON GUEDES DA COSTA"
+                 NRO-ID-CNPQ-ORIENTADOR="3930289115658143"
+                 SEQUENCIA-ESTUDANTE="4279707"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7658247097976690"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Valdemir da Silva Brito">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento Analógico e Digital do Sinais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação em Sistemas Elétricos de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="13"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medição, Controle, Correção e Proteção de Sistemas Elétricos  de Potência</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Elétricos de Potência</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="VILAR, P. B." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDSON GUEDES DA COSTA"
+                 NRO-ID-CNPQ-ORIENTADOR="3930289115658143"
+                 SEQUENCIA-ESTUDANTE="2788603"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0812402232984399"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Pablo Bezerra Vilar">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação em Sistemas Elétricos de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="13"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOUZA, R. T.;DE SOUZA, R.T.;DE SOUZA, RONIMACK TRAJANO;DE SOUZA, R. T."
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDSON GUEDES DA COSTA"
+                 NRO-ID-CNPQ-ORIENTADOR="3930289115658143"
+                 SEQUENCIA-ESTUDANTE="213190"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0855145610768901"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ronimack Trajano de Souza">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação em Sistemas Elétricos de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="13"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instalações Elétricas e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transmissão da Energia Elétrica, Distribuição da Energia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOUSA, A. J. S." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA ISABELA ARAUJO CUNHA"
+                 NRO-ID-CNPQ-ORIENTADOR="7248197377172014"
+                 SEQUENCIA-ESTUDANTE="3424892"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2690808925810770"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Antonio José Sobrinho de Sousa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto e Análise de Circuitos Integrados Analógicos em Tecnologia CMOS para Processamento de Sinais "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LOPES, Marcus Vinicius;LOPES, Marcus V. de S."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EWALDO EDER CARVALHO SANTANA"
+                 NRO-ID-CNPQ-ORIENTADOR="0660692009750374"
+                 SEQUENCIA-ESTUDANTE="2982681"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8923592573399769"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marcus Vinicius de Sousa Lopes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Instrumentação Biomédica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ANDRADE, F. S.;DE ANDRADE, FABIAN SOUZA"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA ISABELA ARAUJO CUNHA"
+                 NRO-ID-CNPQ-ORIENTADOR="7248197377172014"
+                 SEQUENCIA-ESTUDANTE="4587321"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5099571527859802"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Fabian Souza de Andrade">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto e Análise de Circuitos Integrados Analógicos em Tecnologia CMOS para Processamento de Sinais "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GONCALVES, G. C." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA ISABELA ARAUJO CUNHA"
+                 NRO-ID-CNPQ-ORIENTADOR="7248197377172014"
+                 SEQUENCIA-ESTUDANTE="4935996"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7774816430905290"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gabriele Costa Goncalves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto e Análise de Circuitos Integrados Analógicos em Tecnologia CMOS para Processamento de Sinais "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BERNARDO, M. G." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="4319645"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3114322031306818"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marcos Gomes Bernardo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>.</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Eletrônica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, Y. E. S." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="4039033"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9546324553205447"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Yasmin Emily de Souza Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sensores Termorresistivos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA JUNIOR, P. F.;DA SILVA, Paulo Fernandes;SILVA JÚNIOR, P. F.;P. F. Silva Jr.;SILVA, P. F."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE JEAN RENE SERRES"
+                 NRO-ID-CNPQ-ORIENTADOR="5988817460788034"
+                 SEQUENCIA-ESTUDANTE="2506675"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7543812637795681"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Paulo Fernandes da Silva Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem eletromagnética"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Antenas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Crescimento e Desenvolvimento Econômico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Eletromagnetismo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gestão de Projetos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gestão Financeira</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Normatização e Padronização</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, V. M. L.;SILVA, VERONICA MARIA LIMA"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLEONILSON PROTASIO DE SOUZA"
+                 NRO-ID-CNPQ-ORIENTADOR="5635983022553950"
+                 SEQUENCIA-ESTUDANTE="2738627"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8036572249593151"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Verônica Maria Lima Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento Analógico e Digital do Sinais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Testes de circuitos integrados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="colheita de energia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BARBOSA JÚNIOR, I.S." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="4634621"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8520822086555275"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Isaías de Sousa Barbosa Júnior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Eletrônica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="RODRIGUES, J. V. M." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="4136308"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3464837224423675"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Joyce Vanessa Morais Rodrigues">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fisioterapia Neurológica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Osteopatia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Traumortopedia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MEDEIROS, L. C. L." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="GLAUCO FONTGALLAND"
+                 NRO-ID-CNPQ-ORIENTADOR="4256595317953538"
+                 SEQUENCIA-ESTUDANTE="2058153"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7613060482130142"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luciana Correia Lima de Medeiros">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem eletromagnética"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Telecomunicações</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria Eletromagnetica, Microondas, Propagação de Ondas, Antenas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOARES, L. M." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLEONILSON PROTASIO DE SOUZA"
+                 NRO-ID-CNPQ-ORIENTADOR="5635983022553950"
+                 SEQUENCIA-ESTUDANTE="3608982"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7658661123144240"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Larissa de Melo Soares">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Testes de circuitos integrados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MOREIRA, J. F.;MOREIRA, J.F." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLEONILSON PROTASIO DE SOUZA"
+                 NRO-ID-CNPQ-ORIENTADOR="5635983022553950"
+                 SEQUENCIA-ESTUDANTE="2567041"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5432377754784730"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Jailton Ferreira Moreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Eletrônica Industrial, Sistemas e Controles Eletrônicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BEZERRA, M. B. M." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="GLAUCO FONTGALLAND"
+                 NRO-ID-CNPQ-ORIENTADOR="4256595317953538"
+                 SEQUENCIA-ESTUDANTE="6025319"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0566857832260383"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marianne Bianca Melo Bezerra">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações em Redes de Sensores Sem Fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="VILLARIM, A. W. R." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLEONILSON PROTASIO DE SOUZA"
+                 NRO-ID-CNPQ-ORIENTADOR="5635983022553950"
+                 SEQUENCIA-ESTUDANTE="4899870"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4298638404742793"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Andréa Willa Rodrigues Villarim">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações em Redes de Sensores Sem Fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, R. B." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA ISABELA ARAUJO CUNHA"
+                 NRO-ID-CNPQ-ORIENTADOR="7248197377172014"
+                 SEQUENCIA-ESTUDANTE="2999826"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3416096189163689"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rodrigo Barros da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto e Análise de Circuitos Integrados Analógicos em Tecnologia CMOS para Processamento de Sinais "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Eletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica, Mecatrônica e Automação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FERREIRA JUNIOR, I. A." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA ISABELA ARAUJO CUNHA"
+                 NRO-ID-CNPQ-ORIENTADOR="7248197377172014"
+                 SEQUENCIA-ESTUDANTE="4994297"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9545875309592447"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Israel Alves Ferreira Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto e Análise de Circuitos Integrados Analógicos em Tecnologia CMOS para Processamento de Sinais "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOARES, S. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA ISABELA ARAUJO CUNHA"
+                 NRO-ID-CNPQ-ORIENTADOR="7248197377172014"
+                 SEQUENCIA-ESTUDANTE="6243798"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3392822181812314"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Shirlene de Santana Soares">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto e Análise de Circuitos Integrados Analógicos em Tecnologia CMOS para Processamento de Sinais "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ASSIS, R. F. A." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Mestrado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SEBASTIAN YURI CAVALCANTI CATUNDA"
+                 NRO-ID-CNPQ-ORIENTADOR="0873496251879638"
+                 SEQUENCIA-ESTUDANTE="5661668"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5218157761236048"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rafael Ferreira Alves de Assis">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="TORRES, L. F. N. M." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDMAR CANDEIA GURJAO"
+                 NRO-ID-CNPQ-ORIENTADOR="9200464668550566"
+                 SEQUENCIA-ESTUDANTE="3880035"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2241019250453121"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luis Fernando Nunes Marques Torres">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="RAMOS, M. R." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="6232789"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1728311941410572"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Moabe Rodrigues Ramos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, A. C." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE JEAN RENE SERRES"
+                 NRO-ID-CNPQ-ORIENTADOR="5988817460788034"
+                 SEQUENCIA-ESTUDANTE="5972035"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4914413158872801"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alison Candido da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem eletromagnética"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="QUEIROZ, A. K. F." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="6537610"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9714622107151141"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Anyelle Keila Farias de Queiroz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Instrumentação Biomédica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GONÇALVES, C. B." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE JEAN RENE SERRES"
+                 NRO-ID-CNPQ-ORIENTADOR="5988817460788034"
+                 SEQUENCIA-ESTUDANTE="4400726"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6290463541105383"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Cybelle Belém Gonçalves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem eletromagnética"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sensores termorresitivos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, T. L. V. N.;Thais Luana Vidal de Negreiros da Silva;THAIS LUANA V. SILVA;Thais Silva;Thais Luana Vidal;Thais L. V. N. Silva;T. L. Silva;Vidal, Thais Luana;Thais Vidal;T. Vidal;SILVA, T.L.V.N.;SILVA, THAIS L. V. N."
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BENEDITO ANTONIO LUCIANO"
+                 NRO-ID-CNPQ-ORIENTADOR="2390722791029216"
+                 SEQUENCIA-ESTUDANTE="3310248"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4380080194627932"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Thais Luana Vidal de Negreiros da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento Analógico e Digital do Sinais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem eletromagnética"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Eletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Radiofrequência</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NASCIMENTO, V. M.;NASCIMENTO, VANUZA M."
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Mestrado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAIMUNDO CARLOS SILVERIO FREIRE"
+                 NRO-ID-CNPQ-ORIENTADOR="4016576596215504"
+                 SEQUENCIA-ESTUDANTE="4605659"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6441631218615882"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Vanuza Marques do Nascimento">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sensores Termorresistivos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS>
+      <COLABORADOR-ESTRANGEIRO NOME-CITACOES="BAUDRAND, H. M. G.;Baudrand, H.;BAUDRAND, H;BAUDRAND, HENRI"
+                               SEXO="M"
+                               NRO-ID-CNPQ="7627294438897299"
+                               PAIS-DE-NASCIMENTO="FRA"
+                               NACIONALIDADE="E"
+                               NOME-COMPLETO="Henri Marius Germain Baudrand"
+                               TITULACAO-MAXIMA="Doutorado"
+                               SEQUENCIA-COLABORADOR="1">
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria Eletromagnetica, Microondas, Propagação de Ondas, Antenas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </COLABORADOR-ESTRANGEIRO>
+      <COLABORADOR-ESTRANGEIRO NOME-CITACOES="Hassan Aboushady;H. Aboushady;Aboushady, H.;ABOUSHADY, HASSAN"
+                               SEXO="M"
+                               NRO-ID-CNPQ="4259226217567880"
+                               PAIS-DE-NASCIMENTO="EGY"
+                               NACIONALIDADE="E"
+                               NOME-COMPLETO="Hassan Aboushady"
+                               TITULACAO-MAXIMA="Doutorado"
+                               SEQUENCIA-COLABORADOR="2">
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </COLABORADOR-ESTRANGEIRO>
+      <COLABORADOR-ESTRANGEIRO NOME-CITACOES="TEDJINI, S.;Tedjini, S.;Tedjini, Smail;Tedjini, Smaïl;Tedjini, S"
+                               SEXO="M"
+                               NRO-ID-CNPQ="7103460601874205"
+                               PAIS-DE-NASCIMENTO="DZA"
+                               NACIONALIDADE="E"
+                               NOME-COMPLETO="Smail Tedjini"
+                               TITULACAO-MAXIMA="Doutorado"
+                               SEQUENCIA-COLABORADOR="3">
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </COLABORADOR-ESTRANGEIRO>
+   </COLABORADORES-ESTRANGEIROS>
+   <TECNICOS>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="TÉCNICOS EM ELETRÔNICA"
+               TITULO-OCUPACAO="Técnico de manutenção eletrônica"
+               CODIGO-CBO="3132-05"
+               NIVEL-DE-TREINAMENTO=""
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="M"
+               NOME-CITACOES="SILVA, L. F. D."
+               NRO-ID-CNPQ="1192387254724096"
+               GRAU-DE-ESCOLARIDADE="Graduação"
+               ATIVIDADE-NO-GRUPO="Técnico de manutenção eletrônica"
+               NOME-COMPLETO="Lúcio Fernando Dias da Silva"
+               SEQUENCIA-TECNICO="34044"/>
+   </TECNICOS>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8686505391565447"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="No processamento analógico de sinais são abordadas a amplificação, filtragem e conversão A/D e D/A. Uma parte importante dessa linha de pesquisa relaciona-se com o tratamento de sinais de sensores e com os conversores sigma-delta térmicos.No processamento digital de sinais são realizados estudos para o desenvolvimento de algoritmos e circuitos digitais objetivando a análise/extração/mapipulação de informações contídas nos mesmos."
+                         NOME-DA-LINHA-DE-PESQUISA="Processamento Analógico e Digital do Sinais"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Sensor</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Processamento misto</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Condicionamento de sinais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9000340589396730"
+                               NOME-COMPLETO="Marcos Eduardo do Prado Villarroel Zurita"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="149770"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9200464668550566" NOME-COMPLETO="Edmar Candeia Gurjão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="385559"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2127559774805521" NOME-COMPLETO="Hiran de Melo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="30465"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0873496251879638"
+                               NOME-COMPLETO="Sebastian Yuri Cavalcanti Catunda"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="343531"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4016576596215504" NOME-COMPLETO="Raimundo Carlos Silvério Freire"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11636"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3603816381832077" NOME-COMPLETO="Amauri Oliveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="5288"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1639120896080078" NOME-COMPLETO="Robson Nunes de Lima"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="109496"
+                               SEQUENCIA-PESQUISADOR="7"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8531914738767009"
+                             NOME-COMPLETO="Frederico Carvalho Fontes do Amaral"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6801045"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1720774054871889" NOME-COMPLETO="Camila Pereira Sousa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6528606"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4719270856829141"
+                             NOME-COMPLETO="Hélvio Rubens Reis de Albuquerque"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5042707"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4369607033834589" NOME-COMPLETO="Vanderson de Lima Reis"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="604554"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8036572249593151" NOME-COMPLETO="Verônica Maria Lima Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2738627"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5547681254311718" NOME-COMPLETO="Bruno Willian de Souza Arruda"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4095819"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7658247097976690" NOME-COMPLETO="Valdemir da Silva Brito"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4279707"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7920667400865413" NOME-COMPLETO="Mateus Rodrigues Guedes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5544618"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0482898604136573" NOME-COMPLETO="Izadora Soares Cardoso"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5327774"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4380080194627932"
+                             NOME-COMPLETO="Thais Luana Vidal de Negreiros da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3310248"
+                             SEQUENCIA-ESTUDANTE="10"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30402000" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30402000"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="423"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.32.5"
+                                SUBSETOR="Fabricação de produtos diversos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26.5"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7844197210497869"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Objetiva-se o desenvolvimento de técnicas avançadas de medição, em especial com relação a: Configurações de medição com realimentação. Circuitos reconfiguráveis. Circuitos analógicos programáveis: ganho e ajuste de nível cc; filtros; conversores A/D e D/A. · Processamento digital embarcado: Utilização de microcontroladores, FPGA, FPAA e DSP.  Fusão e consistência de dados · Processamento de sinais usando redes neuroniais, lógica nebulosa e paraconsistente, etc."
+                         NOME-DA-LINHA-DE-PESQUISA="Técnicas Avançadas de Medição"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Processamento de Sinais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Técnicas de Medição</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Sensores</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4016576596215504" NOME-COMPLETO="Raimundo Carlos Silvério Freire"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11636"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0873496251879638"
+                               NOME-COMPLETO="Sebastian Yuri Cavalcanti Catunda"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="343531"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1639120896080078" NOME-COMPLETO="Robson Nunes de Lima"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="109496"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2390722791029216" NOME-COMPLETO="Benedito Antonio Luciano"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="42444"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4256595317953538" NOME-COMPLETO="Glauco Fontgalland"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="387742"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3464837224423675" NOME-COMPLETO="Joyce Vanessa Morais Rodrigues"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4136308"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2241019250453121"
+                             NOME-COMPLETO="Luis Fernando Nunes Marques Torres"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3880035"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9385141206873959" NOME-COMPLETO="Igor Paiva Bragante de Araújo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4455741"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3152813476211091" NOME-COMPLETO="Rebeca Thaiana Pimentel"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6226554"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3905527295400010" NOME-COMPLETO="Antonio Wallace Antunes Soares"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2956295"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0316773915118938"
+                             NOME-COMPLETO="Francisco Jadilson dos Santos Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2071496"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8987432967683006" NOME-COMPLETO="Leonardo Vale de Araujo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2956096"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5135080776101798" NOME-COMPLETO="Michel Santana de Deus"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3784559"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4829873390418527" NOME-COMPLETO="Arthur Silva Souza"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6416165"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0566857832260383" NOME-COMPLETO="Marianne Bianca Melo Bezerra"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6025319"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5218157761236048" NOME-COMPLETO="Rafael Ferreira Alves de Assis"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5661668"
+                             SEQUENCIA-ESTUDANTE="11"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3548518251493336" NOME-COMPLETO="Túlio Chaves de Albuquerque"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3886546"
+                             SEQUENCIA-ESTUDANTE="12"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6514989486185329" NOME-COMPLETO="Petrov Crescencio Lobo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2923021"
+                             SEQUENCIA-ESTUDANTE="13"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6290463541105383" NOME-COMPLETO="Cybelle Belém Gonçalves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4400726"
+                             SEQUENCIA-ESTUDANTE="14"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1666463863283206" NOME-COMPLETO="Malone Soares de Castro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3282644"
+                             SEQUENCIA-ESTUDANTE="15"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30402042" CODIGO-ESPECIALIDADE="30402042"
+                                  CODIGO-SUB-AREA="30402000"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Instrumentação Eletrônica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="427"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.32.5"
+                                SUBSETOR="Fabricação de produtos diversos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26.5"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8805731688889948"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Objetiva-se o desenvolvimento de sistemas de medição e tratamento de sinais biomédicos, tais como: técnicas para a determinação da impedância pulmonar pelo método das oscilações forçadas, determinação da massa de gordura do corpo, identificação de sinais de eletrocardiograma e sistemas para ajuda a deficientes visuais e auditivos."
+                         NOME-DA-LINHA-DE-PESQUISA="Instrumentação Biomédica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Instrumentação Biomédica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Deficientes</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">TOF</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1000805043084706" NOME-COMPLETO="Rodrigo Leone Alves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="603609"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0660692009750374" NOME-COMPLETO="Ewaldo Eder Carvalho Santana"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2089151"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4016576596215504" NOME-COMPLETO="Raimundo Carlos Silvério Freire"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11636"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8923592573399769" NOME-COMPLETO="Marcus Vinicius de Sousa Lopes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2982681"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9714622107151141" NOME-COMPLETO="Anyelle Keila Farias de Queiroz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6537610"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30402042" CODIGO-ESPECIALIDADE="30402042"
+                                  CODIGO-SUB-AREA="30402000"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Instrumentação Eletrônica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="427"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.32.5"
+                                SUBSETOR="Fabricação de produtos diversos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3816025046322385"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Objetiva-se o estudo das propriedades elétricas e magnéticas de ligas amorfas e de ligas nanocristalinas com vistas às aplicações em equipamentos e dispositivos eletroeletrônicos, dentre os quais: transformadores de distribuição de energia elétrica, transformadores de corrente e sensores magnéticos, potencialmente aplicáveis em redes inteligentes."
+                         NOME-DA-LINHA-DE-PESQUISA="Aplicações de Ligas Amorfas e nanocristalinas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Sensores</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">ligas amorfas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">ligas nanocristalinas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4016576596215504" NOME-COMPLETO="Raimundo Carlos Silvério Freire"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11636"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2390722791029216" NOME-COMPLETO="Benedito Antonio Luciano"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="42444"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30403049" CODIGO-ESPECIALIDADE="30403049"
+                                  CODIGO-SUB-AREA="30403006"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Circuitos Magnéticos , Magnetismos e Eletromagnetismos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Circuitos Elétricos, Magnéticos e Eletrônicos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="433"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.27"
+                                SUBSETOR="Fabricação de máquinas, aparelhos e materiais elétricos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9221391828421479"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Objetiva-se o desenvolvimento de redes de sensores sem fio para aplicações em agricultura e com sistemas de aquisição de dados em sistemas elétricos de potência."
+                         NOME-DA-LINHA-DE-PESQUISA="Aplicações em Redes de Sensores Sem Fio"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">RSSF</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">aquisição de dados</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5635983022553950" NOME-COMPLETO="Cleonilson Protásio de Souza"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="175739"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4016576596215504" NOME-COMPLETO="Raimundo Carlos Silvério Freire"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11636"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7766147278221930" NOME-COMPLETO="Larissa Aguiar"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4896744"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4298638404742793" NOME-COMPLETO="Andréa Willa Rodrigues Villarim"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4899870"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0922143462560859" NOME-COMPLETO="Hening Almeida de Andrade"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4986282"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0566857832260383" NOME-COMPLETO="Marianne Bianca Melo Bezerra"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6025319"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0482898604136573" NOME-COMPLETO="Izadora Soares Cardoso"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5327774"
+                             SEQUENCIA-ESTUDANTE="5"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30402042" CODIGO-ESPECIALIDADE="30402042"
+                                  CODIGO-SUB-AREA="30402000"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Instrumentação Eletrônica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="427"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26.2"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3591041833702103"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Objetiva-se o desenvolvimento de métodos e técnicas para testes de circuitos integrados digitais e analógicos"
+                         NOME-DA-LINHA-DE-PESQUISA="Testes de circuitos integrados"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Circuitos integrados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Testes</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5635983022553950" NOME-COMPLETO="Cleonilson Protásio de Souza"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="175739"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4016576596215504" NOME-COMPLETO="Raimundo Carlos Silvério Freire"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11636"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7658661123144240" NOME-COMPLETO="Larissa de Melo Soares"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3608982"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8036572249593151" NOME-COMPLETO="Verônica Maria Lima Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2738627"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30402042" CODIGO-ESPECIALIDADE="30402042"
+                                  CODIGO-SUB-AREA="30402000"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Instrumentação Eletrônica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="427"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26.1"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6588367949712162"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha consiste na concepção de novas arquiteturas de circuitos analógicos em tecnologia CMOS para processamento de sinais em baixas frequências, como: multiplicadores analógicos, integradores, filtros analógicos, conversores A-D, redes neuronais celulares. Envolve também a análise de desempenho destes circuitos, especialmente no que concerne à distorção e à sensibilidade à variação e descasamento de parâmetros. Ferramentas e técnicas de projeto e de análise de desempenho vêm sendo propostas"
+                         NOME-DA-LINHA-DE-PESQUISA="Projeto e Análise de Circuitos Integrados Analógicos em Tecnologia CMOS para Processamento de Sinais "
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Circuito integrado</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Circuitos Analógicos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Processamento de sinais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7248197377172014" NOME-COMPLETO="Ana Isabela Araújo Cunha"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="405849"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9200464668550566" NOME-COMPLETO="Edmar Candeia Gurjão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="385559"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9716703719458588" NOME-COMPLETO="Ademir de Jesus Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="836156"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2690808925810770" NOME-COMPLETO="Antonio José Sobrinho de Sousa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3424892"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5099571527859802" NOME-COMPLETO="Fabian Souza de Andrade"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4587321"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7774816430905290" NOME-COMPLETO="Gabriele Costa Goncalves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4935996"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3416096189163689" NOME-COMPLETO="Rodrigo Barros da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2999826"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3392822181812314" NOME-COMPLETO="Shirlene de Santana Soares"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6243798"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9545875309592447" NOME-COMPLETO="Israel Alves Ferreira Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4994297"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4369607033834589" NOME-COMPLETO="Vanderson de Lima Reis"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="604554"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2068014107819333" NOME-COMPLETO="Grace Anne Santos Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6257047"
+                             SEQUENCIA-ESTUDANTE="9"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="93304005" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="93304005"
+                                  CODIGO-AREA="93300000"
+                                  CODIGO-GRANDE-AREA="90000005"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Projeto"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Microeletrônica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Outra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1377"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26.1"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2965325091517896"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Objetiva-se o desenvolvimento de circuitos integrados analógicos para aplicações em redes de sensores sem fio e em engenharia biomédica. Desenvolve-se projetos de células básicas genéricas para um ambiente de automatização da concepção de circuitos integrados analógicos CMOS. Procura-se propor soluções integradas de baixo custo em tecnologia CMOSpara aplicações tais como redes de sensores sem fio, aquisição de dados, monitoramento grandezas ambientais e biomédicas, entre outras."
+                         NOME-DA-LINHA-DE-PESQUISA="Concepção de Circuitos Integrados Analógicos, Mistos e de RF"
+                         SEQUENCIA-LINHA-DE-PESQUISA="8">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Circuito Integrado</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Circuito Analógicos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7331200835732053" NOME-COMPLETO="Vincent Patrick Marie Bourguet"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2553669"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1639120896080078" NOME-COMPLETO="Robson Nunes de Lima"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="109496"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7248197377172014" NOME-COMPLETO="Ana Isabela Araújo Cunha"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="405849"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9000340589396730"
+                               NOME-COMPLETO="Marcos Eduardo do Prado Villarroel Zurita"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="149770"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5635983022553950" NOME-COMPLETO="Cleonilson Protásio de Souza"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="175739"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0137382086087353" NOME-COMPLETO="Georgina Karla de Freitas Serres"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2264377"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0873496251879638"
+                               NOME-COMPLETO="Sebastian Yuri Cavalcanti Catunda"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="343531"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4016576596215504" NOME-COMPLETO="Raimundo Carlos Silvério Freire"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11636"
+                               SEQUENCIA-PESQUISADOR="8"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9716703719458588" NOME-COMPLETO="Ademir de Jesus Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="836156"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2690808925810770" NOME-COMPLETO="Antonio José Sobrinho de Sousa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3424892"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5099571527859802" NOME-COMPLETO="Fabian Souza de Andrade"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4587321"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7774816430905290" NOME-COMPLETO="Gabriele Costa Goncalves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4935996"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7973161647125504" NOME-COMPLETO="Cláudio Leão Tôrres"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="241201"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7766147278221930" NOME-COMPLETO="Larissa Aguiar"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4896744"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4298638404742793" NOME-COMPLETO="Andréa Willa Rodrigues Villarim"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4899870"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1728311941410572" NOME-COMPLETO="Moabe Rodrigues Ramos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6232789"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0922143462560859" NOME-COMPLETO="Hening Almeida de Andrade"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4986282"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7658661123144240" NOME-COMPLETO="Larissa de Melo Soares"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3608982"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8036572249593151" NOME-COMPLETO="Verônica Maria Lima Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2738627"
+                             SEQUENCIA-ESTUDANTE="11"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3114322031306818" NOME-COMPLETO="Marcos Gomes Bernardo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4319645"
+                             SEQUENCIA-ESTUDANTE="12"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5887640488734439" NOME-COMPLETO="Arthur Luiz Alves de Araújo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4528710"
+                             SEQUENCIA-ESTUDANTE="13"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8520822086555275" NOME-COMPLETO="Isaías de Sousa Barbosa Júnior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4634621"
+                             SEQUENCIA-ESTUDANTE="14"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5432377754784730" NOME-COMPLETO="Jailton Ferreira Moreira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2567041"
+                             SEQUENCIA-ESTUDANTE="15"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4380080194627932"
+                             NOME-COMPLETO="Thais Luana Vidal de Negreiros da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3310248"
+                             SEQUENCIA-ESTUDANTE="16"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7543812637795681" NOME-COMPLETO="Paulo Fernandes da Silva Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2506675"
+                             SEQUENCIA-ESTUDANTE="17"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30403030" CODIGO-ESPECIALIDADE="30403030"
+                                  CODIGO-SUB-AREA="30403006"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Circuitos Eletrônicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Circuitos Elétricos, Magnéticos e Eletrônicos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="432"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26.5"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9099629902299014"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha de pesquisa tem como objetivo a realização de estudos e pesquisas focando o desenvolvimento de coletores de energia e circuitos de condicionamento e gestão no contexto de Energy Harvesting, principalmente, de fonte de energia eletromagnética, termoelétrica e vibrações mecânica."
+                         NOME-DA-LINHA-DE-PESQUISA="colheita de energia"
+                         SEQUENCIA-LINHA-DE-PESQUISA="9">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">geração de energia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Baixa Potência</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5635983022553950" NOME-COMPLETO="Cleonilson Protásio de Souza"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="175739"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2340781002764990" NOME-COMPLETO="Yuri Percy Molina Rodriguez"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="786427"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8036572249593151" NOME-COMPLETO="Verônica Maria Lima Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2738627"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0334320944459752"
+                             NOME-COMPLETO="Tarcísio Oliveira de Moraes Júnior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2517227"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0931431550128738" NOME-COMPLETO="Maraiza Prescila dos Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3391918"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30402042" CODIGO-ESPECIALIDADE="30402042"
+                                  CODIGO-SUB-AREA="30402000"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Instrumentação Eletrônica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="427"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.27.2"
+                                SUBSETOR="Fabricação de máquinas, aparelhos e materiais elétricos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5550758936854000"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Objetiva-se caracterizar sensores termorresistivos com relação a sua curva RxT e resposta temporal. Os sensores usados são do tipo NTC e PTC. Desenvolve-se também métodos elétricos para determinar os parâmetros desses sensores, tais como: coeficiente de temperatura, coeficiente de transferência de calor, etc.Além disso, são desenvolvidas e avaliadas arquiteturas de medição usando esses sensores e suas características, como sensibilidade e faixa dinâmica são avaliadas."
+                         NOME-DA-LINHA-DE-PESQUISA="Sensores Termorresistivos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="10">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Caracterização</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Processamento de Sinais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Sensor termorresistivo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Sensibilidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Faixa dinâmica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3603816381832077" NOME-COMPLETO="Amauri Oliveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="5288"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4016576596215504" NOME-COMPLETO="Raimundo Carlos Silvério Freire"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11636"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0873496251879638"
+                               NOME-COMPLETO="Sebastian Yuri Cavalcanti Catunda"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="343531"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5887640488734439" NOME-COMPLETO="Arthur Luiz Alves de Araújo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4528710"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6441631218615882" NOME-COMPLETO="Vanuza Marques do Nascimento"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4605659"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9546324553205447" NOME-COMPLETO="Yasmin Emily de Souza Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4039033"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6758262968199437"
+                             NOME-COMPLETO="Newton Sávio Souza Marques da Fonseca"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3297186"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30402042" CODIGO-ESPECIALIDADE="30402042"
+                                  CODIGO-SUB-AREA="30402000"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Instrumentação Eletrônica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="427"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26.5"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8505592283392294"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver arquiteturas de etiquetas RFID que funcionem como sensorespassivos. Desenvolver arquiteturas de etiquetas RFID que, associadas a sensores, modifiquem algumas das características de suas antenas e possam transmitir informações das grandezas a serem medidas. Desenvolver circuitos integrados de ultra baixo consumo para tratamentos dos sinais dos sensores nas etiquetas RFID."
+                         NOME-DA-LINHA-DE-PESQUISA="Sensores RFID"
+                         SEQUENCIA-LINHA-DE-PESQUISA="11">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">RFID</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">sensores</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Circuito integrado</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9000340589396730"
+                               NOME-COMPLETO="Marcos Eduardo do Prado Villarroel Zurita"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="149770"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5988817460788034" NOME-COMPLETO="Alexandre Jean René Serres"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2214540"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4256595317953538" NOME-COMPLETO="Glauco Fontgalland"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="387742"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9200464668550566" NOME-COMPLETO="Edmar Candeia Gurjão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="385559"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6758262968199437"
+                             NOME-COMPLETO="Newton Sávio Souza Marques da Fonseca"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3297186"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30402042" CODIGO-ESPECIALIDADE="30402042"
+                                  CODIGO-SUB-AREA="30402000"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Instrumentação Eletrônica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="427"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26.1"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3968450567150858"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de modelos eletromagnéticos aplicados a circuitos microeletrônicos de micro-ondas. Desenvolvimento plataformas de simulação eletromagnética para circuitos de microeletrônica. Desenvolvimento de modelos para estruturas amplificadoras multicamada compacta. Otimização e validação de programas utilizando o WCIP para circuitos multicamadas. Desenvolvimento e validação de polarizadores ideais utilizando o conceito de onda. "
+                         NOME-DA-LINHA-DE-PESQUISA="Modelagem eletromagnética"
+                         SEQUENCIA-LINHA-DE-PESQUISA="12">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">WCIP</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">modelagem eletromagnética</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">amplificador multicamada compacto</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0137382086087353" NOME-COMPLETO="Georgina Karla de Freitas Serres"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2264377"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5988817460788034" NOME-COMPLETO="Alexandre Jean René Serres"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2214540"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6713676949129301" NOME-COMPLETO="Laurent Marcial Pierre ROSKE"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="6490654"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4914413158872801" NOME-COMPLETO="Alison Candido da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5972035"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7935229115692221" NOME-COMPLETO="Marcio Mendes Cerqueira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2117289"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7613060482130142" NOME-COMPLETO="Luciana Correia Lima de Medeiros"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2058153"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8190283569232381" NOME-COMPLETO="Priscilla Kadja Pontes de Melo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5016563"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6290463541105383" NOME-COMPLETO="Cybelle Belém Gonçalves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4400726"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3548518251493336" NOME-COMPLETO="Túlio Chaves de Albuquerque"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3886546"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7543812637795681" NOME-COMPLETO="Paulo Fernandes da Silva Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2506675"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4380080194627932"
+                             NOME-COMPLETO="Thais Luana Vidal de Negreiros da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3310248"
+                             SEQUENCIA-ESTUDANTE="8"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30403030" CODIGO-ESPECIALIDADE="30403030"
+                                  CODIGO-SUB-AREA="30403006"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Circuitos Eletrônicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Circuitos Elétricos, Magnéticos e Eletrônicos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="432"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5769127321729005"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver sistemas de aquisição de dados para sistemas elétricos de potência. Algumas das atividades visadas são: monitoração e diagnóstico de pára-raios de ZnO, monitoração e diagnóstico de malhas de aterramento em frequência industrial e submetidas a descargas atmosféricas e aquisição e tratamento de dados de descargas parciais."
+                         NOME-DA-LINHA-DE-PESQUISA="Automação em Sistemas Elétricos de Potência"
+                         SEQUENCIA-LINHA-DE-PESQUISA="13">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">pára-raios</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">corrente de fuga</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">alta tensão</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">descargas parciais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">malhas de aterramento</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Descargas atmosféricas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4016576596215504" NOME-COMPLETO="Raimundo Carlos Silvério Freire"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11636"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1567664152355721" NOME-COMPLETO="Euler Cássio Tavares de Macêdo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="804514"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3930289115658143" NOME-COMPLETO="Edson Guedes da Costa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="12850"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6713676949129301" NOME-COMPLETO="Laurent Marcial Pierre ROSKE"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="6490654"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7658247097976690" NOME-COMPLETO="Valdemir da Silva Brito"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4279707"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0812402232984399" NOME-COMPLETO="Pablo Bezerra Vilar"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2788603"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0855145610768901" NOME-COMPLETO="Ronimack Trajano de Souza"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="213190"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8319272621494020" NOME-COMPLETO="Ianca Rocha Ferreira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5401826"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3367922401286964" NOME-COMPLETO="Ariadne Caroline Silva Guedes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5545948"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1666463863283206" NOME-COMPLETO="Malone Soares de Castro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3282644"
+                             SEQUENCIA-ESTUDANTE="6"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30402050" CODIGO-ESPECIALIDADE="30402050"
+                                  CODIGO-SUB-AREA="30402000"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas Eletrônicos de Medida e de Controle"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="428"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.27"
+                                SUBSETOR="Fabricação de máquinas, aparelhos e materiais elétricos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7898219948059131"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Pretende-se desenvolver novas arquiteturas de conversores A/D e D/A visando melhorar resolução e frequência de operação. Algumas dessas arquiteturas são do tipo Analógico para Informação, Sigma Delta Térmicos e De Dobramento. Serão desenvolvidos circuitos integrados que implementem essas arquiteturas."
+                         NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas arquiteturas de conversores A/D e D/A"
+                         SEQUENCIA-LINHA-DE-PESQUISA="14">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">conversor A/D</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">conversor D/A</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4016576596215504" NOME-COMPLETO="Raimundo Carlos Silvério Freire"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11636"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0873496251879638"
+                               NOME-COMPLETO="Sebastian Yuri Cavalcanti Catunda"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="343531"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7973161647125504" NOME-COMPLETO="Cláudio Leão Tôrres"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="241201"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4369607033834589" NOME-COMPLETO="Vanderson de Lima Reis"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="604554"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5547681254311718" NOME-COMPLETO="Bruno Willian de Souza Arruda"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4095819"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30402042" CODIGO-ESPECIALIDADE="30402042"
+                                  CODIGO-SUB-AREA="30402000"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Instrumentação Eletrônica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="427"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26.1"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="13082014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0137382086087353"
+               NOME-DO-EGRESSO="Georgina Karla de Freitas Serres"/>
+      <EGRESSO DATA-SAIDA="08082014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1567664152355721"
+               NOME-DO-EGRESSO="Euler Cássio Tavares de Macêdo"/>
+      <EGRESSO DATA-SAIDA="08082014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1567664152355721"
+               NOME-DO-EGRESSO="Euler Cássio Tavares de Macêdo"/>
+      <EGRESSO DATA-SAIDA="13082014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0137382086087353"
+               NOME-DO-EGRESSO="Georgina Karla de Freitas Serres"/>
+      <EGRESSO DATA-SAIDA="13082014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0137382086087353"
+               NOME-DO-EGRESSO="Georgina Karla de Freitas Serres"/>
+      <EGRESSO DATA-SAIDA="08082014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1567664152355721"
+               NOME-DO-EGRESSO="Euler Cássio Tavares de Macêdo"/>
+      <EGRESSO DATA-SAIDA="13082014" DATA-ENTRADA="10052014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0137382086087353"
+               NOME-DO-EGRESSO="Georgina Karla de Freitas Serres"/>
+      <EGRESSO DATA-SAIDA="08082014" DATA-ENTRADA="10052014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1567664152355721"
+               NOME-DO-EGRESSO="Euler Cássio Tavares de Macêdo"/>
+      <EGRESSO DATA-SAIDA="13082014" DATA-ENTRADA="14072014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0137382086087353"
+               NOME-DO-EGRESSO="Georgina Karla de Freitas Serres"/>
+      <EGRESSO DATA-SAIDA="08082014" DATA-ENTRADA="14072014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1567664152355721"
+               NOME-DO-EGRESSO="Euler Cássio Tavares de Macêdo"/>
+      <EGRESSO DATA-SAIDA="13082014" DATA-ENTRADA="07082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0137382086087353"
+               NOME-DO-EGRESSO="Georgina Karla de Freitas Serres"/>
+      <EGRESSO DATA-SAIDA="08082014" DATA-ENTRADA="07082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1567664152355721"
+               NOME-DO-EGRESSO="Euler Cássio Tavares de Macêdo"/>
+      <EGRESSO DATA-SAIDA="13082014" DATA-ENTRADA="08082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0137382086087353"
+               NOME-DO-EGRESSO="Georgina Karla de Freitas Serres"/>
+      <EGRESSO DATA-SAIDA="13082014" DATA-ENTRADA="11082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0137382086087353"
+               NOME-DO-EGRESSO="Georgina Karla de Freitas Serres"/>
+      <EGRESSO DATA-SAIDA="13082014" DATA-ENTRADA="11082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0137382086087353"
+               NOME-DO-EGRESSO="Georgina Karla de Freitas Serres"/>
+      <EGRESSO DATA-SAIDA="13082014" DATA-ENTRADA="11082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0137382086087353"
+               NOME-DO-EGRESSO="Georgina Karla de Freitas Serres"/>
+      <EGRESSO DATA-SAIDA="08082016" DATA-ENTRADA="14082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9000340589396730"
+               NOME-DO-EGRESSO="Marcos Eduardo do Prado Villarroel Zurita"/>
+      <EGRESSO DATA-SAIDA="08082016" DATA-ENTRADA="24082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9000340589396730"
+               NOME-DO-EGRESSO="Marcos Eduardo do Prado Villarroel Zurita"/>
+      <EGRESSO DATA-SAIDA="08082016" DATA-ENTRADA="25082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9000340589396730"
+               NOME-DO-EGRESSO="Marcos Eduardo do Prado Villarroel Zurita"/>
+      <EGRESSO DATA-SAIDA="08082016" DATA-ENTRADA="25082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9000340589396730"
+               NOME-DO-EGRESSO="Marcos Eduardo do Prado Villarroel Zurita"/>
+      <EGRESSO DATA-SAIDA="08082016" DATA-ENTRADA="25082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9000340589396730"
+               NOME-DO-EGRESSO="Marcos Eduardo do Prado Villarroel Zurita"/>
+      <EGRESSO DATA-SAIDA="08082016" DATA-ENTRADA="05122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9000340589396730"
+               NOME-DO-EGRESSO="Marcos Eduardo do Prado Villarroel Zurita"/>
+      <EGRESSO DATA-SAIDA="08082016" DATA-ENTRADA="10122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9000340589396730"
+               NOME-DO-EGRESSO="Marcos Eduardo do Prado Villarroel Zurita"/>
+      <EGRESSO DATA-SAIDA="08082016" DATA-ENTRADA="25032015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9000340589396730"
+               NOME-DO-EGRESSO="Marcos Eduardo do Prado Villarroel Zurita"/>
+      <EGRESSO DATA-SAIDA="08082016" DATA-ENTRADA="12042015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9000340589396730"
+               NOME-DO-EGRESSO="Marcos Eduardo do Prado Villarroel Zurita"/>
+      <EGRESSO DATA-SAIDA="08082016" DATA-ENTRADA="04082015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9000340589396730"
+               NOME-DO-EGRESSO="Marcos Eduardo do Prado Villarroel Zurita"/>
+      <EGRESSO DATA-SAIDA="08082016" DATA-ENTRADA="05082015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9000340589396730"
+               NOME-DO-EGRESSO="Marcos Eduardo do Prado Villarroel Zurita"/>
+      <EGRESSO DATA-SAIDA="08082016" DATA-ENTRADA="07082015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9000340589396730"
+               NOME-DO-EGRESSO="Marcos Eduardo do Prado Villarroel Zurita"/>
+      <EGRESSO DATA-SAIDA="08082016" DATA-ENTRADA="27102015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9000340589396730"
+               NOME-DO-EGRESSO="Marcos Eduardo do Prado Villarroel Zurita"/>
+      <EGRESSO DATA-SAIDA="08082016" DATA-ENTRADA="05072016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9000340589396730"
+               NOME-DO-EGRESSO="Marcos Eduardo do Prado Villarroel Zurita"/>
+      <EGRESSO DATA-SAIDA="08082016" DATA-ENTRADA="07072016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9000340589396730"
+               NOME-DO-EGRESSO="Marcos Eduardo do Prado Villarroel Zurita"/>
+      <EGRESSO DATA-SAIDA="08082016" DATA-ENTRADA="05082016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9000340589396730"
+               NOME-DO-EGRESSO="Marcos Eduardo do Prado Villarroel Zurita"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

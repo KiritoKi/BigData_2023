@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="5574960807305928"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="172934"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="23062016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="7295863328446203" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE=""
+                           NOME-DO-ORGAO="Pontifícia Universidade Católica de Minas Gerais"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="MG"
+                           SIGLA-DA-INSTITUICAO="PUC Minas"
+                           NOME-DA-INSTITUICAO="Pontifícia Universidade Católica de Minas Gerais"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2004"
+                           NOME-DO-GRUPO="SIDR@ - Grupo de Pesquisa em Sistemas Distribuídos e Redes">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="3145788529670371" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Udo Fritzke Junior"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="3873378479560547" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Joao Carlos de Moraes Morselli Junior"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3151800" DDDFAX="35"
+                                       LONGITUDE="-46.5947774"
+                                       LATITUDE="-21.7945247"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Poços de Caldas"
+                                       NUMERO="1661"
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="Av. Padre Francis Cletus Cox"
+                                       HOME-PAGE=""
+                                       E-MAIL="udo@pucpcaldas.br"
+                                       FAX="9201"
+                                       RAMAL=""
+                                       TELEFONE="37299225"
+                                       DDD="35"
+                                       CEP="37701355"
+                                       CIDADE="Poços de Caldas"
+                                       UF="MG"
+                                       BAIRRO="Jardim Country Club"/>
+      <REPERCUSSOES>O grupo de pesquisa reúne professores e pesquisadores nas áreas de Sistemas Distribuídos e de Redes de Computadores.  As pesquisas no âmbito do grupo envolvem temas relacionados a processamento paralelo, computação em nuvem, sistemas de informação distribuídos, tolerância a faltas, arquiteturas para Serviços Web, Televisão Digital Interativa, Sistemas Inteligentes de Transporte (ITS) e redes veiculares. Os trabalhos desenvolvidos no âmbito do grupo de pesquisa têm permitido a inserção de alunos de graduação em trabalhos de iniciação científica envolvendo desafios de pesquisa e inovação relevantes. Estes trabalhos têm sido financiados por fundos de pesquisa da PUC Minas, bolsas de IC da PUC Minas, CNPq e FAPEMIG, assim como por editais FAPEMIG.  Ao longo da existência do grupo de pesquisa, também têm ocorrido atividades de cooperação com empresas da região e a execução de projetos de extensão com a participação da comunidade.</REPERCUSSOES>
+      <REDES-DE-PESQUISA>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="SIBRATEC/RedeTIC"
+                           URL-DA-REDE-DE-PESQUISA="http://www.mct.gov.br/index.php/content/view/319870/Rede_de_Centros_de_Inovacao_em_Tecnologias_Digitais_de_Informacao_e_Comunicacao.html"
+                           NOME-DA-REDE-DE-PESQUISA="REDE DE CENTROS DE INOVAÇÃO EM TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO"/>
+      </REDES-DE-PESQUISA>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="TEIXEIRA, F. C." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8428640130413011"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fabiano Costa Teixeira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Concorrente e Sistemas Distribuídos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação em Nuvem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Grades Computacionais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FRITZKE JR, Udo" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3145788529670371"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Udo Fritzke Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Concorrente e Sistemas Distribuídos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Distribuidos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teleinformática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CORREA, S. M. B.B." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="F"
+                   NRO-ID-CNPQ="8103225392241448"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Sonia Maria Barros Barbosa Correa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Concorrente e Sistemas Distribuídos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>EDUACAÇÃO A DISTÂNCIA</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Sanitária</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Probabilidade e Estatística</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="DE NARDIN, L." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="F"
+                   NRO-ID-CNPQ="2149904407727510"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Luciana De Nardin">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Concorrente e Sistemas Distribuídos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Algoritmos Genéticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CORREA, C.;CORREA, CLAUDIO" TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9931295892888889"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Claudio Correa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise, Projeto e Gerenciamento de Redes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Auditoria de Sistemas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Computadores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Segurança de Redes</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MORSELLI, J. C. M. Jr." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3873378479560547"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Joao Carlos de Moraes Morselli Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise, Projeto e Gerenciamento de Redes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Concorrente e Sistemas Distribuídos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia e Técnicas da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GONÇALVES, M. L." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4568810426554240"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcio Leandro Goncalves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise, Projeto e Gerenciamento de Redes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computabilidade e Modelos de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Tecnologia Educacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="TIZZO, N. P.;Tizzo, Neil Paiva;Tizzo, N. Paiva"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5142129455442439"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Neil Paiva Tizzo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Concorrente e Sistemas Distribuídos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GOMES, LUIZ" TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5732116193852474"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Luiz Alberto Ferreira Gomes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Concorrente e Sistemas Distribuídos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FARIA, C." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8435311517599740"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Claudio Faria">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Concorrente e Sistemas Distribuídos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Astronômica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Alto Desempenho</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Digital de Sinais/Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MACHADO, W. R. S." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9254930439430920"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Will Ricardo dos Santos Machado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Concorrente e Sistemas Distribuídos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANTOS JUNIOR, J. B." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="11"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9284563343635061"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="João Benedito dos Santos Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise, Projeto e Gerenciamento de Redes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Internet das Coisas e Internet de Tudo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Multimídia Hipermídia e Sistemas Distribuídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Protocolos e Sistemas Multimídia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Televisão Digital e Televisão Interativa</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ABRAO, I. C.;Abrão, Iran Calixto" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="12"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9420472583976417"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Iran Calixto Abrao">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise, Projeto e Gerenciamento de Redes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Concorrente e Sistemas Distribuídos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagem Formais e Autômatos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teleinformática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="MANCUSO JUNIOR, J. C." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOAO CARLOS DE MORAES MORSELLI JUNIOR"
+                 NRO-ID-CNPQ-ORIENTADOR="3873378479560547"
+                 SEQUENCIA-ESTUDANTE="5133590"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1835119103519519"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Joao Carlos Mancuso Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Concorrente e Sistemas Distribuídos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administrativa e Financeira</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MARCONDES FILHO, M." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOAO CARLOS DE MORAES MORSELLI JUNIOR"
+                 NRO-ID-CNPQ-ORIENTADOR="3873378479560547"
+                 SEQUENCIA-ESTUDANTE="5739029"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9837660580148654"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Miguel Marcondes Filho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Concorrente e Sistemas Distribuídos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PEREIRA, C. G." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOAO CARLOS DE MORAES MORSELLI JUNIOR"
+                 NRO-ID-CNPQ-ORIENTADOR="3873378479560547"
+                 SEQUENCIA-ESTUDANTE="4955556"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3184815852810132"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Cefas Garcia Pereira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Concorrente e Sistemas Distribuídos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOUZA, L. J." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOAO CARLOS DE MORAES MORSELLI JUNIOR"
+                 NRO-ID-CNPQ-ORIENTADOR="3873378479560547"
+                 SEQUENCIA-ESTUDANTE="5674733"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7444032526565649"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lucian Junio de Souza">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Concorrente e Sistemas Distribuídos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CORDEIRO, A. B. C." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="UDO FRITZKE JUNIOR"
+                 NRO-ID-CNPQ-ORIENTADOR="3145788529670371"
+                 SEQUENCIA-ESTUDANTE="5358067"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4348712068538979"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alexandre Benevides de Carvalho Cordeiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Concorrente e Sistemas Distribuídos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DARCIE, A. N." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="UDO FRITZKE JUNIOR"
+                 NRO-ID-CNPQ-ORIENTADOR="3145788529670371"
+                 SEQUENCIA-ESTUDANTE="5358072"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5392429031752093"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="André Nicolau Darcie">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Concorrente e Sistemas Distribuídos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FREI, C. R." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOAO CARLOS DE MORAES MORSELLI JUNIOR"
+                 NRO-ID-CNPQ-ORIENTADOR="3873378479560547"
+                 SEQUENCIA-ESTUDANTE="5501664"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3653934346450700"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Cainã dos Reis Frei">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Concorrente e Sistemas Distribuídos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1775770523355676"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha de pesquisa tem como objetivo contribuir em temas de pesquisa relacionados com o projeto e a implementação de sistemas distribuídos. Incluem-se aí os problemas de sincronização e controle de execuções distribuídas (banco de dados, simulação distribuída, etc.).  São tratadas as arquiteturas de suporte (middleware) orientadas a objeto, baseadas em comunicação de grupo e comunicação sem fio. Também são incluídas as arquiteturas para computação paralela (grade, clustering, etc.)."
+                         NOME-DA-LINHA-DE-PESQUISA="Programação Concorrente e Sistemas Distribuídos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Sistemas Distribuídos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Processamento Paralelo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Computação Móvel</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Sincronização em Sistems Distribuídos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Banco de Dados Distribuídos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8428640130413011" NOME-COMPLETO="Fabiano Costa Teixeira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="737316"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3145788529670371" NOME-COMPLETO="Udo Fritzke Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="42890"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8103225392241448"
+                               NOME-COMPLETO="Sonia Maria Barros Barbosa Correa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="108718"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2149904407727510" NOME-COMPLETO="Luciana De Nardin"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="187856"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3873378479560547"
+                               NOME-COMPLETO="Joao Carlos de Moraes Morselli Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="371226"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5142129455442439" NOME-COMPLETO="Neil Paiva Tizzo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="430411"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5732116193852474" NOME-COMPLETO="Luiz Alberto Ferreira Gomes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="549639"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8435311517599740" NOME-COMPLETO="Claudio Faria"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="273662"
+                               SEQUENCIA-PESQUISADOR="8"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9254930439430920" NOME-COMPLETO="Will Ricardo dos Santos Machado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="336169"
+                               SEQUENCIA-PESQUISADOR="9"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9420472583976417" NOME-COMPLETO="Iran Calixto Abrao"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="257712"
+                               SEQUENCIA-PESQUISADOR="10"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1835119103519519" NOME-COMPLETO="Joao Carlos Mancuso Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5133590"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9837660580148654" NOME-COMPLETO="Miguel Marcondes Filho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5739029"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3184815852810132" NOME-COMPLETO="Cefas Garcia Pereira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4955556"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7444032526565649" NOME-COMPLETO="Lucian Junio de Souza"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5674733"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4348712068538979"
+                             NOME-COMPLETO="Alexandre Benevides de Carvalho Cordeiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5358067"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5392429031752093" NOME-COMPLETO="André Nicolau Darcie"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5358072"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3653934346450700" NOME-COMPLETO="Cainã dos Reis Frei"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5501664"
+                             SEQUENCIA-ESTUDANTE="7"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7484916643340120"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha de pesquisa tem como objetivo contribuir em temas relacionados com a análise, o projeto e o gerenciamento de redes de computadores. Incluem-se nestes temas a análise de desempenho de redes de computadores, utilizando ferramentas de modelagem e simulação. Além disto são tratadas as arquiteturas para o suporte de comunicação em aplicações hipermídia e multimídia. Também são incluídos aspectos ligados ao gerenciamento da segurança e da confiabilidade de redes e serviços."
+                         NOME-DA-LINHA-DE-PESQUISA="Análise, Projeto e Gerenciamento de Redes"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Redes de computadores</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Sistemas Hipermídia e Multimídia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Segurança em Redes</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Análise de Desempenho de Redes</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Gerenciamento de Redes</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9931295892888889" NOME-COMPLETO="Claudio Correa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="399064"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3873378479560547"
+                               NOME-COMPLETO="Joao Carlos de Moraes Morselli Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="371226"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4568810426554240" NOME-COMPLETO="Marcio Leandro Goncalves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="372033"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9284563343635061" NOME-COMPLETO="João Benedito dos Santos Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="158420"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9420472583976417" NOME-COMPLETO="Iran Calixto Abrao"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="257712"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304045" CODIGO-ESPECIALIDADE="10304045"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Teleinformática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="66"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="1121086082028803"
+               RAZAO-SOCIAL-DA-EMPRESA="Departamento Municipal de Eletricidade de Poços de Caldas"
+               NATUREZA-JURIDICA="Autarquia Municipal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="23664303000104"
+               LOCALIDADE="Poços de Caldas"
+               CIDADE="Poços de Caldas"
+               UF="MG"
+               SIGLA-DA-EMPRESA="DME"
+               NOME-DA-EMPRESA="Departamento Municipal de Eletricidade de Poços de Caldas"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="18">Atividades de consultoria técnica não englobadas em qualquer das categorias anteriores</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

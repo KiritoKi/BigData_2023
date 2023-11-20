@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="8814479412031222"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="113133"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="11102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="7884369240668788" CODIGO-AREA-PREDOMINANTE="30500001"
+                           NOME-DA-UNIDADE="Departamento de Engenharia Metalúrgica e de Materiais"
+                           NOME-DO-ORGAO="Departamento de Engenharia Metalúrgica e de Materiais"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="CE"
+                           SIGLA-DA-INSTITUICAO="UFC"
+                           NOME-DA-INSTITUICAO="Universidade Federal do Ceará"
+                           AREA-PREDOMINANTE="Engenharia Mecânica"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="2000"
+                           NOME-DO-GRUPO="Laboratório de Dinâmica dos Fluidos Computacional - LDFC">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="2663181961083657" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Francisco Marcondes"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="2304400" DDDFAX=""
+                                       LONGITUDE="-38.57166670000004"
+                                       LATITUDE="-3.7584061"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Fortaleza"
+                                       NUMERO="730"
+                                       COMPLEMENTO="Bloco 730"
+                                       LOGRADOURO="Rua Campus do Pici"
+                                       HOME-PAGE="http://www.ldfc.ufc.br"
+                                       E-MAIL="marcondes@ufc.br"
+                                       FAX=""
+                                       RAMAL=""
+                                       TELEFONE="3366-9355"
+                                       DDD="85"
+                                       CEP="60440554"
+                                       CIDADE="Fortaleza"
+                                       UF="CE"
+                                       BAIRRO="Pici"/>
+      <REPERCUSSOES>A linha de atuação deste grupo de pesquisa é voltada basicamente à aplicação e ao desenvolvimento de ferramentas numéricas a problemas de mecânica dos fluidos computacinal e a formação de recursos humanos em ferramentas numéricas. Dentro do último objetivo já temos formado diversos mestres e alunos de iniciação científica. Atualmente temos a participação também de alunos de doutorado. Em relação ao desenvolvimento e aplicação de métodos numéricos à problemas de mecânica dos fluidos e transferência de calor e massa definidos em geometrias complexas, estamos trabalhando com o método dos volumes finitos e estamos utilizando para discretização do domínio coordenadas generalizadas e malhas não-estruturadas. É uma preocupação do grupo o desenvolvimento de técnicas que possibilitem a solução de problemas relacionados a processos de injeção de plásticos, poluição ambiental, convecção natural em equipamentos e processos de recuperação de petróleo.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="ARAÚJO, A. L. S." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6536028205635553"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="André Luíz de Souza Araújo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Processos de recuperação de petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento e teste de ferramentas numéricas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Transferência de calor em juntas soldadas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Processos de Injeção de Plásticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Fluídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transferência de Calor</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="HOLANDA, C. A. M." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7041806636930201"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Carlos Almir Monteiro de Holanda">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Transferência de calor em juntas soldadas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Energética e Exergética</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aproveitamento da Energia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Fluídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Simulação Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Termodinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transferência de Calor</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Gurgel JM;Gurgel JMM;Gurgel J.M.;J.M. Gurgel;GURGEL J.M.;GURGEL, J.M.;GURGEL, JOSE MAURICIO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8118978612486649"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Jose Mauricio Alves de Matos Gurgel">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem e Simulação de Sistemas de Condicionamento de Ar com Rotores Dessecantes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Processos de Injeção de Plásticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da viabilidade técnica da estocagem de gás natural em carvão ativado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Térmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Termodinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transferência de Calor</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MARCONDES, F.;MARCONDES, F;Marcondes, Francisco;MARCONDES, FRANCISCO;MARCONDES, JESUS MARLINALDO DE MEDE, MARCONDES;MARCONDES, JESUS MARLINALDO DE MEDE, FRANCISCO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2663181961083657"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Francisco Marcondes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Processos de recuperação de petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem e Simulação de Sistemas de Condicionamento de Ar com Rotores Dessecantes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento e teste de ferramentas numéricas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Transferencia de calor em cavidades"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Transferência de calor em juntas soldadas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Processos de Injeção de Plásticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da viabilidade técnica da estocagem de gás natural em carvão ativado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise termomecânica de lingotamento contínuo de aços"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="8"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Térmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fenômenos de Transporte</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="LIMA, I. C. M.;DA COSTA MENEZES LIMA, IVENS"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANCISCO MARCONDES"
+                 NRO-ID-CNPQ-ORIENTADOR="2663181961083657"
+                 SEQUENCIA-ESTUDANTE="3296248"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4290876309027005"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ivens da Costa Menezes Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Processos de recuperação de petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FERNANDES, B. R. B.;FERNANDES, BRUNO RAMON BATISTA"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado no Exterior"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANCISCO MARCONDES"
+                 NRO-ID-CNPQ-ORIENTADOR="2663181961083657"
+                 SEQUENCIA-ESTUDANTE="2930998"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7863431599629950"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruno Ramon Batista Fernandes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Processos de recuperação de petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Transferência de calor em juntas soldadas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Reservatório</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Fluídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Operações Industriais e Equipamentos para Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transferência de Calor</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DRUMOND FILHO, E. P." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANCISCO MARCONDES"
+                 NRO-ID-CNPQ-ORIENTADOR="2663181961083657"
+                 SEQUENCIA-ESTUDANTE="3442400"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1194464482373000"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Edilson Pimentel Drumond Filho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Processos de recuperação de petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Petróleo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ROCHA, J. R. S." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Mestrado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANCISCO MARCONDES"
+                 NRO-ID-CNPQ-ORIENTADOR="2663181961083657"
+                 SEQUENCIA-ESTUDANTE="4177500"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9255986497194426"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="José Renê de Sousa Rocha">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento e teste de ferramentas numéricas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Transferencia de calor em cavidades"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fontes Renováveis de Energia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PIMENTA, P. V. C. L." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANCISCO MARCONDES"
+                 NRO-ID-CNPQ-ORIENTADOR="2663181961083657"
+                 SEQUENCIA-ESTUDANTE="3572408"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3799940586873156"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Paulo Vicente de Cassia Lima Pimenta">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento e teste de ferramentas numéricas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise termomecânica de lingotamento contínuo de aços"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OTON, L. F." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANCISCO MARCONDES"
+                 NRO-ID-CNPQ-ORIENTADOR="2663181961083657"
+                 SEQUENCIA-ESTUDANTE="5594397"
+                 SEXO="F"
+                 NRO-ID-CNPQ="5476635981893910"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lais Ferreira Oton">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Transferencia de calor em cavidades"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MARCONDES, R. P." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANCISCO MARCONDES"
+                 NRO-ID-CNPQ-ORIENTADOR="2663181961083657"
+                 SEQUENCIA-ESTUDANTE="6028003"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3659686427555357"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rebeca Pereira Marcondes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Transferencia de calor em cavidades"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COURAS, D. J. N. P." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANCISCO MARCONDES"
+                 NRO-ID-CNPQ-ORIENTADOR="2663181961083657"
+                 SEQUENCIA-ESTUDANTE="2286653"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3870418693763270"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Daut de Jesus Nogueira Peixoto Couras">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Transferência de calor em juntas soldadas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia da Manutenção</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Mecânica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Térmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fundamentos Gerais de Projetos das Máquinas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SIQUEIRA, E. D." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANCISCO MARCONDES"
+                 NRO-ID-CNPQ-ORIENTADOR="2663181961083657"
+                 SEQUENCIA-ESTUDANTE="447523"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7634045955871916"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Edilson Dias Siqueira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Transferência de calor em juntas soldadas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Tensões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Elementos de Máquinas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Elementos Finitos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Iteração Fluido Estrutura</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transportadores Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Vibro Acústica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MONTEIRO, J. P. S." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANCISCO MARCONDES"
+                 NRO-ID-CNPQ-ORIENTADOR="2663181961083657"
+                 SEQUENCIA-ESTUDANTE="5673103"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8069445747357151"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="João Pedro Sales Monteiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Processos de recuperação de petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Paralela</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Petróleo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Fluidos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Método Numérico de Volumes Finitos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GOMES, J. H. B.;HENRIQUE BESSA GOMES, JOAO;JOÃO HENRIQUE BESSA GOMES;GOMES, JOAO HENRIQUE BESSA"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANCISCO MARCONDES"
+                 NRO-ID-CNPQ-ORIENTADOR="2663181961083657"
+                 SEQUENCIA-ESTUDANTE="4176500"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4447784386812260"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="João Henrique Bessa Gomes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Processos de recuperação de petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Petróleo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Fluídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Propriedades Físicas das Rochas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="GERENTES DE TECNOLOGIA DA INFORMAÇÃO"
+               TITULO-OCUPACAO="Gerente de suporte técnico de tecnologia da informação"
+               CODIGO-CBO="1425-30"
+               NIVEL-DE-TREINAMENTO=""
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="M"
+               NOME-CITACOES="MATOS, D. R."
+               NRO-ID-CNPQ="7088600273623660"
+               GRAU-DE-ESCOLARIDADE="Mestrado"
+               ATIVIDADE-NO-GRUPO="Gerente de suporte técnico de tecnologia da informação"
+               NOME-COMPLETO="Daniel Ribeiro Matos"
+               SEQUENCIA-TECNICO="2196865"/>
+   </TECNICOS>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9409236232974240"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de um simulador que possa prever as diversas etapas do processo de produção de peças plásticas, ou seja, o enchimento, o enpacotamento e o resfriamento.O simulador que encontra-se em desenvolvimento emprega a técnica dos volumes finitos com discretização nãoestruturada, também conhecida na literatura como Control Volume Finite Basead Element Method. Optou-sepor esta formulação divido ao formato complexo das peças comumente produzidas no parque industiral."
+                         NOME-DA-LINHA-DE-PESQUISA="Simulação de Processos de Injeção de Plásticos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Control Volumet Based Finite Element Method</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Injeção de Polímeros</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Malhas não-estruturadas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6536028205635553" NOME-COMPLETO="André Luíz de Souza Araújo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="139073"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8118978612486649"
+                               NOME-COMPLETO="Jose Mauricio Alves de Matos Gurgel"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="13922"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2663181961083657" NOME-COMPLETO="Francisco Marcondes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="40385"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501040" CODIGO-ESPECIALIDADE="30501040"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Princípios Variacionais e Métodos Numéricos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="454"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7812711585361467"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Simulação tridimensional, trifásico (óleo, gás e água) de reservatórios de petróleo, voltado para a recuperação de óleos, utilizando o método dos volumes finitos em conjunto com coordenadas generalizadas e malhas não-estruturadas usando o método de volumes finitos baseado em elementos (EbFVM). Diversas formulações composicionais do tipo IMPEC, IMPSAT e Fully Implicit também são estudadas para a simulação de injeção de gás, CO2 e WAG."
+                         NOME-DA-LINHA-DE-PESQUISA="Simulação de Processos de recuperação de petróleo"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Modelo Black-Oil</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Volumes Finitos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Coordenadas Generalizadas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">água, óleo, e gás</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Metodologia EbFVM</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Modelo composicional</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6536028205635553" NOME-COMPLETO="André Luíz de Souza Araújo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="139073"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2663181961083657" NOME-COMPLETO="Francisco Marcondes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="40385"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4290876309027005" NOME-COMPLETO="Ivens da Costa Menezes Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3296248"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7863431599629950" NOME-COMPLETO="Bruno Ramon Batista Fernandes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2930998"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1194464482373000" NOME-COMPLETO="Edilson Pimentel Drumond Filho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3442400"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8069445747357151" NOME-COMPLETO="João Pedro Sales Monteiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5673103"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4447784386812260" NOME-COMPLETO="João Henrique Bessa Gomes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4176500"
+                             SEQUENCIA-ESTUDANTE="5"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501024" CODIGO-ESPECIALIDADE="30501024"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Fluídos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="452"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501040" CODIGO-ESPECIALIDADE="30501040"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Princípios Variacionais e Métodos Numéricos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="454"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06.0"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6551633446165517"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de um tanque automotivo com pressão de travalho baixa e com baixo peso"
+                         NOME-DA-LINHA-DE-PESQUISA="Estudo da viabilidade técnica da estocagem de gás natural em carvão ativado"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Adsorção</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Estocagem de Gás Natural</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8118978612486649"
+                               NOME-COMPLETO="Jose Mauricio Alves de Matos Gurgel"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="13922"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2663181961083657" NOME-COMPLETO="Francisco Marcondes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="40385"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501032" CODIGO-ESPECIALIDADE="30501032"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Dinâmica dos Gases"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="453"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.09.1"
+                                SUBSETOR="Atividades de Apoio à Extração de Minerais"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1867547372088273"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="- Desenvolvimento e aplicação de métodos numéricos a problemas de mecânica dos fluidos computacional. Nestalinha de atuação destacam-se o métodos dos volumes finitos empregando coordenadas generalizadas e malhas não-estruturadas."
+                         NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento e teste de ferramentas numéricas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Volumes Finitos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Malhas estruturadas e não-estruturadas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6536028205635553" NOME-COMPLETO="André Luíz de Souza Araújo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="139073"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2663181961083657" NOME-COMPLETO="Francisco Marcondes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="40385"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9255986497194426" NOME-COMPLETO="José Renê de Sousa Rocha"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4177500"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3799940586873156"
+                             NOME-COMPLETO="Paulo Vicente de Cassia Lima Pimenta"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3572408"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501040" CODIGO-ESPECIALIDADE="30501040"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Princípios Variacionais e Métodos Numéricos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="454"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8886774662926562"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Modelagem e simulação de de sistemas de condicionamento de ar empregando rotores adsortivos, regenerativos, umificadores e aquecedores. Um dos objetivos desta linha de atuação é dispor de um código que possa  modelar o sistema de refrigeração empregando rotores e possa estimar COP do sistema."
+                         NOME-DA-LINHA-DE-PESQUISA="Modelagem e Simulação de Sistemas de Condicionamento de Ar com Rotores Dessecantes"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">rotores dessecantes</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">rotores entalpicos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">rotores regenerativos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">sistemas de condicionamento de ar</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">umificadores</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">aquecedores</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8118978612486649"
+                               NOME-COMPLETO="Jose Mauricio Alves de Matos Gurgel"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="13922"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2663181961083657" NOME-COMPLETO="Francisco Marcondes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="40385"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501040" CODIGO-ESPECIALIDADE="30501040"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Princípios Variacionais e Métodos Numéricos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="454"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501016" CODIGO-ESPECIALIDADE="30501016"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Transferência de Calor"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="451"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28.2"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4033264820273259"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="União de peças metálicas via processos de soldagem são encontradas nas mais diversas áreas da engenharia. A solda, bem como a região próxima da solda que sofreu alterações metalúrgicas apresenta-se como crítica, visto que as características finais do material nestas duas regiões dependem do campo de temperatura. O conhecimento do campo térmico no cordão de solda e vizinhança possibilita a otimização dos processos de soldagem através dos ajustes de tensão, corrente e velocidade de soldagem."
+                         NOME-DA-LINHA-DE-PESQUISA="Transferência de calor em juntas soldadas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Volumes Finitos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Corrente de soldagem</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">velocidade de soldagem</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">processos de soldagem</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6536028205635553" NOME-COMPLETO="André Luíz de Souza Araújo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="139073"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7041806636930201" NOME-COMPLETO="Carlos Almir Monteiro de Holanda"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="117455"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2663181961083657" NOME-COMPLETO="Francisco Marcondes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="40385"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7863431599629950" NOME-COMPLETO="Bruno Ramon Batista Fernandes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2930998"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3870418693763270"
+                             NOME-COMPLETO="Daut de Jesus Nogueira Peixoto Couras"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2286653"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7634045955871916" NOME-COMPLETO="Edilson Dias Siqueira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="447523"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501040" CODIGO-ESPECIALIDADE="30501040"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Princípios Variacionais e Métodos Numéricos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="454"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501016" CODIGO-ESPECIALIDADE="30501016"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Transferência de Calor"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="451"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.25"
+                                SUBSETOR="Fabricação de produtos de metal, exceto máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2013004663129137"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Modelagem e simulação de processos de lingotamento contínuo de aços através do método dos volumes finitos em conjunto com malhas não-estruturadas."
+                         NOME-DA-LINHA-DE-PESQUISA="Análise termomecânica de lingotamento contínuo de aços"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Lingotamento Contínuo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">volumes finitos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">malhas não-estruturadas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Análise termomecânica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2663181961083657" NOME-COMPLETO="Francisco Marcondes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="40385"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3799940586873156"
+                             NOME-COMPLETO="Paulo Vicente de Cassia Lima Pimenta"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3572408"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501040" CODIGO-ESPECIALIDADE="30501040"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Princípios Variacionais e Métodos Numéricos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="454"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501016" CODIGO-ESPECIALIDADE="30501016"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Transferência de Calor"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="451"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="450"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.25.3"
+                                SUBSETOR="Fabricação de produtos de metal, exceto máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5134865980911149"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Modelagem da convecção natural em cavidades nos regimes laminar e turbulento"
+                         NOME-DA-LINHA-DE-PESQUISA="Transferencia de calor em cavidades"
+                         SEQUENCIA-LINHA-DE-PESQUISA="8">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">conveção natural</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">escoamento laminar</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">escoamento turbulento</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2663181961083657" NOME-COMPLETO="Francisco Marcondes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="40385"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9255986497194426" NOME-COMPLETO="José Renê de Sousa Rocha"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4177500"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5476635981893910" NOME-COMPLETO="Lais Ferreira Oton"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5594397"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3659686427555357" NOME-COMPLETO="Rebeca Pereira Marcondes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6028003"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="450"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28.2"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="2206312270055144"
+               RAZAO-SOCIAL-DA-EMPRESA="Petróleo Brasileiro S/A"
+               NATUREZA-JURIDICA="Sociedade de Economia Mista"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="33000167000101"
+               LOCALIDADE="Rio de Janeiro"
+               CIDADE="Rio de Janeiro"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="PETROBRAS"
+               NOME-DA-EMPRESA="Petróleo Brasileiro - Rio de Janeiro - Matriz"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.19.2"
+                                          SUBSETOR="Fabricação de produtos derivados do petróleo"
+                                          SETOR="Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis"
+                                          GRANDE-SETOR="Indústrias de transformação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS>
+      <EQUIPAMENTO DISPONIBILIZADO-OUTROS-PESQUISADORES="N" ESTADO="Atualizado"
+                   SITUACAO="Em operação"
+                   CUSTO-AQUISICAO="350000"
+                   MOEDA-AQUISICAO="REAL"
+                   ANO-AQUISICAO-EQUIPAMENTO-UNITARIO="2011"
+                   ESPECIFICACOES="SGI Rackable cluster composed of (1) head compute node SGI C2108 with (2) 195,400.00 195,400.00 six core 2.8 GHz Xeon processor, 48 GB DDR3 1333 MHz memory, (8) 3000 GB Hard Disk, (1) 42U Racks (5) SG"
+                   MODELO=""
+                   MARCA="SGI"
+                   NOME="Cluster com 20 nós"
+                   CLASSIFICACAO="Cluster para simulação de alto desempenho"
+                   TIPO-DE-EQUIPAMENTO="Equipamento unitário"
+                   DESENVOLVIMENTO-PROPRIO="N"
+                   SEQUENCIA-EQUIPAMENTO="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Petrobras</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </EQUIPAMENTO>
+   </EQUIPAMENTOS>
+   <SOFTWARES>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="N" CUSTO-LICENCIAMENTO="14000"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES="Gerador de Malhas de Elementos"
+                MODELO=""
+                VERSAO=""
+                NOME="ICEM"
+                CLASSIFICACAO="Engenharia/estatística/geoprocessamento"
+                TIPO-DE-LICENCIAMENTO="Comercial"
+                DESENVOLVIMENTO-PROPRIO="N"
+                SEQUENCIA-SOFTWARE="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Petrobras</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="N" CUSTO-LICENCIAMENTO="30000"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES=""
+                MODELO=""
+                VERSAO=""
+                NOME="Pacote ANSYS CFX/FLUENT/MECÂNICo"
+                CLASSIFICACAO="Engenharia/estatística/geoprocessamento"
+                TIPO-DE-LICENCIAMENTO="Comercial"
+                DESENVOLVIMENTO-PROPRIO="N"
+                SEQUENCIA-SOFTWARE="1">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">CNPq</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="1">Empresa privada</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+   </SOFTWARES>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

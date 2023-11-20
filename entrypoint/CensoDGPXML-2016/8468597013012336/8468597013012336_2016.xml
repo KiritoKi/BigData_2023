@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="8468597013012336"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="202712"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="25102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="6559786900267134" CODIGO-AREA-PREDOMINANTE="30100003"
+                           NOME-DA-UNIDADE="Faculdade de Engenharia de Bauru"
+                           NOME-DO-ORGAO="Faculdade de Engenharia de Bauru"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SP"
+                           SIGLA-DA-INSTITUICAO="UNESP"
+                           NOME-DA-INSTITUICAO="Universidade Estadual Paulista Júlio de Mesquita Filho"
+                           AREA-PREDOMINANTE="Engenharia Civil"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="2000"
+                           NOME-DO-GRUPO="ANÁLISE DE ESTRUTURAS VIA MÉTODOS NUMÉRICOS">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="7901652737291917" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Osvaldo Luís Manzoli"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="7167694108659586" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Caio Gorla Nogueira"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3506003" DDDFAX="14"
+                                       LONGITUDE="-49.03233230000001"
+                                       LATITUDE="-22.3472338"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Bauru"
+                                       NUMERO="14-01"
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="Av. Eng. Luiz Edmundo C. Coube"
+                                       HOME-PAGE="http://"
+                                       E-MAIL="omanzoli@feb.unesp.br"
+                                       FAX="31036101"
+                                       RAMAL=""
+                                       TELEFONE="31036112"
+                                       DDD="14"
+                                       CEP="17033360"
+                                       CIDADE="Bauru"
+                                       UF="SP"
+                                       BAIRRO="Vargem Limpa"/>
+      <REPERCUSSOES>A principal forma de previsão do comportamento de estruturas, já há algum tempo, é através de modelagem matemática de sua topologia e características dos materiais empregados, bem como das ações atuantes. Com tal abordagem, podem-se avaliar novos métodos, algoritmos e procedimentos, propiciando excelente via para pesquisa científica na área de análise estrutural, visando-se maior segurança associada à economia.  As pesquisas desenvolvidas pelos membros deste grupo estão, nesse contexto, relacionadas ao estudo de técnicas que permitam aperfeiçoar a análise do comportamento mecânico de estruturas em geral, em diversos campos de aplicação da engenharia.  Utilizando-se como ferramentas principalmente os métodos dos elementos finitos e dos elementos de contorno, experimentam-se e comprovam-se formulações matemáticas ainda não empregadas para a análise estática e dinâmica de estruturas bi e tri-dimensionais dos mais variados materiais e configurações geométricas, sob ações as mais diversas que possam se constituir em situações de projeto ou em análises de segurança.  Os códigos computacionais desenvolvidos têm o objetivo de permitir que se conclua sobre a conveniência e/ou viabilidade de possíveis soluções propostas para problemas de engenharia, com melhor previsão do comportamento mecânico. Outra vertente que merece atenção é a obtenção de resultados de boa qualidade com menor dispêndio de tempo de processamento.  O tema é de fundamental importância para a engenharia, como o comprova o grande número de grupos em outras instituições que a ele se dedicam e com os quais já está estabelecido um intercâmbio natural através da formação profissional dos elementos deste grupo.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="CHUEIRI, L. H. M." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3118227504955523"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Lauro Henrique Mello Chueiri">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica e Experimental de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Construção Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino de Engenharia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estruturas de Concreto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Estruturas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="NOGUEIRA, C. G.;NOGUEIRA, CAIO G." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7167694108659586"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Caio Gorla Nogueira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica e Experimental de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Confiabilidade Estrutural e Otimização de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Durabilidade de Estruturas em Concreto Armado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Confiabilidade Estrutural</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Durabilidade de Estruturas de Concreto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estruturas de Concreto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Estruturas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Numéricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização Estrutural</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="RODRIGUES, Roger Augusto;Rodrigues, Roger Augusto"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8656303055040496"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Roger Augusto Rodrigues">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de fraturamento em rochas e reativação de falhas geológicas com acoplamento hidráulico-mecânico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fundações</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geologia de Engenharia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Solos Não Saturados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas dos Solos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Obras de Terra</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PRAZERES, P. G. C.;PRAZERES, PLÍNIO G.C.;PRAZERES, PLÍNIO G. C."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6175760351403329"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Plínio Glauber Carvalho dos Prazeres">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica e Experimental de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Não-Linear de Estruturas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estruturas de Concreto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica Computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Estruturas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GUIMARÃES, L. do N.;Guimarães, Leonardo José do Nascimento;Guimarães, L.;GUIMARÃES, LEONARDO J.N."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3821425977868488"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Leonardo José do Nascimento Guimarães">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de fraturamento em rochas e reativação de falhas geológicas com acoplamento hidráulico-mecânico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Acoplada Termo-Hidro-Mecânica e Geoquímica (THMG) em Meios Porosos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Comportamento de Solos Não Saturados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fraturamento Hidráulico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geomecânica Computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Solos e das Rochas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem Constitutiva de Solos e Rochas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BITTENCOURT, T. N.;Bittencourt, Túlio Nogueira;BITTENCOURT, TÚLIO N.;BITTENCOURT, TULIO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3548554171023581"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Tulio Nogueira Bittencourt">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica e Experimental de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estruturas de Concreto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Estruturas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Corpos Sólidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CAPELLO SOUSA, E. A.;DESOUSA, E;Capello Souza, Edson Antonio;de Sousa, Edson Antonio Capello;Capello de Sousa, Edson Antônio;Sousa, Edson;Souza, Edson Antonio Capello;CAPELLO SOUSA, EDSON A.;SOUSA, EDSON ANTÔNIO CAPELLO;SOUSA, EDSON ANTONIO CAPELLO;Edson Antonio Capello de Souza;EDSON, ANTONIO CAPELLO DE SOUZA;CAPELLO SOUSA, EDSON ANTONIO;Edson A. Capello de Sousa;de Sousa, Edson A. Capello"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8934648262859482"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Edson Antonio Capello Sousa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica e Experimental de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Tensões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biomecânica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica Estrutural</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Corpos Sólidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem Por Elementos Finitos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Projeto de Estruturas Biomecânicas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MANZOLI, O. L.;MANZOLI, O.;Manzoli, O.L.;MANZOLI, OSVALDO L."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7901652737291917"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Osvaldo Luís Manzoli">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica e Experimental de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de fraturamento em rochas e reativação de falhas geológicas com acoplamento hidráulico-mecânico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Tensões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Estruturas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Corpos Sólidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="RODRIGUES, E. A.;Rodrigues, E.A.;RODRIGUES, EDUARDO A.;Eduardo A. Rodrigues"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7046042779817084"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Eduardo Alexandre Rodrigues">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de fraturamento em rochas e reativação de falhas geológicas com acoplamento hidráulico-mecânico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica e Experimental de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BESERRA, Leila Brunet de Sá;BESERRA, L. B .S.;BESERRA, LEILA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="F"
+                   NRO-ID-CNPQ="7548008171354094"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Leila Brunet de Sá Beserra">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de fraturamento em rochas e reativação de falhas geológicas com acoplamento hidráulico-mecânico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geomecânica de Reservatórios de Petróleo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geotécnica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas das Rochas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas dos Solos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BITENCOURT JR., L. A. G.;BITENCOURT JUNIOR, L. A. G.;BITENCOURT Jr, L. A. G.;BITENCOURT, LUÍS A.G.;BITENCOURT, LUÍS A. G.;BITENCOURT JR., LUÍS A.G."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3589131311896419"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Luís Antônio Guimarães Bitencourt Júnior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica e Experimental de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estruturas de Concreto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica Computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Estruturas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Corpos Sólidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SEIXAS, M. G." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="11"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3730500288125594"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcela Gomes Seixas">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de fraturamento em rochas e reativação de falhas geológicas com acoplamento hidráulico-mecânico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ánalise e Simulação Numérica do comportamento dos solos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geotécnica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas dos Solos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem e Simulação Numérica de Reservatórios de Petróleo</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LEONEL, E. D.;Leonel, Edson Denner;Leonel, E.D.;LEONEL ED;SERGIO GFC, LEONEL ED;LEONEL, EDSON D.;CORDEIRO SG, FERREIRA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="12"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7733490405419390"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Edson Denner Leonel">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica e Experimental de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Durabilidade de Estruturas em Concreto Armado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Confiabilidade Estrutural e Otimização de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Confiabilidade Estrutural</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estruturas de Concreto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica da Fratura</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Estruturas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Numéricos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="MAEDO, M. A.;M.A. Maedo;Maedo, M;MAEDO, MICHAEL A.;Andrade Maedo, M.;Michael A. Maedo"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado no Exterior"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="OSVALDO LUIS MANZOLI"
+                 NRO-ID-CNPQ-ORIENTADOR="7901652737291917"
+                 SEQUENCIA-ESTUDANTE="3616324"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0851055974290908"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Michael Andrade Maedo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica e Experimental de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de fraturamento em rochas e reativação de falhas geológicas com acoplamento hidráulico-mecânico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CLETO, P. R.;CLETO, Pedro R." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="OSVALDO LUIS MANZOLI"
+                 NRO-ID-CNPQ-ORIENTADOR="7901652737291917"
+                 SEQUENCIA-ESTUDANTE="2918731"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2002340178436235"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Pedro Rogério Cleto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de fraturamento em rochas e reativação de falhas geológicas com acoplamento hidráulico-mecânico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Projetos Mecânicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Supercondutividade</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DONADELI, E. R." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="OSVALDO LUIS MANZOLI"
+                 NRO-ID-CNPQ-ORIENTADOR="7901652737291917"
+                 SEQUENCIA-ESTUDANTE="4066208"
+                 SEXO="F"
+                 NRO-ID-CNPQ="5472782259367896"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Elisa Ravagnani Donadeli">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica e Experimental de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PEDRO, L. M." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="OSVALDO LUIS MANZOLI"
+                 NRO-ID-CNPQ-ORIENTADOR="7901652737291917"
+                 SEQUENCIA-ESTUDANTE="4640697"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1158356009165459"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lucas Martins Pedro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica e Experimental de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos Construtivos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GIMENES, M." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="OSVALDO LUIS MANZOLI"
+                 NRO-ID-CNPQ-ORIENTADOR="7901652737291917"
+                 SEQUENCIA-ESTUDANTE="4498366"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8452393506435014"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marcela Gimenes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica e Experimental de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estruturas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="AMBIEL, J. H. K." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="OSVALDO LUIS MANZOLI"
+                 NRO-ID-CNPQ-ORIENTADOR="7901652737291917"
+                 SEQUENCIA-ESTUDANTE="5439255"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0893172523208712"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="José Henrique Krähenbühl Ambiel">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica e Experimental de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PELLIZZER, G. P." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDSON DENNER LEONEL"
+                 NRO-ID-CNPQ-ORIENTADOR="7733490405419390"
+                 SEQUENCIA-ESTUDANTE="3505777"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6998190367403434"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Giovanni Pais Pellizzer">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Durabilidade de Estruturas em Concreto Armado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Confiabilidade Estrutural</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estruturas de Concreto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Estruturas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Numéricos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="HARAKI, J. V. L." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CAIO GORLA NOGUEIRA"
+                 NRO-ID-CNPQ-ORIENTADOR="7167694108659586"
+                 SEQUENCIA-ESTUDANTE="4951706"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2797706494841794"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="José Vitor de Lira Haraki">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica e Experimental de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PINTO, M. D. T." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CAIO GORLA NOGUEIRA"
+                 NRO-ID-CNPQ-ORIENTADOR="7167694108659586"
+                 SEQUENCIA-ESTUDANTE="5441444"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1921963944445478"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Matheus Debianchi Travnisk Pinto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Confiabilidade Estrutural e Otimização de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GASPERSEN, G. M." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CAIO GORLA NOGUEIRA"
+                 NRO-ID-CNPQ-ORIENTADOR="7167694108659586"
+                 SEQUENCIA-ESTUDANTE="5448218"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2548782609886269"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Guilherme Mendes Gaspersen">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Confiabilidade Estrutural e Otimização de Estruturas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8881566806294188"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha de pesquisa consiste na simulação numérica da resposta de estruturas em concreto armado, mediante modelos não lineares de comportamento de materiais e técnicas numéricas avançadas de resolução de sistemas (1D, 2D e 3D). A partir de resultados experimentais, modelos numéricos baseados nas mecânicas do dano, da fratura e plasticidade são empregados para a representação do comportamento estrutural, dentre os quais destacam-se trajetórias de equilíbrio e panorama de fissuração."
+                         NOME-DA-LINHA-DE-PESQUISA="Análise Numérica e Experimental de Estruturas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Método dos Elementos Finitos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Dinâmica de estruturas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Algoritmos de Integração</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Mecânica do Dano</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Mecânica da Fratura</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Teoria da Plasticidade</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3118227504955523" NOME-COMPLETO="Lauro Henrique Mello Chueiri"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="179962"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7167694108659586" NOME-COMPLETO="Caio Gorla Nogueira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="214763"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6175760351403329"
+                               NOME-COMPLETO="Plínio Glauber Carvalho dos Prazeres"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="550564"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3548554171023581" NOME-COMPLETO="Tulio Nogueira Bittencourt"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="20254"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8934648262859482" NOME-COMPLETO="Edson Antonio Capello Sousa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100556"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7901652737291917" NOME-COMPLETO="Osvaldo Luís Manzoli"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="62775"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7046042779817084" NOME-COMPLETO="Eduardo Alexandre Rodrigues"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2847582"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3589131311896419"
+                               NOME-COMPLETO="Luís Antônio Guimarães Bitencourt Júnior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="670459"
+                               SEQUENCIA-PESQUISADOR="8"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7733490405419390" NOME-COMPLETO="Edson Denner Leonel"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="215411"
+                               SEQUENCIA-PESQUISADOR="9"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0851055974290908" NOME-COMPLETO="Michael Andrade Maedo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3616324"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5472782259367896" NOME-COMPLETO="Elisa Ravagnani Donadeli"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4066208"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1158356009165459" NOME-COMPLETO="Lucas Martins Pedro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4640697"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8452393506435014" NOME-COMPLETO="Marcela Gimenes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4498366"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0893172523208712" NOME-COMPLETO="José Henrique Krähenbühl Ambiel"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5439255"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2797706494841794" NOME-COMPLETO="José Vitor de Lira Haraki"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4951706"
+                             SEQUENCIA-ESTUDANTE="6"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30102014" CODIGO-ESPECIALIDADE="30102014"
+                                  CODIGO-SUB-AREA="30102006"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Estruturas de Concreto"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Estruturas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="357"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30102049" CODIGO-ESPECIALIDADE="30102049"
+                                  CODIGO-SUB-AREA="30102006"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica das Estruturas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Estruturas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="360"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30503027" CODIGO-ESPECIALIDADE="30503027"
+                                  CODIGO-SUB-AREA="30503000"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Dinâmica dos Corpos Rígidos, Elásticos e Plásticos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Mecânica dos Sólidos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="461"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="F" SUBSETOR="" SETOR="Construção"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1836907328138856"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver metodologias computacionais para a representação do processo de fraturamento em rochas, proporcionado pela injeção de fluídos ao meio poroso sob elevadas pressões. A metodologia tem base em modelos hidro-mecânicos acoplados e visa aplicações  voltadas à processos usados na indústria de petróleo, seja para a produção de gás de folhelhos (shale gas) ou de petróleo, com análise de riscos de ativação de falhas geológicas. "
+                         NOME-DA-LINHA-DE-PESQUISA="Modelagem de fraturamento em rochas e reativação de falhas geológicas com acoplamento hidráulico-mecânico"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">fraturamento hidráulico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">petróleo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">falhas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">acoplamento hidro-mecânico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">gás de folhelho (shale gas)</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8656303055040496" NOME-COMPLETO="Roger Augusto Rodrigues"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="546638"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3821425977868488"
+                               NOME-COMPLETO="Leonardo José do Nascimento Guimarães"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="116451"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7901652737291917" NOME-COMPLETO="Osvaldo Luís Manzoli"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="62775"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7046042779817084" NOME-COMPLETO="Eduardo Alexandre Rodrigues"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2847582"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7548008171354094" NOME-COMPLETO="Leila Brunet de Sá Beserra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="868599"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3730500288125594" NOME-COMPLETO="Marcela Gomes Seixas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2064885"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0851055974290908" NOME-COMPLETO="Michael Andrade Maedo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3616324"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2002340178436235" NOME-COMPLETO="Pedro Rogério Cleto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2918731"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10701109" CODIGO-ESPECIALIDADE="10701109"
+                                  CODIGO-SUB-AREA="10701001"
+                                  CODIGO-AREA="10700005"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Prospecção Mineral"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geologia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Geociências"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="189"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30103029" CODIGO-ESPECIALIDADE="30103029"
+                                  CODIGO-SUB-AREA="30103002"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânicas das Rochas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geotécnica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="363"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="F" SUBSETOR="" SETOR="Construção"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8265840090667322"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha de pesquisa tem como principal objetivo o estudo da penetração de agentes agressivos no interior do concreto, com potencialização do fenômeno da corrosão de armaduras e comprometimento da capacidade portante e durabilidade das estruturas. A partir desses estudos, torna-se possível a determinação de probabilidades de falha de cenários de corrosão, tais como tempo de início de corrosão, porcentagem de degradação das armaduras e intervalos de inspeção e manutenção estrutural."
+                         NOME-DA-LINHA-DE-PESQUISA="Durabilidade de Estruturas em Concreto Armado"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Corrosão de armaduras</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Leis de Fick</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Leis de Faraday</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Inspeção e manutenção</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Concreto armado</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Durabilidade</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7167694108659586" NOME-COMPLETO="Caio Gorla Nogueira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="214763"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7733490405419390" NOME-COMPLETO="Edson Denner Leonel"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="215411"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6998190367403434" NOME-COMPLETO="Giovanni Pais Pellizzer"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3505777"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30102014" CODIGO-ESPECIALIDADE="30102014"
+                                  CODIGO-SUB-AREA="30102006"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Estruturas de Concreto"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Estruturas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="357"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="F.41.2" SUBSETOR="Construção de edifícios"
+                                SETOR="Construção"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1359977259703542"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha de pesquisa tem como principais objetivos: determinação de estruturas com dimensões otimizadas que conduzem à configuração de mínimo custo (ótima) e a determinação de probabilidades de ocorrência de cenários que caracterizam qualquer tipo de falha estrutural via Teoria da Confiabilidade. Além disso, uma aplicação natural é a combinação de ambas as áreas para o chamado Projeto Ótimo Baseado em Confiabilidade (RBDO)."
+                         NOME-DA-LINHA-DE-PESQUISA="Confiabilidade Estrutural e Otimização de Estruturas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Confiabilidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Otimização estrutural</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">RBDO</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Probabilidade de falha</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">risco</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7167694108659586" NOME-COMPLETO="Caio Gorla Nogueira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="214763"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7733490405419390" NOME-COMPLETO="Edson Denner Leonel"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="215411"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1921963944445478" NOME-COMPLETO="Matheus Debianchi Travnisk Pinto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5441444"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2548782609886269" NOME-COMPLETO="Guilherme Mendes Gaspersen"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5448218"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30102049" CODIGO-ESPECIALIDADE="30102049"
+                                  CODIGO-SUB-AREA="30102006"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica das Estruturas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Estruturas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="360"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="F.41.2" SUBSETOR="Construção de edifícios"
+                                SETOR="Construção"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="6286607002277449"
+               RAZAO-SOCIAL-DA-EMPRESA="Escola de Engenharia de São Carlos"
+               NATUREZA-JURIDICA="Autarquia Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="63025530000104"
+               LOCALIDADE="São Carlos"
+               CIDADE="São Carlos"
+               UF="SP"
+               SIGLA-DA-EMPRESA="EESC/USP"
+               NOME-DA-EMPRESA="Escola de Engenharia de São Carlos"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="8939210333084090"
+               RAZAO-SOCIAL-DA-EMPRESA="Escola Politécnica da Universidade de São paulo"
+               NATUREZA-JURIDICA="Autarquia Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="63025530000104"
+               LOCALIDADE="São Paulo"
+               CIDADE="São Paulo"
+               UF="SP"
+               SIGLA-DA-EMPRESA="USP"
+               NOME-DA-EMPRESA="Escola Politécnica"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="3604207329316305" RAZAO-SOCIAL-DA-EMPRESA=""
+               NATUREZA-JURIDICA="Autarquia Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="24134488000108"
+               LOCALIDADE="Recife"
+               CIDADE="Recife"
+               UF="PE"
+               SIGLA-DA-EMPRESA="UFPE"
+               NOME-DA-EMPRESA="Centro de Tecnologia"
+               SEQUENCIA-EMPRESA="2">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="14">Desenvolvimento de software não-rotineiro para o grupo pelo parceiro</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7548008171354094"
+               NOME-DO-EGRESSO="Leila Brunet de Sá Beserra"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3730500288125594"
+               NOME-DO-EGRESSO="Marcela Gomes Seixas"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7046042779817084"
+               NOME-DO-EGRESSO="Eduardo Alexandre Rodrigues"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3589131311896419"
+               NOME-DO-EGRESSO="Luís Antônio Guimarães Bitencourt Júnior"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7046042779817084"
+               NOME-DO-EGRESSO="Eduardo Alexandre Rodrigues"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7548008171354094"
+               NOME-DO-EGRESSO="Leila Brunet de Sá Beserra"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3589131311896419"
+               NOME-DO-EGRESSO="Luís Antônio Guimarães Bitencourt Júnior"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3730500288125594"
+               NOME-DO-EGRESSO="Marcela Gomes Seixas"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7548008171354094"
+               NOME-DO-EGRESSO="Leila Brunet de Sá Beserra"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3730500288125594"
+               NOME-DO-EGRESSO="Marcela Gomes Seixas"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7046042779817084"
+               NOME-DO-EGRESSO="Eduardo Alexandre Rodrigues"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3589131311896419"
+               NOME-DO-EGRESSO="Luís Antônio Guimarães Bitencourt Júnior"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3589131311896419"
+               NOME-DO-EGRESSO="Luís Antônio Guimarães Bitencourt Júnior"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7548008171354094"
+               NOME-DO-EGRESSO="Leila Brunet de Sá Beserra"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3730500288125594"
+               NOME-DO-EGRESSO="Marcela Gomes Seixas"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7046042779817084"
+               NOME-DO-EGRESSO="Eduardo Alexandre Rodrigues"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="23092014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7548008171354094"
+               NOME-DO-EGRESSO="Leila Brunet de Sá Beserra"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="23092014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7046042779817084"
+               NOME-DO-EGRESSO="Eduardo Alexandre Rodrigues"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="23092014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3730500288125594"
+               NOME-DO-EGRESSO="Marcela Gomes Seixas"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="23092014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3589131311896419"
+               NOME-DO-EGRESSO="Luís Antônio Guimarães Bitencourt Júnior"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="06112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7046042779817084"
+               NOME-DO-EGRESSO="Eduardo Alexandre Rodrigues"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="06112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3730500288125594"
+               NOME-DO-EGRESSO="Marcela Gomes Seixas"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="06112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7548008171354094"
+               NOME-DO-EGRESSO="Leila Brunet de Sá Beserra"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="06112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3589131311896419"
+               NOME-DO-EGRESSO="Luís Antônio Guimarães Bitencourt Júnior"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="11112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7046042779817084"
+               NOME-DO-EGRESSO="Eduardo Alexandre Rodrigues"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="11112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7548008171354094"
+               NOME-DO-EGRESSO="Leila Brunet de Sá Beserra"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="11112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3730500288125594"
+               NOME-DO-EGRESSO="Marcela Gomes Seixas"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="11112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3589131311896419"
+               NOME-DO-EGRESSO="Luís Antônio Guimarães Bitencourt Júnior"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="12112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3730500288125594"
+               NOME-DO-EGRESSO="Marcela Gomes Seixas"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="12112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7548008171354094"
+               NOME-DO-EGRESSO="Leila Brunet de Sá Beserra"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="12112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3589131311896419"
+               NOME-DO-EGRESSO="Luís Antônio Guimarães Bitencourt Júnior"/>
+      <EGRESSO DATA-SAIDA="11042016" DATA-ENTRADA="12112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7046042779817084"
+               NOME-DO-EGRESSO="Eduardo Alexandre Rodrigues"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

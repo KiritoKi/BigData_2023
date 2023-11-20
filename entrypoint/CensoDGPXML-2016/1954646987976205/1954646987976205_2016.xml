@@ -1,0 +1,1694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="1954646987976205"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="162615"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="10102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="9746959743820285" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE="Departamento de Informática e Matemática Aplicada"
+                           NOME-DO-ORGAO="Departamento de Informática e Matemática Aplicada"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="RN"
+                           SIGLA-DA-INSTITUICAO="UFRN"
+                           NOME-DA-INSTITUICAO="Universidade Federal do Rio Grande do Norte"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2013"
+                           NOME-DO-GRUPO="Fundamentos e Aplicações de Lógica Fuzzy e suas Extensões">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="4601263005352005" PAIS-DE-NASCIMENTO="CHL" NACIONALIDADE="E"
+                         NOME-COMPLETO="Benjamín René Callejas Bedregal"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="9414212573217453" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Graçaliz Pereira Dimuro"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="2408102" DDDFAX="08"
+                                       LONGITUDE="-35.19864499568939"
+                                       LATITUDE="-5.84144789836706"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Natal"
+                                       NUMERO="0"
+                                       COMPLEMENTO="Campus Univ ersitario sn, Departamento de Informática e Matemática Aplicada"
+                                       LOGRADOURO="AC Universidade Federal do Rio Grande do Norte"
+                                       HOME-PAGE=""
+                                       E-MAIL="bedregal@dimap.ufrn.br"
+                                       FAX="32153813"
+                                       RAMAL=""
+                                       TELEFONE="32153814"
+                                       DDD="08"
+                                       CEP="59078970"
+                                       CIDADE="Natal"
+                                       UF="RN"
+                                       BAIRRO="Lagoa Nova"/>
+      <REPERCUSSOES>A teoria dos conjuntos fuzzy propõe flexibilizar a teoria usual de conjuntos por considerar infinitos níveis ou graus de pertinência, valorados no intervalo [0,1]. Extensões fuzzy para relações e operações sobre conjuntos, no sentido de modelar a incerteza e a vagueza da informação quando do estudo de suas propriedades, permitem lidar com as imprecisões, ignorâncias e hesitações presentes em problemas do mundo real. Associada a esta teoria, a lógica fuzzy (LF) se consolida como o formalismo adequado para modelar a capacidade humana de raciocínio aproximado e apoio à tomada de decisão em ambientes sujeitos a informações incertas. Esta capacidade de lidar com a incerteza tem estimulado a aplicação da LF em diversas áreas da computação, destacando-se sistemas multi-agentes, soft-computing, aprendizagem de máquinas e descoberta de conhecimento, processamento de informação, sistemas de controle, computação granular e processamento de linguagem natural. Além destas, surgem aplicações em áreas como economia, medicina, engenharia, estatística e agricultura. As várias extensões propostas buscando contornar a rigidez imposta quando da definição de um conjunto fuzzy, o qual não permite considerar completamente esta vagueza quando impõe a atribuição de um valor no intervalo [0,1] ao grau de pertinência de um elemento a determinado conjunto. Este grau de pertinência, frequentemente obtido por um especialista, pode variar pela escolha do especialista, pela frequência ou atualização das informações que lhe são disponibilizadas. Assim, diversas propostas para flexibilização dos graus de pertinências vem sendo estudadas, destacam-se a LF intervalar e a LF intuicionista. Neste contexto, este grupo tem suas ações voltadas para pesquisas sobre operadores e conectivos fuzzy, incluindo as lógicas [0,1]-valorados e aquelas com valorações não tradicionais, considerando ainda o desenvolvimento de aplicações e ferramentas com suporte nesta teoria.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="BEDREGAL, B. R. C.;Bedregal, B. C.;CALLEJASBEDREGAL, B;Bedregal, B.C.;Bedregal, Benjamín Callejas;Bedregal, Benjamín René Callejas;Bedregal, B.R.C;Bedregal, B.R.C.;Callejas Bedregal, B.R.;Callejas Bedregal, Benjamín René;BEDREGAL, B;Bedregal, Benjamín;BEDREGAL, BENJAMIN;BEDREGAL, BENJAMIN C.;BEDREGAL, BENJAMIN R C;BEDREGAL, BENJAMIN RENE CALLEJAS;BEDREGAL, BENJAMIN R. C.;BEDREGAL, BENJAMIN R.C.;Bedregal, Benjamin;BEDREGAL, BENJAM'N R. C.;BEDREGAL, BENJAM'N;BEDREGAL, BENJAMÍN R. C.;BEDREGAL, B."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4601263005352005"
+                   PAIS-DE-NASCIMENTO="CHL"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Benjamín René Callejas Bedregal">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Agrupamentos e Classificação fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Probabilidades fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Matemática fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas algébricos para lógicas fuzzy e suas extensões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tomada de decisão e Risco fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computabilidade e linguagens formais fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computabilidade e Modelos de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagem Formais e Autômatos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógicas e Semântica de Programas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Intervalar</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Mezzomo, I;MEZZOMO, I.;Mezzomo, Ivan"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8141562673945467"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ivan Mezzomo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Matemática fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Álgebra</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geometria Algébrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Logica Fuzzy</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANTIAGO, R. H. N.;Santiago, R.H.N.;SANTIAGO, REGIVAN H. N.;SANTIAGO, REGIVAN;SANTIAGO, REGIVAN H.N.;REGIVAN H N SANTIAGO;REGIVAN H. N. SANTIAGO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7536988783793885"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Regivan Hugo Nunes Santiago">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Agrupamentos e Classificação fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Matemática fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas algébricos para lógicas fuzzy e suas extensões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tomada de decisão e Risco fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="processamento digital de imagens e morfologia matemática fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="DIMURO, G. P.;Dimuro, Graçaliz P.;Dimuro, G.P.;Dimuro, Graçaliz Pereira;Dimuro, Gracaliz Pereira;DIMURO, GRACALIZ P.;DIMURO, GRAÇALIZ;Dimuro, Graçaliz;Graçaliz Pereira Dimuro;Graçaliz Dimuro;DIMURO, GRACALIZ;PEREIRA DIMURO, GRAÇALIZ"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="F"
+                   NRO-ID-CNPQ="9414212573217453"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Graçaliz Pereira Dimuro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Agrupamentos e Classificação fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Probabilidades fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="jogos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computabilidade e Modelos de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fundamentos Matemáticos da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Intervalar</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos de Decisão Em Sistemas Multiagentes</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANTANA, F. L.;SANTANA, FAGNER" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9444112594388983"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fágner Lemos de Santana">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Matemática fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Probabilidade</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="REISER, Renata Hax Sander;Reiser, Renata H.S.;Reiser, R.H.S.;Reiser, Renata;Reiser, Renata Hax Sander;Reiser, Renata Sander;Reiser, Renata H. S.;Reiser, R. H. S.;Reiser, Renata H. Sander;REISER, R.;REISER, RENATA H S"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3283691152621834"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Renata Hax Sander Reiser">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Agrupamentos e Classificação fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Matemática fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computabilidade e Modelos de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Quântica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógica Fuzzy</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Intervalar</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Paralelo e Distribuído</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MARCOS, J.;Marcos, João;MARCOS, JOAO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3059324458238110"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Joao Marcos de Almeida">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Combinações Entre Lógicas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógica Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógicas Não Clássicas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Semânticas Formais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PALMEIRA, E. S.;Palmeira, Eduardo Silva"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9061067320839776"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Eduardo Silva Palmeira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Álgebra</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Topologia Algébrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CRUZ, A. P.;Cruz, Anderson P.;CRUZ, ANDERSON P.;CRUZ, ANDERSON;CRUZ, ANDERSON PAIVA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4553903531932794"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Anderson Paiva Cruz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógica Computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ROCHA, Marcus Pinto da Costa da" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7169569605967930"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcus Pinto da Costa da Rocha">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tomada de decisão e Risco fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geofísica Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Probabilidade e Estatística Aplicadas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANTANA, Fabiana T.;SANTANA, FABIANA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3232330829280658"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fabiana Tristão de Santana">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Matemática fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino de Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Intervalar</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Intervalar Aplicada em Processamento Digital de Sinais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="de VARGAS, R.;R. R. Vargas;Rogério R. de Vargas;R. Vargas"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="11"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3688563150032671"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rogério Rodrigues de Vargas">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Agrupamentos e Classificação fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medição, Controle, Correção e Proteção de Sistemas Elétricos  de Potência</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SILVA, L. R.;SILVA, LILIANE" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="12"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0521358821384556"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Liliane Ribeiro da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Agrupamentos e Classificação fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aprendizagem de Máquina</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Intervalar</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BERGAMASCHI, F. B.;BERGAMASCHI, FLAULLES BOONE;BERGAMASCHI, FLAULLES B.;BOONE BERGAMASCHI, FLAULLES;BERGAMASCHI, FLAULLES;FLAULLES B. BERGAMASCHI"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="13"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2610624203466231"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Flaulles Boone Bergamaschi">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Matemática fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas algébricos para lógicas fuzzy e suas extensões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Álgebra Comutativa</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria dos Números</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="LUCCA, Giancarlo.;LUCCA, G.;LUCCA, GIANCARLO"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado no Exterior"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="GRACALIZ PEREIRA DIMURO"
+                 NRO-ID-CNPQ-ORIENTADOR="9414212573217453"
+                 SEQUENCIA-ESTUDANTE="4197705"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8796491947184490"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Giancarlo Lucca">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Agrupamentos e Classificação fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Daniela, B. P." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCUS PINTO DA COSTA DA ROCHA"
+                 NRO-ID-CNPQ-ORIENTADOR="7169569605967930"
+                 SEQUENCIA-ESTUDANTE="6628518"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6760196759936473"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Daniela Baena Pereira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="processamento digital de imagens e morfologia matemática fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PEREIRA JUNIOR, S. F." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="GRACALIZ PEREIRA DIMURO"
+                 NRO-ID-CNPQ-ORIENTADOR="9414212573217453"
+                 SEQUENCIA-ESTUDANTE="3408770"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4185652499006339"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Sidnei da Fonseca Pereira Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Agrupamentos e Classificação fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Moura, Bruno Moura Paz;Moura, Bruno M. P;Moura, B. M. P.;Moura, Bruno;MOURA, Bruno Moura Paz;Moura, Bruno Paz;Bruno, M. P.;Bruno, M. P. M.;Moura, Bruno P.;Moura, Bruno M. P.;B. MOURA;BRUNO, M. P. M."
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RENATA HAX SANDER REISER"
+                 NRO-ID-CNPQ-ORIENTADOR="3283691152621834"
+                 SEQUENCIA-ESTUDANTE="4728197"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1157874276867537"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruno Moura Paz de Moura">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tomada de decisão e Risco fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Sistemas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Computadores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOUSA, E. M. S.;SOUSA, EMMANUELLY"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="REGIVAN HUGO NUNES SANTIAGO"
+                 NRO-ID-CNPQ-ORIENTADOR="7536988783793885"
+                 SEQUENCIA-ESTUDANTE="3514331"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9825526718492097"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Emmanuelly Monteiro Silva de Sousa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Matemática fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NOVAES JÚNIOR, M. G." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDUARDO SILVA PALMEIRA"
+                 NRO-ID-CNPQ-ORIENTADOR="9061067320839776"
+                 SEQUENCIA-ESTUDANTE="6282644"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6803996125191772"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Messias Gomes Novaes Júnior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Matemática fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Licenciatura</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PINHEIRO, Antônia Jocivania" NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="REGIVAN HUGO NUNES SANTIAGO"
+                 NRO-ID-CNPQ-ORIENTADOR="7536988783793885"
+                 SEQUENCIA-ESTUDANTE="726449"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3360570680875149"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Antônia Jocivania Pinheiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Agrupamentos e Classificação fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas algébricos para lógicas fuzzy e suas extensões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geometria Diferencial</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LIMA, A. A." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BENJAMIN RENE CALLEJAS BEDREGAL"
+                 NRO-ID-CNPQ-ORIENTADOR="4601263005352005"
+                 SEQUENCIA-ESTUDANTE="2633966"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5475310954801918"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Annaxsuel Araújo de Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Matemática fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MELO, T. T." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="REGIVAN HUGO NUNES SANTIAGO"
+                 NRO-ID-CNPQ-ORIENTADOR="7536988783793885"
+                 SEQUENCIA-ESTUDANTE="4239530"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6492553439883427"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Tamara Tavares de Melo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Agrupamentos e Classificação fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria dos Números</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PAIVA, R. E. B." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="REGIVAN HUGO NUNES SANTIAGO"
+                 NRO-ID-CNPQ-ORIENTADOR="7536988783793885"
+                 SEQUENCIA-ESTUDANTE="2101287"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8240653963150965"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rui Eduardo Brasileiro Paiva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Matemática fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciências da Natureza, Matemática e suas Tecnologias</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria das Folheações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PEDRO,R.P.R." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCUS PINTO DA COSTA DA ROCHA"
+                 NRO-ID-CNPQ-ORIENTADOR="7169569605967930"
+                 SEQUENCIA-ESTUDANTE="5676421"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2279790132109741"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Pedro Robson Pascoal Ribamar">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="processamento digital de imagens e morfologia matemática fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Lima, L. M.;Lima, Lucélia" NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BENJAMIN RENE CALLEJAS BEDREGAL"
+                 NRO-ID-CNPQ-ORIENTADOR="4601263005352005"
+                 SEQUENCIA-ESTUDANTE="2812520"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1673504227986880"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lucélia Marques Lima da Rocha">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Probabilidades fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Equações Diferenciais Parciais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ZANOTELLI, R. M.;ZANOTELLI, ROSANA;ZANOTELLI, ROSANA MEDINA"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RENATA HAX SANDER REISER"
+                 NRO-ID-CNPQ-ORIENTADOR="3283691152621834"
+                 SEQUENCIA-ESTUDANTE="4305598"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0946244793710934"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rosana Medina Zanotelli">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS, H. S.;Santos, H.;SANTOS, HELIDA"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BENJAMIN RENE CALLEJAS BEDREGAL"
+                 NRO-ID-CNPQ-ORIENTADOR="4601263005352005"
+                 SEQUENCIA-ESTUDANTE="545047"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2096843997457737"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Hélida Salles Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computabilidade e linguagens formais fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagem Formais e Autômatos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógicas e Semântica de Programas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LEMKE, Alexandre" NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RENATA HAX SANDER REISER"
+                 NRO-ID-CNPQ-ORIENTADOR="3283691152621834"
+                 SEQUENCIA-ESTUDANTE="554138"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2886035516765873"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alexandre Lemke">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cosmologia e relatividade</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Letras Orientais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagem Formais e Autômatos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógicas e Semântica de Programas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MOURA, Ronildo P. A.;MOURA, Ronildo;MOURA, R.;Moura, Ronildo"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BENJAMIN RENE CALLEJAS BEDREGAL"
+                 NRO-ID-CNPQ-ORIENTADOR="4601263005352005"
+                 SEQUENCIA-ESTUDANTE="561045"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8664977292629302"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ronildo Pinheiro De Araujo Moura">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Agrupamentos e Classificação fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aprendizagem de Máquina</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Intervalar</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Fuzzy</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CARDOSO, W. R. S.;Cardoso, Wilson" NIVEL-DE-TREINAMENTO="Outros"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RENATA HAX SANDER REISER"
+                 NRO-ID-CNPQ-ORIENTADOR="3283691152621834"
+                 SEQUENCIA-ESTUDANTE="3176087"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3902131937223832"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Wilson Roberto da Silva Cardoso">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS, A. V." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BENJAMIN RENE CALLEJAS BEDREGAL"
+                 NRO-ID-CNPQ-ORIENTADOR="4601263005352005"
+                 SEQUENCIA-ESTUDANTE="278610"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1624548251179607"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="André Vinícius dos Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógica Fuzzy</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Intervalar</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Matemáticos para Computação Científica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Ocultos de Markov (Hidden Markov Models)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, H. M.;Medeiros da Silva, Huliane"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BENJAMIN RENE CALLEJAS BEDREGAL"
+                 NRO-ID-CNPQ-ORIENTADOR="4601263005352005"
+                 SEQUENCIA-ESTUDANTE="3758724"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1797223363490431"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Huliane Medeiros da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FARIAS, A. D. S.;SILVA FARIAS, ANTONIO DIEGO"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="REGIVAN HUGO NUNES SANTIAGO"
+                 NRO-ID-CNPQ-ORIENTADOR="7536988783793885"
+                 SEQUENCIA-ESTUDANTE="2996196"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4450585340269458"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Antonio Diego Silva Farias">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Matemática fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas algébricos para lógicas fuzzy e suas extensões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="processamento digital de imagens e morfologia matemática fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Álgebra</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógica Fuzzy</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Intervalar</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria dos Grupos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria dos Reticulados</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Silva Costa, V.;V. S. Costa" NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BENJAMIN RENE CALLEJAS BEDREGAL"
+                 NRO-ID-CNPQ-ORIENTADOR="4601263005352005"
+                 SEQUENCIA-ESTUDANTE="3770096"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2633660012976715"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Valdigleis da Silva Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Agrupamentos e Classificação fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computabilidade e linguagens formais fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="processamento digital de imagens e morfologia matemática fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Paralela</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fundamentos Matemáticos da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS>
+      <COLABORADOR-ESTRANGEIRO NOME-CITACOES="MESIAR, R.;MESIAR, RADKO;MESIAR, R" SEXO="M"
+                               NRO-ID-CNPQ="3877891628325331"
+                               PAIS-DE-NASCIMENTO="SVK"
+                               NACIONALIDADE="E"
+                               NOME-COMPLETO="Radko Mesiar"
+                               TITULACAO-MAXIMA="Doutorado"
+                               SEQUENCIA-COLABORADOR="1">
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </COLABORADOR-ESTRANGEIRO>
+      <COLABORADOR-ESTRANGEIRO NOME-CITACOES="SOLA, H. B.;BUSTINCE, HUMBERTO;BUSTINCE, H." SEXO="M"
+                               NRO-ID-CNPQ="5734365549451481"
+                               PAIS-DE-NASCIMENTO="ESP"
+                               NACIONALIDADE="E"
+                               NOME-COMPLETO="Humberto Bustince Sola"
+                               TITULACAO-MAXIMA="Doutorado"
+                               SEQUENCIA-COLABORADOR="2">
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </COLABORADOR-ESTRANGEIRO>
+      <COLABORADOR-ESTRANGEIRO NOME-CITACOES="FERNANDEZ, F. J.;FERNANDEZ, J.;FERNÁNDEZ, JAVIER;FERNANDEZ, JAVIER;FERNANDEZ, J"
+                               SEXO="M"
+                               NRO-ID-CNPQ="0441975055760991"
+                               PAIS-DE-NASCIMENTO="ESP"
+                               NACIONALIDADE="E"
+                               NOME-COMPLETO="Francisco Javier Fernandez"
+                               TITULACAO-MAXIMA="Doutorado"
+                               SEQUENCIA-COLABORADOR="3">
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </COLABORADOR-ESTRANGEIRO>
+   </COLABORADORES-ESTRANGEIROS>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2433176415260808"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver ferramental teórico sobre funções de agregação e sobre conectivos fuzzy e suas extensões assim como aplicações destes operadores."
+                         NOME-DA-LINHA-DE-PESQUISA="Funções de agregação e conectivos fuzzy"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">funções de agregação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">t-normas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">implicações fuzzy</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">conectivos fuzzy</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">geradores</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Operadores de sobreposição</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9444112594388983" NOME-COMPLETO="Fágner Lemos de Santana"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="585094"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9061067320839776" NOME-COMPLETO="Eduardo Silva Palmeira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="591857"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2610624203466231" NOME-COMPLETO="Flaulles Boone Bergamaschi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="225140"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3283691152621834" NOME-COMPLETO="Renata Hax Sander Reiser"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="228020"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7536988783793885" NOME-COMPLETO="Regivan Hugo Nunes Santiago"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="373626"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9414212573217453" NOME-COMPLETO="Graçaliz Pereira Dimuro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="390772"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3059324458238110" NOME-COMPLETO="Joao Marcos de Almeida"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="397797"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4553903531932794" NOME-COMPLETO="Anderson Paiva Cruz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="825262"
+                               SEQUENCIA-PESQUISADOR="8"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3232330829280658" NOME-COMPLETO="Fabiana Tristão de Santana"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2088810"
+                               SEQUENCIA-PESQUISADOR="9"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2096843997457737" NOME-COMPLETO="Hélida Salles Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="545047"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2886035516765873" NOME-COMPLETO="Alexandre Lemke"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="554138"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8240653963150965" NOME-COMPLETO="Rui Eduardo Brasileiro Paiva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2101287"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5475310954801918" NOME-COMPLETO="Annaxsuel Araújo de Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2633966"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1673504227986880" NOME-COMPLETO="Lucélia Marques Lima da Rocha"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2812520"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4450585340269458" NOME-COMPLETO="Antonio Diego Silva Farias"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2996196"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3902131937223832" NOME-COMPLETO="Wilson Roberto da Silva Cardoso"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3176087"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4185652499006339" NOME-COMPLETO="Sidnei da Fonseca Pereira Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3408770"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9825526718492097"
+                             NOME-COMPLETO="Emmanuelly Monteiro Silva de Sousa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3514331"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8796491947184490" NOME-COMPLETO="Giancarlo Lucca"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4197705"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0946244793710934" NOME-COMPLETO="Rosana Medina Zanotelli"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4305598"
+                             SEQUENCIA-ESTUDANTE="11"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6803996125191772" NOME-COMPLETO="Messias Gomes Novaes Júnior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6282644"
+                             SEQUENCIA-ESTUDANTE="12"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10301046" CODIGO-ESPECIALIDADE="10301046"
+                                  CODIGO-SUB-AREA="10301003"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Lógicas e Semântica de Programas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="52"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9929582558489364"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Generalizar conceitos de teoria das probabilidades, considerando incertezas (probabilidades imprecisas) do tipo fuzzy, intervalar, fuzzy intervalar, fuzzy intuicionistas, etc, e aplicar em situações onde há incertezas e imprecisões."
+                         NOME-DA-LINHA-DE-PESQUISA="Probabilidades fuzzy"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">probabilidades imprecisas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">cadeias de Markov</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">procesos estocasticos fuzzy</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4601263005352005" NOME-COMPLETO="Benjamín René Callejas Bedregal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25653"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9414212573217453" NOME-COMPLETO="Graçaliz Pereira Dimuro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="390772"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1673504227986880" NOME-COMPLETO="Lucélia Marques Lima da Rocha"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2812520"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10301046" CODIGO-ESPECIALIDADE="10301046"
+                                  CODIGO-SUB-AREA="10301003"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Lógicas e Semântica de Programas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="52"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10201017" CODIGO-ESPECIALIDADE="10201017"
+                                  CODIGO-SUB-AREA="10201009"
+                                  CODIGO-AREA="10200002"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Teoria Geral e Fundamentos da Probabilidade"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Probabilidade"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Probabilidade e Estatística"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="31"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0246294791275239"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudar linguagens formais e computabilidade fuzzy, fuzzy intervalar e para outras extensões fuzzy. Em particular pretendemos estudar as propriedades dessas classes de linguagens formais assim como seus modelos de autômatos e adaptação de  algoritmos clássicos (por exemplo minimização de estados, transformação de AFN para AFD, etc.)."
+                         NOME-DA-LINHA-DE-PESQUISA="Computabilidade e linguagens formais fuzzy"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">máquinas de Turing fuzzy</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">autômatos fuzzy</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">gramáticas fuzzy</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4601263005352005" NOME-COMPLETO="Benjamín René Callejas Bedregal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25653"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2096843997457737" NOME-COMPLETO="Hélida Salles Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="545047"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2633660012976715" NOME-COMPLETO="Valdigleis da Silva Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3770096"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10301011" CODIGO-ESPECIALIDADE="10301011"
+                                  CODIGO-SUB-AREA="10301003"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Computabilidade e Modelos de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="49"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10301020" CODIGO-ESPECIALIDADE="10301020"
+                                  CODIGO-SUB-AREA="10301003"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Linguagem Formais e Autômatos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="50"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6274716022923276"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Propor algoritmos de agrupamentos fuzzy aplicáveis a bases de dados normais e intervalares (simbólicas). Estudar e propor indices para medir a qualidade dos algoritmos de agrupamento propostos."
+                         NOME-DA-LINHA-DE-PESQUISA="Agrupamentos e Classificação fuzzy"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Fuzzy c-means</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">índices de agrupamentos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Sistemas de Classificação fuzzy baseado em regras</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4601263005352005" NOME-COMPLETO="Benjamín René Callejas Bedregal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25653"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3283691152621834" NOME-COMPLETO="Renata Hax Sander Reiser"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="228020"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7536988783793885" NOME-COMPLETO="Regivan Hugo Nunes Santiago"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="373626"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9414212573217453" NOME-COMPLETO="Graçaliz Pereira Dimuro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="390772"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3688563150032671" NOME-COMPLETO="Rogério Rodrigues de Vargas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2088545"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0521358821384556" NOME-COMPLETO="Liliane Ribeiro da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2526863"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8664977292629302" NOME-COMPLETO="Ronildo Pinheiro De Araujo Moura"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="561045"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3360570680875149" NOME-COMPLETO="Antônia Jocivania Pinheiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="726449"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4185652499006339" NOME-COMPLETO="Sidnei da Fonseca Pereira Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3408770"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2633660012976715" NOME-COMPLETO="Valdigleis da Silva Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3770096"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8796491947184490" NOME-COMPLETO="Giancarlo Lucca"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4197705"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6492553439883427" NOME-COMPLETO="Tamara Tavares de Melo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4239530"
+                             SEQUENCIA-ESTUDANTE="6"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303030" CODIGO-ESPECIALIDADE="10303030"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Banco de Dados"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="59"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303049" CODIGO-ESPECIALIDADE="10303049"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas de Informação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="60"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9566354395185595"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver novas técnicas baseadas em avaliações fuzzy ou em extensões da lógican fuzzy que venham ajudar na tomada de decisão assim como no estudo de medidadas e índices do fator risco fuzzy."
+                         NOME-DA-LINHA-DE-PESQUISA="Tomada de decisão e Risco fuzzy"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Tomada de Decisão</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Relações de preferencia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Tomada de decisão multi-atributo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Tomada de decisão em grupo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">concenso</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Risco fuzzy</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4601263005352005" NOME-COMPLETO="Benjamín René Callejas Bedregal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25653"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7169569605967930" NOME-COMPLETO="Marcus Pinto da Costa da Rocha"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="220695"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7536988783793885" NOME-COMPLETO="Regivan Hugo Nunes Santiago"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="373626"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1157874276867537" NOME-COMPLETO="Bruno Moura Paz de Moura"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4728197"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303049" CODIGO-ESPECIALIDADE="10303049"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas de Informação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="60"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="60200006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="60200006"
+                                  CODIGO-GRANDE-AREA="60000007"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Administração"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="914"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M" SUBSETOR=""
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4090132604475074"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver teorias fuzzy que generalizem teorias e conceitos matemáticos clássicos. Por exemplo: números, reticulados, grupos, partições, topologia, etc."
+                         NOME-DA-LINHA-DE-PESQUISA="Matemática fuzzy"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">álgebra fuzzy</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">números fuzzy</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">reticulados fuzzy</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">distancias e topologias fuzzy</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">integrais fuzzy</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4601263005352005" NOME-COMPLETO="Benjamín René Callejas Bedregal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25653"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9444112594388983" NOME-COMPLETO="Fágner Lemos de Santana"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="585094"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8141562673945467" NOME-COMPLETO="Ivan Mezzomo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="641655"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2610624203466231" NOME-COMPLETO="Flaulles Boone Bergamaschi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="225140"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3283691152621834" NOME-COMPLETO="Renata Hax Sander Reiser"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="228020"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7536988783793885" NOME-COMPLETO="Regivan Hugo Nunes Santiago"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="373626"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3232330829280658" NOME-COMPLETO="Fabiana Tristão de Santana"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2088810"
+                               SEQUENCIA-PESQUISADOR="7"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8240653963150965" NOME-COMPLETO="Rui Eduardo Brasileiro Paiva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2101287"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5475310954801918" NOME-COMPLETO="Annaxsuel Araújo de Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2633966"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4450585340269458" NOME-COMPLETO="Antonio Diego Silva Farias"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2996196"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9825526718492097"
+                             NOME-COMPLETO="Emmanuelly Monteiro Silva de Sousa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3514331"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6803996125191772" NOME-COMPLETO="Messias Gomes Novaes Júnior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6282644"
+                             SEQUENCIA-ESTUDANTE="5"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10102000" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10102000"
+                                  CODIGO-AREA="10100008"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Análise"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Matemática"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="11"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10103007" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10103007"
+                                  CODIGO-AREA="10100008"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geometria e Topologia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Matemática"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="18"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10101004" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10101004"
+                                  CODIGO-AREA="10100008"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Álgebra"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Matemática"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="4"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0456333367161516"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Aplicar operadores e probabilidade fuzzy e de extensões de lógica fuzzy em teoria de jogos."
+                         NOME-DA-LINHA-DE-PESQUISA="jogos fuzzy"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">jogos fuzzy</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Teoria de Jogos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Equilibrio de Nash</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9414212573217453" NOME-COMPLETO="Graçaliz Pereira Dimuro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="390772"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303049" CODIGO-ESPECIALIDADE="10303049"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas de Informação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="60"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1645880048511751"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Aplicar lógica fuzzy e fuzzy intervalar no processamento de imagens digitais e morfologia matemática."
+                         NOME-DA-LINHA-DE-PESQUISA="processamento digital de imagens e morfologia matemática fuzzy"
+                         SEQUENCIA-LINHA-DE-PESQUISA="8">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">morfologia matemática</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">imagens digitais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">operadores de dilatação e erosão</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">filtros</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">compressão e ampliação de imagens</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7536988783793885" NOME-COMPLETO="Regivan Hugo Nunes Santiago"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="373626"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4450585340269458" NOME-COMPLETO="Antonio Diego Silva Farias"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2996196"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2633660012976715" NOME-COMPLETO="Valdigleis da Silva Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3770096"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2279790132109741" NOME-COMPLETO="Pedro Robson Pascoal Ribamar"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5676421"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6760196759936473" NOME-COMPLETO="Daniela Baena Pereira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6628518"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303057" CODIGO-ESPECIALIDADE="10303057"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento Gráfico (Graphics)"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="61"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0890659006510423"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de sistemas computacionais baseados em raciocínio aproximado e lógica fuzzy."
+                         NOME-DA-LINHA-DE-PESQUISA="Sistemas Fuzzy"
+                         SEQUENCIA-LINHA-DE-PESQUISA="9">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">sistemas fuzzy</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">raciocínio aproximado</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">regras fuzzy</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">controle fuzzy</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">agentes fuzzy</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9414212573217453" NOME-COMPLETO="Graçaliz Pereira Dimuro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="390772"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4553903531932794" NOME-COMPLETO="Anderson Paiva Cruz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="825262"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0521358821384556" NOME-COMPLETO="Liliane Ribeiro da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2526863"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1624548251179607" NOME-COMPLETO="André Vinícius dos Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="278610"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4185652499006339" NOME-COMPLETO="Sidnei da Fonseca Pereira Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3408770"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1797223363490431" NOME-COMPLETO="Huliane Medeiros da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3758724"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6492553439883427" NOME-COMPLETO="Tamara Tavares de Melo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4239530"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1157874276867537" NOME-COMPLETO="Bruno Moura Paz de Moura"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4728197"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2279790132109741" NOME-COMPLETO="Pedro Robson Pascoal Ribamar"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5676421"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6760196759936473" NOME-COMPLETO="Daniela Baena Pereira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6628518"
+                             SEQUENCIA-ESTUDANTE="7"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303049" CODIGO-ESPECIALIDADE="10303049"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas de Informação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="60"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3759594775865624"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudar estruturas algébricas que modelam sistemas e lógicas fuzzy, tais como MV-álgebras, BL-álgebras, BCI-álgebras, reticulados de ações, etc. e propor novas estruturas algébricas a fim de suportar extensões de lógicas fuzzy."
+                         NOME-DA-LINHA-DE-PESQUISA="Sistemas algébricos para lógicas fuzzy e suas extensões"
+                         SEQUENCIA-LINHA-DE-PESQUISA="10">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Lógicas fuzzy</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Sistemas algébricos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">lógicas algébricas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Reticulados de ações</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4601263005352005" NOME-COMPLETO="Benjamín René Callejas Bedregal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25653"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2610624203466231" NOME-COMPLETO="Flaulles Boone Bergamaschi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="225140"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7536988783793885" NOME-COMPLETO="Regivan Hugo Nunes Santiago"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="373626"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3360570680875149" NOME-COMPLETO="Antônia Jocivania Pinheiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="726449"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4450585340269458" NOME-COMPLETO="Antonio Diego Silva Farias"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2996196"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10301046" CODIGO-ESPECIALIDADE="10301046"
+                                  CODIGO-SUB-AREA="10301003"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Lógicas e Semântica de Programas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="52"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="6516552470577875"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidade Federal Rural do Semi-Árido"
+               NATUREZA-JURIDICA="Autarquia Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="24529265000140"
+               LOCALIDADE="Mossoró"
+               CIDADE="Mossoró"
+               UF="RN"
+               SIGLA-DA-EMPRESA="UFERSA"
+               NOME-DA-EMPRESA="Universidade Federal Rural do Semi-Árido"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="16">Transferência física temporária de recursos humanos do parceiro para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="17">Transferência física temporária de recursos humanos do grupo para as atividades do parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="2077673781185677"
+               RAZAO-SOCIAL-DA-EMPRESA="Fundação Universidade Federal do Rio Grande"
+               NATUREZA-JURIDICA="Fundação Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="94877586000110"
+               LOCALIDADE="Rio Grande"
+               CIDADE="Rio Grande"
+               UF="RS"
+               SIGLA-DA-EMPRESA="FURG"
+               NOME-DA-EMPRESA="Universidade Federal do Rio Grande"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="14">Desenvolvimento de software não-rotineiro para o grupo pelo parceiro</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="21">Treinamento de pessoal do parceiro pelo grupo, incluindo cursos e treinamento "em serviço"</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="18">Parceria com transfêrencia de recursos de qualquer espécie nos dois sentidos</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="4526609696233078"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidade Federal de Pelotas"
+               NATUREZA-JURIDICA="Fundação Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="92242080000100"
+               LOCALIDADE="Pelotas"
+               CIDADE="Pelotas"
+               UF="RS"
+               SIGLA-DA-EMPRESA="UFPEL"
+               NOME-DA-EMPRESA="Universidade Federal de Pelotas"
+               SEQUENCIA-EMPRESA="2">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que não se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="16">Transferência física temporária de recursos humanos do parceiro para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="17">Transferência física temporária de recursos humanos do grupo para as atividades do parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="18">Parceria com transfêrencia de recursos de qualquer espécie nos dois sentidos</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="8246793424516429"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidade Estadual de Santa Cruz"
+               NATUREZA-JURIDICA="Autarquia Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="40738999000195"
+               LOCALIDADE="Ilhéus"
+               CIDADE="Ilhéus"
+               UF="BA"
+               SIGLA-DA-EMPRESA="UESC"
+               NOME-DA-EMPRESA="Universidade Estadual de Santa Cruz"
+               SEQUENCIA-EMPRESA="3">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="16">Transferência física temporária de recursos humanos do parceiro para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="17">Transferência física temporária de recursos humanos do grupo para as atividades do parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="5616562431609844"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidad Pública de Navarra"
+               NATUREZA-JURIDICA=""
+               SEGMENTO-ECONOMICO=""
+               CNPJ="EX36420531"
+               LOCALIDADE="Pamplona"
+               CIDADE="Pamplona"
+               UF=""
+               SIGLA-DA-EMPRESA="UPNA"
+               NOME-DA-EMPRESA="Universidad Pública de Navarra"
+               SEQUENCIA-EMPRESA="4">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="14">Desenvolvimento de software não-rotineiro para o grupo pelo parceiro</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="22">Treinamento de pessoal do grupo pelo parceiro, incluindo cursos e treinamento "em serviço"</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="16">Transferência física temporária de recursos humanos do parceiro para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="17">Transferência física temporária de recursos humanos do grupo para as atividades do parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

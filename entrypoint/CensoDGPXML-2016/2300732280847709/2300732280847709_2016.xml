@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="2300732280847709"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="153252"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="10102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="4644739255776557" CODIGO-AREA-PREDOMINANTE="31200001"
+                           NOME-DA-UNIDADE=""
+                           NOME-DO-ORGAO="Instituto Nacional de Pesquisas Espaciais"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SP"
+                           SIGLA-DA-INSTITUICAO="INPE"
+                           NOME-DA-INSTITUICAO="Instituto Nacional de Pesquisas Espaciais"
+                           AREA-PREDOMINANTE="Engenharia Aeroespacial"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="2002"
+                           NOME-DO-GRUPO="Simulação Numérica de Escoamento Rarefeito">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="4859685163568596" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Wilson Fernando Nogueira dos Santos"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3508603" DDDFAX="01"
+                                       LONGITUDE="-44.98134520000002"
+                                       LATITUDE="-22.6979746"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Cachoeira Paulista"
+                                       NUMERO="km40"
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="Rod. Presidente Dutra"
+                                       HOME-PAGE="http://www.inpe.br"
+                                       E-MAIL="wilson@lcp.inpe.br"
+                                       FAX="31011992"
+                                       RAMAL=""
+                                       TELEFONE="31869265"
+                                       DDD="01"
+                                       CEP="12630000"
+                                       CIDADE="Cachoeira Paulista"
+                                       UF="SP"
+                                       BAIRRO="Centro"/>
+      <REPERCUSSOES>Este grupo executa atividades de pesquisa no campo da dinâmica dos gases rarefeitos.  Nesse campo, é de fundamental importância estudar, entre outros, os fenômenos relacionados com escoamentos hipersônicos sobre bordos de ataque pontiagudos e rombudos, escoamentos ao redor de aeronaves em altas altitudes, reentrada de veículos espaciais, interações de plumas de bociais com veículos espaciais, escoamentos hipersônicos com reações químicas, caracteristicas refletivas e reativas de gases interagindo com superfícies sólidas, etc.  A dificuldade de dispositivos experimentais no estudo desses fenômenos, onde vários processos físicos e químicos altamente complexos são relevantes, tem estimulado o desenvolvimento de vários métodos numéricos de modo a simular tais fenômenos.  Em face ao grau de rarefação, esses fenômenos são simulados numericamente pelo método DSMC (Direct Simulation Monte Carlo), o método que tem sido reconhecido como o único meio prático de simular escoamentos rarefeitos de </REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="SANTOS, W. F. N.;SANTOS, W.F.N.D.;SANTOS, WILSON F. N.;W. F. N. SANTOS;Santos, WFN;SANTOS, WILSON F.N.;DOSSANTOS, W;SANTOS, WILSON;Santos, W. F. N.;SANTOS, W.;SANTOS, WILSON F;SANTOS, W. F. N."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4859685163568596"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Wilson Fernando Nogueira dos Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamento Hipersônico Rarefeito sobre Bordos de Ataque na Forma de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Micro-propulsores (baseados em MEMS) para Controle de Atitude de Satélites"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Escoamento Hipersônico sobre Cunhas Truncadas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação Direta da Aerotermodinâmica de um Satélite na Reentrada"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Computacional da Aerotermodinâmica de Veículos Hipersônicos com Imperfeições na Superfície"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aerodinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica de Gases Rarefeitos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Fluídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transferência de Calor</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="TRAVELHO, J. S.;Travelho,J.;Travello,J.;TRAVELLO, J."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8533685252674668"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Jeronimo dos Santos Travelho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamento Hipersônico Rarefeito sobre Bordos de Ataque na Forma de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Térmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fenômenos de Transporte</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Propulsão Aeroespacial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reatores Químicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="Paolicchi, Luis Thiago Lucci Corrêa"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="WILSON FERNANDO NOGUEIRA DOS SANTOS"
+                 NRO-ID-CNPQ-ORIENTADOR="4859685163568596"
+                 SEQUENCIA-ESTUDANTE="2056782"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0412731429677917"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luis Thiago Lucci Corrêa Paolicchi">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Computacional da Aerotermodinâmica de Veículos Hipersônicos com Imperfeições na Superfície"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Combustão e Escoamento com Reações Químicas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica dos Gases</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Termodinâmica Estatística</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LEITE, P. H. M.;LEITE, P. H. M.;LEITE, PAULO H.;LEITE, PAULO"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="WILSON FERNANDO NOGUEIRA DOS SANTOS"
+                 NRO-ID-CNPQ-ORIENTADOR="4859685163568596"
+                 SEQUENCIA-ESTUDANTE="2612720"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7687644565049443"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Paulo Henrique Mineiro Leite">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Computacional da Aerotermodinâmica de Veículos Hipersônicos com Imperfeições na Superfície"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aerodinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica dos Gases Rarefeitos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Aeroespacial</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOUZA, M. S." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="WILSON FERNANDO NOGUEIRA DOS SANTOS"
+                 NRO-ID-CNPQ-ORIENTADOR="4859685163568596"
+                 SEQUENCIA-ESTUDANTE="548895"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8872909500743880"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marcos da Silva e Souza">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação Direta da Aerotermodinâmica de um Satélite na Reentrada"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aerodinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Aeroespacial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Mecânica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>MECÂNICA DOS FLUIDOS</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4797696588880737"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Em vôos a velocidades hipersônicas, o bordo de ataque dos veículos espaciais e aeronaves deve ser rombudo de modo a reduzir a taxa de transferência de calor para a superfície à níveis aceitáveis e, também, permitir a condução de calor no interior do corpo.  Assim sendo, esta pesquisa visa investigar perfis na forma de potência propostos como candidatos a fornecer baixos fluxos de calor, baixos coeficientes de arrasto e pequenos deslocamentos da onda de choque à frente do bordo de ataque."
+                         NOME-DA-LINHA-DE-PESQUISA="Escoamento Hipersônico Rarefeito sobre Bordos de Ataque na Forma de Potência"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Escoamento rarefeito</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Escoamento hipersônico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">DSMC</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">bordo de ataque rombudo</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4859685163568596"
+                               NOME-COMPLETO="Wilson Fernando Nogueira dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="24532"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8533685252674668" NOME-COMPLETO="Jeronimo dos Santos Travelho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="17468"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31201016" CODIGO-ESPECIALIDADE="31201016"
+                                  CODIGO-SUB-AREA="31201008"
+                                  CODIGO-AREA="31200001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Aerodinâmica de Aeronaves Espaciais"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Aerodinâmica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Aeroespacial"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="623"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501032" CODIGO-ESPECIALIDADE="30501032"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Dinâmica dos Gases"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="453"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501024" CODIGO-ESPECIALIDADE="30501024"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Fluídos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="452"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4952322004323346"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Veículos hipersônicos, como por exemplo waveriders, são projetados com bordos infinitamente pontiagudos com o propósito de se obter ondas de choque ancoradas no bico. Em termos práticos, waverides terão algum grau de arredondamento no bordo ditado por razões de fabricação ou cargas térmicas. Está pesquisa visa fornecer uma análise da máxima espessura da face frontal que resulte em um afastamento mínimo do desempenho ideal de tais veículos."
+                         NOME-DA-LINHA-DE-PESQUISA="Simulação de Escoamento Hipersônico sobre Cunhas Truncadas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Escoamento rarefeito</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Escoamento hipersônico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">DSMC</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Bordo de ataque pontiagudo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Cunha truncada</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Onda de choque</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4859685163568596"
+                               NOME-COMPLETO="Wilson Fernando Nogueira dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="24532"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31201016" CODIGO-ESPECIALIDADE="31201016"
+                                  CODIGO-SUB-AREA="31201008"
+                                  CODIGO-AREA="31200001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Aerodinâmica de Aeronaves Espaciais"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Aerodinâmica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Aeroespacial"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="623"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.71"
+                                SUBSETOR="Serviços de arquitetura e engenharia; testes e análises técnicas"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3726853938309033"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="A presente linha de pesquisa visa investigar o comportamento do aquecimento aerodinâmico bem como o comportamento das forças aerodinâmicas de um satélite na reentrada atmosférica para pontos em sua trajetória no regime de transição, i.e., entre o regime de escoamento do contínuo e o regime livre de colisões."
+                         NOME-DA-LINHA-DE-PESQUISA="Simulação Direta da Aerotermodinâmica de um Satélite na Reentrada"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Escoamento rarefeito</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Escoamento hipersônico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">DSMC</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Satélite</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Cápsula</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Aquecimento Aerodinâmico</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4859685163568596"
+                               NOME-COMPLETO="Wilson Fernando Nogueira dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="24532"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8872909500743880" NOME-COMPLETO="Marcos da Silva e Souza"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="548895"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31201016" CODIGO-ESPECIALIDADE="31201016"
+                                  CODIGO-SUB-AREA="31201008"
+                                  CODIGO-AREA="31200001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Aerodinâmica de Aeronaves Espaciais"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Aerodinâmica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Aeroespacial"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="623"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501032" CODIGO-ESPECIALIDADE="30501032"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Dinâmica dos Gases"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="453"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501024" CODIGO-ESPECIALIDADE="30501024"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Fluídos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="452"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8279955931273006"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="No projeto de veículos hipersônicos na reentrada o conhecimento dos fatores que afetam as cargas térmicas e mecânicas agindo sobre os veículos é de primordial importância. Normalmente, a análise assume que o veículo possui uma superfície lisa livre de imperfeições. Todavia, filetes, cavidades, degraus, etc, estão presentes na superfície devido a vários fatores. Assim sendo, esta linha de pesquisa visa investigar o impacto de tais imperfeições no comportamento aerodinâmico desses veículos."
+                         NOME-DA-LINHA-DE-PESQUISA="Análise Computacional da Aerotermodinâmica de Veículos Hipersônicos com Imperfeições na Superfície"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Escoamento rarefeito</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Escoamento hipersônico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">DSMC</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Rentrada</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Cavidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Degrau</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4859685163568596"
+                               NOME-COMPLETO="Wilson Fernando Nogueira dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="24532"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0412731429677917"
+                             NOME-COMPLETO="Luis Thiago Lucci Corrêa Paolicchi"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2056782"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7687644565049443" NOME-COMPLETO="Paulo Henrique Mineiro Leite"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2612720"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31201016" CODIGO-ESPECIALIDADE="31201016"
+                                  CODIGO-SUB-AREA="31201008"
+                                  CODIGO-AREA="31200001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Aerodinâmica de Aeronaves Espaciais"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Aerodinâmica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Aeroespacial"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="623"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501032" CODIGO-ESPECIALIDADE="30501032"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Dinâmica dos Gases"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="453"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501024" CODIGO-ESPECIALIDADE="30501024"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Fluídos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="452"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4086573403870948"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Semicondutores vem sendo aplicada no desenvolvimento de sistemas micro-eletromecânicos, denominados por MEMS, e de vários outros micro-equipamentos. Dentre as várias aplicações de MEMS, encontram-se os micro-propulsores de baixo empuxo. Esses micro-propulsores podem ser aplicados no sistema propulsivo de pequenos satélites. A presente linha de pesquisa tem por objetivo investigar o desempenho de micro-propulsores sob certas condições de operação."
+                         NOME-DA-LINHA-DE-PESQUISA="Micro-propulsores (baseados em MEMS) para Controle de Atitude de Satélites"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Escoamento rarefeito</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">DSMC</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">MEMS</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4859685163568596"
+                               NOME-COMPLETO="Wilson Fernando Nogueira dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="24532"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31201016" CODIGO-ESPECIALIDADE="31201016"
+                                  CODIGO-SUB-AREA="31201008"
+                                  CODIGO-AREA="31200001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Aerodinâmica de Aeronaves Espaciais"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Aerodinâmica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Aeroespacial"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="623"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501032" CODIGO-ESPECIALIDADE="30501032"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Dinâmica dos Gases"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="453"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501024" CODIGO-ESPECIALIDADE="30501024"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Fluídos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="452"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

@@ -1,0 +1,1767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="5485987071618292"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="161153"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="20102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="7884369240668788" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE="Centro de Ciências"
+                           NOME-DO-ORGAO="Centro de Ciências"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="CE"
+                           SIGLA-DA-INSTITUICAO="UFC"
+                           NOME-DA-INSTITUICAO="Universidade Federal do Ceará"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="1999"
+                           NOME-DO-GRUPO="ParGO - Paralelismo, Grafos e Otimização">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="7207626266770213" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Manoel Bezerra Campêlo Neto"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="6115379961132154" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Claudia Linhares Sales"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="2304400" DDDFAX="85"
+                                       LONGITUDE="-38.57424661517143"
+                                       LATITUDE="-3.746094025995649"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Fortaleza"
+                                       NUMERO="0"
+                                       COMPLEMENTO="Dep. Computação, Bloco 910"
+                                       LOGRADOURO="Universidade Federal do Ceará - Campus da UFC"
+                                       HOME-PAGE="http://www.lia.ufc.br/~pargo"
+                                       E-MAIL="pargo-l@lia.ufc.br"
+                                       FAX="3366-9841"
+                                       RAMAL=""
+                                       TELEFONE="3366-9841"
+                                       DDD="85"
+                                       CEP="60440900"
+                                       CIDADE="Fortaleza"
+                                       UF="CE"
+                                       BAIRRO="Pici"/>
+      <REPERCUSSOES>1) Integra pesquisadores de três departamentos da UFC-Fortaleza interessados na solução algorítmica eficiente de problemas, particularmente de otimização; 2) Compromisso com a formação de recursos humanos para a pesquisa, nas áreas de algoritmos, teoria de grafos, otimização e paralelismo;3) Relevante produção científica, notadamente em periódicos de destaque;3) Eventos organizados: (a) CIMPA School on Advanced Algorithmic Techniques for Parallel Computation with Applications,1999; (b) CIMPA School on Algorithms and Combinatorics, 2001; (c) Latin-American Graphs Algorithms and Optimization Symposium, 2001 e 2015; (d) Workshop Franco-Brasileiro em Grafos, Combinatória e Otimzação (2014,2016)4) Projetos de pesquisa interinstitucionais: CAPES/COFECUB, CNPq/CNRS, Alpha/Europaid, FUNCAP/INRIA, CAPES/STIC.-AmSud5) Cooperações nacionais e internacionais com pesquisadores de diversas insituições.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="Carvalho, Francisco H.;Carvalho-Junior, Francisco Heron de;de Carvalho Junior, Francisco Heron;CARVALHO JUNIOR, F. H.;de Carvalho-Junior, Francisco Heron;CARVALHO-JUNIOR, F. H.;Heron de Carvalho Junior, F.;Carvalho-Junior, F. H. de;DE CARVALHO, FRANCISCO HERON"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4164818158160492"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Francisco Heron de Carvalho Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Paralelismo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Paralelo e Distribuído</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ANDRADE, Rafael Castro de;Andrade, Rafael;CASTRO DE ANDRADE, RAFAEL"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7026313596468626"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rafael Castro de Andrade">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização Combinatoria</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Estocástica Inteira</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CAMPÊLO, M.;CAMPELO, M.;Campêlo, Manoel;Campelo, Manoel;CAMPÊLO, M. B.;CAMPELO, M. B.;Campêlo, Manoel B.;Campelo, Manoel B.;NETO, Manoel B. Campelo"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7207626266770213"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Manoel Bezerra Campêlo Neto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Linear, Não-Linear, Mista e Dinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LINHARES SALES, C.;SALES, CLAUDIA LINHARES;LINHARES-SALES, CLAUDIA;LINHARES SALES, CLAUDIA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="F"
+                   NRO-ID-CNPQ="6115379961132154"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Claudia Linhares Sales">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria dos Grafos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BENEVIDES, F. S.;Benevides, Fabricio;Benevides, Fabricio Siqueira;BENEVIDES, FABR¿CIO SIQUEIRA;Benevides, Fabrício"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4695081445531168"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fabricio Siqueira Benevides">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Discreta e Combinatória</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SAMPAIO, R. M.;Sampaio, Rudini Menezes;SAMPAIO, R;Sampaio, Rudini M.;Menezes Sampaio, Rudini;Sampaio, Rudini;SAMPAIO, R."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2845950448235863"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rudini Menezes Sampaio">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Discreta e Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria dos Grafos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SILVA, A. S.;Silva, Ana;Ana Silva;SILVA, A;SILVA, A."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="F"
+                   NRO-ID-CNPQ="2132614695901416"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ana Shirley Ferreira da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Algoritmos em grafos e teoria dos grafos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computabilidade e Modelos de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Discreta e Combinatória</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CAMPOS, V. A.;CAMPOS, V.;Campos, Victor"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0802023762311924"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Victor Almeida Campos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Discreta e Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Probabilidade e Estatística Aplicadas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="RODRIGUES, C. D.;RODRIGUES, CARLOS D.;RODRIGUES, CARLOS DIEGO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4351787196667659"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Carlos Diego Rodrigues">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Linear, Não-Linear, Mista e Dinâmica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Maia , A. K.;Maia, K.;Maia, A. K.;Maia, Ana Karolinna;Karolinna Maia, A.;MAIA, A. KAROLINNA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3309825374177429"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ana Karolinna Maia de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ARAÚJO, J.;Araújo, Júlio César Silva;Araújo, Júlio;Araujo, J.;Araujo, Julio;Araujo, Julio-Cesar Silva"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7659965567201224"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Júlio César Silva Araújo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Discreta e Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria de Grafos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SOARES, R. P.;SOARES, R.;PARDO SOARES, RONAN;SOARES, RONAN PARDO;SOARES, RONAN;Soares, Ronan"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="11"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5133689561975976"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ronan Pardo Soares">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Graph Theory</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FARIAS, P. M. S.;Pablo M. S. Farias;FARIAS, PABLO M.S."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="12"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7678130748412873"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Pablo Mayckon Silva Farias">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Paralelismo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógica Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógicas e Semântica de Programas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Bonates, T. O.;BONATES, T. O.;BONATES, T;Bonates, Tiberius O;Bonates, Tibérius O.;Bonates, Tiberius;Bonates, Tiberius O.;Bonates, T.O."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="13"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5357593344734958"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Tiberius de Oliveira e Bonates">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aprendizado de Máquina</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Discreta e Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SAMPAIO, L.;Sampaio, Leonardo;Sampaio Rocha, Leonardo"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="14"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0716671149414702"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Leonardo Sampaio Rocha">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Algoritmos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria dos Grafos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="FERREIRA, M. A." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="TIBERIUS DE OLIVEIRA E BONATES"
+                 NRO-ID-CNPQ-ORIENTADOR="5357593344734958"
+                 SEQUENCIA-ESTUDANTE="5056163"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2622671395872758"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Mirah Alves Ferreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FERNANDES, L. S." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA KAROLINNA MAIA DE OLIVEIRA"
+                 NRO-ID-CNPQ-ORIENTADOR="3309825374177429"
+                 SEQUENCIA-ESTUDANTE="6277774"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8436337587090863"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lucas de Sousa Fernandes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="JESUITA, F. T. P." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA SHIRLEY FERREIRA DA SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="2132614695901416"
+                 SEQUENCIA-ESTUDANTE="6802522"
+                 SEXO="F"
+                 NRO-ID-CNPQ="5609603398037179"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Francisca Tainan Pereira Jesuita">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LIMA, P. M." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MANOEL BEZERRA CAMPELO NETO"
+                 NRO-ID-CNPQ-ORIENTADOR="7207626266770213"
+                 SEQUENCIA-ESTUDANTE="5558210"
+                 SEXO="F"
+                 NRO-ID-CNPQ="5079060730958007"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Patricia Marques de Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVIER, L. B." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA KAROLINNA MAIA DE OLIVEIRA"
+                 NRO-ID-CNPQ-ORIENTADOR="3309825374177429"
+                 SEQUENCIA-ESTUDANTE="5676571"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2415645817883389"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lucas Braz Olivier">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento, Projeto e Controle de Sistemas de Produção</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="VIEIRA, E. M." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABRICIO SIQUEIRA BENEVIDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4695081445531168"
+                 SEQUENCIA-ESTUDANTE="6804299"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9986593653826874"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Eduina Mendes Vieira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="RIBEIRO, R. F." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABRICIO SIQUEIRA BENEVIDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4695081445531168"
+                 SEQUENCIA-ESTUDANTE="6805269"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3283836464423770"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rodrigo Fernandes Ribeiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MEDEIROS, P. P." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JULIO CESAR SILVA ARAUJO"
+                 NRO-ID-CNPQ-ORIENTADOR="7659965567201224"
+                 SEQUENCIA-ESTUDANTE="5361825"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1441820750774132"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Pedro Paulo de Medeiros">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Discreta e Combinatória</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MURARO, L. P. F." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="VICTOR ALMEIDA CAMPOS"
+                 NRO-ID-CNPQ-ORIENTADOR="0802023762311924"
+                 SEQUENCIA-ESTUDANTE="6802925"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7176005015595481"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lucas Primo Fernandes Muraro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria dos Grafos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COSTA, I. L." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="VICTOR ALMEIDA CAMPOS"
+                 NRO-ID-CNPQ-ORIENTADOR="0802023762311924"
+                 SEQUENCIA-ESTUDANTE="6772557"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0323287546444569"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Isnard Lopes Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Discreta e Combinatória</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BENTO FILHO, M. E." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RUDINI MENEZES SAMPAIO"
+                 NRO-ID-CNPQ-ORIENTADOR="2845950448235863"
+                 SEQUENCIA-ESTUDANTE="6804799"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2051269558505742"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Manuel Edvar Bento Filho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BRITO, J. B. N." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RUDINI MENEZES SAMPAIO"
+                 NRO-ID-CNPQ-ORIENTADOR="2845950448235863"
+                 SEQUENCIA-ESTUDANTE="6280116"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0273896802332753"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Juliette Binoche do Nascimento Brito">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Araújo, P. H. M." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MANOEL BEZERRA CAMPELO NETO"
+                 NRO-ID-CNPQ-ORIENTADOR="7207626266770213"
+                 SEQUENCIA-ESTUDANTE="3479138"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7445142975449564"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Paulo Henrique Macêdo de Araújo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Paralelismo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estruturas de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="AL-ALAM, W. G.;AL ALAM, WAGNER GUIMARÃES"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANCISCO HERON DE CARVALHO JUNIOR"
+                 NRO-ID-CNPQ-ORIENTADOR="4164818158160492"
+                 SEQUENCIA-ESTUDANTE="2623043"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2400189942913583"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Wagner Guimarães Al-Alam">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Paralelismo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Pervasiva</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Paralelo e Distribuído</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GURGURI, J. L." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAFAEL CASTRO DE ANDRADE"
+                 NRO-ID-CNPQ-ORIENTADOR="7026313596468626"
+                 SEQUENCIA-ESTUDANTE="3218855"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1167191945324915"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Jefferson Lourenço Gurguri">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MARTINS, N. A.;Martins, N.;MARTINS, NÍCOLAS A.;MARTINS, NICOLAS;MARTINS, NICOLAS A."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RUDINI MENEZES SAMPAIO"
+                 NRO-ID-CNPQ-ORIENTADOR="2845950448235863"
+                 SEQUENCIA-ESTUDANTE="3211394"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4446571349245200"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Nicolas de Almeida Martins">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria dos Grafos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FREITAS, Adriano Tavares de;DE FREITAS, ADRIANO TAVARES;FREITAS, ADRIANO T. DE;DE FREITAS, ADRIANO T.;FREITAS, ADRIANO;FREITAS, A. T."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAFAEL CASTRO DE ANDRADE"
+                 NRO-ID-CNPQ-ORIENTADOR="7026313596468626"
+                 SEQUENCIA-ESTUDANTE="2061347"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0836062169182185"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Adriano Tavares de Freitas">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Discreta e Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>REDES</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ARAÚJO, C. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JULIO CESAR SILVA ARAUJO"
+                 NRO-ID-CNPQ-ORIENTADOR="7659965567201224"
+                 SEQUENCIA-ESTUDANTE="4434560"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1356866953046075"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Camila Sena Araújo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LOPES, R. W. T.;LOPES, RAUL" NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="VICTOR ALMEIDA CAMPOS"
+                 NRO-ID-CNPQ-ORIENTADOR="0802023762311924"
+                 SEQUENCIA-ESTUDANTE="4176491"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2775813336625462"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Raul Wayne Teixeira Lopes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ESDRAS,M.M." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Mestrado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA SHIRLEY FERREIRA DA SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="2132614695901416"
+                 SEQUENCIA-ESTUDANTE="3831882"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9512569239195930"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Esdras Muniz Mota">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Discreta e Combinatória</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ASSUNCAO, C. A. S." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MANOEL BEZERRA CAMPELO NETO"
+                 NRO-ID-CNPQ-ORIENTADOR="7207626266770213"
+                 SEQUENCIA-ESTUDANTE="6052715"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7292516923874485"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Carlos Abraao Sousa Assuncao">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COSTA, E. R.;COSTA, Eurinardo. R.;COSTA, EURINARDO R."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RUDINI MENEZES SAMPAIO"
+                 NRO-ID-CNPQ-ORIENTADOR="2845950448235863"
+                 SEQUENCIA-ESTUDANTE="3329498"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8484352908269169"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Eurinardo Rodrigues Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Discreta e Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria dos Grafos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PINHEIRO, A. B.;A. B. Pinheiro;Pinheiro, Anderson Boettge;PINHEIRO, ANDERSON B.;PINHEIRO, ANDERSON"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANCISCO HERON DE CARVALHO JUNIOR"
+                 NRO-ID-CNPQ-ORIENTADOR="4164818158160492"
+                 SEQUENCIA-ESTUDANTE="2072171"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3330956156739792"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Anderson Boettge Pinheiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Paralelismo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação de Alto Desempenho</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Paralelo e Distribuído</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SARAIVA, R. D.;SARAIVA, ROMMEL DIAS;Saraiva, Rommel D."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAFAEL CASTRO DE ANDRADE"
+                 NRO-ID-CNPQ-ORIENTADOR="7026313596468626"
+                 SEQUENCIA-ESTUDANTE="4147143"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4527686499680864"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rommel Dias Saraiva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CEZAR, A. A." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JULIO CESAR SILVA ARAUJO"
+                 NRO-ID-CNPQ-ORIENTADOR="7659965567201224"
+                 SEQUENCIA-ESTUDANTE="2894438"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5691816023955002"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alexandre Azevedo Cezar">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DANTAS, A. B. O." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANCISCO HERON DE CARVALHO JUNIOR"
+                 NRO-ID-CNPQ-ORIENTADOR="4164818158160492"
+                 SEQUENCIA-ESTUDANTE="2572868"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3952242670843487"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Allberson Bruno de Oliveira Dantas">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Paralelismo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação de Alto Desempenho</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Concorrente e Paralela</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOARES, P. L. B.;SOARES, PABLO LUIZ BRAGA"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MANOEL BEZERRA CAMPELO NETO"
+                 NRO-ID-CNPQ-ORIENTADOR="7207626266770213"
+                 SEQUENCIA-ESTUDANTE="2536184"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0370412162809036"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Pablo Luiz Braga Soares">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Discreta e Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização Combinatória</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CARNEIRO, T.;PESSOA, T. C.;Carneiro, Tiago"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANCISCO HERON DE CARVALHO JUNIOR"
+                 NRO-ID-CNPQ-ORIENTADOR="4164818158160492"
+                 SEQUENCIA-ESTUDANTE="2752170"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9817585307825525"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Tiago Carneiro Pessoa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Paralelismo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>GPU Computing (GPGPU)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>High Performance Computing</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas bioinspirados </AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>State space search</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ALENCAR, J. M. U." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANCISCO HERON DE CARVALHO JUNIOR"
+                 NRO-ID-CNPQ-ORIENTADOR="4164818158160492"
+                 SEQUENCIA-ESTUDANTE="1472396"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4360168226365314"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="João Marcelo Uchôa de Alencar">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Paralelismo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação de Alto Desempenho</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ARRAES, P. S. M." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JULIO CESAR SILVA ARAUJO"
+                 NRO-ID-CNPQ-ORIENTADOR="7659965567201224"
+                 SEQUENCIA-ESTUDANTE="6030095"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1632552485951075"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Pedro Santos Mota e Arraes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MARCILON, T. B.;MARCILON, THIAGO BRAGA;Marcilon, Thiago Braga"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RUDINI MENEZES SAMPAIO"
+                 NRO-ID-CNPQ-ORIENTADOR="2845950448235863"
+                 SEQUENCIA-ESTUDANTE="2916387"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6634329670074863"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Thiago Braga Marcilon">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="REZENDE, CENEZ ARAUJO;DE REZENDE, CENEZ ARAÚJO;REZENDE, C.A.;Rezende, Cenez Araújo;Cenez Araújo Rezende;Cenez Araújo de Rezende;Cenez Araujo Rezende;Cenez Araujo de Rezende;De Rezende, Cenez Araujo"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANCISCO HERON DE CARVALHO JUNIOR"
+                 NRO-ID-CNPQ-ORIENTADOR="4164818158160492"
+                 SEQUENCIA-ESTUDANTE="564439"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3344444930519584"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Cenez Araújo de Rezende">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Paralelismo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação de Alto Desempenho</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Paralelo e Distribuído</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de computadores</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ROGÉRIO, R. R." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CARLOS DIEGO RODRIGUES"
+                 NRO-ID-CNPQ-ORIENTADOR="4351787196667659"
+                 SEQUENCIA-ESTUDANTE="4655080"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9565384028201423"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Romário Rocha Rogério">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PESSOA, V. L." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RUDINI MENEZES SAMPAIO"
+                 NRO-ID-CNPQ-ORIENTADOR="2845950448235863"
+                 SEQUENCIA-ESTUDANTE="5257455"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3669342255090046"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Victor Lage Pessoa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOUSA, E. G.;DE SOUSA, ERNANDO GOMES"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAFAEL CASTRO DE ANDRADE"
+                 NRO-ID-CNPQ-ORIENTADOR="7026313596468626"
+                 SEQUENCIA-ESTUDANTE="3587835"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0669512233734784"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ernando Gomes de Sousa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento WEB</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização de Dados</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="IBIAPINA, A. R. P." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA SHIRLEY FERREIRA DA SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="2132614695901416"
+                 SEQUENCIA-ESTUDANTE="5565528"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3696835049099867"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Allen Roossim Passos Ibiapina">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ARAÚJO, R. T.;ARAÚJO, R.T." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RUDINI MENEZES SAMPAIO"
+                 NRO-ID-CNPQ-ORIENTADOR="2845950448235863"
+                 SEQUENCIA-ESTUDANTE="3092079"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5847892628096217"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rafael Teixeira de Araújo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógicas e Semântica de Programas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Simbólica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DANTAS, R. F." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RUDINI MENEZES SAMPAIO"
+                 NRO-ID-CNPQ-ORIENTADOR="2845950448235863"
+                 SEQUENCIA-ESTUDANTE="3965114"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0192579272041443"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rennan Ferreira Dantas">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FERREIRA, M. S." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAFAEL CASTRO DE ANDRADE"
+                 NRO-ID-CNPQ-ORIENTADOR="7026313596468626"
+                 SEQUENCIA-ESTUDANTE="4474194"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8622252911175700"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Mardson Da Silva Ferreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="VIANA, L. A. C." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MANOEL BEZERRA CAMPELO NETO"
+                 NRO-ID-CNPQ-ORIENTADOR="7207626266770213"
+                 SEQUENCIA-ESTUDANTE="3964355"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2028165237751191"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luiz Alberto do Carmo Viana">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Linear, Não-Linear, Mista e Dinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria dos Grafos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FIGUEIREDO, F., T." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MANOEL BEZERRA CAMPELO NETO"
+                 NRO-ID-CNPQ-ORIENTADOR="7207626266770213"
+                 SEQUENCIA-ESTUDANTE="3008643"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4390042021035867"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Tatiane Fernandes Figueiredo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS>
+      <COLABORADOR-ESTRANGEIRO NOME-CITACOES="Philippe Michelon;Michelon, Philippe;MICHELON P.;MICHELON, P."
+                               SEXO="M"
+                               NRO-ID-CNPQ="6925570277196451"
+                               PAIS-DE-NASCIMENTO="FRA"
+                               NACIONALIDADE="E"
+                               NOME-COMPLETO="Philippe Yves Paul Michelon"
+                               TITULACAO-MAXIMA="Doutorado"
+                               SEQUENCIA-COLABORADOR="1">
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Optimisaton Combinatoire</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </COLABORADOR-ESTRANGEIRO>
+   </COLABORADORES-ESTRANGEIROS>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1859894337696099"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Gerar novos conhecimentos em torno do tema mais amplo de Algoritmos para Problemas de Otimização, incluindo algoritmos exatos, heurísticos, aproximativos e paralelos. Atualmente, as abordagens em estudo incluem relaxação lagrangeana, algoritmos de planos de corte e geração de colunas. Além disso, desenvolve-se novos modelos e algoritmos para problemas de otimização combinatória, como coloração de vértices e escalonamento de tarefas."
+                         NOME-DA-LINHA-DE-PESQUISA="Otimização"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Otimização combinatória</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Programação linear</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Meta-heurísticas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7026313596468626" NOME-COMPLETO="Rafael Castro de Andrade"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="387004"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7207626266770213" NOME-COMPLETO="Manoel Bezerra Campêlo Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="116596"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0802023762311924" NOME-COMPLETO="Victor Almeida Campos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="193044"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4351787196667659" NOME-COMPLETO="Carlos Diego Rodrigues"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="218543"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5357593344734958" NOME-COMPLETO="Tiberius de Oliveira e Bonates"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="125836"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2622671395872758" NOME-COMPLETO="Mirah Alves Ferreira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5056163"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5079060730958007" NOME-COMPLETO="Patricia Marques de Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5558210"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7445142975449564" NOME-COMPLETO="Paulo Henrique Macêdo de Araújo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3479138"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1167191945324915" NOME-COMPLETO="Jefferson Lourenço Gurguri"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3218855"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0836062169182185" NOME-COMPLETO="Adriano Tavares de Freitas"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2061347"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7292516923874485" NOME-COMPLETO="Carlos Abraao Sousa Assuncao"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6052715"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4527686499680864" NOME-COMPLETO="Rommel Dias Saraiva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4147143"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0370412162809036" NOME-COMPLETO="Pablo Luiz Braga Soares"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2536184"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9565384028201423" NOME-COMPLETO="Romário Rocha Rogério"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4655080"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3669342255090046" NOME-COMPLETO="Victor Lage Pessoa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5257455"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0669512233734784" NOME-COMPLETO="Ernando Gomes de Sousa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3587835"
+                             SEQUENCIA-ESTUDANTE="11"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8622252911175700" NOME-COMPLETO="Mardson Da Silva Ferreira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4474194"
+                             SEQUENCIA-ESTUDANTE="12"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2028165237751191" NOME-COMPLETO="Luiz Alberto do Carmo Viana"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3964355"
+                             SEQUENCIA-ESTUDANTE="13"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4390042021035867" NOME-COMPLETO="Tatiane Fernandes Figueiredo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3008643"
+                             SEQUENCIA-ESTUDANTE="14"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10301003" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10301003"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="48"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10104003" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10104003"
+                                  CODIGO-AREA="10100008"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática Aplicada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Matemática"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="25"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30802008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30802008"
+                                  CODIGO-AREA="30800005"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Pesquisa Operacional"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Produção"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="546"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="H" SUBSETOR=""
+                                SETOR="Transporte, armazenagem e correio"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7221749145239196"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver algoritmos paralelos para solução de problemas de otimização combinatória e a sua implementação em sistemas de memória distribuída,  incluindo grades. "
+                         NOME-DA-LINHA-DE-PESQUISA="Paralelismo"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Modelos de computação paralela</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Algoritmos distribuídos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Programação baseada em componentes para CAD</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4164818158160492"
+                               NOME-COMPLETO="Francisco Heron de Carvalho Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="124934"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7678130748412873" NOME-COMPLETO="Pablo Mayckon Silva Farias"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="560535"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7445142975449564" NOME-COMPLETO="Paulo Henrique Macêdo de Araújo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3479138"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2400189942913583" NOME-COMPLETO="Wagner Guimarães Al-Alam"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2623043"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3330956156739792" NOME-COMPLETO="Anderson Boettge Pinheiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2072171"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3952242670843487"
+                             NOME-COMPLETO="Allberson Bruno de Oliveira Dantas"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2572868"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9817585307825525" NOME-COMPLETO="Tiago Carneiro Pessoa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2752170"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4360168226365314" NOME-COMPLETO="João Marcelo Uchôa de Alencar"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="1472396"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3344444930519584" NOME-COMPLETO="Cenez Araújo de Rezende"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="564439"
+                             SEQUENCIA-ESTUDANTE="7"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10301038" CODIGO-ESPECIALIDADE="10301038"
+                                  CODIGO-SUB-AREA="10301003"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Análise de Algoritmos e Complexidade de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="51"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10301003" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10301003"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="48"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2776402310358558"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Gerar novos conhecimentos na solução eficiente dos problemas de coloração de grafos e escalonamento de tarefas. Além disso, busca-se teoremas de caracterização que levem a algoritmos polinomiais dereconhecimento para certas classes de grafos onde os problemas em questão são bem resolvidos."
+                         NOME-DA-LINHA-DE-PESQUISA="Teoria dos Grafos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Grafos perfeitos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Coloração de vértices</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Conjuntos parcialmente ordenados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Convexidade em grafos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7207626266770213" NOME-COMPLETO="Manoel Bezerra Campêlo Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="116596"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6115379961132154" NOME-COMPLETO="Claudia Linhares Sales"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="353653"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4695081445531168" NOME-COMPLETO="Fabricio Siqueira Benevides"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="684388"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2845950448235863" NOME-COMPLETO="Rudini Menezes Sampaio"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="134995"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2132614695901416" NOME-COMPLETO="Ana Shirley Ferreira da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="279723"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0802023762311924" NOME-COMPLETO="Victor Almeida Campos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="193044"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3309825374177429" NOME-COMPLETO="Ana Karolinna Maia de Oliveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="830436"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7659965567201224" NOME-COMPLETO="Júlio César Silva Araújo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="808721"
+                               SEQUENCIA-PESQUISADOR="8"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5133689561975976" NOME-COMPLETO="Ronan Pardo Soares"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="718301"
+                               SEQUENCIA-PESQUISADOR="9"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0716671149414702" NOME-COMPLETO="Leonardo Sampaio Rocha"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="723013"
+                               SEQUENCIA-PESQUISADOR="10"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8436337587090863" NOME-COMPLETO="Lucas de Sousa Fernandes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6277774"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5609603398037179" NOME-COMPLETO="Francisca Tainan Pereira Jesuita"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6802522"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2415645817883389" NOME-COMPLETO="Lucas Braz Olivier"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5676571"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9986593653826874" NOME-COMPLETO="Eduina Mendes Vieira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6804299"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3283836464423770" NOME-COMPLETO="Rodrigo Fernandes Ribeiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6805269"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1441820750774132" NOME-COMPLETO="Pedro Paulo de Medeiros"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5361825"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7176005015595481" NOME-COMPLETO="Lucas Primo Fernandes Muraro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6802925"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0323287546444569" NOME-COMPLETO="Isnard Lopes Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6772557"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2051269558505742" NOME-COMPLETO="Manuel Edvar Bento Filho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6804799"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0273896802332753"
+                             NOME-COMPLETO="Juliette Binoche do Nascimento Brito"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6280116"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4446571349245200" NOME-COMPLETO="Nicolas de Almeida Martins"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3211394"
+                             SEQUENCIA-ESTUDANTE="11"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1356866953046075" NOME-COMPLETO="Camila Sena Araújo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4434560"
+                             SEQUENCIA-ESTUDANTE="12"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2775813336625462" NOME-COMPLETO="Raul Wayne Teixeira Lopes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4176491"
+                             SEQUENCIA-ESTUDANTE="13"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9512569239195930" NOME-COMPLETO="Esdras Muniz Mota"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3831882"
+                             SEQUENCIA-ESTUDANTE="14"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8484352908269169" NOME-COMPLETO="Eurinardo Rodrigues Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3329498"
+                             SEQUENCIA-ESTUDANTE="15"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5691816023955002" NOME-COMPLETO="Alexandre Azevedo Cezar"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2894438"
+                             SEQUENCIA-ESTUDANTE="16"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1632552485951075" NOME-COMPLETO="Pedro Santos Mota e Arraes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6030095"
+                             SEQUENCIA-ESTUDANTE="17"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6634329670074863" NOME-COMPLETO="Thiago Braga Marcilon"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2916387"
+                             SEQUENCIA-ESTUDANTE="18"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3669342255090046" NOME-COMPLETO="Victor Lage Pessoa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5257455"
+                             SEQUENCIA-ESTUDANTE="19"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3696835049099867" NOME-COMPLETO="Allen Roossim Passos Ibiapina"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5565528"
+                             SEQUENCIA-ESTUDANTE="20"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10301003" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10301003"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="48"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.61.3" SUBSETOR="Telecomunicações"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.61.2" SUBSETOR="Telecomunicações"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0460954750873026"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento e análise teórica da complexidade de algoritmos e de problemas. Os problemas díficeis são abordados com meta-heurísticas, algortimos de programação linear ou inteira, algoritmos paralelos exatos e algoritmos aproximativos."
+                         NOME-DA-LINHA-DE-PESQUISA="Algoritmos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Algoritmos em grafos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Algoritmos aproximativos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Algoritmos enumerativos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7026313596468626" NOME-COMPLETO="Rafael Castro de Andrade"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="387004"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7207626266770213" NOME-COMPLETO="Manoel Bezerra Campêlo Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="116596"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6115379961132154" NOME-COMPLETO="Claudia Linhares Sales"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="353653"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4695081445531168" NOME-COMPLETO="Fabricio Siqueira Benevides"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="684388"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2845950448235863" NOME-COMPLETO="Rudini Menezes Sampaio"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="134995"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2132614695901416" NOME-COMPLETO="Ana Shirley Ferreira da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="279723"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0802023762311924" NOME-COMPLETO="Victor Almeida Campos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="193044"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4351787196667659" NOME-COMPLETO="Carlos Diego Rodrigues"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="218543"
+                               SEQUENCIA-PESQUISADOR="8"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7659965567201224" NOME-COMPLETO="Júlio César Silva Araújo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="808721"
+                               SEQUENCIA-PESQUISADOR="9"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5133689561975976" NOME-COMPLETO="Ronan Pardo Soares"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="718301"
+                               SEQUENCIA-PESQUISADOR="10"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7678130748412873" NOME-COMPLETO="Pablo Mayckon Silva Farias"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="560535"
+                               SEQUENCIA-PESQUISADOR="11"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5357593344734958" NOME-COMPLETO="Tiberius de Oliveira e Bonates"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="125836"
+                               SEQUENCIA-PESQUISADOR="12"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0716671149414702" NOME-COMPLETO="Leonardo Sampaio Rocha"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="723013"
+                               SEQUENCIA-PESQUISADOR="13"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7445142975449564" NOME-COMPLETO="Paulo Henrique Macêdo de Araújo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3479138"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1167191945324915" NOME-COMPLETO="Jefferson Lourenço Gurguri"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3218855"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4446571349245200" NOME-COMPLETO="Nicolas de Almeida Martins"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3211394"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0836062169182185" NOME-COMPLETO="Adriano Tavares de Freitas"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2061347"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8484352908269169" NOME-COMPLETO="Eurinardo Rodrigues Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3329498"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6634329670074863" NOME-COMPLETO="Thiago Braga Marcilon"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2916387"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5847892628096217" NOME-COMPLETO="Rafael Teixeira de Araújo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3092079"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0192579272041443" NOME-COMPLETO="Rennan Ferreira Dantas"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3965114"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2028165237751191" NOME-COMPLETO="Luiz Alberto do Carmo Viana"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3964355"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4390042021035867" NOME-COMPLETO="Tatiane Fernandes Figueiredo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3008643"
+                             SEQUENCIA-ESTUDANTE="10"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10301038" CODIGO-ESPECIALIDADE="10301038"
+                                  CODIGO-SUB-AREA="10301003"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Análise de Algoritmos e Complexidade de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="51"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.63"
+                                SUBSETOR="Atividades de prestação de serviços de informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="24042015" DATA-ENTRADA="03022012"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7659965567201224"
+               NOME-DO-EGRESSO="Júlio César Silva Araújo"/>
+      <EGRESSO DATA-SAIDA="04082015" DATA-ENTRADA="03022012"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="5133689561975976"
+               NOME-DO-EGRESSO="Ronan Pardo Soares"/>
+      <EGRESSO DATA-SAIDA="24042015" DATA-ENTRADA="03022012"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="5133689561975976"
+               NOME-DO-EGRESSO="Ronan Pardo Soares"/>
+      <EGRESSO DATA-SAIDA="24042015" DATA-ENTRADA="03022012"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7678130748412873"
+               NOME-DO-EGRESSO="Pablo Mayckon Silva Farias"/>
+      <EGRESSO DATA-SAIDA="28042015" DATA-ENTRADA="03022012"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3309825374177429"
+               NOME-DO-EGRESSO="Ana Karolinna Maia de Oliveira"/>
+      <EGRESSO DATA-SAIDA="24042015" DATA-ENTRADA="03022012"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3309825374177429"
+               NOME-DO-EGRESSO="Ana Karolinna Maia de Oliveira"/>
+      <EGRESSO DATA-SAIDA="06052015" DATA-ENTRADA="28042015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0716671149414702"
+               NOME-DO-EGRESSO="Leonardo Sampaio Rocha"/>
+      <EGRESSO DATA-SAIDA="28042015" DATA-ENTRADA="28042015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0716671149414702"
+               NOME-DO-EGRESSO="Leonardo Sampaio Rocha"/>
+      <EGRESSO DATA-SAIDA="06052015" DATA-ENTRADA="28042015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0716671149414702"
+               NOME-DO-EGRESSO="Leonardo Sampaio Rocha"/>
+      <EGRESSO DATA-SAIDA="28042015" DATA-ENTRADA="28042015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0716671149414702"
+               NOME-DO-EGRESSO="Leonardo Sampaio Rocha"/>
+      <EGRESSO DATA-SAIDA="28042015" DATA-ENTRADA="28042015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0716671149414702"
+               NOME-DO-EGRESSO="Leonardo Sampaio Rocha"/>
+      <EGRESSO DATA-SAIDA="06052015" DATA-ENTRADA="28042015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0716671149414702"
+               NOME-DO-EGRESSO="Leonardo Sampaio Rocha"/>
+      <EGRESSO DATA-SAIDA="28042015" DATA-ENTRADA="28042015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0716671149414702"
+               NOME-DO-EGRESSO="Leonardo Sampaio Rocha"/>
+      <EGRESSO DATA-SAIDA="06052015" DATA-ENTRADA="28042015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0716671149414702"
+               NOME-DO-EGRESSO="Leonardo Sampaio Rocha"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

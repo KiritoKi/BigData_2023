@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="6866029993108845"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="161803"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="06102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="7968586390788673" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE=""
+                           NOME-DO-ORGAO="Universidade Estadual de Campinas"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SP"
+                           SIGLA-DA-INSTITUICAO="UNICAMP"
+                           NOME-DA-INSTITUICAO="Universidade Estadual de Campinas"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="1993"
+                           NOME-DO-GRUPO="Processamento de Imagens">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="8647239680081745" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Neucimar Jerônimo Leite"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="7533729699758819" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Alexandre Xavier Falcão"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3509502" DDDFAX="19"
+                                       LONGITUDE="-47.064147700000035"
+                                       LATITUDE="-22.8181235"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Campinas"
+                                       NUMERO="1251"
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="Avenida Albert Einstein"
+                                       HOME-PAGE="http://www.ic.unicamp.br/~neucimar"
+                                       E-MAIL="neucimar@ic.unicamp.br"
+                                       FAX="35215847"
+                                       RAMAL=""
+                                       TELEFONE="35215840"
+                                       DDD="19"
+                                       CEP="13083852"
+                                       CIDADE="Campinas"
+                                       UF="SP"
+                                       BAIRRO="Cidade Universitária"/>
+      <REPERCUSSOES>O trabalho desenvolvido nesta area contribui para a definicao de novas tecnicas e metodos algoritmicos voltados para imagens digitiais. Inclui aplicacoes de analise de imagens, em geral, relacionada com  areas, tais como, medicina, sensoreamento remoto, automacao industrial, cartografia, imagens de video etc.O objetivo principal das atividades desenvolvidas pelo grupo é tornar mais simples e, eventualmente, mais confiaveis os diferentes processos de analise de imagens relativos aos sistemas que utilizam informacoes pictoricas.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="GOLDENSTEIN, S.;Goldenstein, Siome;GOLDENSTEIN, SIOME KLEIN"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3575273076267374"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Siome Klein Goldenstein">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visao Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aprendizado de Máquina</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Visão Computacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MEDEIROS, C. M. B.;Medeiros, Claudia Bauzer;MEDEIROS, C. B."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="F"
+                   NRO-ID-CNPQ="4643608666899616"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Claudia Maria Bauzer Medeiros">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Bancos de dados de imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação Geográfica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FALCÃO, A. X.;Falcão, Alexandre X.;Falcao, A.X.;FALCAO, A;Falcão, A.X.;Falcão, A;Falcao, Alexandre Xavier;Xavier Falcão, Alexandre;Alexandre Xavier Falcão;FALCÃ£O, ALEXANDRE XAVIER;FALCAO, A. X.;FALAO, Alexandre Xavier;FALCAO, A.;FALCAO, ALEXANDRE X.;FALCÃO, ALEXANDRE;FALCAO, ALEXANDRE X;FALCAO, ALEXANDRE;FALCÃO, ALEXANDRE XAVIER"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7533729699758819"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Alexandre Xavier Falcão">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visao Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de padrões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Recuperação de Imagens Por Conteúdo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Visualização de Imagens Médicas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="STOLFI, J.;Stolfi, Jorge;Stolfi, J.;STOLFI, J"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6824400602221355"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Jorge Stolfi">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visao Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computabilidade e Modelos de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagem Formais e Autômatos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LEITE, N. J.;Leite, Neucimar J.;Leite, N.J.;Leite, N.;LEITE, NEUCIMAR JERÔNIMO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8647239680081745"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Neucimar Jerônimo Leite">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visao Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Bancos de dados de imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Morfologia Matematica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL="" BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE XAVIER FALCAO"
+                 NRO-ID-CNPQ-ORIENTADOR="7533729699758819"
+                 SEQUENCIA-ESTUDANTE="336423"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8540192491411928"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Eduardo Migueis Picado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SIMÕES, N. C." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="NEUCIMAR JERONIMO LEITE"
+                 NRO-ID-CNPQ-ORIENTADOR="8647239680081745"
+                 SEQUENCIA-ESTUDANTE="427808"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9311696329664199"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Nielsen Cassiano Simões">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Morfologia Matematica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Morfologia Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ROCHA, Anderson;ROCHA, ANDERSON;ROCHA, A.;DE REZENDE ROCHA, ANDERSON;ROCHA, ANDERSON DE REZENDE;ROCHA, A"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SIOME KLEIN GOLDENSTEIN"
+                 NRO-ID-CNPQ-ORIENTADOR="3575273076267374"
+                 SEQUENCIA-ESTUDANTE="284500"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1521815731111261"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Anderson de Rezende Rocha">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visao Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biometria</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Forense</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Visual e Inteligência de Máquina</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inferência em Dados Complexos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BERGO, F. P. G.;Bergo, Felipe P. G.;Bergo, Felipe;BERGO, FELIPE P.G.;Bergo, FP;Bergo, FPG;Bergo, F. P.;BERGO, FELIPE PG.;BERGO, FELIPE P.G"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE XAVIER FALCAO"
+                 NRO-ID-CNPQ-ORIENTADOR="7533729699758819"
+                 SEQUENCIA-ESTUDANTE="178297"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5311172857522399"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Felipe Paulo Guazzi Bergo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="HAUAGGE, D. C." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SIOME KLEIN GOLDENSTEIN"
+                 NRO-ID-CNPQ-ORIENTADOR="3575273076267374"
+                 SEQUENCIA-ESTUDANTE="2063567"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0110035842277156"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Daniel Cabrini Hauagge">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visao Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ANDALÓ, F.A.;ANDALO, F.A.;ANDALÓ, FERNANDA A.;ANDALÓ, FERNANDA ALCÂNTARA;ANDALO, FERNANDA A."
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE XAVIER FALCAO"
+                 NRO-ID-CNPQ-ORIENTADOR="7533729699758819"
+                 SEQUENCIA-ESTUDANTE="538795"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1511096593761280"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Fernanda Alcântara Andaló">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Bancos de dados de imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Gráfica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Visão Computacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SUZUKI, Celso Tetsuo Nagase;SUZUKI, C. T. N.;SUZUKI, C.;SUZUKI, CELSO T. N.;SUZUKI, CELSO T.N."
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE XAVIER FALCAO"
+                 NRO-ID-CNPQ-ORIENTADOR="7533729699758819"
+                 SEQUENCIA-ESTUDANTE="416998"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9376921418115878"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Celso Tetsuo Nagase Suzuki">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Classificadores de padrões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="TEIXEIRA, R. F. S.;Raoni Florentino da Silva Teixeira;TEIXEIRA, RAONI F. S.;da Silva Teixeira, Raoni Florentino;Teixeira, Raoni F. S."
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="NEUCIMAR JERONIMO LEITE"
+                 NRO-ID-CNPQ-ORIENTADOR="8647239680081745"
+                 SEQUENCIA-ESTUDANTE="1833450"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5079017129840047"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Raoni Florentino da Silva Teixeira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Morfologia Matematica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos e Modelos Matemáticos, Econométricos e Estatísticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Visão Computacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PAPA, J. P.;Papa, João Paulo;Papa, João P.;PAPA, J.;PAPA, JOAO P.;PAPA, J. PAULO;PAPA, JOAO PAULO;PAPA, JOAO PAPA;Papa, J. P.;PAPA, J.P.;PAPA, JOAO"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL="2"
+                 BOLSA-CATEGORIA="Produtividade em Pesquisa"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE XAVIER FALCAO"
+                 NRO-ID-CNPQ-ORIENTADOR="7533729699758819"
+                 SEQUENCIA-ESTUDANTE="442597"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9039182932747194"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="João Paulo Papa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens e Sinais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Padrões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BRANDÃO, B. C." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SIOME KLEIN GOLDENSTEIN"
+                 NRO-ID-CNPQ-ORIENTADOR="3575273076267374"
+                 SEQUENCIA-ESTUDANTE="246577"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8821211122180094"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruno Cedraz Brandão">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visao Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aprendizado de Máquina</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento/Síntese de Fala</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Tecnologia Educacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Visão Computacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CAPPABIANCO, Fábio Augusto Menocci;Cappabianco, Fábio A. M.;Cappabianco, Fabio A.M.;CAPPABIANCO, FÁBIO A.M.;CAPPABIANCO, FABIO;CAPPABIANCO, FABIO A. M."
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE XAVIER FALCAO"
+                 NRO-ID-CNPQ-ORIENTADOR="7533729699758819"
+                 SEQUENCIA-ESTUDANTE="568232"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7438076121387151"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Fábio Augusto Menocci Cappabianco">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens Biomédicas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens (Image Processing)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NEVES, R. S." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SIOME KLEIN GOLDENSTEIN"
+                 NRO-ID-CNPQ-ORIENTADOR="3575273076267374"
+                 SEQUENCIA-ESTUDANTE="592131"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0124868309301094"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Renato Silva das Neves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visao Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robotização</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ALMEIDA, J.;Almeida, Jurandy" NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SIOME KLEIN GOLDENSTEIN"
+                 NRO-ID-CNPQ-ORIENTADOR="3575273076267374"
+                 SEQUENCIA-ESTUDANTE="547273"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4495269939725770"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Jurandy Gomes de Almeida Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visao Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LACERDA, D." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE XAVIER FALCAO"
+                 NRO-ID-CNPQ-ORIENTADOR="7533729699758819"
+                 SEQUENCIA-ESTUDANTE="2060384"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3438618154451403"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Danilo Lacerda">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="RUPPERT, Guilherme C. S.;G. C. S. Ruppert;RUPPERT, GUILHERME CESAR SOARES;RUPPERT, GUILHERME;RUPPERT, GUILHERME C.S."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SIOME KLEIN GOLDENSTEIN"
+                 NRO-ID-CNPQ-ORIENTADOR="3575273076267374"
+                 SEQUENCIA-ESTUDANTE="729214"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0301981213844475"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Guilherme Cesar Soares Ruppert">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visao Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Imagens Médicas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Segurança Computacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DORINI, L. B.;DORINI, L. E. B.;DORINI, L.;Dorini, Leyza B.;Leyza Baldo Dorini;Dorini, Leyza;Dorini, Leyza Baldo;Baldo Dorini, Leyza;LEYZA ELMERI BALDO DORINI"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="NEUCIMAR JERONIMO LEITE"
+                 NRO-ID-CNPQ-ORIENTADOR="8647239680081745"
+                 SEQUENCIA-ESTUDANTE="526893"
+                 SEXO="F"
+                 NRO-ID-CNPQ="5726947194230379"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Leyza Elmeri Baldo Dorini">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Morfologia Matematica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise multi-escala</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Morfologia Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Visão Computacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MALHEIRO, A. P. R.;MALHEIRO, A. P.;MALHEIRO, ANA P. R."
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JORGE STOLFI"
+                 NRO-ID-CNPQ-ORIENTADOR="6824400602221355"
+                 SEQUENCIA-ESTUDANTE="520258"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6723025825127615"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ana Paula Resende Malheiro Amaral">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visao Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MIRANDA, P. A. V.;Miranda, Paulo A. V.;Miranda, P.A.V.;de Miranda, P.A.V.;de Miranda, Paulo A. V.;DE MIRANDA, PAULO A.V.;MIRANDA, PAULO;MIRANDA, PAULO A.V.;MIRANDA, PAULO A.V. VECHIATTO;MIRANDA, P A V;MIRANDA, PAULO A. VECHIATTO"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL="2"
+                 BOLSA-CATEGORIA="Produtividade em Pesquisa"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SIOME KLEIN GOLDENSTEIN"
+                 NRO-ID-CNPQ-ORIENTADOR="3575273076267374"
+                 SEQUENCIA-ESTUDANTE="2307667"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5251389003736909"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Paulo André Vechiatto de Miranda">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visao Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Imagens.</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens.</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de padrões.</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Recuperação de Imagens por Conteúdo.</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SPINA, T. V.;Spina, T.V.;Spina, Thiago V.;VALLIN SPINA, THIAGO;SPINA, THIAGO VALLIN;SPINA, THIAGO V;SPINA, T V;SPINA, T;SPINA, THIAGO"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE XAVIER FALCAO"
+                 NRO-ID-CNPQ-ORIENTADOR="7533729699758819"
+                 SEQUENCIA-ESTUDANTE="2073347"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1977864892800649"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Thiago Vallin Spina">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica, Mecatrônica e Automação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="VASCONCELOS, Raimundo Claudio da Silva"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="NEUCIMAR JERONIMO LEITE"
+                 NRO-ID-CNPQ-ORIENTADOR="8647239680081745"
+                 SEQUENCIA-ESTUDANTE="352223"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7754463220591636"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Raimundo Claudio da Silva Vasconcelos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Bancos de dados de imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="STEHLING, R. O." NIVEL-DE-TREINAMENTO="Mestrado Profissional"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SIOME KLEIN GOLDENSTEIN"
+                 NRO-ID-CNPQ-ORIENTADOR="3575273076267374"
+                 SEQUENCIA-ESTUDANTE="409258"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6780548183444767"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Renato de Oliveira Stehling">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visao Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Bancos de dados de imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ROCHA, L. M.;ROCHA, LEONARDO MARQUES;ROCHA, LEONARDO M."
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE XAVIER FALCAO"
+                 NRO-ID-CNPQ-ORIENTADOR="7533729699758819"
+                 SEQUENCIA-ESTUDANTE="152792"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1691967052471277"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Leonardo Marques Rocha">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teleinformática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="IWAI, F. K." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE XAVIER FALCAO"
+                 NRO-ID-CNPQ-ORIENTADOR="7533729699758819"
+                 SEQUENCIA-ESTUDANTE="434211"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3310057028578818"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Fernando Kenji Iwai">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9691489385046640"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Busca por conteúdo em bancos de dados de imagens e vídeos"
+                         NOME-DA-LINHA-DE-PESQUISA="Bancos de dados de imagens"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Bancos de dados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Indexacao espacial</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Recuperação por conteúdo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">análise de vídeos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4643608666899616" NOME-COMPLETO="Claudia Maria Bauzer Medeiros"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11997"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8647239680081745" NOME-COMPLETO="Neucimar Jerônimo Leite"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="67341"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1511096593761280" NOME-COMPLETO="Fernanda Alcântara Andaló"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="538795"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7754463220591636"
+                             NOME-COMPLETO="Raimundo Claudio da Silva Vasconcelos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="352223"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6780548183444767" NOME-COMPLETO="Renato de Oliveira Stehling"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="409258"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303030" CODIGO-ESPECIALIDADE="10303030"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Banco de Dados"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="59"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303057" CODIGO-ESPECIALIDADE="10303057"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento Gráfico (Graphics)"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="61"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10705058" CODIGO-ESPECIALIDADE="10705058"
+                                  CODIGO-SUB-AREA="10705007"
+                                  CODIGO-AREA="10700005"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Geoecologia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geografia Física"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Geociências"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="226"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4294839509872864"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Análise e implementação de métodos de análise de imagens e vídeos voltados para visão computacional, descrição e modelagem de cenas."
+                         NOME-DA-LINHA-DE-PESQUISA="Visao Computacional"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Segmentacao</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Filtragem</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Visualizacao</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">descricao</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3575273076267374" NOME-COMPLETO="Siome Klein Goldenstein"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="352899"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7533729699758819" NOME-COMPLETO="Alexandre Xavier Falcão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="108960"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6824400602221355" NOME-COMPLETO="Jorge Stolfi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="17262"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8647239680081745" NOME-COMPLETO="Neucimar Jerônimo Leite"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="67341"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1521815731111261" NOME-COMPLETO="Anderson de Rezende Rocha"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="284500"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0110035842277156" NOME-COMPLETO="Daniel Cabrini Hauagge"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2063567"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8821211122180094" NOME-COMPLETO="Bruno Cedraz Brandão"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="246577"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0124868309301094" NOME-COMPLETO="Renato Silva das Neves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="592131"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4495269939725770" NOME-COMPLETO="Jurandy Gomes de Almeida Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="547273"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0301981213844475" NOME-COMPLETO="Guilherme Cesar Soares Ruppert"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="729214"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6723025825127615"
+                             NOME-COMPLETO="Ana Paula Resende Malheiro Amaral"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="520258"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5251389003736909" NOME-COMPLETO="Paulo André Vechiatto de Miranda"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2307667"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6780548183444767" NOME-COMPLETO="Renato de Oliveira Stehling"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="409258"
+                             SEQUENCIA-ESTUDANTE="9"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7608855126756875"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Teoria e prática para métodos de transformações morfológicas voltados para processamento de imagens e vídeos e suas aplicações."
+                         NOME-DA-LINHA-DE-PESQUISA="Morfologia Matematica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Teoria dos conjuntos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Teoria dos reticulados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Granulometria</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Segmentacao morfologica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Filtragem morfologica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8647239680081745" NOME-COMPLETO="Neucimar Jerônimo Leite"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="67341"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9311696329664199" NOME-COMPLETO="Nielsen Cassiano Simões"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="427808"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5079017129840047"
+                             NOME-COMPLETO="Raoni Florentino da Silva Teixeira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="1833450"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5726947194230379" NOME-COMPLETO="Leyza Elmeri Baldo Dorini"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="526893"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303057" CODIGO-ESPECIALIDADE="10303057"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento Gráfico (Graphics)"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="61"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2646900642601903"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo e definição de métodos de processamento e análise de imagens para aplicações em geral."
+                         NOME-DA-LINHA-DE-PESQUISA="Processamento e Analise de Imagens"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Filtragem de imagens</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Segmentacao de imagens</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Reconhecimento de padroes</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Representacao e descricao de imagens</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3575273076267374" NOME-COMPLETO="Siome Klein Goldenstein"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="352899"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7533729699758819" NOME-COMPLETO="Alexandre Xavier Falcão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="108960"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6824400602221355" NOME-COMPLETO="Jorge Stolfi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="17262"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8647239680081745" NOME-COMPLETO="Neucimar Jerônimo Leite"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="67341"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8540192491411928" NOME-COMPLETO="Eduardo Migueis Picado"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="336423"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9311696329664199" NOME-COMPLETO="Nielsen Cassiano Simões"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="427808"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5311172857522399" NOME-COMPLETO="Felipe Paulo Guazzi Bergo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="178297"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9376921418115878" NOME-COMPLETO="Celso Tetsuo Nagase Suzuki"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="416998"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5079017129840047"
+                             NOME-COMPLETO="Raoni Florentino da Silva Teixeira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="1833450"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9039182932747194" NOME-COMPLETO="João Paulo Papa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="442597"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7438076121387151"
+                             NOME-COMPLETO="Fábio Augusto Menocci Cappabianco"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="568232"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3438618154451403" NOME-COMPLETO="Danilo Lacerda"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2060384"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5726947194230379" NOME-COMPLETO="Leyza Elmeri Baldo Dorini"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="526893"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6723025825127615"
+                             NOME-COMPLETO="Ana Paula Resende Malheiro Amaral"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="520258"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1977864892800649" NOME-COMPLETO="Thiago Vallin Spina"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2073347"
+                             SEQUENCIA-ESTUDANTE="11"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7754463220591636"
+                             NOME-COMPLETO="Raimundo Claudio da Silva Vasconcelos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="352223"
+                             SEQUENCIA-ESTUDANTE="12"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6780548183444767" NOME-COMPLETO="Renato de Oliveira Stehling"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="409258"
+                             SEQUENCIA-ESTUDANTE="13"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1691967052471277" NOME-COMPLETO="Leonardo Marques Rocha"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="152792"
+                             SEQUENCIA-ESTUDANTE="14"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3310057028578818" NOME-COMPLETO="Fernando Kenji Iwai"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="434211"
+                             SEQUENCIA-ESTUDANTE="15"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303057" CODIGO-ESPECIALIDADE="10303057"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento Gráfico (Graphics)"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="61"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

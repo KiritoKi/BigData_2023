@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="8331108809203677"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="191819"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="20092016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="5086811331322199" CODIGO-AREA-PREDOMINANTE="10700005"
+                           NOME-DA-UNIDADE="Escola de Artes, Ciências e Humanidades"
+                           NOME-DO-ORGAO="Escola de Artes, Ciências e Humanidades"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SP"
+                           SIGLA-DA-INSTITUICAO="USP"
+                           NOME-DA-INSTITUICAO="Universidade de São Paulo"
+                           AREA-PREDOMINANTE="Geociências"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2011"
+                           NOME-DO-GRUPO="Grupo de Estudos e Pesquisas em Infraestrutura de Dados Espaciais (GEPIDE)">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="8291933997449674" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Homero Fonseca Filho"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="9667164483654630" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Luis Americo Conti"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3550308" DDDFAX=""
+                                       LONGITUDE="-46.49856761097908"
+                                       LATITUDE="-23.48250699731685"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="São Paulo"
+                                       NUMERO="1000"
+                                       COMPLEMENTO="Laboratório de Computação Geospacial (LaCoGeo)"
+                                       LOGRADOURO="Rua Arlindo Bettio"
+                                       HOME-PAGE="http://each.uspnet.usp.br/site/pesquisa-grupos.php"
+                                       E-MAIL="homeroff@usp.br"
+                                       FAX=""
+                                       RAMAL=""
+                                       TELEFONE="30918835"
+                                       DDD="11"
+                                       CEP="03828000"
+                                       CIDADE="São Paulo"
+                                       UF="SP"
+                                       BAIRRO="Ermelino Matarazzo"/>
+      <REPERCUSSOES>Missão do grupo:Contribuir com o desenvolvimento e implantação da Infraestrutura Nacional de Dados Espaciais (INDE) do Brasil e de outros países através do ensino, pesquisa e extensão.Motivação do grupo:recentemente o Brasil deu um passo importante para o estabelecimento de sua Infraestrutura de Dados Espaciais (IDE). Por meio do Decreto Presidencial nº 6.666, de 27 de novembro de 2008 foi instituída legalmente a Infraestrutura Nacional de Dados Espaciais (INDE), determinando que a Comissão Nacional de Cartografia (CONCAR)elaborasse um Plano de Ação Para Implantação da INDE, o qual foi publicado em janeiro de 2010. Com isso, as instituições públicas responsáveis pela produção de dados e informações geoespaciais oficiais do Brasil, estão sujeitas e obrigadas a cumprir o referido decreto o que requer investimentos em pesquisa e desenvolvimento.A INDE tem um caráter interdisciplinar e é definida como o conjunto integrado de tecnologias; políticas; mecanismos e procedimentos.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="PAIVA, D.;PAIVA SALINAS, DELHI TERESA;SALINAS, D. T. P."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="F"
+                   NRO-ID-CNPQ="5818099353568936"
+                   PAIS-DE-NASCIMENTO="PER"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Delhi Teresa Paiva Salinas">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação e Difusão de Infraestrutura de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informação Georáfica para Sustentabilidade, Gestão Pública, Ambiente e Sociedade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Multivariada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Probabilidade e Estatística Aplicadas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Regressão e Correlação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="HOMERO FONSECA FILHO;FONSECA FILHO, H.;FILHO, H. F.;FONSECA, HOMERO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8291933997449674"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Homero Fonseca Filho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação e Difusão de Infraestrutura de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informação Georáfica para Sustentabilidade, Gestão Pública, Ambiente e Sociedade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento tecnológico e científico de Infraestrutura de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cartografia Básica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação à Distância</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geoprocessamento</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Infraestrutura de Dados Espaciais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Manejo e Conservação do Solo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informações Geográficas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CONTI, Luis Americo;Conti, Luis Américo"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9667164483654630"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Luis Americo Conti">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informação Georáfica para Sustentabilidade, Gestão Pública, Ambiente e Sociedade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento tecnológico e científico de Infraestrutura de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geocartografia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geomorfologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geomorfologia Submarina</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sedimentologia Marinha</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sensoriamento Remoto</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CAZETTA, Valeria" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="F"
+                   NRO-ID-CNPQ="9888451500529523"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Valeria Cazetta">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação e Difusão de Infraestrutura de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cartografia Escolar</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino de Geociências</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino de Geografia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CORRÊA, D. C." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2377665631775555"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Douglas Corbari Corrêa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento tecnológico e científico de Infraestrutura de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cartografia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Generalização Cartográfica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geociências</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geografia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sensoriamento Remoto</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="de ALBUQUERQUE, J. P.;PORTO DE ALBUQUERQUE, J.;de Albuquerque, João Porto;Albuquerque, João P.;ALBUQUERQUE, J. P.;DE ALBUQUERQUE, JOAO PORTO;ALBUQUERQUE, JOAO PORTO DE;Porto de Albuquerque, João;ALBUQUERQUE, JOAO P. DE;ALBUQUERQUE, JOÃO PORTO DE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9426650405097319"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="João Porto de Albuquerque">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informação Georáfica para Sustentabilidade, Gestão Pública, Ambiente e Sociedade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento tecnológico e científico de Infraestrutura de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administração da Informação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estudos Sociais de Ciência e Tecnologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Computadores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GONZALEZ, M. E." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="F"
+                   NRO-ID-CNPQ="5091414013893363"
+                   PAIS-DE-NASCIMENTO="ARG"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="María Ester Gonzalez">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação e Difusão de Infraestrutura de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educación Virtual</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geografia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Usabilidad</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LEYH, W.;Leyh, W.;LEYH, WERNER;Werner Leyh"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3680164374350008"
+                   PAIS-DE-NASCIMENTO="DEU"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Werner Leyh">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informação Georáfica para Sustentabilidade, Gestão Pública, Ambiente e Sociedade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento tecnológico e científico de Infraestrutura de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>e-gov</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geofísica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geoinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica, Mecatrônica e Automação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Saúde Pública</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MOLINA, C. V. C." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="F"
+                   NRO-ID-CNPQ="7601511771354855"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Cyntia Virolli Cid Molina">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento tecnológico e científico de Infraestrutura de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estudo de Impacto Ambiental</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geoprocessamento</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ALMEIDA, P. S.;ALMEIDA, P.;ALMEIDA, Paulo S. de;ALMEIDA, Paulo Santos de;ALMEIDA, Paulo Santos;ALMEIDA, Paulo S."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9769033547975455"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Paulo Santos de Almeida">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informação Georáfica para Sustentabilidade, Gestão Pública, Ambiente e Sociedade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciências Ambientais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Direito</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ROSALEN, David Luciano;ROSALEN, DAVID LUCIANO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8500973418367106"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="David Luciano Rosalen">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informação Georáfica para Sustentabilidade, Gestão Pública, Ambiente e Sociedade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento tecnológico e científico de Infraestrutura de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Agricultura de Precisão</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Georreferenciamento de Imóveis Rurais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação Geográfica - SIG</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Navegação Global por Satélites - GNSS</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="WERNECK, M. G." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="HOMERO FONSECA FILHO"
+                 NRO-ID-CNPQ-ORIENTADOR="8291933997449674"
+                 SEQUENCIA-ESTUDANTE="4635893"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5621204522988750"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marcelo Gaioso Werneck">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento tecnológico e científico de Infraestrutura de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="POMPERMAYER, G. A." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="WERNER LEYH"
+                 NRO-ID-CNPQ-ORIENTADOR="3680164374350008"
+                 SEQUENCIA-ESTUDANTE="4648975"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3173132409657052"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Guilherme Andretta Pompermayer">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento tecnológico e científico de Infraestrutura de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciências Ambientais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FONSECA, N. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="WERNER LEYH"
+                 NRO-ID-CNPQ-ORIENTADOR="3680164374350008"
+                 SEQUENCIA-ESTUDANTE="4959721"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8281081225158997"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Natália Sartini Fonseca">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento tecnológico e científico de Infraestrutura de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura e Urbanismo</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MENEZES, D. P." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="HOMERO FONSECA FILHO"
+                 NRO-ID-CNPQ-ORIENTADOR="8291933997449674"
+                 SEQUENCIA-ESTUDANTE="2357337"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1029419001766518"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Diego Pinheiro de Menezes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informação Georáfica para Sustentabilidade, Gestão Pública, Ambiente e Sociedade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciências Ambientais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geografia Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sensoriamento Remoto</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ITO, M. H." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="HOMERO FONSECA FILHO"
+                 NRO-ID-CNPQ-ORIENTADOR="8291933997449674"
+                 SEQUENCIA-ESTUDANTE="5946618"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8984461408556497"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marcia Harumi Ito">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação e Difusão de Infraestrutura de Dados Espaciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LAUTON, A. M." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="HOMERO FONSECA FILHO"
+                 NRO-ID-CNPQ-ORIENTADOR="8291933997449674"
+                 SEQUENCIA-ESTUDANTE="4891549"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4626831543991162"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Adriano Monteiro Lauton">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informação Georáfica para Sustentabilidade, Gestão Pública, Ambiente e Sociedade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="TÉCNICOS EM GEOMÁTICA"
+               TITULO-OCUPACAO="Técnico em geodésia e cartografia"
+               CODIGO-CBO="3123-10"
+               NIVEL-DE-TREINAMENTO=""
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="M"
+               NOME-CITACOES="MARINS, J. C."
+               NRO-ID-CNPQ="0253542066035812"
+               GRAU-DE-ESCOLARIDADE="Graduação"
+               ATIVIDADE-NO-GRUPO="Técnico em geodésia e cartografia"
+               NOME-COMPLETO="Jefferson Carlos de Marins"
+               SEQUENCIA-TECNICO="3169417"/>
+   </TECNICOS>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7231628784147819"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha de pesquisa investiga o uso de Tecnologias de Informação e Comunicação (TIC), aplicadas para Educação Virtual e Ensino à Distância na formação de recursos humanos em Infraestrutura de Dados Espaciais (IDE). Investiga também o uso de metodologias ativas de aprendizagem, tais como, a Aprendizagem Baseada em Problemas e Projetos para desenvolver e prover conhecimentos, habilidades, comportamentos e atitudes de estudantes da educação básica até a pós-graduação em IDE."
+                         NOME-DA-LINHA-DE-PESQUISA="Educação e Difusão de Infraestrutura de Dados Espaciais"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Ensino</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Aprendizagem</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Tecnologia de Informação e Comunicação (TIC)</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Aprendizagem Baseada em Problemas e Projetos ABPP</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Metodologias Ativas de Aprendizagem</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Educação Geográfica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5818099353568936" NOME-COMPLETO="Delhi Teresa Paiva Salinas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="222479"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8291933997449674" NOME-COMPLETO="Homero Fonseca Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="339477"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9888451500529523" NOME-COMPLETO="Valeria Cazetta"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="135340"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5091414013893363" NOME-COMPLETO="María Ester Gonzalez"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="4537683"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8984461408556497" NOME-COMPLETO="Marcia Harumi Ito"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5946618"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="62"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="70804001" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="70804001"
+                                  CODIGO-AREA="70800006"
+                                  CODIGO-GRANDE-AREA="70000000"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Ensino-Aprendizagem"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Educação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Humanas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1190"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.9" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.4" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2584364490993800"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha de pesquisa tem o objetivo de investigar e desenvolver tecnologias na área da Computação Geoespacial para facilitar e viabilizar a implantação de Infraestrutura de Dados Espaciais (IDE). São objetos de estudo, por exemplo, os Bancos de dados geoespaciais, a interoperabilidade entre sistemas, o uso de metadados geoespaciais, implantação de geoportais, o uso software livres e de código aberto, Serviços WEB, Cartografia Digital, qualidade e consistência de dados geoespaciais."
+                         NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento tecnológico e científico de Infraestrutura de Dados Espaciais"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">computação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Interoperabilidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Sisstemas de Informação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">banco de dados geoespaciais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Cartografia Digital</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Metadados Geoespaciais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8291933997449674" NOME-COMPLETO="Homero Fonseca Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="339477"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9667164483654630" NOME-COMPLETO="Luis Americo Conti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="381278"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2377665631775555" NOME-COMPLETO="Douglas Corbari Corrêa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="374421"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9426650405097319" NOME-COMPLETO="João Porto de Albuquerque"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="428601"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3680164374350008" NOME-COMPLETO="Werner Leyh"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="616985"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8500973418367106" NOME-COMPLETO="David Luciano Rosalen"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="768981"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7601511771354855" NOME-COMPLETO="Cyntia Virolli Cid Molina"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="4629545"
+                               SEQUENCIA-PESQUISADOR="7"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5621204522988750" NOME-COMPLETO="Marcelo Gaioso Werneck"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4635893"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3173132409657052" NOME-COMPLETO="Guilherme Andretta Pompermayer"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4648975"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8281081225158997" NOME-COMPLETO="Natália Sartini Fonseca"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4959721"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303030" CODIGO-ESPECIALIDADE="10303030"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Banco de Dados"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="59"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="62"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10704051" CODIGO-ESPECIALIDADE="10704051"
+                                  CODIGO-SUB-AREA="10704000"
+                                  CODIGO-AREA="10700005"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Cartografia Básica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geodésia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Geociências"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="220"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.63.1"
+                                SUBSETOR="Atividades de prestação de serviços de informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9827559608971073"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Investigar como as Informações Geográficas e as Infraestruturas de Dados Espaciais (IDE) podem alavancar o desenvolvimento sustentável e auxiliar na modernização e informatização da gestão pública e privada. Investiga, por exemplo, quais os benefícios, as limitações e as necessidades gerais e específicas para os diversos setores da gestão pública e privada. Investiga a  usabilidade dos geoportais na Internet pela sociedade, o uso e implantação do Governo eletrônico, entre outros."
+                         NOME-DA-LINHA-DE-PESQUISA="Informação Georáfica para Sustentabilidade, Gestão Pública, Ambiente e Sociedade"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Geoportal</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Governo eletrônico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Gestão Pública</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Sustentabilidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Meio ambiente</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5818099353568936" NOME-COMPLETO="Delhi Teresa Paiva Salinas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="222479"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8291933997449674" NOME-COMPLETO="Homero Fonseca Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="339477"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9667164483654630" NOME-COMPLETO="Luis Americo Conti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="381278"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3680164374350008" NOME-COMPLETO="Werner Leyh"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="616985"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9769033547975455" NOME-COMPLETO="Paulo Santos de Almeida"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="269035"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8500973418367106" NOME-COMPLETO="David Luciano Rosalen"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="768981"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9426650405097319" NOME-COMPLETO="João Porto de Albuquerque"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="428601"
+                               SEQUENCIA-PESQUISADOR="7"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4626831543991162" NOME-COMPLETO="Adriano Monteiro Lauton"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4891549"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1029419001766518" NOME-COMPLETO="Diego Pinheiro de Menezes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2357337"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="60202009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="60202009"
+                                  CODIGO-AREA="60200006"
+                                  CODIGO-GRANDE-AREA="60000007"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Administração Pública"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Administração"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="921"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="60700009" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="60700009"
+                                  CODIGO-GRANDE-AREA="60000007"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Informação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Sociais Aplicadas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1039"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="O" SUBSETOR=""
+                                SETOR="Administração pública, defesa e seguridade social"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="1911152306626867"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidad Autonoma de Chiapas"
+               NATUREZA-JURIDICA=""
+               SEGMENTO-ECONOMICO=""
+               CNPJ=""
+               LOCALIDADE="Tuxtla Gutierrez"
+               CIDADE="Tuxtla Gutierrez"
+               UF=""
+               SIGLA-DA-EMPRESA="U.A.CHIAPAS"
+               NOME-DA-EMPRESA="Universidad Autonoma de Chiapas"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="7466700575548730"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidad de Cordoba - Colômbia"
+               NATUREZA-JURIDICA=""
+               SEGMENTO-ECONOMICO=""
+               CNPJ=""
+               LOCALIDADE="Monteria"
+               CIDADE="Monteria"
+               UF=""
+               SIGLA-DA-EMPRESA="U.CORDOBA"
+               NOME-DA-EMPRESA="Universidad de Cordoba - Colômbia"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="21">Treinamento de pessoal do parceiro pelo grupo, incluindo cursos e treinamento "em serviço"</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="16">Transferência física temporária de recursos humanos do parceiro para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="17">Transferência física temporária de recursos humanos do grupo para as atividades do parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="9037309248870954"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidad Politécnica de Madrid"
+               NATUREZA-JURIDICA=""
+               SEGMENTO-ECONOMICO=""
+               CNPJ="EX36431937"
+               LOCALIDADE="Madrid"
+               CIDADE="Madrid"
+               UF=""
+               SIGLA-DA-EMPRESA="UPM"
+               NOME-DA-EMPRESA="Universidad Politécnica de Madrid"
+               SEQUENCIA-EMPRESA="2">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="17">Transferência de tecnologia desenvolvida pelo parceiro para o grupo</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="22">Treinamento de pessoal do grupo pelo parceiro, incluindo cursos e treinamento "em serviço"</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="18">Parceria com transfêrencia de recursos de qualquer espécie nos dois sentidos</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="N" CUSTO-LICENCIAMENTO="10000"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES=""
+                MODELO=""
+                VERSAO=""
+                NOME="Arc GIS"
+                CLASSIFICACAO="Engenharia/estatística/geoprocessamento"
+                TIPO-DE-LICENCIAMENTO="Comercial"
+                DESENVOLVIMENTO-PROPRIO="N"
+                SEQUENCIA-SOFTWARE="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Outra instituição pública</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES=""
+                MODELO=""
+                VERSAO=""
+                NOME="Quantun GIS"
+                CLASSIFICACAO="Engenharia/estatística/geoprocessamento"
+                TIPO-DE-LICENCIAMENTO="Domínio público"
+                DESENVOLVIMENTO-PROPRIO="N"
+                SEQUENCIA-SOFTWARE="1">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0"/>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES=""
+                MODELO=""
+                VERSAO=""
+                NOME="GVSig"
+                CLASSIFICACAO="Engenharia/estatística/geoprocessamento"
+                TIPO-DE-LICENCIAMENTO="Domínio público"
+                DESENVOLVIMENTO-PROPRIO="N"
+                SEQUENCIA-SOFTWARE="2">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0"/>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+   </SOFTWARES>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="20092016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7601511771354855"
+               NOME-DO-EGRESSO="Cyntia Virolli Cid Molina"/>
+      <EGRESSO DATA-SAIDA="20092016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7601511771354855"
+               NOME-DO-EGRESSO="Cyntia Virolli Cid Molina"/>
+      <EGRESSO DATA-SAIDA="20092016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7601511771354855"
+               NOME-DO-EGRESSO="Cyntia Virolli Cid Molina"/>
+      <EGRESSO DATA-SAIDA="20092016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7601511771354855"
+               NOME-DO-EGRESSO="Cyntia Virolli Cid Molina"/>
+      <EGRESSO DATA-SAIDA="20092016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7601511771354855"
+               NOME-DO-EGRESSO="Cyntia Virolli Cid Molina"/>
+      <EGRESSO DATA-SAIDA="20092016" DATA-ENTRADA="26062014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7601511771354855"
+               NOME-DO-EGRESSO="Cyntia Virolli Cid Molina"/>
+      <EGRESSO DATA-SAIDA="20092016" DATA-ENTRADA="26062014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7601511771354855"
+               NOME-DO-EGRESSO="Cyntia Virolli Cid Molina"/>
+      <EGRESSO DATA-SAIDA="20092016" DATA-ENTRADA="15082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7601511771354855"
+               NOME-DO-EGRESSO="Cyntia Virolli Cid Molina"/>
+      <EGRESSO DATA-SAIDA="20092016" DATA-ENTRADA="15082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7601511771354855"
+               NOME-DO-EGRESSO="Cyntia Virolli Cid Molina"/>
+      <EGRESSO DATA-SAIDA="20092016" DATA-ENTRADA="15082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7601511771354855"
+               NOME-DO-EGRESSO="Cyntia Virolli Cid Molina"/>
+      <EGRESSO DATA-SAIDA="20092016" DATA-ENTRADA="31102014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7601511771354855"
+               NOME-DO-EGRESSO="Cyntia Virolli Cid Molina"/>
+      <EGRESSO DATA-SAIDA="20092016" DATA-ENTRADA="31102014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7601511771354855"
+               NOME-DO-EGRESSO="Cyntia Virolli Cid Molina"/>
+      <EGRESSO DATA-SAIDA="20092016" DATA-ENTRADA="05112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7601511771354855"
+               NOME-DO-EGRESSO="Cyntia Virolli Cid Molina"/>
+      <EGRESSO DATA-SAIDA="20092016" DATA-ENTRADA="24032015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7601511771354855"
+               NOME-DO-EGRESSO="Cyntia Virolli Cid Molina"/>
+      <EGRESSO DATA-SAIDA="20092016" DATA-ENTRADA="29102015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7601511771354855"
+               NOME-DO-EGRESSO="Cyntia Virolli Cid Molina"/>
+      <EGRESSO DATA-SAIDA="20092016" DATA-ENTRADA="11052016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7601511771354855"
+               NOME-DO-EGRESSO="Cyntia Virolli Cid Molina"/>
+      <EGRESSO DATA-SAIDA="20092016" DATA-ENTRADA="09092016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7601511771354855"
+               NOME-DO-EGRESSO="Cyntia Virolli Cid Molina"/>
+      <EGRESSO DATA-SAIDA="20092016" DATA-ENTRADA="20092016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7601511771354855"
+               NOME-DO-EGRESSO="Cyntia Virolli Cid Molina"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

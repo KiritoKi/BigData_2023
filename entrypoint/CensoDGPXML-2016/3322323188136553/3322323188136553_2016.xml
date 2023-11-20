@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="3322323188136553"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="162231"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="17082016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="7071281243984822" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE=""
+                           NOME-DO-ORGAO="Centro de Estudos e Sistemas Avançados do Recife"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="PE"
+                           SIGLA-DA-INSTITUICAO="CESAR"
+                           NOME-DA-INSTITUICAO="Centro de Estudos e Sistemas Avançados do Recife"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2014"
+                           NOME-DO-GRUPO="IoT - Internet das Coisas">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="0266043277510432" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Tiago Guedes Ferreira Barros"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="3795296650514352" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Felipe Silva Ferraz"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="2611606" DDDFAX=""
+                                       LONGITUDE="-34.87188220024109"
+                                       LATITUDE="-8.058338809704594"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Recife"
+                                       NUMERO="220"
+                                       COMPLEMENTO="Bairro do recife antigo"
+                                       LOGRADOURO="Rua Bione"
+                                       HOME-PAGE="http://www.cesar.org.br"
+                                       E-MAIL="tgfb@cesar.org.br"
+                                       FAX=""
+                                       RAMAL=""
+                                       TELEFONE="3425-4700"
+                                       DDD="81"
+                                       CEP="50030390"
+                                       CIDADE="Recife"
+                                       UF="PE"
+                                       BAIRRO="Recife"/>
+      <REPERCUSSOES>O grupo de pesquisas em Internet das Coisas realizou, em 2015, a disseminação do conhecimento em IoT; estabelecimento de parcerias; e desenvolvimento da imagem do CESAR como centro de excelência em IoT. A partir das pesquisas iniciadas pelo grupo, foi criada e está em fase de implementação uma meta plataforma open source de IoT chamada KNoT - KNoT Network of Things, que visa juntar e unificar as diversas plataformas open source de IoT existentes (http://knot.cesar.org.br). </REPERCUSSOES>
+      <REDES-DE-PESQUISA>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="EMBRAPII"
+                           URL-DA-REDE-DE-PESQUISA="http://embrapii.org.br"
+                           NOME-DA-REDE-DE-PESQUISA="EMPRESA BRASILEIRA DE PESQUISA E INOVAÇÃO INDUSTRIAL"/>
+      </REDES-DE-PESQUISA>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="GAMA, K.;KS da GAMA;Gama, Kiev;GAMA, KIEV SANTOS DA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6185519785664724"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Kiev Santos da Gama">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de Telemetria"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Infraestrutura de IoT"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cidades Inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento baseado em componentes</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Distribuídos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FERRAZ, F. S.;FERRAZ, FELIPE SILVA" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3795296650514352"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Felipe Silva Ferraz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Infraestrutura de IoT"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Carros Conectados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cidades Inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PEREIRA, D. T. V." TITULACAO-MAXIMA="Especialização"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8109664007976629"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Daniel Thiago Vasconcelos Pereira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de Telemetria"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Carros Conectados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Infraestrutura de IoT"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cidades Inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="IoT industrial"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BARROS, T.;BARROS, TIAGO;BARROS, T. G. F."
+                   TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0266043277510432"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Tiago Guedes Ferreira Barros">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de Telemetria"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Carros Conectados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Infraestrutura de IoT"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cidades Inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="IoT industrial"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento de software básico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dispositivos Móveis</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Embarcados</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="URQUIZA, F. L." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2312248093380807"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fabio Leitao de Urquiza e Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de Telemetria"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Infraestrutura de IoT"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cidades Inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="IoT industrial"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SILVA, W. M.;da Silva, Welington M." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7749897538437603"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Welington Manoel da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de Telemetria"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cidades Inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Smart Cities</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Smart Sensors</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="OLIVEIRA JÚNIOR, A. C." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4712658201419020"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Adeilton Cavalcante de Oliveira Júnior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Carros Conectados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="IoT industrial"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Eletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Materiais e Componentes Semicondutores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos de Fabricação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Embarcados</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="TAKAHASI, C. K." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9203983619763437"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Claudio Koiti Takahasi">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de Telemetria"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Carros Conectados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Infraestrutura de IoT"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cidades Inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="IoT industrial"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Embedded Systems</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SAMPAIO, I. A." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9824620229898780"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Igor Azevedo Sampaio">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de Telemetria"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Infraestrutura de IoT"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cidades Inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gerência do Projeto e do Produto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Projeto e Desenvolvimento de Jogos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="SILVA, E. O." NIVEL-DE-TREINAMENTO="Mestrado Profissional"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FELIPE SILVA FERRAZ"
+                 NRO-ID-CNPQ-ORIENTADOR="3795296650514352"
+                 SEQUENCIA-ESTUDANTE="4574890"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1761783094292131"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Emidio de oliveira e silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de Telemetria"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Infraestrutura de IoT"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="VALENÇA, H. L. S." NIVEL-DE-TREINAMENTO="Mestrado Profissional"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="TIAGO GUEDES FERREIRA BARROS"
+                 NRO-ID-CNPQ-ORIENTADOR="0266043277510432"
+                 SEQUENCIA-ESTUDANTE="3905015"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9892122911844682"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Higgor Leimig da Silva Valença">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de Telemetria"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Infraestrutura de IoT"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DELGADO, R. A." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ADEILTON CAVALCANTE DE OLIVEIRA JUNIOR"
+                 NRO-ID-CNPQ-ORIENTADOR="4712658201419020"
+                 SEQUENCIA-ESTUDANTE="4496126"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5191253800525921"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Reniê de Azevedo Delgado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Infraestrutura de IoT"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Carros Conectados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica, Mecatrônica e Automação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Embarcados</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SERRA FILHO, P. T. V." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="TIAGO GUEDES FERREIRA BARROS"
+                 NRO-ID-CNPQ-ORIENTADOR="0266043277510432"
+                 SEQUENCIA-ESTUDANTE="4693496"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3262441934063805"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Paulo de Tarso Vasconcelos Serra Filho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Infraestrutura de IoT"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cidades Inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DOBRÕES, J. A. L." NIVEL-DE-TREINAMENTO="Mestrado Profissional"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FELIPE SILVA FERRAZ"
+                 NRO-ID-CNPQ-ORIENTADOR="3795296650514352"
+                 SEQUENCIA-ESTUDANTE="3774460"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3997844663254664"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="José Alfredo Lira Dobrões">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de Telemetria"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Infraestrutura de IoT"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LIMA, W. T. S." NIVEL-DE-TREINAMENTO="Mestrado Profissional"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="TIAGO GUEDES FERREIRA BARROS"
+                 NRO-ID-CNPQ-ORIENTADOR="0266043277510432"
+                 SEQUENCIA-ESTUDANTE="3554737"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4136191634493824"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Wallace Thierre Souza de Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de Telemetria"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Infraestrutura de IoT"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento Mobile</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CASTRO FILHO, F. L." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLAUDIO KOITI TAKAHASI"
+                 NRO-ID-CNPQ-ORIENTADOR="9203983619763437"
+                 SEQUENCIA-ESTUDANTE="4119361"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3008695096592558"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Flavio Luciano de Castro Filho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Infraestrutura de IoT"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SIMÕES, E. M.;Erick, S.M." NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="TIAGO GUEDES FERREIRA BARROS"
+                 NRO-ID-CNPQ-ORIENTADOR="0266043277510432"
+                 SEQUENCIA-ESTUDANTE="4790820"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1812296303505593"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Erick Simões de Matos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Infraestrutura de IoT"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cidades Inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento de Jogos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento de Sistemas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento de Sistemas Embarcados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NASCIMENTO, R. A. A." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABIO LEITAO DE URQUIZA E SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="2312248093380807"
+                 SEQUENCIA-ESTUDANTE="4673295"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3406137556910567"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rodrigo Antônio Alves do Nascimento">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Infraestrutura de IoT"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Carros Conectados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DIAS, D. S." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="DANIEL THIAGO VASCONCELOS PEREIRA"
+                 NRO-ID-CNPQ-ORIENTADOR="8109664007976629"
+                 SEQUENCIA-ESTUDANTE="2854309"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2039153533455284"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Dario Soares Dias">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Infraestrutura de IoT"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="IoT industrial"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2069741239311587"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="O foco desta linha de atuação é melhorar os diversos sistemas existentes nas cidades como o sistema de transporte, abastecimento de água e energia, clima e qualidade do ar, saneamento etc.; ao dotar a cidade de sensores e atuadores que consigam gerar informação para a melhor gestão, automática ou não, destes sistemas. "
+                         NOME-DA-LINHA-DE-PESQUISA="Cidades Inteligentes"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Cidades inteligentes</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Meta-plataformas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Qualidade de vida</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Sensores e Atuadores</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9203983619763437" NOME-COMPLETO="Claudio Koiti Takahasi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="177852"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2312248093380807" NOME-COMPLETO="Fabio Leitao de Urquiza e Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="201977"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0266043277510432" NOME-COMPLETO="Tiago Guedes Ferreira Barros"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="262839"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9824620229898780" NOME-COMPLETO="Igor Azevedo Sampaio"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="445588"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8109664007976629"
+                               NOME-COMPLETO="Daniel Thiago Vasconcelos Pereira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="894014"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3795296650514352" NOME-COMPLETO="Felipe Silva Ferraz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="894016"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6185519785664724" NOME-COMPLETO="Kiev Santos da Gama"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2834524"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7749897538437603" NOME-COMPLETO="Welington Manoel da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="3211178"
+                               SEQUENCIA-PESQUISADOR="8"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1812296303505593" NOME-COMPLETO="Erick Simões de Matos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4790820"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3262441934063805"
+                             NOME-COMPLETO="Paulo de Tarso Vasconcelos Serra Filho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4693496"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Qualidade de Vida"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Segurança da Informação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="62"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4051017904969458"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Apontados por especialistas como o próximo foco da Internet das Coisas, os carros conectados vêm se concretizando como realidade a cada novo modelo lançado. Inicialmente focados em conectividade para entretenimento, onde a central de entretenimento do carro, conhecida tecnicamente como Head Unit - Unidade Principal, recebe conectividade para o compartilhamento de mídias, os carros estão transmitindo cada vez mais dados sobre o seu funcionamento. "
+                         NOME-DA-LINHA-DE-PESQUISA="Carros Conectados"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Carros Conectados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Head Unit</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Automação e Controle</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9203983619763437" NOME-COMPLETO="Claudio Koiti Takahasi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="177852"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4712658201419020"
+                               NOME-COMPLETO="Adeilton Cavalcante de Oliveira Júnior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="189499"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0266043277510432" NOME-COMPLETO="Tiago Guedes Ferreira Barros"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="262839"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8109664007976629"
+                               NOME-COMPLETO="Daniel Thiago Vasconcelos Pereira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="894014"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3795296650514352" NOME-COMPLETO="Felipe Silva Ferraz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="894016"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5191253800525921" NOME-COMPLETO="Reniê de Azevedo Delgado"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4496126"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3406137556910567"
+                             NOME-COMPLETO="Rodrigo Antônio Alves do Nascimento"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4673295"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303049" CODIGO-ESPECIALIDADE="10303049"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas de Informação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="60"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304010" CODIGO-ESPECIALIDADE="10304010"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Hardware"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="63"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304045" CODIGO-ESPECIALIDADE="10304045"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Teleinformática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="66"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9435748908681604"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver projetos com foco em controle (sensoriamento, atuação e lógica de controle) em linhas de manufatura discreta, especialmente em etapas de verificação de qualidade, produtos de eletrônica de consumo ou dispositivos e equipamentos médicos, gerenciamento de dispositivos (instalação, provisionamento, administração) em todos as três camadas de uma arquitetura IoT e monitoramento, diagnóstico, predição e otimização de ativos e de processos de produção de bens ou de entrega de serviços."
+                         NOME-DA-LINHA-DE-PESQUISA="IoT industrial"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Gestão de dispositivos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Diagnóstico e predição de falhas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">automação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9203983619763437" NOME-COMPLETO="Claudio Koiti Takahasi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="177852"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4712658201419020"
+                               NOME-COMPLETO="Adeilton Cavalcante de Oliveira Júnior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="189499"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2312248093380807" NOME-COMPLETO="Fabio Leitao de Urquiza e Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="201977"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0266043277510432" NOME-COMPLETO="Tiago Guedes Ferreira Barros"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="262839"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8109664007976629"
+                               NOME-COMPLETO="Daniel Thiago Vasconcelos Pereira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="894014"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2039153533455284" NOME-COMPLETO="Dario Soares Dias"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2854309"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303049" CODIGO-ESPECIALIDADE="10303049"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas de Informação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="60"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304010" CODIGO-ESPECIALIDADE="10304010"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Hardware"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="63"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4027433719015686"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Contempla o desenvolvimento de projetos relacionados a monitoramento remoto de dispositivos e ambientes, através de sistemas dotados de sensores e atuadores, meio de comunicação, armazenamento de dados e implementação de infraestrutura e protocolos de comunicação"
+                         NOME-DA-LINHA-DE-PESQUISA="Sistemas de Telemetria"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Sensores e Atuadores</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Armazenamento de dados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Medição e Controle</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9203983619763437" NOME-COMPLETO="Claudio Koiti Takahasi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="177852"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2312248093380807" NOME-COMPLETO="Fabio Leitao de Urquiza e Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="201977"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0266043277510432" NOME-COMPLETO="Tiago Guedes Ferreira Barros"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="262839"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9824620229898780" NOME-COMPLETO="Igor Azevedo Sampaio"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="445588"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8109664007976629"
+                               NOME-COMPLETO="Daniel Thiago Vasconcelos Pereira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="894014"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6185519785664724" NOME-COMPLETO="Kiev Santos da Gama"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2834524"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7749897538437603" NOME-COMPLETO="Welington Manoel da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="3211178"
+                               SEQUENCIA-PESQUISADOR="7"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4136191634493824" NOME-COMPLETO="Wallace Thierre Souza de Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3554737"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3997844663254664" NOME-COMPLETO="José Alfredo Lira Dobrões"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3774460"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9892122911844682" NOME-COMPLETO="Higgor Leimig da Silva Valença"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3905015"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1761783094292131" NOME-COMPLETO="Emidio de oliveira e silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4574890"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303022" CODIGO-ESPECIALIDADE="10303022"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Software"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="58"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303049" CODIGO-ESPECIALIDADE="10303049"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas de Informação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="60"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4534665396568369"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Pesquisar e implementar uma infraestrutura de IoT que visa facilitar o desenvolvimento de soluções de Internet das Coisas e conectar as diversas plataformas de IoT existentes (meta plataforma de IoT)."
+                         NOME-DA-LINHA-DE-PESQUISA="Infraestrutura de IoT"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">internet das coisas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">plataformas de IoT</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Plataforma Open Source</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">KNoT</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9203983619763437" NOME-COMPLETO="Claudio Koiti Takahasi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="177852"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2312248093380807" NOME-COMPLETO="Fabio Leitao de Urquiza e Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="201977"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0266043277510432" NOME-COMPLETO="Tiago Guedes Ferreira Barros"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="262839"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9824620229898780" NOME-COMPLETO="Igor Azevedo Sampaio"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="445588"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8109664007976629"
+                               NOME-COMPLETO="Daniel Thiago Vasconcelos Pereira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="894014"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3795296650514352" NOME-COMPLETO="Felipe Silva Ferraz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="894016"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6185519785664724" NOME-COMPLETO="Kiev Santos da Gama"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2834524"
+                               SEQUENCIA-PESQUISADOR="7"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2039153533455284" NOME-COMPLETO="Dario Soares Dias"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2854309"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4136191634493824" NOME-COMPLETO="Wallace Thierre Souza de Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3554737"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3997844663254664" NOME-COMPLETO="José Alfredo Lira Dobrões"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3774460"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9892122911844682" NOME-COMPLETO="Higgor Leimig da Silva Valença"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3905015"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3008695096592558" NOME-COMPLETO="Flavio Luciano de Castro Filho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4119361"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5191253800525921" NOME-COMPLETO="Reniê de Azevedo Delgado"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4496126"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1761783094292131" NOME-COMPLETO="Emidio de oliveira e silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4574890"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3406137556910567"
+                             NOME-COMPLETO="Rodrigo Antônio Alves do Nascimento"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4673295"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1812296303505593" NOME-COMPLETO="Erick Simões de Matos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4790820"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3262441934063805"
+                             NOME-COMPLETO="Paulo de Tarso Vasconcelos Serra Filho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4693496"
+                             SEQUENCIA-ESTUDANTE="10"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304010" CODIGO-ESPECIALIDADE="10304010"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Hardware"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="63"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304037" CODIGO-ESPECIALIDADE="10304037"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Software Básico"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="65"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26.2"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26.3"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="0012095353214896" RAZAO-SOCIAL-DA-EMPRESA=""
+               NATUREZA-JURIDICA="Autarquia Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="24134488000108"
+               LOCALIDADE="Recife"
+               CIDADE="Recife"
+               UF="PE"
+               SIGLA-DA-EMPRESA="UFPE"
+               NOME-DA-EMPRESA="Departamento de Informática"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="17">Transferência de tecnologia desenvolvida pelo parceiro para o grupo</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

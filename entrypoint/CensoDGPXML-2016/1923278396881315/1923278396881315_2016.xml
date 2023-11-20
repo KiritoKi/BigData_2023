@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="1923278396881315"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="153002"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="10102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="2416720275812023" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE="Departamento de Informática"
+                           NOME-DO-ORGAO="Departamento de Informática"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="PR"
+                           SIGLA-DA-INSTITUICAO="UFPR"
+                           NOME-DA-INSTITUICAO="Universidade Federal do Paraná"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2014"
+                           NOME-DO-GRUPO="Laboratório de Sistemas Embarcados">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="2225528533942372" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Roberto A Hexsel"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="3699761587483592" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Luiz Carlos Pessoa Albini"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="4106902" DDDFAX=""
+                                       LONGITUDE="-49.231600000000014"
+                                       LATITUDE="-25.457057"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Curitiba"
+                                       NUMERO="210"
+                                       COMPLEMENTO="Centro Politécnico da UFPR"
+                                       LOGRADOURO="Avenida Coronel Francisco Heráclito dos Santos - até"
+                                       HOME-PAGE="http://lse.inf.ufpr.br"
+                                       E-MAIL="lse@inf.ufpr.br"
+                                       FAX=""
+                                       RAMAL=""
+                                       TELEFONE="3361-3411"
+                                       DDD="41"
+                                       CEP="81530000"
+                                       CIDADE="Curitiba"
+                                       UF="PR"
+                                       BAIRRO="Jardim das Américas"/>
+      <REPERCUSSOES>O Laboratório de Sistemas Embarcados (LSE) desenvolve pesquisa nas áreas de Sistemas Embarcados ("embedded systems"), Sistemas Paralelos ("multicore"), Interligação de Sistemas Embarcados e na Avaliação de Desempenho destes sistemas.  Os membros do LSE atuam no projeto e desenvolvimento de sistemas completos para aplicações embarcadas, com projetos de hardware e de softwareespecializados na area de aplicação.  Estes projetos devem satisfazer a um conjunto de restrições com relação a desempenho, consumo de energia, confiabilidade e custo e portanto envolvem a aplicação e o desenvolvimento de técnicas sofisticadas para modelagem, projeto,  desenvolvimento e a avaliação de desempenho destes sistemas.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="ALVES, M. A. Z.;Alves, Marco A.;Alves, Marco A Z;ALVES, MARCO A. Z.;ALVES, MARCO ANTONIO ZANATA;ZANATA ALVES, MARCO ANTONIO;ALVES, MARCO A.Z.;ZANATA ALVES, M. A.;Alves, M. A.;Alves, M."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7011183305034415"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marco Antonio Zanata Alves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto e Avaliação de Sistemas Digitais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Arquiteturas de hardware e software para sistemas embarcados multiprocessados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Alto Desempenho</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Paralelo e Distribuido</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="HEXSEL, R. A.;Hexsel, Roberto A.;HEXSEL, ROBERTO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2225528533942372"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Roberto A Hexsel">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de Comunicação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto e Avaliação de Sistemas Digitais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto de Sistemas Embarcados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CARMO, R.;CARMO, R;Carmo, Renato" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2968055170351130"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Renato José da Silva Carmo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Avaliação de Desempenho"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computabilidade e Modelos de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ALBINI, L. C. P.;ALBINI, L. CP;ALBINI, L. C.;Albini, Luiz Carlos P.;Albini, L.C.P.;Albini, Luiz C.P.;Albini, Luiz Carlos;Albini, Luiz;ALBINI, LUIZ CARLOS PESSOA;LUIZ CARLOS PESSOA ALBINI;PESSOA ALBINI, LUIZ CARLOS"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3699761587483592"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Luiz Carlos Pessoa Albini">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de Comunicação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Segurança e Tolerência a Falhas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Diagnóstico de Sistemas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes Ad Hoc</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Computadores e Sistemas Distribuídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes Sem Fio</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes Tolerantes a Atrasos e Desconexões</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="DELGADO, A. L. N." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8236531371807541"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Armando Luiz Nicolini Delgado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto de Sistemas Embarcados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="PAMPANINI FILHO, J. M." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ROBERTO A HEXSEL"
+                 NRO-ID-CNPQ-ORIENTADOR="2225528533942372"
+                 SEQUENCIA-ESTUDANTE="5641463"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4845758290259990"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="João Manoel Pampanini Filho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto e Avaliação de Sistemas Digitais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Arquiteturas de hardware e software para sistemas embarcados multiprocessados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Computadores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, V. B. A." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ROBERTO A HEXSEL"
+                 NRO-ID-CNPQ-ORIENTADOR="2225528533942372"
+                 SEQUENCIA-ESTUDANTE="3905227"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9384640764378070"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Vanessa Burkot Alves de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto de Sistemas Embarcados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BOLSI, F." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ CARLOS PESSOA ALBINI"
+                 NRO-ID-CNPQ-ORIENTADOR="3699761587483592"
+                 SEQUENCIA-ESTUDANTE="4237253"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6950708894290450"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Felipe Bolsi">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Segurança e Tolerência a Falhas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PIRES, Ivan Luiz Pedroso" NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ CARLOS PESSOA ALBINI"
+                 NRO-ID-CNPQ-ORIENTADOR="3699761587483592"
+                 SEQUENCIA-ESTUDANTE="2139774"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3741140002994653"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ivan Luiz Pedroso Pires">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Segurança e Tolerência a Falhas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software para Sistemas Multiagentes</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação para Web</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Computadores</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ROCHA, E. A." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ CARLOS PESSOA ALBINI"
+                 NRO-ID-CNPQ-ORIENTADOR="3699761587483592"
+                 SEQUENCIA-ESTUDANTE="3187331"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8255984506219057"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Elaine Alves da Rocha">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de Comunicação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Tecnológica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CARVALHO, R. R." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ROBERTO A HEXSEL"
+                 NRO-ID-CNPQ-ORIENTADOR="2225528533942372"
+                 SEQUENCIA-ESTUDANTE="6127826"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6797000700119324"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rafael Rocha de Carvalho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto de Sistemas Embarcados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CORDEIRO, A. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCO ANTONIO ZANATA ALVES"
+                 NRO-ID-CNPQ-ORIENTADOR="7011183305034415"
+                 SEQUENCIA-ESTUDANTE="4324457"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0689418350931003"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Aline Santana Cordeiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Arquiteturas de hardware e software para sistemas embarcados multiprocessados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DARÚ, C. D. H." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ROBERTO A HEXSEL"
+                 NRO-ID-CNPQ-ORIENTADOR="2225528533942372"
+                 SEQUENCIA-ESTUDANTE="5054044"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4425423965451862"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Clara Daia Hilgenberg Darú">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto e Avaliação de Sistemas Digitais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto de Sistemas Embarcados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MÜLLER, A. A." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ROBERTO A HEXSEL"
+                 NRO-ID-CNPQ-ORIENTADOR="2225528533942372"
+                 SEQUENCIA-ESTUDANTE="4799557"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1930317684554835"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alexandre Augusto Müller">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto e Avaliação de Sistemas Digitais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Projeto de Sistemas Embarcados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="QUEIROZ, S. J. B.;Queiroz, Saulo;QUEIROZ, SAULO JORGE BELTRÃO DE"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ROBERTO A HEXSEL"
+                 NRO-ID-CNPQ-ORIENTADOR="2225528533942372"
+                 SEQUENCIA-ESTUDANTE="580002"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3875883663856811"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Saulo Jorge Beltrao de Queiroz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de Comunicação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Protocolo de acesso ao meio sem fio</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Protocolos de roteamento</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes sem fio</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0747461236772989"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Projeto, implementação e avaliação de desempenho de sistemas multiprocessados para aplicações embarcadas"
+                         NOME-DA-LINHA-DE-PESQUISA="Arquiteturas de hardware e software para sistemas embarcados multiprocessados"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Multiprocessadores</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">sistemas embarcados</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7011183305034415" NOME-COMPLETO="Marco Antonio Zanata Alves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="806618"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4845758290259990" NOME-COMPLETO="João Manoel Pampanini Filho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5641463"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0689418350931003" NOME-COMPLETO="Aline Santana Cordeiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4324457"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06.0"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28.6"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2008044316456317"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Projeto, desenvolvimento e avaliação de sistemas embarcados (&#34;embedded systems&#34;)"
+                         NOME-DA-LINHA-DE-PESQUISA="Projeto de Sistemas Embarcados"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Sistemas Embarcados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Projeto Integrado de Hardware e Software</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Avaliação de Desempenho</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Redes de Computadores</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2225528533942372" NOME-COMPLETO="Roberto A Hexsel"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="24833"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8236531371807541" NOME-COMPLETO="Armando Luiz Nicolini Delgado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="40845"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9384640764378070" NOME-COMPLETO="Vanessa Burkot Alves de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3905227"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6797000700119324" NOME-COMPLETO="Rafael Rocha de Carvalho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6127826"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4425423965451862" NOME-COMPLETO="Clara Daia Hilgenberg Darú"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5054044"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1930317684554835" NOME-COMPLETO="Alexandre Augusto Müller"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4799557"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304037" CODIGO-ESPECIALIDADE="10304037"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Software Básico"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="65"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="62"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26.3"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26.2"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4364130655434073"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Avaliar o desempenho de sistemas embarcados e de seus subsistemas, através de medições de sistemas reais, através de simulação em diferentes níveis de detalhamento."
+                         NOME-DA-LINHA-DE-PESQUISA="Avaliação de Desempenho"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Avaliação de Desempenho</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Modelagem e Simulação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Hierarquia de Memória</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Medições</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2968055170351130" NOME-COMPLETO="Renato José da Silva Carmo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="74526"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28.6"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4909853879800178"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Conceber, projetar e avaliar sistemas de comunicação para aplicações em sistemas embarcados.  Tais sistemas devem operar de forma confiável em plataformas com recursos limitados."
+                         NOME-DA-LINHA-DE-PESQUISA="Sistemas de Comunicação"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Protocolos de Comunicação para Redes Industriais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Redes de Sensores</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Redes Sem Fio</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Confiabilidade e Segurança</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2225528533942372" NOME-COMPLETO="Roberto A Hexsel"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="24833"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3699761587483592" NOME-COMPLETO="Luiz Carlos Pessoa Albini"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="703710"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8255984506219057" NOME-COMPLETO="Elaine Alves da Rocha"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3187331"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3875883663856811" NOME-COMPLETO="Saulo Jorge Beltrao de Queiroz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="580002"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304045" CODIGO-ESPECIALIDADE="10304045"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Teleinformática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="66"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28.6"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0944462260931831"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Conceber, projetar, verificar e avaliar o desempenho de sistemas digitais, tais como unidades funcionais para aritmética de ponto flutuante, unidades vetoriais, e dispositivos periféricos."
+                         NOME-DA-LINHA-DE-PESQUISA="Projeto e Avaliação de Sistemas Digitais"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Dispositivos Periféricos Iteligentes</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Sistemas Digitais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Aritmética de ponto flutuante</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7011183305034415" NOME-COMPLETO="Marco Antonio Zanata Alves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="806618"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2225528533942372" NOME-COMPLETO="Roberto A Hexsel"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="24833"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4845758290259990" NOME-COMPLETO="João Manoel Pampanini Filho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5641463"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4425423965451862" NOME-COMPLETO="Clara Daia Hilgenberg Darú"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5054044"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1930317684554835" NOME-COMPLETO="Alexandre Augusto Müller"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4799557"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304010" CODIGO-ESPECIALIDADE="10304010"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Hardware"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="63"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28.6"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6251188552085363"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Projetar, desenvolver e avaliar técnicas e mecanismos para prover segurança e tolerânca a falhas na comunicação de sistemas embarcados."
+                         NOME-DA-LINHA-DE-PESQUISA="Segurança e Tolerência a Falhas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Segurança na comunicação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Tolerância a falhas na comunicação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3699761587483592" NOME-COMPLETO="Luiz Carlos Pessoa Albini"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="703710"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6950708894290450" NOME-COMPLETO="Felipe Bolsi"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4237253"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3741140002994653" NOME-COMPLETO="Ivan Luiz Pedroso Pires"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2139774"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304045" CODIGO-ESPECIALIDADE="10304045"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Teleinformática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="66"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28.6"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES="cMIPS - an FPGA ready VHDL model for 5-stage pipeline The VHDL model mimics the pipeline design described in Patterson &amp; Hennessy's book (COD) and is an almost complete implementation of the MIPS32r2 instruction set."
+                MODELO=""
+                VERSAO="beta"
+                NOME="cMIPS"
+                CLASSIFICACAO="Software embarcado"
+                TIPO-DE-LICENCIAMENTO="Livre"
+                DESENVOLVIMENTO-PROPRIO="N"
+                SEQUENCIA-SOFTWARE="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Orçamento da própria instituição</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+   </SOFTWARES>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

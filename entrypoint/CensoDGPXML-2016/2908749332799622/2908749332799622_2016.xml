@@ -1,0 +1,1627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="2908749332799622"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="171601"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="24102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="5803397434196206" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE=""
+                           NOME-DO-ORGAO="Universidade Federal de Campina Grande"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="PB"
+                           SIGLA-DA-INSTITUICAO="UFCG"
+                           NOME-DA-INSTITUICAO="Universidade Federal de Campina Grande"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2002"
+                           NOME-DO-GRUPO="Grupo de Práticas de Software">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="1424808046858622" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Jorge Cesar Abrantes de Figueiredo"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="2495918356675019" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Patricia Duarte de Lima Machado"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="2504009" DDDFAX="83"
+                                       LONGITUDE="-35.90839749999998"
+                                       LATITUDE="-7.220422399999999"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Campina Grande"
+                                       NUMERO="882"
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="Universidade Federal de Campina Grande"
+                                       HOME-PAGE="http://wiki.gmf.ufcg.edu.br"
+                                       E-MAIL="abrantes@dsc.ufcg.edu.br"
+                                       FAX="21011124"
+                                       RAMAL=""
+                                       TELEFONE="21011430"
+                                       DDD="83"
+                                       CEP="58429900"
+                                       CIDADE="Campina Grande"
+                                       UF="PB"
+                                       BAIRRO="Universitário"/>
+      <REPERCUSSOES>O Grupo de Práticas de Software (SPLab) é a nova denominação do Grupo de Redes de Petri e Métodos Formais (GMF) da Universidade Federal de Campina Grande (UFCG). Este novo perfil do Grupo foi motivado pela chegada de novos pesquisadores e, consequentemente, uma nova configuração de linhas de pesquisa. O SPLab tem como principal missão investigar, desenvolver e disseminar métodos e técnicas com base formal, bem como desenvolver ferramentas que auxiliem no desenvolvimento rigoroso de software. O SPLab foi criado em 1994 (quando ainda era denominado Grupo de Redes de Petri) com o propósito de investigar aspectos teóricos e práticos dos sistemas concorrentes.  Com a chegada de novos integrantes a partir de 2001, o grupo expandiu suas linhas de pesquisa contemplando as seguintes novas áreas de pesquisa: evolução de software; produtividade em software; verificação, validação e testes; métodos formais, desenvolvimento dirigido por modelos; e, educação em engenharia de software.Nos últimos anos, o SPLab tem se empenhado em consolidar sua atuação no Brasil e no exterior. Nesse sentido, o SPLab tem participado ativamente dos principais congressos da área, através da participação em comitês de programa, organização de eventos e apresentação de artigos, mini-cursos e tutoriais. O SPLab tem alcançado resultados acadêmicos relevantes, contribuindo para inspirar trabalhos na área, tanto em nível de graduação como de pós-graduação. Atualmente, projetos estão sendo desenvolvidos em parceria com instituições nacionais como a UFPE e UFPB, instituições internacionais como a UNINOVA/Portugal e empresas como a Motorola Inc e a COM/Braxis. Os projetos são financiados pelas empresas acima mencionadas e também pelo CNPq, FAPESQ, CAPES e FINEP.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="MACHADO, P. D. L.;Machado, Patrícia D. L.;MACHADO, PATRICIA D. L.;LIMA MACHADO, PATRÍCIA DUARTE;MACHADO, PATRICIA DUARTE DE LIMA;MACHADO, PATRÍCIA D.L."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="F"
+                   NRO-ID-CNPQ="2495918356675019"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Patricia Duarte de Lima Machado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos Formais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Formais Para Desenvolvimento de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teste Baseado em Modelos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Ramalho, F.;RAMALHO, F.;RAMALHO, FRANKLIN;Ramalho, Franklin.;Ramalho, F. S.;Franklin, Ramalho;Ramalho, Franklin"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2469816352786812"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Franklin de Souza Ramalho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos Formais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento Dirigido por Modelos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Produtividade em Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento Dirigido por Modelos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógicas e Semântica de Programas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Web Semântica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GUERRERO, D. D. S.;Guerrero, Dalton D. S.;SEREY, DALTON;GUERRERO, DALTON D.S."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2050632960242405"
+                   PAIS-DE-NASCIMENTO="CHL"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Dalton Dario Serey Guerrero">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Evolução de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação em Engenharia de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FIGUEIREDO, J. C. A.;Figueiredo, Jorge C. A.;Figueiredo, Jorge;Figueiredo, Jorge C. A. de;DE FIGUEIREDO, JORGE CESAR ABRANTES;DE FIGUEIREDO, JORGE C. A.;DE FIGUEIREDO, JORGE C.A.;DE FIGUEIREDO, J.C.A.;FIGUEIREDO, JORGE C.A. DE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1424808046858622"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Jorge Cesar Abrantes de Figueiredo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos Formais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Evolução de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação em Engenharia de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Formais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Petri</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CARTAXO, E. G.;CARTAXO, EMANUELA G.;CARTAXO, EMANUELA;CARTAXO, EMANUELA GADELHA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="F"
+                   NRO-ID-CNPQ="5617832076061321"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Emanuela Gadelha Cartaxo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="A. FARIAS;Farias, Adalberto" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9462873740250320"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Adalberto Cajueiro de Farias">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos Formais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagem Formais e Autômatos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógicas e Semântica de Programas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GHEYI, R.;Gheyi, Rohit" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2931270888717344"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rohit Gheyi">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos Formais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Evolução de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Produtividade em Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MASSONI, T. L.;Massoni, Tiago" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3563923906851611"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Tiago Lima Massoni">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos Formais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento Dirigido por Modelos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Evolução de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Produtividade em Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fatores Humanos em Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Verificação de software</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ANDRADE, W. L.;Andrade, Wilkerson L."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3697205933296303"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Wilkerson de Lucena Andrade">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos Formais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Formais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SOARES, G.;Soares, Gustavo" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6215732726947926"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Gustavo Araújo Soares">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Produtividade em Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="OLIVEIRA NETO, F. G." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4052914754332243"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Francisco Gomes de Oliveira Neto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ALVES, E. L. G.;ALVES, EVERTON L. G."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="11"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2793969744497453"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Everton Leandro Galdino Alves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teste de Software</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BRUNET, J. A. M.;BRUNET, J.;BRUNET, JOAO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="12"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7892247821251194"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="João Arthur Brunet Monteiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Evolução de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação em Engenharia de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GAUDENCIO, M.;Gaudencio, Matheus" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="13"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7689109069639555"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Matheus Gaudencio do Rêgo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação em Engenharia de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="PONTES, F. B." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ROHIT GHEYI"
+                 NRO-ID-CNPQ-ORIENTADOR="2931270888717344"
+                 SEQUENCIA-ESTUDANTE="593254"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2757376642187399"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Felipe Barros Pontes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Produtividade em Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Grids Computacionais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Computadores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Videoconferência</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, I. P. S. C." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EVERTON LEANDRO GALDINO ALVES"
+                 NRO-ID-CNPQ-ORIENTADOR="2793969744497453"
+                 SEQUENCIA-ESTUDANTE="5270879"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6472300818045817"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Indy Paula Soares Cordeiro e Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="JORGE, D. N.;Dalton Jorge;D. Jorge"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="WILKERSON DE LUCENA ANDRADE"
+                 NRO-ID-CNPQ-ORIENTADOR="3697205933296303"
+                 SEQUENCIA-ESTUDANTE="556559"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2682324004823239"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Dalton Nicodemos Jorge">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COSTA, A. A. T." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOAO ARTHUR BRUNET MONTEIRO"
+                 NRO-ID-CNPQ-ORIENTADOR="7892247821251194"
+                 SEQUENCIA-ESTUDANTE="5644765"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2586073256583145"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Aline Aparecida Trindade da Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Evolução de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LIMA, M. M.;DE LIMA, MAELSON M." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANKLIN DE SOUZA RAMALHO"
+                 NRO-ID-CNPQ-ORIENTADOR="2469816352786812"
+                 SEQUENCIA-ESTUDANTE="3437842"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3194702923744311"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Maelson Marques de Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento Dirigido por Modelos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geoprocessamento</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BARBOSA, M. O." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANKLIN DE SOUZA RAMALHO"
+                 NRO-ID-CNPQ-ORIENTADOR="2469816352786812"
+                 SEQUENCIA-ESTUDANTE="5270467"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2545984407551728"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Matheus de Oliveira Barbosa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento Dirigido por Modelos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, W. F." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="TIAGO LIMA MASSONI"
+                 NRO-ID-CNPQ-ORIENTADOR="3563923906851611"
+                 SEQUENCIA-ESTUDANTE="4472557"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9298516225719260"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Wallison Fernando da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento de Aplicativos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, J. V. P." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ROHIT GHEYI"
+                 NRO-ID-CNPQ-ORIENTADOR="2931270888717344"
+                 SEQUENCIA-ESTUDANTE="3851618"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4592080386248689"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Jonhnanthan Victor Pereira Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Produtividade em Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOUSA, R. R.;ROLIM, REUDISMAM;SOUSA, REUDISMAM ROLIM DE"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ROHIT GHEYI"
+                 NRO-ID-CNPQ-ORIENTADOR="2931270888717344"
+                 SEQUENCIA-ESTUDANTE="4164997"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7392223184852549"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Reudismam Rolim de Sousa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Produtividade em Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de recomendação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ALMEIDA, Diego Rodrigues de" NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="PATRICIA DUARTE DE LIMA MACHADO"
+                 NRO-ID-CNPQ-ORIENTADOR="2495918356675019"
+                 SEQUENCIA-ESTUDANTE="2537855"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4761728575662561"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Diego Rodrigues de Almeida">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teste Formal de Software</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LIMA, M. A. E. A." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANKLIN DE SOUZA RAMALHO"
+                 NRO-ID-CNPQ-ORIENTADOR="2469816352786812"
+                 SEQUENCIA-ESTUDANTE="4449773"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5783905837905959"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Melquisedec Albert Einstein de Andrade Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento Dirigido por Modelos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, T. G.;CERQUEIRA, THACIANA G. O."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FRANKLIN DE SOUZA RAMALHO"
+                 NRO-ID-CNPQ-ORIENTADOR="2469816352786812"
+                 SEQUENCIA-ESTUDANTE="5203056"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2170938506941690"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Thaciana Guimarães de Oliveira Cerqueira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento Dirigido por Modelos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Governança de TI</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS, J. S." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JORGE CESAR ABRANTES DE FIGUEIREDO"
+                 NRO-ID-CNPQ-ORIENTADOR="1424808046858622"
+                 SEQUENCIA-ESTUDANTE="4450220"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4603605800436333"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Jucelio Soares dos Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação em Engenharia de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cyber Bullying</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dificuldades de Aprendizagem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inclusão Digital</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Tecnologia Assistivas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CAVALCANTE, F. N." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="TIAGO LIMA MASSONI"
+                 NRO-ID-CNPQ-ORIENTADOR="3563923906851611"
+                 SEQUENCIA-ESTUDANTE="3098299"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1723761355629636"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Filipe Neves Cavalcante">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aplicações Web</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação em Tecnologia da Informação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MUNIZ, R. C." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ROHIT GHEYI"
+                 NRO-ID-CNPQ-ORIENTADOR="2931270888717344"
+                 SEQUENCIA-ESTUDANTE="3233106"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1454914002384966"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Raphael de Carvalho Muniz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Produtividade em Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino a Distância</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gestão do Conhecimento</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia e Técnicas da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, A. L. S.;SOUTO, A. L.;ARAUJO, A. L. S. O."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="WILKERSON DE LUCENA ANDRADE"
+                 NRO-ID-CNPQ-ORIENTADOR="3697205933296303"
+                 SEQUENCIA-ESTUDANTE="2618747"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7788932431434287"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ana Liz Souto Oliveira de Araújo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação em Engenharia de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informática na Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ALVES, G. M. T." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Mestrado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="TIAGO LIMA MASSONI"
+                 NRO-ID-CNPQ-ORIENTADOR="3563923906851611"
+                 SEQUENCIA-ESTUDANTE="4336964"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1583429187292896"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gabriella Mayara Tavares Alves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teste de Software</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NASCIMENTO, M. A. S." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ADALBERTO CAJUEIRO DE FARIAS"
+                 NRO-ID-CNPQ-ORIENTADOR="9462873740250320"
+                 SEQUENCIA-ESTUDANTE="3656001"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3181719341084970"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marcos Antônio Silva Nascimento">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVEIRA, L. C." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ROHIT GHEYI"
+                 NRO-ID-CNPQ-ORIENTADOR="2931270888717344"
+                 SEQUENCIA-ESTUDANTE="5671257"
+                 SEXO="F"
+                 NRO-ID-CNPQ="5638891441071146"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luiza Carvalho Silveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Produtividade em Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BATISTA, Í. H. M."
+                 NIVEL-DE-TREINAMENTO="Ensino Profissional de nível técnico"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOAO ARTHUR BRUNET MONTEIRO"
+                 NRO-ID-CNPQ-ORIENTADOR="7892247821251194"
+                 SEQUENCIA-ESTUDANTE="3903181"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3750590736835049"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ítalo Hector de Medeiros Batista">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Evolução de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DUARTE, I. B." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ADALBERTO CAJUEIRO DE FARIAS"
+                 NRO-ID-CNPQ-ORIENTADOR="9462873740250320"
+                 SEQUENCIA-ESTUDANTE="6895954"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2441889764212105"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Igor Brasileiro Duarte">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos Formais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Braz, L." NIVEL-DE-TREINAMENTO="Outros" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ROHIT GHEYI"
+                 NRO-ID-CNPQ-ORIENTADOR="2931270888717344"
+                 SEQUENCIA-ESTUDANTE="3312082"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8165795938361270"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Larissa Nadja Braz Brasileiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Produtividade em Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BEZERRA, C. Q.;Bezerra, Catharine Q.;Quintans, Catharine"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="DALTON DARIO SEREY GUERRERO"
+                 NRO-ID-CNPQ-ORIENTADOR="2050632960242405"
+                 SEQUENCIA-ESTUDANTE="3514448"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7509609546056462"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Catharine Quintans Bezerra">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Evolução de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia e Técnicas da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Visão Computacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MONGIOVI, M." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ROHIT GHEYI"
+                 NRO-ID-CNPQ-ORIENTADOR="2931270888717344"
+                 SEQUENCIA-ESTUDANTE="3099065"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7535849756393864"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Melina Mongiovi Cunha Lima Sabino">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Produtividade em Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ARAUJO, E. C." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="DALTON DARIO SEREY GUERRERO"
+                 NRO-ID-CNPQ-ORIENTADOR="2050632960242405"
+                 SEQUENCIA-ESTUDANTE="207026"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8032715047993974"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Eliane Cristina de Araujo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Evolução de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação em Engenharia de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NUNES, J. B. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MATHEUS GAUDENCIO DO REGO"
+                 NRO-ID-CNPQ-ORIENTADOR="7689109069639555"
+                 SEQUENCIA-ESTUDANTE="6142335"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4160718944976617"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="José Benardi de Souza Nunes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MENEZES, A. N." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JORGE CESAR ABRANTES DE FIGUEIREDO"
+                 NRO-ID-CNPQ-ORIENTADOR="1424808046858622"
+                 SEQUENCIA-ESTUDANTE="4115985"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3742338287444027"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Andrey Nogueira Menezes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Evolução de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administrador de sistemas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Analytics</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento WEB</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Suporte de redes</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, T. M.;SILVA, Taciano M." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="DALTON DARIO SEREY GUERRERO"
+                 NRO-ID-CNPQ-ORIENTADOR="2050632960242405"
+                 SEQUENCIA-ESTUDANTE="277082"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4420554987782575"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Taciano de Morais Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Evolução de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Equações Diferenciais Parciais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Formais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GUERRA, Fabrício Vale de Azevedo" NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="DALTON DARIO SEREY GUERRERO"
+                 NRO-ID-CNPQ-ORIENTADOR="2050632960242405"
+                 SEQUENCIA-ESTUDANTE="198309"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7860769003807018"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Fabrício Vale de Azevedo Guerra">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação em Engenharia de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MILANEZ, A. F.;MILANEZ, ALYSSON"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="TIAGO LIMA MASSONI"
+                 NRO-ID-CNPQ-ORIENTADOR="3563923906851611"
+                 SEQUENCIA-ESTUDANTE="3047236"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2166423222266686"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alysson Filgueira Milanez">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Produtividade em Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1294796791357365"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver técnicas e ferramentas que auxiliem no desenvolvimento de software, contemplando futuras evoluções requeridas."
+                         NOME-DA-LINHA-DE-PESQUISA="Evolução de Software"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Evolução</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Análise de impacto</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Localização de features</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">mineração de repositórios</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2050632960242405" NOME-COMPLETO="Dalton Dario Serey Guerrero"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="398435"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1424808046858622"
+                               NOME-COMPLETO="Jorge Cesar Abrantes de Figueiredo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="84242"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2931270888717344" NOME-COMPLETO="Rohit Gheyi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="198429"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3563923906851611" NOME-COMPLETO="Tiago Lima Massoni"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="155006"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7892247821251194" NOME-COMPLETO="João Arthur Brunet Monteiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="757410"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2586073256583145"
+                             NOME-COMPLETO="Aline Aparecida Trindade da Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5644765"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3750590736835049" NOME-COMPLETO="Ítalo Hector de Medeiros Batista"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3903181"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7509609546056462" NOME-COMPLETO="Catharine Quintans Bezerra"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3514448"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8032715047993974" NOME-COMPLETO="Eliane Cristina de Araujo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="207026"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3742338287444027" NOME-COMPLETO="Andrey Nogueira Menezes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4115985"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4420554987782575" NOME-COMPLETO="Taciano de Morais Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="277082"
+                             SEQUENCIA-ESTUDANTE="6"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303022" CODIGO-ESPECIALIDADE="10303022"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Software"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="58"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2644320538690231"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="No escopo deste grupo, esta linha de pesquisa tem como objetivo a investigação de aspectos teóricos e práticos de técnicas de V&amp;V, tais como teste dirigido por modelos, seleção/geração automática de casos de teste, inspeção e análise estática de documentos e código, teste de sistemas concorrentes, distribuídos e de tempo real."
+                         NOME-DA-LINHA-DE-PESQUISA="Verificação, Validação e Testes"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">teste de software</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Verificação de software</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Validação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Análise estática</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Análise dinamica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2495918356675019" NOME-COMPLETO="Patricia Duarte de Lima Machado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="98942"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2469816352786812" NOME-COMPLETO="Franklin de Souza Ramalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="163720"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2050632960242405" NOME-COMPLETO="Dalton Dario Serey Guerrero"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="398435"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1424808046858622"
+                               NOME-COMPLETO="Jorge Cesar Abrantes de Figueiredo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="84242"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5617832076061321" NOME-COMPLETO="Emanuela Gadelha Cartaxo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="697415"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9462873740250320" NOME-COMPLETO="Adalberto Cajueiro de Farias"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="162507"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2931270888717344" NOME-COMPLETO="Rohit Gheyi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="198429"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3563923906851611" NOME-COMPLETO="Tiago Lima Massoni"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="155006"
+                               SEQUENCIA-PESQUISADOR="8"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3697205933296303" NOME-COMPLETO="Wilkerson de Lucena Andrade"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="595194"
+                               SEQUENCIA-PESQUISADOR="9"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4052914754332243" NOME-COMPLETO="Francisco Gomes de Oliveira Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2065036"
+                               SEQUENCIA-PESQUISADOR="10"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2793969744497453" NOME-COMPLETO="Everton Leandro Galdino Alves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2462313"
+                               SEQUENCIA-PESQUISADOR="11"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6472300818045817"
+                             NOME-COMPLETO="Indy Paula Soares Cordeiro e Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5270879"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2682324004823239" NOME-COMPLETO="Dalton Nicodemos Jorge"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="556559"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9298516225719260" NOME-COMPLETO="Wallison Fernando da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4472557"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4761728575662561" NOME-COMPLETO="Diego Rodrigues de Almeida"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2537855"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1723761355629636" NOME-COMPLETO="Filipe Neves Cavalcante"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3098299"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1583429187292896" NOME-COMPLETO="Gabriella Mayara Tavares Alves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4336964"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3181719341084970" NOME-COMPLETO="Marcos Antônio Silva Nascimento"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3656001"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4160718944976617" NOME-COMPLETO="José Benardi de Souza Nunes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6142335"
+                             SEQUENCIA-ESTUDANTE="8"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303022" CODIGO-ESPECIALIDADE="10303022"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Software"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="58"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9327705197451273"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Investigar e desenvolver técnicas e métodos com bases matemáticas sólidas utilizando as abordagens de verificação de modelos e provadores de teoremas para sustentar o desenvolvimento de sistemas de software com alto padrão de qualidade através da utilização de formalismos como Redes de Petri, Alloy, JML, Z e CSP."
+                         NOME-DA-LINHA-DE-PESQUISA="Métodos Formais"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Refatoramento</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">verificação de modelos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">sistemas críticos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Prova formal</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2495918356675019" NOME-COMPLETO="Patricia Duarte de Lima Machado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="98942"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2469816352786812" NOME-COMPLETO="Franklin de Souza Ramalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="163720"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1424808046858622"
+                               NOME-COMPLETO="Jorge Cesar Abrantes de Figueiredo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="84242"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9462873740250320" NOME-COMPLETO="Adalberto Cajueiro de Farias"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="162507"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2931270888717344" NOME-COMPLETO="Rohit Gheyi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="198429"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3563923906851611" NOME-COMPLETO="Tiago Lima Massoni"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="155006"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3697205933296303" NOME-COMPLETO="Wilkerson de Lucena Andrade"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="595194"
+                               SEQUENCIA-PESQUISADOR="7"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2441889764212105" NOME-COMPLETO="Igor Brasileiro Duarte"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6895954"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303022" CODIGO-ESPECIALIDADE="10303022"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Software"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="58"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7771438366722951"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Investigar e propor técnicas consistindo da aplicação de modelos e suas tecnologias no intuito de  aumentar o nível de abstração sobre o qual desenvolvedores criam e evoluem software, com o objetivo de simplificar e formalizar as várias atividades e tarefas envolvidas no ciclo de vida de  um software."
+                         NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento Dirigido por Modelos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Modelos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Transformação de modelos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2469816352786812" NOME-COMPLETO="Franklin de Souza Ramalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="163720"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3563923906851611" NOME-COMPLETO="Tiago Lima Massoni"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="155006"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3194702923744311" NOME-COMPLETO="Maelson Marques de Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3437842"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2545984407551728" NOME-COMPLETO="Matheus de Oliveira Barbosa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5270467"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5783905837905959"
+                             NOME-COMPLETO="Melquisedec Albert Einstein de Andrade Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4449773"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2170938506941690"
+                             NOME-COMPLETO="Thaciana Guimarães de Oliveira Cerqueira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5203056"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303022" CODIGO-ESPECIALIDADE="10303022"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Software"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="58"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2566500887325203"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Nesta linha de pesquisa temos como objetivo investigar e desenvolver ferramentas, técnicas e processos para aumentar níveis de produtividade dos desenvolvedores de software. Como pré-requisitos, este aumento deve ocorrer sem que a qualidade do produto resultante seja prejudicada, além de fazer com que os fatores de qualidade de vida dos desenvolvedores sejam aprimorados."
+                         NOME-DA-LINHA-DE-PESQUISA="Produtividade em Software"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Desenvolvimento de software</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Produtividade</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2469816352786812" NOME-COMPLETO="Franklin de Souza Ramalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="163720"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2931270888717344" NOME-COMPLETO="Rohit Gheyi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="198429"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3563923906851611" NOME-COMPLETO="Tiago Lima Massoni"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="155006"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6215732726947926" NOME-COMPLETO="Gustavo Araújo Soares"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2674519"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2757376642187399" NOME-COMPLETO="Felipe Barros Pontes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="593254"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4592080386248689"
+                             NOME-COMPLETO="Jonhnanthan Victor Pereira Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3851618"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7392223184852549" NOME-COMPLETO="Reudismam Rolim de Sousa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4164997"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1454914002384966" NOME-COMPLETO="Raphael de Carvalho Muniz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3233106"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5638891441071146" NOME-COMPLETO="Luiza Carvalho Silveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5671257"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8165795938361270" NOME-COMPLETO="Larissa Nadja Braz Brasileiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3312082"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7535849756393864"
+                             NOME-COMPLETO="Melina Mongiovi Cunha Lima Sabino"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3099065"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2166423222266686" NOME-COMPLETO="Alysson Filgueira Milanez"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3047236"
+                             SEQUENCIA-ESTUDANTE="8"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303022" CODIGO-ESPECIALIDADE="10303022"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Software"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="58"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6220890984882563" OBJETIVO-DA-LINHA-DE-PESQUISA="a"
+                         NOME-DA-LINHA-DE-PESQUISA="Educação em Engenharia de Software"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Ensino de Programação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2050632960242405" NOME-COMPLETO="Dalton Dario Serey Guerrero"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="398435"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1424808046858622"
+                               NOME-COMPLETO="Jorge Cesar Abrantes de Figueiredo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="84242"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7892247821251194" NOME-COMPLETO="João Arthur Brunet Monteiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="757410"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7689109069639555" NOME-COMPLETO="Matheus Gaudencio do Rêgo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2301727"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4603605800436333" NOME-COMPLETO="Jucelio Soares dos Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4450220"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7788932431434287" NOME-COMPLETO="Ana Liz Souto Oliveira de Araújo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2618747"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8032715047993974" NOME-COMPLETO="Eliane Cristina de Araujo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="207026"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7860769003807018" NOME-COMPLETO="Fabrício Vale de Azevedo Guerra"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="198309"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303022" CODIGO-ESPECIALIDADE="10303022"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Software"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="58"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="12052015" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4052914754332243"
+               NOME-DO-EGRESSO="Francisco Gomes de Oliveira Neto"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4052914754332243"
+               NOME-DO-EGRESSO="Francisco Gomes de Oliveira Neto"/>
+      <EGRESSO DATA-SAIDA="16052016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2793969744497453"
+               NOME-DO-EGRESSO="Everton Leandro Galdino Alves"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7892247821251194"
+               NOME-DO-EGRESSO="João Arthur Brunet Monteiro"/>
+      <EGRESSO DATA-SAIDA="12052015" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7892247821251194"
+               NOME-DO-EGRESSO="João Arthur Brunet Monteiro"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="6215732726947926"
+               NOME-DO-EGRESSO="Gustavo Araújo Soares"/>
+      <EGRESSO DATA-SAIDA="12052015" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="6215732726947926"
+               NOME-DO-EGRESSO="Gustavo Araújo Soares"/>
+      <EGRESSO DATA-SAIDA="12052015" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="6215732726947926"
+               NOME-DO-EGRESSO="Gustavo Araújo Soares"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7892247821251194"
+               NOME-DO-EGRESSO="João Arthur Brunet Monteiro"/>
+      <EGRESSO DATA-SAIDA="12052015" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7892247821251194"
+               NOME-DO-EGRESSO="João Arthur Brunet Monteiro"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="6215732726947926"
+               NOME-DO-EGRESSO="Gustavo Araújo Soares"/>
+      <EGRESSO DATA-SAIDA="12052015" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4052914754332243"
+               NOME-DO-EGRESSO="Francisco Gomes de Oliveira Neto"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4052914754332243"
+               NOME-DO-EGRESSO="Francisco Gomes de Oliveira Neto"/>
+      <EGRESSO DATA-SAIDA="16052016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2793969744497453"
+               NOME-DO-EGRESSO="Everton Leandro Galdino Alves"/>
+      <EGRESSO DATA-SAIDA="16052016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2793969744497453"
+               NOME-DO-EGRESSO="Everton Leandro Galdino Alves"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="6215732726947926"
+               NOME-DO-EGRESSO="Gustavo Araújo Soares"/>
+      <EGRESSO DATA-SAIDA="12052015" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="6215732726947926"
+               NOME-DO-EGRESSO="Gustavo Araújo Soares"/>
+      <EGRESSO DATA-SAIDA="12052015" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7892247821251194"
+               NOME-DO-EGRESSO="João Arthur Brunet Monteiro"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7892247821251194"
+               NOME-DO-EGRESSO="João Arthur Brunet Monteiro"/>
+      <EGRESSO DATA-SAIDA="12052015" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4052914754332243"
+               NOME-DO-EGRESSO="Francisco Gomes de Oliveira Neto"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4052914754332243"
+               NOME-DO-EGRESSO="Francisco Gomes de Oliveira Neto"/>
+      <EGRESSO DATA-SAIDA="12052015" DATA-ENTRADA="07082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4052914754332243"
+               NOME-DO-EGRESSO="Francisco Gomes de Oliveira Neto"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="07082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4052914754332243"
+               NOME-DO-EGRESSO="Francisco Gomes de Oliveira Neto"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="07082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7892247821251194"
+               NOME-DO-EGRESSO="João Arthur Brunet Monteiro"/>
+      <EGRESSO DATA-SAIDA="12052015" DATA-ENTRADA="07082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7892247821251194"
+               NOME-DO-EGRESSO="João Arthur Brunet Monteiro"/>
+      <EGRESSO DATA-SAIDA="12052015" DATA-ENTRADA="07082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="6215732726947926"
+               NOME-DO-EGRESSO="Gustavo Araújo Soares"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="07082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="6215732726947926"
+               NOME-DO-EGRESSO="Gustavo Araújo Soares"/>
+      <EGRESSO DATA-SAIDA="16052016" DATA-ENTRADA="07082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2793969744497453"
+               NOME-DO-EGRESSO="Everton Leandro Galdino Alves"/>
+      <EGRESSO DATA-SAIDA="12052015" DATA-ENTRADA="07082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="6215732726947926"
+               NOME-DO-EGRESSO="Gustavo Araújo Soares"/>
+      <EGRESSO DATA-SAIDA="12052015" DATA-ENTRADA="07082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7892247821251194"
+               NOME-DO-EGRESSO="João Arthur Brunet Monteiro"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="07082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4052914754332243"
+               NOME-DO-EGRESSO="Francisco Gomes de Oliveira Neto"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="07082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7892247821251194"
+               NOME-DO-EGRESSO="João Arthur Brunet Monteiro"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="07082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="6215732726947926"
+               NOME-DO-EGRESSO="Gustavo Araújo Soares"/>
+      <EGRESSO DATA-SAIDA="16052016" DATA-ENTRADA="07082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2793969744497453"
+               NOME-DO-EGRESSO="Everton Leandro Galdino Alves"/>
+      <EGRESSO DATA-SAIDA="12052015" DATA-ENTRADA="07082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4052914754332243"
+               NOME-DO-EGRESSO="Francisco Gomes de Oliveira Neto"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="17092014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4052914754332243"
+               NOME-DO-EGRESSO="Francisco Gomes de Oliveira Neto"/>
+      <EGRESSO DATA-SAIDA="12052015" DATA-ENTRADA="17092014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4052914754332243"
+               NOME-DO-EGRESSO="Francisco Gomes de Oliveira Neto"/>
+      <EGRESSO DATA-SAIDA="16052016" DATA-ENTRADA="17092014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2793969744497453"
+               NOME-DO-EGRESSO="Everton Leandro Galdino Alves"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="17092014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="6215732726947926"
+               NOME-DO-EGRESSO="Gustavo Araújo Soares"/>
+      <EGRESSO DATA-SAIDA="12052015" DATA-ENTRADA="17092014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7892247821251194"
+               NOME-DO-EGRESSO="João Arthur Brunet Monteiro"/>
+      <EGRESSO DATA-SAIDA="12052015" DATA-ENTRADA="17092014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="6215732726947926"
+               NOME-DO-EGRESSO="Gustavo Araújo Soares"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="17092014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7892247821251194"
+               NOME-DO-EGRESSO="João Arthur Brunet Monteiro"/>
+      <EGRESSO DATA-SAIDA="16052016" DATA-ENTRADA="05122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2793969744497453"
+               NOME-DO-EGRESSO="Everton Leandro Galdino Alves"/>
+      <EGRESSO DATA-SAIDA="16052016" DATA-ENTRADA="05122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7689109069639555"
+               NOME-DO-EGRESSO="Matheus Gaudencio do Rêgo"/>
+      <EGRESSO DATA-SAIDA="16052016" DATA-ENTRADA="12052015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2793969744497453"
+               NOME-DO-EGRESSO="Everton Leandro Galdino Alves"/>
+      <EGRESSO DATA-SAIDA="16052016" DATA-ENTRADA="12052015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7689109069639555"
+               NOME-DO-EGRESSO="Matheus Gaudencio do Rêgo"/>
+      <EGRESSO DATA-SAIDA="16052016" DATA-ENTRADA="03082015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7689109069639555"
+               NOME-DO-EGRESSO="Matheus Gaudencio do Rêgo"/>
+      <EGRESSO DATA-SAIDA="16052016" DATA-ENTRADA="03082015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2793969744497453"
+               NOME-DO-EGRESSO="Everton Leandro Galdino Alves"/>
+      <EGRESSO DATA-SAIDA="16052016" DATA-ENTRADA="06082015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2793969744497453"
+               NOME-DO-EGRESSO="Everton Leandro Galdino Alves"/>
+      <EGRESSO DATA-SAIDA="16052016" DATA-ENTRADA="06082015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7689109069639555"
+               NOME-DO-EGRESSO="Matheus Gaudencio do Rêgo"/>
+      <EGRESSO DATA-SAIDA="16052016" DATA-ENTRADA="06082015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2793969744497453"
+               NOME-DO-EGRESSO="Everton Leandro Galdino Alves"/>
+      <EGRESSO DATA-SAIDA="16052016" DATA-ENTRADA="06082015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7689109069639555"
+               NOME-DO-EGRESSO="Matheus Gaudencio do Rêgo"/>
+      <EGRESSO DATA-SAIDA="16052016" DATA-ENTRADA="15082015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2793969744497453"
+               NOME-DO-EGRESSO="Everton Leandro Galdino Alves"/>
+      <EGRESSO DATA-SAIDA="16052016" DATA-ENTRADA="15082015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7689109069639555"
+               NOME-DO-EGRESSO="Matheus Gaudencio do Rêgo"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

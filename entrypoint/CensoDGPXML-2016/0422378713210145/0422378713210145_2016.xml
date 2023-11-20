@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="0422378713210145"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="141154"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="27102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="8353554970600111" CODIGO-AREA-PREDOMINANTE="30400007"
+                           NOME-DA-UNIDADE="Centro de Tecnologia e Urbanismo"
+                           NOME-DO-ORGAO="Centro de Tecnologia e Urbanismo"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="PR"
+                           SIGLA-DA-INSTITUICAO="UEL"
+                           NOME-DA-INSTITUICAO="Universidade Estadual de Londrina"
+                           AREA-PREDOMINANTE="Engenharia Elétrica"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="2000"
+                           NOME-DO-GRUPO="Automação Industrial e Controle">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="7369026799800057" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Ruberlei Gaino"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="7604165210337250" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Márcio Roberto Covacic"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="4113700" DDDFAX="04"
+                                       LONGITUDE="-51.205883700000015"
+                                       LATITUDE="-23.3207785"
+                                       CAIXA-POSTAL="6001"
+                                       LOCALIDADE="Londrina"
+                                       NUMERO="S/n"
+                                       COMPLEMENTO="Km 380 PR 445"
+                                       LOGRADOURO="AC Jardim Bandeirantes"
+                                       HOME-PAGE="http://www.uel.br/ctu/deel"
+                                       E-MAIL="ruberlei.gaino@gmail.com"
+                                       FAX="33714790"
+                                       RAMAL=""
+                                       TELEFONE="33714789"
+                                       DDD="04"
+                                       CEP="86057970"
+                                       CIDADE="Londrina"
+                                       UF="PR"
+                                       BAIRRO="Jardim Portal de Versalhes 1"/>
+      <REPERCUSSOES> Pretende-se trabalhar com Teoria de Controle, Engenharia de Reabilitação, Modelagem Robótica, Visão Computacional,  Modelos Fuzzy Takagi-Sugeno, Redes Neurais, LMIs, Estrutura Variável, Controle de Tráfego. Assessorados no início por pesquisadores da UNESP Campus Ilha Solteira e da Universidade Federal de Santa Catarina, ao longo do tempo deve-se consolidar as intenções produzindo artigos relevantes em periódicos da área e produtos de laboratório</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="GAINO, R." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7369026799800057"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ruberlei Gaino">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Engenharia Biomédica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação e Controle"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Biomédica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem de Fenômenos Biológicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transdutores para Aplicações Biomédicas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="COVACIC, M. R.;Covacic, Márcio Roberto;Covacic, M.R.;COVACIC, MARCIO ROBERTO;COVACIC, MÁRCIO R."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7604165210337250"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Márcio Roberto Covacic">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação e Controle"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Processos Eletrônicos, Retroalimentação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Biomédica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Eletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Eletrônicos de Medida e de Controle</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MACHADO, E. R. M. D.;MACHADO, ERICA R. M. D."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0039052497678011"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Erica Regina Marani Daruichi Machado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação e Controle"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Processos Eletrônicos, Retroalimentação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação Especial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Biomédica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Tecnologia Assistiva</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CARVALHO, A. A.;de Carvalho, A.A.;DECARVALHO, A;de Carvalho, Aparecido A.;Carvalho, Aparecido;DE CARVALHO, APARECIDO AUGUSTO;CARVALHO, APARECIDO AUGUSTO DE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0250066159980825"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Aparecido Augusto de Carvalho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação e Controle"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Eletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Odontológica e Médico-Hospitalar</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medidas Elétricas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transdutores para Aplicações Biomédicas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="TEIXEIRA, M. C. M.;Teixeira, M. C. M.;Teixeira, Marcelo C. M.;Teixeira, Marcelo Carvalho Minhoto;TEIXEIRA, MARCELO;MINHOTO TEIXEIRA, MARCELO CARVALHO;TEIXEIRA, M.C.M."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8879964582778840"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcelo Carvalho Minhoto Teixeira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação e Controle"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Processos Eletrônicos, Retroalimentação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MELO, L. F.;DE MELO, LEONIMER FLAVIO;FLÁVIO DE MELO, LEONIMER;Leonimer Flavio de Melo;Melo, Leonimer Flávio de;de Melo, Leonimer Flavio;Melo, Leonimer Flávio;DE MELO, LEONIMER FLÁVIO;DE MELLO, LEONIMER FLÁVIO;Flávio de Melo, Leonimer;MELO, LEONIMER F.;MELO, LEONIMER FLAVIO DE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0235320453073470"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Leonimer Flávio de Melo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica Móvel Inteligente"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação e Controle"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>AUTOMAÇÃO INDUSTRIAL</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Produção</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Mecatrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>ROBÓTICA</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Controle Embarcado</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANCHES, M. A. A.;Sanches, Marcelo;SANCHES, MARCELO AUGUSTO ASSUNÇÃO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8630973561889272"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcelo Augusto Assunção Sanches">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Engenharia Biomédica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instalações Elétricas e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Eletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Odontológica e Médico-Hospitalar</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medidas Elétricas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Eletrônicos de Medida e de Controle</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transdutores para Aplicações Biomédicas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="KOZAN, R. F.;KOZAN, RENAN FERNANDES"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6033302219890695"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Renan Fernandes Kozan">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Engenharia Biomédica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Odontológica e Médico-Hospitalar</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Eletrônicos de Medida e de Controle</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transdutores para Aplicações Biomédicas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SILVA, Newton da;DA SILVA, NEWTON;SILVA, NEWTON"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5786593597348214"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Newton da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fundamentos da Eletrônica de Potência e Acionamento Elétrico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Engenharia Biomédica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação e Controle"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Conversão e Retificação da Energia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Eletrônica Industrial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria Geral dos Circuitos Elétricos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="HERNANDES, A. G." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RUBERLEI GAINO"
+                 NRO-ID-CNPQ-ORIENTADOR="7369026799800057"
+                 SEQUENCIA-ESTUDANTE="4099352"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7413896181663283"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Aislan Gabriel Hernandes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Engenharia Biomédica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ROSSINI, Flávio Luiz;ROSSINI, FLAVIO LUIZ"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCIO ROBERTO COVACIC"
+                 NRO-ID-CNPQ-ORIENTADOR="7604165210337250"
+                 SEQUENCIA-ESTUDANTE="818116"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8616413126997528"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Flávio Luiz Rossini">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação e Controle"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administração Financeira</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cálculo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Elétricos, Magnéticos e Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Eletrônica Industrial, Sistemas e Controles Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estatística</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS, N. M.;MOUTINHO,N.M.S." NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RUBERLEI GAINO"
+                 NRO-ID-CNPQ-ORIENTADOR="7369026799800057"
+                 SEQUENCIA-ESTUDANTE="15235"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7837374349231483"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Nilson Moutinho dos Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Engenharia Biomédica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioengenharia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Eletrônica Industrial, Sistemas e Controles Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BIAZETO, Anderson R." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RUBERLEI GAINO"
+                 NRO-ID-CNPQ-ORIENTADOR="7369026799800057"
+                 SEQUENCIA-ESTUDANTE="3045728"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0462501708503122"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Anderson Ross Biazeto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Engenharia Biomédica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação e Controle"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PEREIRA, C. W. P." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="NEWTON DA SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="5786593597348214"
+                 SEQUENCIA-ESTUDANTE="4269435"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0083994939369983"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Charles William Polizelli Pereira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fundamentos da Eletrônica de Potência e Acionamento Elétrico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LEONCIO JUNIOR, A. P." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RUBERLEI GAINO"
+                 NRO-ID-CNPQ-ORIENTADOR="7369026799800057"
+                 SEQUENCIA-ESTUDANTE="3725021"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5040430106502611"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Antonio Pires Leoncio Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fundamentos da Eletrônica de Potência e Acionamento Elétrico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação e Controle"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BARBOSA, A. C." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RUBERLEI GAINO"
+                 NRO-ID-CNPQ-ORIENTADOR="7369026799800057"
+                 SEQUENCIA-ESTUDANTE="5634079"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8431044661776142"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alan Cardoso Barbosa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação e Controle"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="HENRIQUE JÚNIOR, J." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCIO ROBERTO COVACIC"
+                 NRO-ID-CNPQ-ORIENTADOR="7604165210337250"
+                 SEQUENCIA-ESTUDANTE="3228173"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7731821227289571"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Jair Henrique Júnior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação e Controle"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MANTOVANI, P. H. B." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RUBERLEI GAINO"
+                 NRO-ID-CNPQ-ORIENTADOR="7369026799800057"
+                 SEQUENCIA-ESTUDANTE="5520684"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2174299360258598"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Pedro Henrique Bonilha Mantovani">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação e Controle"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LIMA, A. M." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RUBERLEI GAINO"
+                 NRO-ID-CNPQ-ORIENTADOR="7369026799800057"
+                 SEQUENCIA-ESTUDANTE="5520894"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6925217288497718"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Aron Massucatto Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação e Controle"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="RODRIGUES, P. F." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RUBERLEI GAINO"
+                 NRO-ID-CNPQ-ORIENTADOR="7369026799800057"
+                 SEQUENCIA-ESTUDANTE="5620473"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6924734492798932"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Patrick Fernando Rodrigues">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Engenharia Biomédica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação e Controle"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica, Mecatrônica e Automação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NUNES, Willian R. Bispo M.;NUNES, WILLIAN RICARDO BISPO MURBAK;BISPO MURBAK NUNES, WILLIAN RICARDO"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="NEWTON DA SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="5786593597348214"
+                 SEQUENCIA-ESTUDANTE="3139544"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4889618956920630"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Willian Ricardo Bispo Murbak Nunes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fundamentos da Eletrônica de Potência e Acionamento Elétrico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Engenharia Biomédica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Eletrônica Industrial, Sistemas e Controles Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Elétricos de Potência</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BONATO, G. A. G." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCIO ROBERTO COVACIC"
+                 NRO-ID-CNPQ-ORIENTADOR="7604165210337250"
+                 SEQUENCIA-ESTUDANTE="5513827"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6768734749379019"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Guilherme Augusto Gil Bonato">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação e Controle"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Processos Eletrônicos, Retroalimentação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GHIROTTI, B. A. P." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCIO ROBERTO COVACIC"
+                 NRO-ID-CNPQ-ORIENTADOR="7604165210337250"
+                 SEQUENCIA-ESTUDANTE="5524366"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1822424590677632"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruno Antonio Prado Ghirotti">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automação e Controle"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Eletrônica Industrial, Sistemas e Controles Eletrônicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2176722256819033"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Pesquisas com Acionamentos Elétricos, Eletrônica de Potência Aplicada a Controle Digital voltada a Engenharia Biomédica."
+                         NOME-DA-LINHA-DE-PESQUISA="Fundamentos da Eletrônica de Potência e Acionamento Elétrico"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Acionamentos Elétricos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Controle Digital</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Paraplegia</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5786593597348214" NOME-COMPLETO="Newton da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="371356"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0083994939369983"
+                             NOME-COMPLETO="Charles William Polizelli Pereira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4269435"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5040430106502611" NOME-COMPLETO="Antonio Pires Leoncio Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3725021"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4889618956920630"
+                             NOME-COMPLETO="Willian Ricardo Bispo Murbak Nunes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3139544"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30400007" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="415"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28.6"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3468685936520467"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Aplicações da Robótica Móvel em Automação e Controle, aplicada a Engenharia Biomédica."
+                         NOME-DA-LINHA-DE-PESQUISA="Robótica Móvel Inteligente"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Robótica Móvel</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Controle e Automação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0235320453073470" NOME-COMPLETO="Leonimer Flávio de Melo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="598427"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30400007" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="415"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28.6"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5215335666787947"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de técnicas de Controle, teoria e aplicação, desenvolvimento de equipamentos e software na área de Controle, Automação, visando o estado da arte e progresso do meio científico.As principais áreas de pesquisa no momento são: Neural, Fuzzy Takagi Sugeno, Linear Matrix Inequalities, Estrutura Variável, reabilitação de hemiplégicos e paraplégicos. Controle da Cadeira de Rodas."
+                         NOME-DA-LINHA-DE-PESQUISA="Automação e Controle"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Neuro-Fuzzy</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Engenharia de Reabilitação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Teoria de Controle</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">LMIs</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Modelagem e Visão Robótica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Controle de Cadeira de Rodas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7369026799800057" NOME-COMPLETO="Ruberlei Gaino"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="251342"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7604165210337250" NOME-COMPLETO="Márcio Roberto Covacic"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="221305"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0039052497678011"
+                               NOME-COMPLETO="Erica Regina Marani Daruichi Machado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="387755"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0250066159980825" NOME-COMPLETO="Aparecido Augusto de Carvalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="12174"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8879964582778840"
+                               NOME-COMPLETO="Marcelo Carvalho Minhoto Teixeira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="42390"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0235320453073470" NOME-COMPLETO="Leonimer Flávio de Melo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="598427"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5786593597348214" NOME-COMPLETO="Newton da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="371356"
+                               SEQUENCIA-PESQUISADOR="7"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8616413126997528" NOME-COMPLETO="Flávio Luiz Rossini"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="818116"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0462501708503122" NOME-COMPLETO="Anderson Ross Biazeto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3045728"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5040430106502611" NOME-COMPLETO="Antonio Pires Leoncio Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3725021"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8431044661776142" NOME-COMPLETO="Alan Cardoso Barbosa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5634079"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7731821227289571" NOME-COMPLETO="Jair Henrique Júnior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3228173"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2174299360258598" NOME-COMPLETO="Pedro Henrique Bonilha Mantovani"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5520684"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6925217288497718" NOME-COMPLETO="Aron Massucatto Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5520894"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6924734492798932" NOME-COMPLETO="Patrick Fernando Rodrigues"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5620473"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6768734749379019" NOME-COMPLETO="Guilherme Augusto Gil Bonato"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5513827"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1822424590677632" NOME-COMPLETO="Bruno Antonio Prado Ghirotti"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5524366"
+                             SEQUENCIA-ESTUDANTE="10"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30405025" CODIGO-ESPECIALIDADE="30405025"
+                                  CODIGO-SUB-AREA="30405009"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Automação Eletrônica de Processos Elétricos e Industriais"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Eletrônica Industrial, Sistemas e Controles Eletrônicos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="443"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.27"
+                                SUBSETOR="Fabricação de máquinas, aparelhos e materiais elétricos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.32.5"
+                                SUBSETOR="Fabricação de produtos diversos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5095892169921356" OBJETIVO-DA-LINHA-DE-PESQUISA="a"
+                         NOME-DA-LINHA-DE-PESQUISA="Engenharia Biomédica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Reabilitação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Paraplegia</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7369026799800057" NOME-COMPLETO="Ruberlei Gaino"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="251342"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8630973561889272" NOME-COMPLETO="Marcelo Augusto Assunção Sanches"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="601674"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6033302219890695" NOME-COMPLETO="Renan Fernandes Kozan"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="886928"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5786593597348214" NOME-COMPLETO="Newton da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="371356"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7413896181663283" NOME-COMPLETO="Aislan Gabriel Hernandes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4099352"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7837374349231483" NOME-COMPLETO="Nilson Moutinho dos Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="15235"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0462501708503122" NOME-COMPLETO="Anderson Ross Biazeto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3045728"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6924734492798932" NOME-COMPLETO="Patrick Fernando Rodrigues"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5620473"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4889618956920630"
+                             NOME-COMPLETO="Willian Ricardo Bispo Murbak Nunes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3139544"
+                             SEQUENCIA-ESTUDANTE="5"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30405033" CODIGO-ESPECIALIDADE="30405033"
+                                  CODIGO-SUB-AREA="30405009"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de Processos Eletrônicos, Retroalimentação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Eletrônica Industrial, Sistemas e Controles Eletrônicos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="444"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="8934481631395590"
+               RAZAO-SOCIAL-DA-EMPRESA="Faculdade de Engenharia de Ilha Solteira"
+               NATUREZA-JURIDICA="Autarquia Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="48031918000124"
+               LOCALIDADE="Ilha Solteira"
+               CIDADE="Ilha Solteira"
+               UF="SP"
+               SIGLA-DA-EMPRESA="UNESP/I.SOLTEIRA"
+               NOME-DA-EMPRESA="Faculdade de Engenharia de Ilha Solteira"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="19">Fornecimento, pelo parceiro, de insumos materiais para as atividades de pesquisa do grupo sem vinculação a um projeto específico de interesse mútuo</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="15">Transferência de insumos materiais para as atividades do parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="16">Transferência física temporária de recursos humanos do parceiro para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

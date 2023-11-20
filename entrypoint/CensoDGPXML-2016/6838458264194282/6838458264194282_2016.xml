@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="6838458264194282"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="135857"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="14102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="7968586390788673" CODIGO-AREA-PREDOMINANTE="40400000"
+                           NOME-DA-UNIDADE="Faculdade de Enfermagem da UNICAMP"
+                           NOME-DO-ORGAO="Faculdade de Enfermagem da UNICAMP"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SP"
+                           SIGLA-DA-INSTITUICAO="UNICAMP"
+                           NOME-DA-INSTITUICAO="Universidade Estadual de Campinas"
+                           AREA-PREDOMINANTE="Enfermagem"
+                           GRANDE-AREA-PREDOMINANTE="Ciências da Saúde"
+                           ANO-DE-CRIACAO="2002"
+                           NOME-DO-GRUPO="INFORMAÇÃO E COMUNICAÇÃO EM SAÚDE">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="8501750285709463" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Maria Helena Baena de Moraes Lopes"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="2163381815519225" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Elenice Valentim Carmona"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3509502" DDDFAX="01"
+                                       LONGITUDE="-47.06193189999999"
+                                       LATITUDE="-22.829593"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Campinas"
+                                       NUMERO="126"
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="Rua Tessália Vieira de Camargo"
+                                       HOME-PAGE="http://"
+                                       E-MAIL="mhbaenaml@yahoo.com.br"
+                                       FAX="35218822"
+                                       RAMAL=""
+                                       TELEFONE="3521-8831"
+                                       DDD="01"
+                                       CEP="13083887"
+                                       CIDADE="Campinas"
+                                       UF="SP"
+                                       BAIRRO="Cidade Universitária"/>
+      <REPERCUSSOES>O grupo, nos últimos anos, desenvolveu um software que verifica a acurácia diagnóstica de alunos de enfermagem, baseado num modelo que utiliza conceitos da lógica fuzzy, desenvolvido em PERL, usando o banco de dados MySQL para acesso pela internet e a classificação da NANDA-International, versão 2007-2008. Na sua segunda versão foi incluído o modelo Developing Nurses Thinking (DNT) proposto por Mary Tesoro, uma pesquisadora norte-americana. O modelo DNT é um modelo educacional utilizado para ajudar alunos de enfermagem a aprenderem o raciocínio clínico. Em 2014, foi realizada a tradução e adaptação cultural do caso clínico Baby Boy Jones, desenvolvido pela Profa. Dra. Lisa Cleveland em parceria com a Profa Dra. Kay Avant da Universidade do Texas. A apresentação do caso clínico ao aluno é realizada via web, com oportunidades para que o aluno tome decisões a respeito de um recém-nascido com infecção neonatal.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="LOPES, Maria Helena Baena de Moraes;Lopes, Maria Helena Baena M.;Lopes, Maria Helena de Moraes;LOPES, Maria Helena B.M.;LOPES, MARIA HELENA BAENA DE MORAES;LOPES, MARIA HELENA BAENA MORAES;LOPES, M. H. B. M.;DE MORAES  LOPES, MARIA HELENA BAENA;LOPES, MHBM;DE MORAES LOPES, MARIA HELENA BAENA;DE MORAES LOPES, M. H. BAENA;DEMORAESLOPES, M;DE MORAES LOPES, MARIA;Maria H. B. M. LOPES;LOPES, MARIA HBM"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="F"
+                   NRO-ID-CNPQ="8501750285709463"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Maria Helena Baena de Moraes Lopes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processo de Enfermagem: raciocínio clínico, classificações de enfermagem e tecnologia da informação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação Clínica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação à distância em saúde e em enfermagem "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="INFORMAÇÃO/COMUNICAÇÃO EM SAÚDE E ENFERMAGEM"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de apoio a decisão em saúde e em enfermagem"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de validação de classificações em saúde"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Diagnóstico de Enfermagem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem em Saúde da Mulher</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informática Em Enfermagem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Saúde da Mulher</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Carvalho, Silvana Denofre" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3212748153494706"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Silvana Denofre Carvalho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação à distância em saúde e em enfermagem "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="INFORMAÇÃO/COMUNICAÇÃO EM SAÚDE E ENFERMAGEM"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem em Saúde da Criança e do Adolescente</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fisiologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FALEIROS-MARTINS, A.C.;Faleiros-Martins, Anna Carolina"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="F"
+                   NRO-ID-CNPQ="1645354247414156"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Anna Carolina Faleiros Martins">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de apoio a decisão em saúde e em enfermagem"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="INFORMAÇÃO/COMUNICAÇÃO EM SAÚDE E ENFERMAGEM"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informática em Saúde</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Saúde da mulher</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>SISTEMAS DE INFORMAÇÃO</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Urologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="RIBEIRO, M. A. S." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3494672316989148"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Maria Andreia Silva Ribeiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação à distância em saúde e em enfermagem "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="INFORMAÇÃO/COMUNICAÇÃO EM SAÚDE E ENFERMAGEM"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de validação de classificações em saúde"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Diagnóstico de Enfermagem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação a Distância</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem e Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem Terapia Intensiva Pediátrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Saúde da Criança e Adolescente</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Tecnologia Educacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="JENSEN, R.;Jensen, Rodrigo" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4173686314328981"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rodrigo Jensen">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processo de Enfermagem: raciocínio clínico, classificações de enfermagem e tecnologia da informação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="INFORMAÇÃO/COMUNICAÇÃO EM SAÚDE E ENFERMAGEM"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de apoio a decisão em saúde e em enfermagem"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANCHES, L. M. P." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5335858117403492"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Luiz Miguel Picelli Sanches">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação à distância em saúde e em enfermagem "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="INFORMAÇÃO/COMUNICAÇÃO EM SAÚDE E ENFERMAGEM"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas de apoio a decisão em saúde e em enfermagem"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação a Distância</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem Em Unidade de Terapia Intensiva</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Semiologia e Semiotécnica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="DURAN, E. C. M.;DURAN, ERIKA CHRISTIANE MAROCCO;Duran, Erika Cristiane Marocco"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0145864721568698"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Erika Christiane Marocco Duran">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processo de Enfermagem: raciocínio clínico, classificações de enfermagem e tecnologia da informação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação Clínica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de validação de classificações em saúde"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem em Saúde da Mulher</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem em Saúde do Adulto e do Idoso</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem em Saúde do Trabalhador</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="OLIVEIRA, A.R.S.;Oliveira, Ana Railka de Souza;OLIVEIRA, Ana Railka de Souza;OLIVEIRA, A.R.S. de;OLIVEIRA, ARS de;OLIVEIRA, ARS;Oliveira, ARS de;Oliveira, ARS;OLIVEIRA, ANA RAILKA SOUZA;Oliveira-Kumakura ARS;OLIVEIRA-KUMAKURA, A.R.S.;OLIVEIRA'KUMAKURA, ANA R. DE SOUZA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="F"
+                   NRO-ID-CNPQ="7104233094436637"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ana Railka de Souza Oliveira Kumakura">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processo de Enfermagem: raciocínio clínico, classificações de enfermagem e tecnologia da informação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação Clínica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de validação de classificações em saúde"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem em Saúde do Adulto e do Idoso</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processo de Enfermagem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Taxonomias de Enfermagem</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BOAVENTURA, A. P.;PAULA BOAVENTURA, ANA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3296174906582949"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ana Paula Boaventura">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processo de Enfermagem: raciocínio clínico, classificações de enfermagem e tecnologia da informação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação Clínica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação à distância em saúde e em enfermagem "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem em emergência</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem em Saúde do Adulto e do Idoso</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem em Terapia Intensiva</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem perioperatória</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CARMONA, Elenice Valentim;Carmona, Elenice Valentim;Carmona EV;CARMONA, EV"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="F"
+                   NRO-ID-CNPQ="2163381815519225"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Elenice Valentim Carmona">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processo de Enfermagem: raciocínio clínico, classificações de enfermagem e tecnologia da informação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="INFORMAÇÃO/COMUNICAÇÃO EM SAÚDE E ENFERMAGEM"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de validação de classificações em saúde"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem Neonatal</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem Obstétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Saúde da Mulher e do Recém-Nascido</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="CAVALCANTI, M.C.S.L.;CAVALCANTI, MARIANNA CARVALHO E SOUZA LEÃO;LEÃO, M. C. S."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARIA HELENA BAENA DE MORAES LOPES"
+                 NRO-ID-CNPQ-ORIENTADOR="8501750285709463"
+                 SEQUENCIA-ESTUDANTE="2806820"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2439874638623687"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marianna Carvalho e Souza Leão Cavalcanti">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="INFORMAÇÃO/COMUNICAÇÃO EM SAÚDE E ENFERMAGEM"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>ENFERMAGEM SAÚDE DA MULHER</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, L. D. R.;OLIVEIRA, LDR;OLIVEIRA, LÉA DOLORES REGANHAN DE"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARIA HELENA BAENA DE MORAES LOPES"
+                 NRO-ID-CNPQ-ORIENTADOR="8501750285709463"
+                 SEQUENCIA-ESTUDANTE="2247289"
+                 SEXO="F"
+                 NRO-ID-CNPQ="5635100852371176"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Léa Dolores Reganhan de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="INFORMAÇÃO/COMUNICAÇÃO EM SAÚDE E ENFERMAGEM"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem em Saúde da Criança e do Adolescente</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem em Saúde da Mulher</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ALVES, A. S.;Alves, Aline Salheb" NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARIA HELENA BAENA DE MORAES LOPES"
+                 NRO-ID-CNPQ-ORIENTADOR="8501750285709463"
+                 SEQUENCIA-ESTUDANTE="623767"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9366561062714169"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Aline Salheb Alves Pivatti">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="INFORMAÇÃO/COMUNICAÇÃO EM SAÚDE E ENFERMAGEM"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem em Oncologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem em Saúde da Mulher</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem em Saúde do Adulto e do Idoso</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LEMOS, D. L." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARIA HELENA BAENA DE MORAES LOPES"
+                 NRO-ID-CNPQ-ORIENTADOR="8501750285709463"
+                 SEQUENCIA-ESTUDANTE="3154602"
+                 SEXO="F"
+                 NRO-ID-CNPQ="5322305101692012"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Danielle Leite de Lemos Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação Clínica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Educação à distância em saúde e em enfermagem "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação à Distância</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informática em Saúde</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Simulação Realística em Saúde</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COSTA, Juliana Neves da" NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARIA HELENA BAENA DE MORAES LOPES"
+                 NRO-ID-CNPQ-ORIENTADOR="8501750285709463"
+                 SEQUENCIA-ESTUDANTE="795208"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0947478991442628"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Juliana Neves da Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processo de Enfermagem: raciocínio clínico, classificações de enfermagem e tecnologia da informação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>CIENCIAS DA SAUDE</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estomaterapia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Incontinencia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>REABILITAÇÃO</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6530333206103885"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Anteriormente denominada INFORMAÇÃO E COMUNICAÇÃO EM SAÚDE. Objetiva desenvolver estudos que abordem temas tais como informática em saúde e em enfermagem, comunicação, educação a saúde e ensino a distância, usando tecnologia computacional e a Internet."
+                         NOME-DA-LINHA-DE-PESQUISA="INFORMAÇÃO/COMUNICAÇÃO EM SAÚDE E ENFERMAGEM"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Informação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">comunicação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">informática em saúde</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">informática em enfermagem</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8501750285709463"
+                               NOME-COMPLETO="Maria Helena Baena de Moraes Lopes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="108226"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3212748153494706" NOME-COMPLETO="Silvana Denofre Carvalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="561822"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1645354247414156" NOME-COMPLETO="Anna Carolina Faleiros Martins"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2633807"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3494672316989148" NOME-COMPLETO="Maria Andreia Silva Ribeiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="335849"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4173686314328981" NOME-COMPLETO="Rodrigo Jensen"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2306302"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5335858117403492" NOME-COMPLETO="Luiz Miguel Picelli Sanches"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="529058"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2163381815519225" NOME-COMPLETO="Elenice Valentim Carmona"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="135601"
+                               SEQUENCIA-PESQUISADOR="7"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2439874638623687"
+                             NOME-COMPLETO="Marianna Carvalho e Souza Leão Cavalcanti"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2806820"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5635100852371176" NOME-COMPLETO="Léa Dolores Reganhan de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2247289"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9366561062714169" NOME-COMPLETO="Aline Salheb Alves Pivatti"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="623767"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40400000" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="40400000"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Informática em Enfermagem"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Enfermagem"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="713"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.5"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.9" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3326128533781206"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento e a avaliação de sistemas informatizados de apoio à decisão em saúde e em enfermagem, considerando-se que sistemas de apoio à decisão são quaisquer programas desenvolvidos para auxiliar o profissional de saúde na tomada de decisão."
+                         NOME-DA-LINHA-DE-PESQUISA="Sistemas de apoio a decisão em saúde e em enfermagem"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Sistemas de apoio a decisão</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">sistemas especialistas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Informática em Saúde</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Informática em Enfermagem</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8501750285709463"
+                               NOME-COMPLETO="Maria Helena Baena de Moraes Lopes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="108226"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1645354247414156" NOME-COMPLETO="Anna Carolina Faleiros Martins"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2633807"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4173686314328981" NOME-COMPLETO="Rodrigo Jensen"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2306302"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5335858117403492" NOME-COMPLETO="Luiz Miguel Picelli Sanches"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="529058"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40400000" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="40400000"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Informática em Enfermagem"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Enfermagem"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="713"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.9" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.5"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7337509881862399"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver estudos sobre diferentes métodos de validação aplicáveis a classificações de diagnósticos, intervenções e resultados em saúde."
+                         NOME-DA-LINHA-DE-PESQUISA="Métodos de validação de classificações em saúde"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Classificações de enfermagem</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Classificações em saúde</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8501750285709463"
+                               NOME-COMPLETO="Maria Helena Baena de Moraes Lopes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="108226"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3494672316989148" NOME-COMPLETO="Maria Andreia Silva Ribeiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="335849"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0145864721568698" NOME-COMPLETO="Erika Christiane Marocco Duran"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="159783"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7104233094436637"
+                               NOME-COMPLETO="Ana Railka de Souza Oliveira Kumakura"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2066256"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2163381815519225" NOME-COMPLETO="Elenice Valentim Carmona"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="135601"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40400000" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="40400000"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Enfermagem"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="713"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9381940933930386"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver estudos sobre simulação clínica no ensino de nível técnico, de graduação e educação continuada/permanente, bem como em projetos de extensão à comunidade."
+                         NOME-DA-LINHA-DE-PESQUISA="Simulação Clínica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Simulação Clinica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">ensino</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8501750285709463"
+                               NOME-COMPLETO="Maria Helena Baena de Moraes Lopes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="108226"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0145864721568698" NOME-COMPLETO="Erika Christiane Marocco Duran"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="159783"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7104233094436637"
+                               NOME-COMPLETO="Ana Railka de Souza Oliveira Kumakura"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2066256"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3296174906582949" NOME-COMPLETO="Ana Paula Boaventura"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="688299"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5322305101692012" NOME-COMPLETO="Danielle Leite de Lemos Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3154602"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40400000" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="40400000"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Enfermagem"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="713"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.5" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5895383576717578"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Realizar estudos sobre processo de enfermagem, raciocínio clínico, uso  e refinamento das classificações de enfermagem e utilização da tecnologia da informação como recurso para melhorar e avaliar o raciocínio clínico, bem como para utilização das classificações de enfermagem no ensino e prática assistencial."
+                         NOME-DA-LINHA-DE-PESQUISA="Processo de Enfermagem: raciocínio clínico, classificações de enfermagem e tecnologia da informação"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Processo de enfermagem</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Raciocínio clínico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Classificações de enfermagem</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Tecnologia da informação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8501750285709463"
+                               NOME-COMPLETO="Maria Helena Baena de Moraes Lopes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="108226"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4173686314328981" NOME-COMPLETO="Rodrigo Jensen"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2306302"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0145864721568698" NOME-COMPLETO="Erika Christiane Marocco Duran"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="159783"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7104233094436637"
+                               NOME-COMPLETO="Ana Railka de Souza Oliveira Kumakura"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2066256"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3296174906582949" NOME-COMPLETO="Ana Paula Boaventura"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="688299"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2163381815519225" NOME-COMPLETO="Elenice Valentim Carmona"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="135601"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0947478991442628" NOME-COMPLETO="Juliana Neves da Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="795208"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40400000" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="40400000"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Enfermagem"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="713"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.5"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.5" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5065687078524090"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Identificação de necessidades e  desenvolvimento de material educativo para educação à distância (websites, páginas web, cursos à distância, e outros) para enfermeiros e demais profissionais da área da saúde."
+                         NOME-DA-LINHA-DE-PESQUISA="Educação à distância em saúde e em enfermagem "
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Educação a Distância</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Informática em Saúde</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Informática em Enfermagem</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8501750285709463"
+                               NOME-COMPLETO="Maria Helena Baena de Moraes Lopes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="108226"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3212748153494706" NOME-COMPLETO="Silvana Denofre Carvalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="561822"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3494672316989148" NOME-COMPLETO="Maria Andreia Silva Ribeiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="335849"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5335858117403492" NOME-COMPLETO="Luiz Miguel Picelli Sanches"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="529058"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3296174906582949" NOME-COMPLETO="Ana Paula Boaventura"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="688299"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5322305101692012" NOME-COMPLETO="Danielle Leite de Lemos Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3154602"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40401006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="40401006"
+                                  CODIGO-AREA="40400000"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Enfermagem em Saúde do Adulto e do Idoso"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Enfermagem"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="714"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40400000" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="40400000"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Informática em Enfermagem"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Enfermagem"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="713"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.9" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="0360802780280387"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidade de São Paulo"
+               NATUREZA-JURIDICA="Autarquia Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="63025530000104"
+               LOCALIDADE="São Paulo"
+               CIDADE="São Paulo"
+               UF="SP"
+               SIGLA-DA-EMPRESA="FMUSP"
+               NOME-DA-EMPRESA="Faculdade de Medicina da Universidade de São Paulo"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="14">Desenvolvimento de software não-rotineiro para o grupo pelo parceiro</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="2969493790939519" RAZAO-SOCIAL-DA-EMPRESA=""
+               NATUREZA-JURIDICA="Autarquia Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="60453032000174"
+               LOCALIDADE="São Paulo"
+               CIDADE="São Paulo"
+               UF="SP"
+               SIGLA-DA-EMPRESA="UNIFESP"
+               NOME-DA-EMPRESA="Departamento de Enfermagem"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="0277123415058906"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidade de São Paulo"
+               NATUREZA-JURIDICA="Autarquia Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="63025530000104"
+               LOCALIDADE="São Paulo"
+               CIDADE="São Paulo"
+               UF="SP"
+               SIGLA-DA-EMPRESA="EEUSP"
+               NOME-DA-EMPRESA="Escola de Enfermagem"
+               SEQUENCIA-EMPRESA="2">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que não se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES="Trata-se  de um software que verifica a acurácia diagnóstica de alunos de enfermagem. O software foi baseado num modelo que utiliza conceitos da lógica fuzzy, em  PERL, banco de dados MySQL para acesso pela internet e a classificação NANDA-International 2007-2008."
+                MODELO=""
+                VERSAO="1.0 e 2.0"
+                NOME="Fuzzy Kitten"
+                CLASSIFICACAO="Educacional"
+                TIPO-DE-LICENCIAMENTO="Proprietário"
+                DESENVOLVIMENTO-PROPRIO="S"
+                SEQUENCIA-SOFTWARE="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">CNPq</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="1">Fundação estadual de amparo à pesquisa</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+   </SOFTWARES>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="5335858117403492"
+               NOME-DO-EGRESSO="Luiz Miguel Picelli Sanches"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4173686314328981"
+               NOME-DO-EGRESSO="Rodrigo Jensen"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1645354247414156"
+               NOME-DO-EGRESSO="Anna Carolina Faleiros Martins"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3494672316989148"
+               NOME-DO-EGRESSO="Maria Andreia Silva Ribeiro"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="5335858117403492"
+               NOME-DO-EGRESSO="Luiz Miguel Picelli Sanches"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3494672316989148"
+               NOME-DO-EGRESSO="Maria Andreia Silva Ribeiro"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1645354247414156"
+               NOME-DO-EGRESSO="Anna Carolina Faleiros Martins"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4173686314328981"
+               NOME-DO-EGRESSO="Rodrigo Jensen"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3494672316989148"
+               NOME-DO-EGRESSO="Maria Andreia Silva Ribeiro"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4173686314328981"
+               NOME-DO-EGRESSO="Rodrigo Jensen"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1645354247414156"
+               NOME-DO-EGRESSO="Anna Carolina Faleiros Martins"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="5335858117403492"
+               NOME-DO-EGRESSO="Luiz Miguel Picelli Sanches"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="05122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1645354247414156"
+               NOME-DO-EGRESSO="Anna Carolina Faleiros Martins"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="05122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1645354247414156"
+               NOME-DO-EGRESSO="Anna Carolina Faleiros Martins"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="05122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1645354247414156"
+               NOME-DO-EGRESSO="Anna Carolina Faleiros Martins"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="26052015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1645354247414156"
+               NOME-DO-EGRESSO="Anna Carolina Faleiros Martins"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="26052015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1645354247414156"
+               NOME-DO-EGRESSO="Anna Carolina Faleiros Martins"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="26052015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1645354247414156"
+               NOME-DO-EGRESSO="Anna Carolina Faleiros Martins"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="26052015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1645354247414156"
+               NOME-DO-EGRESSO="Anna Carolina Faleiros Martins"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="20112015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1645354247414156"
+               NOME-DO-EGRESSO="Anna Carolina Faleiros Martins"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="30092016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1645354247414156"
+               NOME-DO-EGRESSO="Anna Carolina Faleiros Martins"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="3169836848711883"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="164948"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="27092016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="2297500881986700" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE=""
+                           NOME-DO-ORGAO="Universidade Federal Fluminense"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="RJ"
+                           SIGLA-DA-INSTITUICAO="UFF"
+                           NOME-DA-INSTITUICAO="Universidade Federal Fluminense"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2001"
+                           NOME-DO-GRUPO="Smart Grid Computing Laboratory">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="8795680989708219" PAIS-DE-NASCIMENTO="EUA" NACIONALIDADE="E"
+                         NOME-COMPLETO="Eugene Francis Vinod Rebello"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="0306766365983082" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Maria Cristina Silva Boeres"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3303302" DDDFAX="21"
+                                       LONGITUDE="-43.13301086425781"
+                                       LATITUDE="-22.90665705550512"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Niterói"
+                                       NUMERO="s/n"
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="Rua Edmundo March"
+                                       HOME-PAGE="http://sgclab.ic.uff.br/"
+                                       E-MAIL="sgclab@ic.uff.br"
+                                       FAX="2629-5669"
+                                       RAMAL=""
+                                       TELEFONE="2629-5665"
+                                       DDD="21"
+                                       CEP="24210330"
+                                       CIDADE="Niterói"
+                                       UF="RJ"
+                                       BAIRRO="Boa Viagem"/>
+      <REPERCUSSOES>Nuvens e Grades Computacionais têm o potencial de se tornarem plataformas poderosas utilizadas pela comunidade de computação distribuída, tanto científica quanto comercial, para a execução de aplicações de grande importância e alto teor computacional. O objetivo destes sistemas é o de agregar uma coleção de recursos distribuídos, heterogêneos e compartilhados para oferecer poder computacional suficiente para tais aplicações. Contudo, permanece como desafio a exploração do desempenho de tais recursos, devido principalmente ao comportamento dinâmico de tal ambiente. Projetar aplicações eficientes para serem executadas em máquinas paralelas tradicionais já é difícil, para serem executadas em Grades e Nuvens, numa forma eficiente, é uma tarefa ainda mais árdua e altamente exposta a erros. Se estes sistemas distribuídos vão realizar esse potencial, o desenvolvimento de aplicações para rodar neles não pode ser complexo.  Deste laboratório de pesquisa tem como proposta implementar a metodologia e framework EasyGrid, que em suma, tem como meta executar eficientemente e de forma robusta programas paralelas em uma ''constelação'' de clusters computacionais. O objetivo principal deste projeto é o de desenvolver um ambiente para geração automática de aplicações system-aware, aplicações autônomas, com a capacidade de serem executadas eficientemente em tais sistemas distribuídos, instáveis e dinâmicos, grades computacionais e nuvens.  A existência de plataformas eficientes auxiliará a melhorar a qualidade de pesquisa científica e comercial, e ainda reforçará e facilitará a colaboração entre grupos de pesquisa e com indústria. Esse projeto vai permitir com que um grupo maior de aplicações (e então pesquisadores e instituições) possa explorar, com facilidade, os benefícios deste recurso computacional de alto desempenho e de baixo custo.</REPERCUSSOES>
+      <REDES-DE-PESQUISA>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="INCT - MACC"
+                           URL-DA-REDE-DE-PESQUISA="http://macc.lncc.br/"
+                           NOME-DA-REDE-DE-PESQUISA="INSTITUTO NACIONAL DE CIÊNCIA ETECNOLOGIA MEDICINA ASSISTIDA POR COMPUTAÇÃO CIENTÍFICA"/>
+      </REDES-DE-PESQUISA>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="ARAÚJO, A. P. F.;ARAUJO, ALETEIA;Araujo, Aleteia;ARAUJO, A.;Araujo, A. P. F.;ARAUJO, ALETEIA P.F. DE;ARAUJO, ALETELA P.F. DE;Araújo, Aletéia;ARAUJO, ALETEIA P. F.;Araujo, A.F.;Araujo, Aleteia F.;Aleteia, P. F. de Araujo;DE ARAUJO, ALETEIA P. F.;DE ARAUJO, ALETEIA PATRICIA FAVACHO;ARAÚJO, ALETÉIA P.F.;DE ARAÚJO, ALETÉIA PATRÍCIA FAVACHO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="F"
+                   NRO-ID-CNPQ="1566076687226024"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Aletéia Patrícia Favacho de Araújo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Distribuída "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações de alto desempenho para Grades e Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Algoritmos Paralelos Distribuídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação em Nuvem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Paralela</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Grid Computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Distribuídos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="REBELLO, V. E. F.;REBELLO, V.;Rebello, Vinod E.F.;Rebello, Vinod"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8795680989708219"
+                   PAIS-DE-NASCIMENTO="USA"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Eugene Francis Vinod Rebello">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tolerância a Falhas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Sensores - Internet das Coisas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Autônoma"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Segurança"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvem"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="A Grade Computacional Grid Sinergia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Grid Portals"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Certificação Digital"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="8"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Distribuída "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="9"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Grid Middleware"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="10"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações de alto desempenho para Grades e Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="11"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escalonamento da Tarefas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="12"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aplicações Autonomas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Certificação Digital</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação em Clusters, Grades e Nuvens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Escalonamento de Tarefas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Paralelo</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BOERES,  C.;BOERES, CRISTINA" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0306766365983082"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Maria Cristina Silva Boeres">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvem"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Autônoma"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tolerância a Falhas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Distribuída "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Grid Middleware"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações de alto desempenho para Grades e Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escalonamento da Tarefas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Algoritmos Paralelos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação em Cluster de Computadores ou em Nuvem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Escalonamento de Aplicações</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Paralelo e Distribuído</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SENA, A. C.;Alexandre da Costa Sena;A. C. Sena;Da C. Sena A;SENA, ALEXANDRE C.;SENA, ALEXANDRE;DA C. SENA, A."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1836363748488436"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Alexandre da Costa Sena">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Autônoma"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Distribuída "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Grid Middleware"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações de alto desempenho para Grades e Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação de Alto Desempenho</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação em Cluster</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação em Grades</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Escalonamento de Tarefas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Paralelo e Distribuído</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR SEQUENCIA-PESQUISADOR="4" SEXO="F" NRO-ID-CNPQ="8842194591253311"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Aline de Paula Nascimento">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvem"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Autônoma"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Distribuída "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Grid Middleware"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações de alto desempenho para Grades e Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escalonamento da Tarefas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Grades Computacionais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Paralelo e Distribuído</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Fernanda G. Oliveira;Fernanda G. O. Passos;Passos, Fernanda G. O."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="F"
+                   NRO-ID-CNPQ="8242956470725960"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fernanda Gonçalves de Oliveira Passos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Autônoma"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvem"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Distribuída "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Grid Middleware"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações de alto desempenho para Grades e Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Paralelo e Distribuído</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, F. J. B." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EUGENE FRANCIS VINOD REBELLO"
+                 NRO-ID-CNPQ-ORIENTADOR="8795680989708219"
+                 SEQUENCIA-ESTUDANTE="3059584"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0189927956209836"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Fabricio Jorge Barboza de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvem"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Grid Portals"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Distribuída "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações de alto desempenho para Grades e Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>sistemas distribuídos e paralelos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NICODEMUS, C. H. Z." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARIA CRISTINA SILVA BOERES"
+                 NRO-ID-CNPQ-ORIENTADOR="0306766365983082"
+                 SEQUENCIA-ESTUDANTE="2501159"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6170804080290890"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Carlos Henrique Zilves Nicodemus">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvem"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="A Grade Computacional Grid Sinergia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Grid Portals"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Distribuída "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações de alto desempenho para Grades e Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação em Nuvem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Grades Computacionais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Virtualização</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GUTIERREZ, J. L. V.;Valencia G José"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EUGENE FRANCIS VINOD REBELLO"
+                 NRO-ID-CNPQ-ORIENTADOR="8795680989708219"
+                 SEQUENCIA-ESTUDANTE="5963742"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2368505372129182"
+                 PAIS-DE-NASCIMENTO="PER"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="José Luis Valencia Gutierrez">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvem"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações de alto desempenho para Grades e Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CARDOSO, B. B. G." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EUGENE FRANCIS VINOD REBELLO"
+                 NRO-ID-CNPQ-ORIENTADOR="8795680989708219"
+                 SEQUENCIA-ESTUDANTE="5448468"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0930136229386020"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruno Braga Guedes Cardoso">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvem"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Sensores - Internet das Coisas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="KLOH, H. M.;Kloh, Henrique;Klôh, Henrique de Medeiros"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARIA CRISTINA SILVA BOERES"
+                 NRO-ID-CNPQ-ORIENTADOR="0306766365983082"
+                 SEQUENCIA-ESTUDANTE="2066532"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7688185162095376"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Henrique de Medeiros Kloh">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Distribuída "
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Grid Middleware"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações de alto desempenho para Grades e Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escalonamento da Tarefas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LOPES, L. F." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EUGENE FRANCIS VINOD REBELLO"
+                 NRO-ID-CNPQ-ORIENTADOR="8795680989708219"
+                 SEQUENCIA-ESTUDANTE="5511765"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9938334743544499"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Leonardo Fernandes Lopes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Sensores - Internet das Coisas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvem"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, M. F." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EUGENE FRANCIS VINOD REBELLO"
+                 NRO-ID-CNPQ-ORIENTADOR="8795680989708219"
+                 SEQUENCIA-ESTUDANTE="6877473"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8397083900828584"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Max Fratane de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvem"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Sensores - Internet das Coisas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ELIHOFNI;GUIRRA, E. L." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EUGENE FRANCIS VINOD REBELLO"
+                 NRO-ID-CNPQ-ORIENTADOR="8795680989708219"
+                 SEQUENCIA-ESTUDANTE="6877593"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6773187805760252"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Elihofni Guirra Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvem"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Sensores - Internet das Coisas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BANDINI, M." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARIA CRISTINA SILVA BOERES"
+                 NRO-ID-CNPQ-ORIENTADOR="0306766365983082"
+                 SEQUENCIA-ESTUDANTE="2066077"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2856098586980132"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Matheus Bousquet Bandini">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Autônoma"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Grid Middleware"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações de alto desempenho para Grades e Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escalonamento da Tarefas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>SISTEMAS DE INFORMAÇÃO</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="AMARAL, Rafael Burlamaqui;AMARAL, R.B.;AMARAL, RAFAEL"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EUGENE FRANCIS VINOD REBELLO"
+                 NRO-ID-CNPQ-ORIENTADOR="8795680989708219"
+                 SEQUENCIA-ESTUDANTE="621053"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7812211160354490"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rafael Burlamaqui Amaral">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Autônoma"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Grid Middleware"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações de alto desempenho para Grades e Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escalonamento da Tarefas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação em Grades e Nuvens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Paralela e Distribuída</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Middleware e Escalonamento</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9920990783059372"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Usuários de sistemas paralelos reclamam com freqüência da dificuldade em atingir uma boa fração do pico de desempenho teórico de tais sistemas. Essa linha de pesquisa almeja criar um sistema que automaticamente reestruture uma aplicação tal que possa ser executada eficientemente num Grid, e assim aliviar o programador do trabalho de afinar a aplicação para cada arquitetura que venha a ser executada."
+                         NOME-DA-LINHA-DE-PESQUISA="Grid Middleware"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Tolerância a Falhas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Replicação de Codigo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Aplicações Adaptativas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Aplicações Auto-escalonáveis</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8795680989708219" NOME-COMPLETO="Eugene Francis Vinod Rebello"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="175758"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0306766365983082" NOME-COMPLETO="Maria Cristina Silva Boeres"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="75936"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1836363748488436" NOME-COMPLETO="Alexandre da Costa Sena"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="454458"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8842194591253311" NOME-COMPLETO="Aline de Paula Nascimento"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="455698"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8242956470725960"
+                               NOME-COMPLETO="Fernanda Gonçalves de Oliveira Passos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2259706"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7688185162095376" NOME-COMPLETO="Henrique de Medeiros Kloh"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2066532"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2856098586980132" NOME-COMPLETO="Matheus Bousquet Bandini"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2066077"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7812211160354490" NOME-COMPLETO="Rafael Burlamaqui Amaral"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="621053"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8261206434187286"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="O estudo dos problemas teóricos de escalonamento de grafos arbitrários para modelos do tipo LogP sem restrições, com um número de processadores ilimitado e limitado.  Em particular, as heurísticas de escalonamento podem ser baseadas em técnicas como list scheduling, aglomeração de tarefas e outras, e podem fazer uso de replicação de tarefas visto que esse mecanismo promete bons resultados,  principalmente quando comunicação é cara. "
+                         NOME-DA-LINHA-DE-PESQUISA="Escalonamento da Tarefas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Escalonamento Estático</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Escalonamento Dinâmico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Modelo LogP</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Escalonamento Heterogêneos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Grids Computacionais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8795680989708219" NOME-COMPLETO="Eugene Francis Vinod Rebello"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="175758"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0306766365983082" NOME-COMPLETO="Maria Cristina Silva Boeres"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="75936"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8842194591253311" NOME-COMPLETO="Aline de Paula Nascimento"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="455698"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7688185162095376" NOME-COMPLETO="Henrique de Medeiros Kloh"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2066532"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2856098586980132" NOME-COMPLETO="Matheus Bousquet Bandini"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2066077"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7812211160354490" NOME-COMPLETO="Rafael Burlamaqui Amaral"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="621053"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2663624754289176"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Grids têm o potencial de se tornarem plataformas a serem utilizadas pela comunidade de computação paralela para executar aplicações de grande importância. Entretanto, a exploração eficiente e eficaz desse tipo de ambiente ainda é um grande desafio. Alem do mais, implementações atuais ainda não estão aproveitando o verdadeiro potencial das grades. É necessário que as técnicas de paralelização ofereçam meios para que aplicações possam utilizar recursos de forma eficiente e transparente."
+                         NOME-DA-LINHA-DE-PESQUISA="Aplicações de alto desempenho para Grades e Nuvens"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Aplicações Científicas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Aplicações MPI</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1566076687226024"
+                               NOME-COMPLETO="Aletéia Patrícia Favacho de Araújo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="299929"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8795680989708219" NOME-COMPLETO="Eugene Francis Vinod Rebello"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="175758"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0306766365983082" NOME-COMPLETO="Maria Cristina Silva Boeres"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="75936"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1836363748488436" NOME-COMPLETO="Alexandre da Costa Sena"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="454458"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8842194591253311" NOME-COMPLETO="Aline de Paula Nascimento"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="455698"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8242956470725960"
+                               NOME-COMPLETO="Fernanda Gonçalves de Oliveira Passos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2259706"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0189927956209836"
+                             NOME-COMPLETO="Fabricio Jorge Barboza de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3059584"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6170804080290890" NOME-COMPLETO="Carlos Henrique Zilves Nicodemus"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2501159"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2368505372129182" NOME-COMPLETO="José Luis Valencia Gutierrez"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5963742"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7688185162095376" NOME-COMPLETO="Henrique de Medeiros Kloh"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2066532"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2856098586980132" NOME-COMPLETO="Matheus Bousquet Bandini"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2066077"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7812211160354490" NOME-COMPLETO="Rafael Burlamaqui Amaral"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="621053"
+                             SEQUENCIA-ESTUDANTE="6"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303022" CODIGO-ESPECIALIDADE="10303022"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Software"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="58"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8433199572600197"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Construção e operação de um Grid Computacional de produção em colaboração com outras centros de pesquisa brasileiros (comecou com GridRio conectando inicialmente PUC-RJ, LNCC-RJ e UFF). Grid Sinergia é disponibilizado para pesquisadores de outras instituições que necessitem de tal ambiente para projetos de pesquisa em Grid. "
+                         NOME-DA-LINHA-DE-PESQUISA="A Grade Computacional Grid Sinergia"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Grid Computacional</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Globus Toolkit</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Infra-estrutura de grades</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8795680989708219" NOME-COMPLETO="Eugene Francis Vinod Rebello"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="175758"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6170804080290890" NOME-COMPLETO="Carlos Henrique Zilves Nicodemus"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2501159"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304010" CODIGO-ESPECIALIDADE="10304010"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Hardware"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="63"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.63"
+                                SUBSETOR="Atividades de prestação de serviços de informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0567857858573510"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha propõe investigar estratégias de desenvolvimento voltadas para aplicações científicas de alto desempenho, atualmente conhecidas como e-Science, permitindo que tais aplicações executem de forma eficiente em ambientes grades. Serão utilizadas metodologias como Autonomic Computing e um sistema de gerenciamento de aplicações para o desenvolvimento das aplicações system-aware de e-Science que irão tirar proveito dos ambientes grades."
+                         NOME-DA-LINHA-DE-PESQUISA="Computação Autônoma"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Application Management System</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">EasyGrid</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Smart G-Apps</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Autonomic Computing</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8795680989708219" NOME-COMPLETO="Eugene Francis Vinod Rebello"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="175758"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0306766365983082" NOME-COMPLETO="Maria Cristina Silva Boeres"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="75936"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1836363748488436" NOME-COMPLETO="Alexandre da Costa Sena"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="454458"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8842194591253311" NOME-COMPLETO="Aline de Paula Nascimento"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="455698"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8242956470725960"
+                               NOME-COMPLETO="Fernanda Gonçalves de Oliveira Passos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2259706"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2856098586980132" NOME-COMPLETO="Matheus Bousquet Bandini"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2066077"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7812211160354490" NOME-COMPLETO="Rafael Burlamaqui Amaral"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="621053"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303022" CODIGO-ESPECIALIDADE="10303022"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Software"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="58"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.63"
+                                SUBSETOR="Atividades de prestação de serviços de informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2223204618008103"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Confiança é uma característica fundamental para a operação e desenvolvimento sustentável de grades computacionais. Atualmente o padrão empregado se baseia na Infra-estrutura de Chaves Públicas (ICP). ICPs destinam-se exatamente esta papel, mas por ser uma organização razoavelmente complexa, nao pode prescindir de regras de funcionamento, a que chamamos coletivamente de políticas de certificação, cuja definição tem grande impacto na usabilidade, custos e credibilidade da ICP."
+                         NOME-DA-LINHA-DE-PESQUISA="Certificação Digital"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Autenticação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Certificados X.509</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Infra-estrutura de Chaves Publicas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Autoridade Certificadora</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8795680989708219" NOME-COMPLETO="Eugene Francis Vinod Rebello"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="175758"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303049" CODIGO-ESPECIALIDADE="10303049"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas de Informação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="60"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304010" CODIGO-ESPECIALIDADE="10304010"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Hardware"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="63"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="O.84.1"
+                                SUBSETOR="Administração pública, defesa e seguridade social"
+                                SETOR="Administração pública, defesa e seguridade social"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8907053404319261"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Como um serviço para comunidade de grades em Brasil e América Latina respectivamente, o UFF BrGrid CA e o UFF LACGrid CA emitem certificados digitais para pesquisadores em grades. Sendo acreditado por IGTF seus certificados são confiados pelas principais grades computacionais do mundo. Como todos os aspectos de segurança, as políticas e a operação deste serviço sempre precisam ser melhorados, pesquisando e testando novos modos de operação para manter a satisfação e confiança de nossos clientes."
+                         NOME-DA-LINHA-DE-PESQUISA="Segurança"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Resposta a Incidentes</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Infraestruturas de Chaves Públicas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Gestão de Identidade</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8795680989708219" NOME-COMPLETO="Eugene Francis Vinod Rebello"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="175758"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303049" CODIGO-ESPECIALIDADE="10303049"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas de Informação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="60"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0005158894257941"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Novos ambientes ou frameworks precisam ser criados para permitir com que projetistas de aplicações tirem vantagem de forma mais fácil das capacidades de ambientes grades."
+                         NOME-DA-LINHA-DE-PESQUISA="Grid Portals"
+                         SEQUENCIA-LINHA-DE-PESQUISA="8">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Portlets</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Interface Web</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8795680989708219" NOME-COMPLETO="Eugene Francis Vinod Rebello"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="175758"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0189927956209836"
+                             NOME-COMPLETO="Fabricio Jorge Barboza de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3059584"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6170804080290890" NOME-COMPLETO="Carlos Henrique Zilves Nicodemus"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2501159"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304037" CODIGO-ESPECIALIDADE="10304037"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Software Básico"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="65"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8277388549582369"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="As falhas de rede e nós em ambientes grades computacionais são mais comuns do que em ambientes locais. Pois, mais facilmente, uma conexão de rede entre dois sites distantes pode ser perdida ou fica congestionada, um computador de um site remoto pode ser desligado ou o proprietário do nó decidir bloquear qualquer execução solicitada por usuários externos ao seu domínio. Assim, é fundamental fornecer mecanismos de tolerância a falhas para tal sistema."
+                         NOME-DA-LINHA-DE-PESQUISA="Tolerância a Falhas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="9">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Computação em Grades</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">MPI</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8795680989708219" NOME-COMPLETO="Eugene Francis Vinod Rebello"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="175758"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0306766365983082" NOME-COMPLETO="Maria Cristina Silva Boeres"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="75936"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7134879001934738"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Pesquisa na área de computação em clusters, em grades e em nuvens"
+                         NOME-DA-LINHA-DE-PESQUISA="Computação Distribuída "
+                         SEQUENCIA-LINHA-DE-PESQUISA="10">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Computação em Grades</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Computação em nuvens</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1566076687226024"
+                               NOME-COMPLETO="Aletéia Patrícia Favacho de Araújo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="299929"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8795680989708219" NOME-COMPLETO="Eugene Francis Vinod Rebello"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="175758"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0306766365983082" NOME-COMPLETO="Maria Cristina Silva Boeres"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="75936"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1836363748488436" NOME-COMPLETO="Alexandre da Costa Sena"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="454458"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8842194591253311" NOME-COMPLETO="Aline de Paula Nascimento"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="455698"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8242956470725960"
+                               NOME-COMPLETO="Fernanda Gonçalves de Oliveira Passos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2259706"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0189927956209836"
+                             NOME-COMPLETO="Fabricio Jorge Barboza de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3059584"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6170804080290890" NOME-COMPLETO="Carlos Henrique Zilves Nicodemus"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2501159"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7688185162095376" NOME-COMPLETO="Henrique de Medeiros Kloh"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2066532"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304045" CODIGO-ESPECIALIDADE="10304045"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Teleinformática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="66"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.9" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2626372255154231"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="A computação em nuvem refere-se à idéia de utilizar aplicações via Internet coma mesma facilidade de tê-las instalado em computadores pessoais. Essas aplicações podem ser utilizadas de qualquer lugar independente da plataforma."
+                         NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvem"
+                         SEQUENCIA-LINHA-DE-PESQUISA="11">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Virtualização</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8795680989708219" NOME-COMPLETO="Eugene Francis Vinod Rebello"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="175758"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0306766365983082" NOME-COMPLETO="Maria Cristina Silva Boeres"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="75936"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8842194591253311" NOME-COMPLETO="Aline de Paula Nascimento"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="455698"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8242956470725960"
+                               NOME-COMPLETO="Fernanda Gonçalves de Oliveira Passos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2259706"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0189927956209836"
+                             NOME-COMPLETO="Fabricio Jorge Barboza de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3059584"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6170804080290890" NOME-COMPLETO="Carlos Henrique Zilves Nicodemus"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2501159"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2368505372129182" NOME-COMPLETO="José Luis Valencia Gutierrez"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5963742"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0930136229386020" NOME-COMPLETO="Bruno Braga Guedes Cardoso"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5448468"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9938334743544499" NOME-COMPLETO="Leonardo Fernandes Lopes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5511765"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8397083900828584" NOME-COMPLETO="Max Fratane de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6877473"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6773187805760252" NOME-COMPLETO="Elihofni Guirra Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6877593"
+                             SEQUENCIA-ESTUDANTE="7"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304037" CODIGO-ESPECIALIDADE="10304037"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Software Básico"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="65"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4556294727715589"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo, desenvolvimento e implantação de sistemas de localização interna (indoor GPS) com fornecimento de informação geo-relevante."
+                         NOME-DA-LINHA-DE-PESQUISA="Redes de Sensores - Internet das Coisas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="12">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Localização interna</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8795680989708219" NOME-COMPLETO="Eugene Francis Vinod Rebello"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="175758"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0930136229386020" NOME-COMPLETO="Bruno Braga Guedes Cardoso"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5448468"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9938334743544499" NOME-COMPLETO="Leonardo Fernandes Lopes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5511765"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8397083900828584" NOME-COMPLETO="Max Fratane de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6877473"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6773187805760252" NOME-COMPLETO="Elihofni Guirra Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6877593"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304037" CODIGO-ESPECIALIDADE="10304037"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Software Básico"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="65"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="G.46.5"
+                                SUBSETOR="Comércio por atacado, exceto veículos automotores e motocicletas"
+                                SETOR="Comércio; reparação de veículos automotores e motocicletas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="G.47.5" SUBSETOR="Comércio varejista"
+                                SETOR="Comércio; reparação de veículos automotores e motocicletas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="0306317594629977"
+               RAZAO-SOCIAL-DA-EMPRESA="Rede Nacional de Ensino e Pesquisa"
+               NATUREZA-JURIDICA="Associação Privada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="03508097000136"
+               LOCALIDADE="Rio de Janeiro"
+               CIDADE="Rio de Janeiro"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="RNP"
+               NOME-DA-EMPRESA="Rede Nacional de Ensino e Pesquisa"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="18">Atividades de consultoria técnica não englobadas em qualquer das categorias anteriores</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="14">Transferência de insumos materiais para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="15">Transferência de insumos materiais para as atividades do parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="4469715915347528"
+               RAZAO-SOCIAL-DA-EMPRESA="Comando da Marinha"
+               NATUREZA-JURIDICA="Órgão Público do Poder Executivo Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="00394502043110"
+               LOCALIDADE="Rio de Janeiro"
+               CIDADE="Rio de Janeiro"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="CASNAV"
+               NOME-DA-EMPRESA="Centro de Análises de Sistemas Navais"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="O.84.1"
+                                          SUBSETOR="Administração do estado e da política econômica e social"
+                                          SETOR="Administração pública, defesa e seguridade social"
+                                          GRANDE-SETOR="Administração pública, defesa e seguridade social"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="O.84.2"
+                                          SUBSETOR="Serviços coletivos prestados pela administração pública"
+                                          SETOR="Administração pública, defesa e seguridade social"
+                                          GRANDE-SETOR="Administração pública, defesa e seguridade social"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="1"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="15">Desenvolvimento de software para o parceiro pelo grupo</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="7194173920943324"
+               RAZAO-SOCIAL-DA-EMPRESA="Dell Computadores do Brasil Ltda"
+               NATUREZA-JURIDICA="Sociedade Empresária Limitada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="72381189000110"
+               LOCALIDADE="Eldorado do Sul"
+               CIDADE="Eldorado do Sul"
+               UF="RS"
+               SIGLA-DA-EMPRESA="DELL"
+               NOME-DA-EMPRESA="Dell Computadores do Brasil"
+               SEQUENCIA-EMPRESA="2">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                          SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                          SETOR="Atividades dos serviços de tecnologia da informação"
+                                          GRANDE-SETOR="Informação e comunicação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="19">Fornecimento, pelo parceiro, de insumos materiais para as atividades de pesquisa do grupo sem vinculação a um projeto específico de interesse mútuo</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="14">Transferência de insumos materiais para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="9351694076396071"
+               RAZAO-SOCIAL-DA-EMPRESA="Westerngeco Serviços de Sísmica Ltda"
+               NATUREZA-JURIDICA="Sociedade Empresária Limitada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="04612284000128"
+               LOCALIDADE="Rio de Janeiro"
+               CIDADE="Rio de Janeiro"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="WESTERNGECO"
+               NOME-DA-EMPRESA="Westerngeco Serviços de Sísmica"
+               SEQUENCIA-EMPRESA="3">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.09.1"
+                                          SUBSETOR="Atividades de apoio à extração de petróleo e gás natural"
+                                          SETOR="Atividades de apoio à extração de minerais"
+                                          GRANDE-SETOR="Indústrias extrativas"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="G.46.69-9/99"
+                                          SUBSETOR="Comércio atacadista de máquinas, aparelhos e equipamentos, exceto de tecnologias de informação e comunicação"
+                                          SETOR="Comércio por atacado, exceto veículos automotores e motocicletas"
+                                          GRANDE-SETOR="Comércio; reparação de veículos automotores e motocicletas"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="1"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.71.19-7/02"
+                                          SUBSETOR="Serviços de arquitetura e engenharia e atividades técnicas relacionadas"
+                                          SETOR="Serviços de arquitetura e engenharia; testes e análises técnicas"
+                                          GRANDE-SETOR="Atividades profissionais, científicas e técnicas"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="2"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="19">Fornecimento, pelo parceiro, de insumos materiais para as atividades de pesquisa do grupo sem vinculação a um projeto específico de interesse mútuo</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="14">Transferência de insumos materiais para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS>
+      <EQUIPAMENTO DISPONIBILIZADO-OUTROS-PESQUISADORES="N" ESTADO="Atualizado"
+                   SITUACAO="Em operação"
+                   CUSTO-AQUISICAO="160331"
+                   MOEDA-AQUISICAO="REAL"
+                   ANO-AQUISICAO-EQUIPAMENTO-UNITARIO="2013"
+                   ESPECIFICACOES="40kW"
+                   MODELO="Symmetra Power Array PX"
+                   MARCA="APC"
+                   NOME="No-Break"
+                   CLASSIFICACAO="Equipamentos de Informática"
+                   TIPO-DE-EQUIPAMENTO="Equipamento unitário"
+                   DESENVOLVIMENTO-PROPRIO="N"
+                   SEQUENCIA-EQUIPAMENTO="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">CNPq</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="1">Fundação estadual de amparo à pesquisa</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </EQUIPAMENTO>
+      <EQUIPAMENTO DISPONIBILIZADO-OUTROS-PESQUISADORES="S" ESTADO="Atualizado"
+                   SITUACAO="Em operação"
+                   CUSTO-AQUISICAO="400000"
+                   MOEDA-AQUISICAO="REAL"
+                   DATA-FIM-AQUISICAO-EQUIPAMENTO-SISTEMA="12022014"
+                   DATA-INICIO-AQUISICAO-EQUIPAMENTO-SISTEMA="29042010"
+                   ESPECIFICACOES=""
+                   MODELO=""
+                   MARCA="SGI"
+                   NOME="Cluster Grael"
+                   CLASSIFICACAO="Equipamentos de Informática"
+                   TIPO-DE-EQUIPAMENTO="Sistema"
+                   DESENVOLVIMENTO-PROPRIO="N"
+                   SEQUENCIA-EQUIPAMENTO="1">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">CNPq</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="1">Petrobras</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </EQUIPAMENTO>
+   </EQUIPAMENTOS>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="8242956470725960"
+               NOME-DO-EGRESSO="Fernanda Gonçalves de Oliveira Passos"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="8242956470725960"
+               NOME-DO-EGRESSO="Fernanda Gonçalves de Oliveira Passos"/>
+      <EGRESSO DATA-SAIDA="05122014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="8242956470725960"
+               NOME-DO-EGRESSO="Fernanda Gonçalves de Oliveira Passos"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

@@ -1,0 +1,2787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="7628450752249193"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="185155"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="18102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="4867050887495210" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE="Escola Politécnica de Pernambuco"
+                           NOME-DO-ORGAO="Escola Politécnica de Pernambuco"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="PE"
+                           SIGLA-DA-INSTITUICAO="UPE"
+                           NOME-DA-INSTITUICAO="Universidade de Pernambuco"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2002"
+                           NOME-DO-GRUPO="Reconhecimento de Padrões">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="2543299534493653" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Byron Leite Dantas Bezerra"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="4942609302112746" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Bruno José Torres Fernandes"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="2611606" DDDFAX="81"
+                                       LONGITUDE="-34.90375370000004"
+                                       LATITUDE="-8.057898699999999"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Recife"
+                                       NUMERO="455"
+                                       COMPLEMENTO="Bloco C - 2 Andar"
+                                       LOGRADOURO="Rua Benfica"
+                                       HOME-PAGE="http://rppdi.ecomp.poli.br/"
+                                       E-MAIL="byronleite@ecomp.poli.br"
+                                       FAX="31847542"
+                                       RAMAL=""
+                                       TELEFONE="31847542"
+                                       DDD="81"
+                                       CEP="50720001"
+                                       CIDADE="Recife"
+                                       UF="PE"
+                                       BAIRRO="Madalena"/>
+      <REPERCUSSOES>O presente grupo visa ao estudo e desenvolvimento de técnicas e algoritmos para reconhecimento de padrões, processamento de imagens, aprendizado de máquina e realidade virtual. As principais linhas de atuação são: Análise e Segmentação de Texturas, Redes Neurais, Processamento de Documentos, Processamento de Imagens Médicas, entre outras.</REPERCUSSOES>
+      <REDES-DE-PESQUISA>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="" URL-DA-REDE-DE-PESQUISA=""
+                           NOME-DA-REDE-DE-PESQUISA="PRONEX - FACEPE APQ-0880-1.03/14"/>
+      </REDES-DE-PESQUISA>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="Silva Jr, E. R.;Silva, E. R.;JR, ELIAS R. SILVA;SILVA JR., E. R.;Silva, Elias R."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5391560368786656"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Elias Rodrigues da Silva Júnior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mineração de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento digital de imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Padrões</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ZANCHETTIN, C.;ZANCHETTIN, C;Zanchettin, Cleber;C. Zanchettin"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1244195230407619"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Cleber Zanchettin">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Documentos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes Neurais Artificiais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Híbridos Inteligentes</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MACIEL, A. M. A.;Maciel, Alexandre;Maciel, Alexandre Magno Andrade;MACIEL, ALEXANDRE M. A.;M. A. MACIEL, ALEXANDRE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6152592335669549"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Alexandre Magno Andrade Maciel">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mineração de Dados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Voz"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informática na Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mineração de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Padrões</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FERNANDES, B. J. T.;FERNANDES, BRUNO J. T.;FERNANDES, BRUNO J.T.;FERNANDES, BRUNO JOSE TORRES;Fernandes, Bruno J. T.;Fernandes, Bruno"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4942609302112746"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Bruno José Torres Fernandes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Inteligentes</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BEZERRA, B. L. D.;Leite Dantas Bezerra, Byron;BEZERRA, BYRON LEITE DANTAS;BEZERRA, BYRON L. D.;BEZERRA, BYRON L.D.;BEZERRA, B.L.D.;Bezerra, D. Byron;D. BEZERRA, BYRON;DANTAS BEZERRA, BYRON"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2543299534493653"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Byron Leite Dantas Bezerra">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Realidade virtual e multimídia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Documentos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Inteligente</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="VALENÇA, M. J. S.;VALENCA, MEUSER" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9742028115892992"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Mêuser Jorge Silva Valença">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hidrologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mineração de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Previsão de Séries Temporais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes Neurais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MATTOS, P. S. G.;de Mattos Neto, Paulo S.G.;de M Neto, P.S.G.;de Mattos Neto, P.S.G.;de M. Neto, Paulo S. G.;De Neto, P.S.G.M.;Mattos Neto, P.S.G.;Neto, P.S.G.M.;DE MATTOS NETO, PAULO S. G.;MATTOS NETO, PAULO S. G. DE;NETO, PAULO S. G. DE MATTOS;Paulo S. G. de Mattos Neto"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4610098557429398"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Paulo Salgado Gomes de Mattos Neto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Evolutiva</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes Neurais Artificiais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Híbridos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teleinformática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANTOS, W. P.;dos SANTOS, W.P.;SANTOS, W.;SANTOS, Wellington"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6413917211782026"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Wellington Pinheiro dos Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Odontológica e Médico-Hospitalar</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Sinais Biológicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FERNANDES, S. M. M.;FERNANDES, SERGIO M. M."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4520293519781462"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Sérgio Murilo Maciel Fernandes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Realidade virtual e multimídia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Avaliação de desempenho</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas embarcados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Tolerância a Falhas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANTOS, D. G. S.;Santos, D. G. S.;Santos, Diego G. S.;SANTOS, DIEGO"
+                   TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1433346297212674"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Diego George da Silva Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Gestos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Padrões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BARROS, P. V. A.;BARROS, PABLO V. A.;Barros, Pablo;Barros, P.;BARROS, PABLO V.A."
+                   TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7344629947673971"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Pablo Vinicius Alves de Barros">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Agentes Inteligentes</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ontologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Gestos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Voz</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>SISTEMAS DE INFORMAÇÃO</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Web Semântica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="OLIVEIRA, J. F. L.;Oiveira, João Fausto Lorenzato;OLIVEIRA, JOAO F.L.;Oliveira, João Fausto Lorenzato;OLIVEIRA, JOAO FAUSTO LORENZATO DE;OLIVEIRA, JOÃO F. L. DE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="11"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1868656138898441"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="João Fausto Lorenzato de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neurocomputação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="RODRIGUES, R. L.;RODRIGUES, RODRIGO LINS;ROGRIGUES, RODRIGO LINS;RODRIGUES, RODRIGO;L. RODRIGUES, RODRIGO;RODRIGUES, RODRIGO L."
+                   TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="12"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5512849006877767"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rodrigo Lins Rodrigues">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mineração de Dados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Probabilidade e Estatística</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FAGUNDES, R. A. A.;FAGUNDES, ROBERTA A.A."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="13"
+                   SEXO="F"
+                   NRO-ID-CNPQ="7613089587654124"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Roberta Andrade de Araujo Fagundes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SENA, Y. A. B. L.;AMARAL, Y.;AMARAL, YGOR"
+                   TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="14"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2441367990383979"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ygor Amaral Barbosa Leite de Sena">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mineração de Dados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="PELZER, A. C. C." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BYRON LEITE DANTAS BEZERRA"
+                 NRO-ID-CNPQ-ORIENTADOR="2543299534493653"
+                 SEQUENCIA-ESTUDANTE="2378845"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5478416722387725"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Augusto Cezar Costa Pelzer">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Documentos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos de Fabricação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica, Mecatrônica e Automação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MARTINS, G. L. L. S." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BYRON LEITE DANTAS BEZERRA"
+                 NRO-ID-CNPQ-ORIENTADOR="2543299534493653"
+                 SEQUENCIA-ESTUDANTE="5462478"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2392264485749416"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Giovanni Lucas Lima de Souza Martins">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NUNES, H. A. A." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="WELLINGTON PINHEIRO DOS SANTOS"
+                 NRO-ID-CNPQ-ORIENTADOR="6413917211782026"
+                 SEQUENCIA-ESTUDANTE="4250952"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8468685143238112"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Hélder Antero Amaral Nunes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PEREIRA, R. F. C." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BRUNO JOSE TORRES FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4942609302112746"
+                 SEQUENCIA-ESTUDANTE="6256385"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4474702744081312"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rodrigo Felippo Cordeiro Pereira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GALVÃO, Y. M." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BRUNO JOSE TORRES FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4942609302112746"
+                 SEQUENCIA-ESTUDANTE="6742984"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4736898676333852"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Yves Mendes Galvão">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FARIAS, I. S." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BRUNO JOSE TORRES FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4942609302112746"
+                 SEQUENCIA-ESTUDANTE="4526757"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4911853895500125"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Igor Sodré Farias">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teste de Software</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FREITAS, R. C." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="WELLINGTON PINHEIRO DOS SANTOS"
+                 NRO-ID-CNPQ-ORIENTADOR="6413917211782026"
+                 SEQUENCIA-ESTUDANTE="4599292"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6808586635964888"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rafaela Covello de Freitas">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NASCIMENTO, R. H. S. N." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BYRON LEITE DANTAS BEZERRA"
+                 NRO-ID-CNPQ-ORIENTADOR="2543299534493653"
+                 SEQUENCIA-ESTUDANTE="6651921"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4126329978588507"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rebecca Heloisa Santos Nogueira do Nascimento">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LIMA, B. R. B." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE MAGNO ANDRADE MACIEL"
+                 NRO-ID-CNPQ-ORIENTADOR="6152592335669549"
+                 SEQUENCIA-ESTUDANTE="6333595"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2371363576121265"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruno Rafael Barbosa Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Voz"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação a Distância</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mineração de Dados</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MELO, W. F. M." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE MAGNO ANDRADE MACIEL"
+                 NRO-ID-CNPQ-ORIENTADOR="6152592335669549"
+                 SEQUENCIA-ESTUDANTE="4667661"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5817595654957062"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Weverton Fernandes de Medeiros Melo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mineração de Dados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Analise de Sistemas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PEREIRA, I. V. S. T.;TELES, Ingryd"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE MAGNO ANDRADE MACIEL"
+                 NRO-ID-CNPQ-ORIENTADOR="6152592335669549"
+                 SEQUENCIA-ESTUDANTE="4730805"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7192547386318453"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ingryd Vanessa de Sá Teles Pereira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mineração de Dados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Castro, Dayvid;OLIVEIRA, Dayvid Welles de Castro;OLIVEIRA, D. W. C."
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BYRON LEITE DANTAS BEZERRA"
+                 NRO-ID-CNPQ-ORIENTADOR="2543299534493653"
+                 SEQUENCIA-ESTUDANTE="4440092"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6523875298019557"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Dayvid Welles de Castro Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Documentos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA FILHO, L. E. M." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BRUNO JOSE TORRES FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4942609302112746"
+                 SEQUENCIA-ESTUDANTE="4442292"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2308799619921617"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luiz Eduardo Moura de Oliveira Filho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, F. L." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="WELLINGTON PINHEIRO DOS SANTOS"
+                 NRO-ID-CNPQ-ORIENTADOR="6413917211782026"
+                 SEQUENCIA-ESTUDANTE="6277116"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8941731512869222"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Fabricio Lucimar da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Embarcados</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FERREIRA, J. R. B. C." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BRUNO JOSE TORRES FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4942609302112746"
+                 SEQUENCIA-ESTUDANTE="4948635"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9686284950373736"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Janderson Romário Borges da Cruz Ferreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica, Mecatrônica e Automação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PINHEIRO, C. L." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BRUNO JOSE TORRES FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4942609302112746"
+                 SEQUENCIA-ESTUDANTE="5113919"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2474858145061074"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Cauanne Linhares Pinheiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Digital de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sinais e Sistemas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FERRO, M. S. A." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BRUNO JOSE TORRES FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4942609302112746"
+                 SEQUENCIA-ESTUDANTE="4365369"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6832620858834645"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Milla Silva Alcoforado Ferro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GOUVEIA, F. M.;GOUVEIA, FELIPE MENDONCA"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BYRON LEITE DANTAS BEZERRA"
+                 NRO-ID-CNPQ-ORIENTADOR="2543299534493653"
+                 SEQUENCIA-ESTUDANTE="3396682"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0760264656166380"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Felipe Mendonca Gouveia">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ARAÚJO, R. N.;Araujo, Ruben" NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SERGIO MURILO MACIEL FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4520293519781462"
+                 SEQUENCIA-ESTUDANTE="4250864"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2615110766180349"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ruben Neri de Araújo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FREITAS, J. S.;FREITAS, JAMISSON SANTANA"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MEUSER JORGE SILVA VALENCA"
+                 NRO-ID-CNPQ-ORIENTADOR="9742028115892992"
+                 SEQUENCIA-ESTUDANTE="3130699"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8729972531446692"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Jamisson Santana de Freitas">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Inteligente</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gestão de Projetos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Digital de Imagens</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FERREIRA, G. V." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BYRON LEITE DANTAS BEZERRA"
+                 NRO-ID-CNPQ-ORIENTADOR="2543299534493653"
+                 SEQUENCIA-ESTUDANTE="4136982"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4888290411077526"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gearlles Viana Ferreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Visão Computacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BISNETO, J. M. M.;BISNETO, JUVENAL M. M."
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BYRON LEITE DANTAS BEZERRA"
+                 NRO-ID-CNPQ-ORIENTADOR="2543299534493653"
+                 SEQUENCIA-ESTUDANTE="4129758"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4068997637518492"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Juvenal Moreira Maia Bisneto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NEVES, R. F. P.;NEVES, RENATA F. P.;NEVES, RENATA F.P.;NEVES, RENATA FREIRE DE PAIVA;NEVES, R.F.P.;Neves, Renata F. P."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLEBER ZANCHETTIN"
+                 NRO-ID-CNPQ-ORIENTADOR="1244195230407619"
+                 SEQUENCIA-ESTUDANTE="439769"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9029559122700209"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Renata Freire de Paiva Neves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Documentos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligencia Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="AGUIAR, B. C. G." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MEUSER JORGE SILVA VALENCA"
+                 NRO-ID-CNPQ-ORIENTADOR="9742028115892992"
+                 SEQUENCIA-ESTUDANTE="3159849"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1253524216998168"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruna Cavalcanti Galle de Aguiar">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógica de Primeira Ordem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes Neurais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reservoir Computing</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOARES DA SILVA JÚNIOR, Airton" NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BYRON LEITE DANTAS BEZERRA"
+                 NRO-ID-CNPQ-ORIENTADOR="2543299534493653"
+                 SEQUENCIA-ESTUDANTE="5113782"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0345004193388709"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Airton Soares da Silva Júnior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Documentos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MENEZES, B. A. M.;DE MELO MENEZES, BRENO AUGUSTO"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MEUSER JORGE SILVA VALENCA"
+                 NRO-ID-CNPQ-ORIENTADOR="9742028115892992"
+                 SEQUENCIA-ESTUDANTE="3212298"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8104948175664041"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Breno Augusto de Melo Menezes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estatística</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes Neurais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ALVES, H. D.;ALVES, HAVANA" NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MEUSER JORGE SILVA VALENCA"
+                 NRO-ID-CNPQ-ORIENTADOR="9742028115892992"
+                 SEQUENCIA-ESTUDANTE="2923030"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1553497037631903"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Havana Diogo Alves Andrade">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação Profissional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NASCIMENTO NETO, J. C." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BRUNO JOSE TORRES FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4942609302112746"
+                 SEQUENCIA-ESTUDANTE="4624566"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0166823418632343"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Jonas Cordeiro do Nascimento Neto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, A. D. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BYRON LEITE DANTAS BEZERRA"
+                 NRO-ID-CNPQ-ORIENTADOR="2543299534493653"
+                 SEQUENCIA-ESTUDANTE="5114293"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0633393587316667"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alexandre Diego Santos Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Documentos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Sinais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COUTINHO, L. D.;DANTAS, LARA" NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MEUSER JORGE SILVA VALENCA"
+                 NRO-ID-CNPQ-ORIENTADOR="9742028115892992"
+                 SEQUENCIA-ESTUDANTE="3158675"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4237374613641135"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lara Dantas Coutinho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógica de Primeira Ordem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Previsão de Séries Temporais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes Neurais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reservoir Computing</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ANDRADE, H. J. A." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BRUNO JOSE TORRES FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4942609302112746"
+                 SEQUENCIA-ESTUDANTE="4082873"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7551850219348909"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Henrique José Amorim de Andrade">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Jogos Digitais e Interação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS, H. L. M." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SERGIO MURILO MACIEL FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4520293519781462"
+                 SEQUENCIA-ESTUDANTE="4049345"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6980001769796752"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Hugo Leonardo Marcolino dos Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes Neurais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LEITE, R. F." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BYRON LEITE DANTAS BEZERRA"
+                 NRO-ID-CNPQ-ORIENTADOR="2543299534493653"
+                 SEQUENCIA-ESTUDANTE="3846831"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1124807501144211"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Renan de Freitas Leite">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FUJISAWA, I. Y." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BYRON LEITE DANTAS BEZERRA"
+                 NRO-ID-CNPQ-ORIENTADOR="2543299534493653"
+                 SEQUENCIA-ESTUDANTE="5473313"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7977405463012584"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Italo Yoshito Fujisawa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Documentos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>.</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CAVALCANTI NETO, R." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BYRON LEITE DANTAS BEZERRA"
+                 NRO-ID-CNPQ-ORIENTADOR="2543299534493653"
+                 SEQUENCIA-ESTUDANTE="4326219"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2739835398264135"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rodrigo Cavalcanti Neto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Eletromecânica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LEAL, L. R. S." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BYRON LEITE DANTAS BEZERRA"
+                 NRO-ID-CNPQ-ORIENTADOR="2543299534493653"
+                 SEQUENCIA-ESTUDANTE="3642309"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0146197089857487"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luciano Roberto da Silva Leal">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Documentos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOARES, A. M.;SOARES, ALESSANDRA M.;Soares, Alessandra M."
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BRUNO JOSE TORRES FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4942609302112746"
+                 SEQUENCIA-ESTUDANTE="3644472"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9102454142373445"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alessandra Maranhão Soares">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Biomédica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Digital de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Padrões</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SIQUEIRA, H. C.;SIQUEIRA, HENRIQUE C.;SIQUEIRA, HENRIQUE COSTA;Siqueira, Henrique;Siqueira, Henrique C."
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BRUNO JOSE TORRES FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4942609302112746"
+                 SEQUENCIA-ESTUDANTE="3949527"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0860831698613913"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Henrique da Costa Siqueira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Inteligente</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Deep Learning</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Padrões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Visão Computacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GOMES, R. S. F.;GOMES, ROSTAN S.F."
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BRUNO JOSE TORRES FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4942609302112746"
+                 SEQUENCIA-ESTUDANTE="2924191"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0169778239962650"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rostan da Silva Ferreira Gomes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ALMEIDA, T. M." NIVEL-DE-TREINAMENTO="Especialização"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BRUNO JOSE TORRES FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4942609302112746"
+                 SEQUENCIA-ESTUDANTE="4369717"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1164705998514952"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Thaís Melo de Almeida">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, D. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SERGIO MURILO MACIEL FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4520293519781462"
+                 SEQUENCIA-ESTUDANTE="5273510"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2364736814373380"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Debora Soares da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, R. S. A." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BRUNO JOSE TORRES FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4942609302112746"
+                 SEQUENCIA-ESTUDANTE="5457274"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0702095440787902"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rebeca Sarai Aguiar da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GOMES, A. R." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SERGIO MURILO MACIEL FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4520293519781462"
+                 SEQUENCIA-ESTUDANTE="5558570"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5364184936984662"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="André Ricardo Gomes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, V. L. B. A." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="WELLINGTON PINHEIRO DOS SANTOS"
+                 NRO-ID-CNPQ-ORIENTADOR="6413917211782026"
+                 SEQUENCIA-ESTUDANTE="2902750"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7467890256339487"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Victor Luiz Bezerra Araujo da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformatica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Biomédica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>ENGENHARIA CLÍNICA</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Biomédica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ARAÚJO, R. L." NIVEL-DE-TREINAMENTO="Especialização"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="WELLINGTON PINHEIRO DOS SANTOS"
+                 NRO-ID-CNPQ-ORIENTADOR="6413917211782026"
+                 SEQUENCIA-ESTUDANTE="4549545"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3678235802196057"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rogério Leite Araújo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Realidade virtual e multimídia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Advergames</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>EMPREENDEDORISMO</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Jogos Digitais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ludicidade</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Psicologia Educacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Tecnologia Educacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, A. C. L." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BRUNO JOSE TORRES FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4942609302112746"
+                 SEQUENCIA-ESTUDANTE="5116368"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5137181653294553"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Allyson da Costa Lisboa da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LIMA, G. A." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BYRON LEITE DANTAS BEZERRA"
+                 NRO-ID-CNPQ-ORIENTADOR="2543299534493653"
+                 SEQUENCIA-ESTUDANTE="6145539"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5002585522825063"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gabriel Alves de Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Documentos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOARES, F. B. M." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE MAGNO ANDRADE MACIEL"
+                 NRO-ID-CNPQ-ORIENTADOR="6152592335669549"
+                 SEQUENCIA-ESTUDANTE="4961843"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0856419575393706"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Fabiana de Barros Monteiro Soares">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mineração de Dados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino da Língua Inglesa</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PEREIRA, D. C." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BRUNO JOSE TORRES FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4942609302112746"
+                 SEQUENCIA-ESTUDANTE="3672536"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4355817145143319"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Danilo da Costa Pereira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="HOLANDA, L. G." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="PAULO SALGADO GOMES DE MATTOS NETO"
+                 NRO-ID-CNPQ-ORIENTADOR="4610098557429398"
+                 SEQUENCIA-ESTUDANTE="2440014"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1900811502850288"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Leonardo Guimarães de Holanda">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Elétricos, Magnéticos e Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Eletrônica Industrial, Sistemas e Controles Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>ENGENHARIA DA COMPUTAÇÃO</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>ENGENHARIA DE SOFTWARE</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GONÇALVES, Angelo F. D." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE MAGNO ANDRADE MACIEL"
+                 NRO-ID-CNPQ-ORIENTADOR="6152592335669549"
+                 SEQUENCIA-ESTUDANTE="4238863"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0408922003314572"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Angelo Francescoly Dias Gonçalves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mineração de Dados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisador</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Professor de nível técnico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Testes de software</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ARRUDA, F. T." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE MAGNO ANDRADE MACIEL"
+                 NRO-ID-CNPQ-ORIENTADOR="6152592335669549"
+                 SEQUENCIA-ESTUDANTE="3469387"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4587489535051589"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Fabio Tavares Arruda">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mineração de Dados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino-Aprendizagem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mineração de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes Sociais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MACHADO, C. J. R." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE MAGNO ANDRADE MACIEL"
+                 NRO-ID-CNPQ-ORIENTADOR="6152592335669549"
+                 SEQUENCIA-ESTUDANTE="4731091"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7516077471078307"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Crystiano José Richard Machado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mineração de Dados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LIMA, H. R. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BRUNO JOSE TORRES FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4942609302112746"
+                 SEQUENCIA-ESTUDANTE="4933162"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2301014610035345"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Heitor Rodrigues de Sousa Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BARRETO, R. V. S." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BRUNO JOSE TORRES FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="4942609302112746"
+                 SEQUENCIA-ESTUDANTE="4628512"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3593380848862715"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Raul Vítor da Silva Barreto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS JÚNIOR, D. S. O." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="PAULO SALGADO GOMES DE MATTOS NETO"
+                 NRO-ID-CNPQ-ORIENTADOR="4610098557429398"
+                 SEQUENCIA-ESTUDANTE="4960409"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7862098012857553"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Domingos Sávio de Oliveira Santos Júnior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MELO, V. K. S. L." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BYRON LEITE DANTAS BEZERRA"
+                 NRO-ID-CNPQ-ORIENTADOR="2543299534493653"
+                 SEQUENCIA-ESTUDANTE="4728990"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9894457114292762"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Victor Kléber Santos Leite Melo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Documentos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MENDES, F. L." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BYRON LEITE DANTAS BEZERRA"
+                 NRO-ID-CNPQ-ORIENTADOR="2543299534493653"
+                 SEQUENCIA-ESTUDANTE="5949871"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1966092335043337"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Filipe Lopes Mendes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Documentos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FREIRE, M. L. P." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MEUSER JORGE SILVA VALENCA"
+                 NRO-ID-CNPQ-ORIENTADOR="9742028115892992"
+                 SEQUENCIA-ESTUDANTE="3598167"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4071727485567939"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marcelo Luiz Pereira Freire">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ROCHA, D. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BYRON LEITE DANTAS BEZERRA"
+                 NRO-ID-CNPQ-ORIENTADOR="2543299534493653"
+                 SEQUENCIA-ESTUDANTE="5955790"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3338994602614332"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Danilo Simplicio da Rocha">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Documentos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BEZERRA, S. G. T. A.;BEZERRA, SABRINA G. T. A."
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MEUSER JORGE SILVA VALENCA"
+                 NRO-ID-CNPQ-ORIENTADOR="9742028115892992"
+                 SEQUENCIA-ESTUDANTE="3510793"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2537083494072480"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Sabrina Guimarães Tavares de Andrade Bezerra">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes neurais artificiais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOARES, L. S. L.;SOARES, LARISSA S. L."
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MEUSER JORGE SILVA VALENCA"
+                 NRO-ID-CNPQ-ORIENTADOR="9742028115892992"
+                 SEQUENCIA-ESTUDANTE="3839877"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8510023654004154"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Larissa Santiago de Lima Soares">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3947516457375163"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Pesquisa e desenvolvimento de modelos a algoritmos em Mineração de Dados, com foco na Descoberta do Conhecimento e identificação de padrões em grandes coleções de dados."
+                         NOME-DA-LINHA-DE-PESQUISA="Mineração de Dados"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Mineração de dados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Descoberta do conhecimento</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6152592335669549" NOME-COMPLETO="Alexandre Magno Andrade Maciel"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="450763"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5512849006877767" NOME-COMPLETO="Rodrigo Lins Rodrigues"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2306468"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2441367990383979"
+                               NOME-COMPLETO="Ygor Amaral Barbosa Leite de Sena"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2793102"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5817595654957062"
+                             NOME-COMPLETO="Weverton Fernandes de Medeiros Melo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4667661"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7192547386318453"
+                             NOME-COMPLETO="Ingryd Vanessa de Sá Teles Pereira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4730805"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0856419575393706"
+                             NOME-COMPLETO="Fabiana de Barros Monteiro Soares"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4961843"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0408922003314572"
+                             NOME-COMPLETO="Angelo Francescoly Dias Gonçalves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4238863"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4587489535051589" NOME-COMPLETO="Fabio Tavares Arruda"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3469387"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7516077471078307" NOME-COMPLETO="Crystiano José Richard Machado"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4731091"
+                             SEQUENCIA-ESTUDANTE="6"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10300007" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="47"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.70"
+                                SUBSETOR="Atividades de sedes de empresas e de consultoria em gestão empresarial"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6600750341223915"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Analisar e desenvolver novos algoritmos para Processamento de Imagens, aplicados a processamento de documentos, segmentação de objetos em cena, representação de imagens, filtragem de ruídos e compressão."
+                         NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Filtragem</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Compressão</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Reconhecimento de Padrões</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Segmentação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Classificação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5391560368786656" NOME-COMPLETO="Elias Rodrigues da Silva Júnior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="281692"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1244195230407619" NOME-COMPLETO="Cleber Zanchettin"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="304090"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4942609302112746" NOME-COMPLETO="Bruno José Torres Fernandes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="723243"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2543299534493653" NOME-COMPLETO="Byron Leite Dantas Bezerra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="326746"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6413917211782026" NOME-COMPLETO="Wellington Pinheiro dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="183767"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7344629947673971" NOME-COMPLETO="Pablo Vinicius Alves de Barros"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2602310"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2392264485749416"
+                             NOME-COMPLETO="Giovanni Lucas Lima de Souza Martins"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5462478"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8468685143238112" NOME-COMPLETO="Hélder Antero Amaral Nunes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4250952"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6808586635964888" NOME-COMPLETO="Rafaela Covello de Freitas"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4599292"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4126329978588507"
+                             NOME-COMPLETO="Rebecca Heloisa Santos Nogueira do Nascimento"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6651921"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8941731512869222" NOME-COMPLETO="Fabricio Lucimar da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6277116"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2474858145061074" NOME-COMPLETO="Cauanne Linhares Pinheiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5113919"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6832620858834645" NOME-COMPLETO="Milla Silva Alcoforado Ferro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4365369"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0760264656166380" NOME-COMPLETO="Felipe Mendonca Gouveia"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3396682"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4888290411077526" NOME-COMPLETO="Gearlles Viana Ferreira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4136982"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4068997637518492" NOME-COMPLETO="Juvenal Moreira Maia Bisneto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4129758"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9029559122700209" NOME-COMPLETO="Renata Freire de Paiva Neves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="439769"
+                             SEQUENCIA-ESTUDANTE="11"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0345004193388709" NOME-COMPLETO="Airton Soares da Silva Júnior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5113782"
+                             SEQUENCIA-ESTUDANTE="12"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1553497037631903" NOME-COMPLETO="Havana Diogo Alves Andrade"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2923030"
+                             SEQUENCIA-ESTUDANTE="13"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0166823418632343"
+                             NOME-COMPLETO="Jonas Cordeiro do Nascimento Neto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4624566"
+                             SEQUENCIA-ESTUDANTE="14"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0633393587316667" NOME-COMPLETO="Alexandre Diego Santos Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5114293"
+                             SEQUENCIA-ESTUDANTE="15"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7551850219348909" NOME-COMPLETO="Henrique José Amorim de Andrade"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4082873"
+                             SEQUENCIA-ESTUDANTE="16"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6980001769796752"
+                             NOME-COMPLETO="Hugo Leonardo Marcolino dos Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4049345"
+                             SEQUENCIA-ESTUDANTE="17"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1124807501144211" NOME-COMPLETO="Renan de Freitas Leite"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3846831"
+                             SEQUENCIA-ESTUDANTE="18"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2739835398264135" NOME-COMPLETO="Rodrigo Cavalcanti Neto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4326219"
+                             SEQUENCIA-ESTUDANTE="19"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0146197089857487" NOME-COMPLETO="Luciano Roberto da Silva Leal"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3642309"
+                             SEQUENCIA-ESTUDANTE="20"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0860831698613913" NOME-COMPLETO="Henrique da Costa Siqueira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3949527"
+                             SEQUENCIA-ESTUDANTE="21"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1164705998514952" NOME-COMPLETO="Thaís Melo de Almeida"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4369717"
+                             SEQUENCIA-ESTUDANTE="22"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2364736814373380" NOME-COMPLETO="Debora Soares da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5273510"
+                             SEQUENCIA-ESTUDANTE="23"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0702095440787902" NOME-COMPLETO="Rebeca Sarai Aguiar da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5457274"
+                             SEQUENCIA-ESTUDANTE="24"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7467890256339487"
+                             NOME-COMPLETO="Victor Luiz Bezerra Araujo da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2902750"
+                             SEQUENCIA-ESTUDANTE="25"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3678235802196057" NOME-COMPLETO="Rogério Leite Araújo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4549545"
+                             SEQUENCIA-ESTUDANTE="26"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5137181653294553" NOME-COMPLETO="Allyson da Costa Lisboa da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5116368"
+                             SEQUENCIA-ESTUDANTE="27"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5002585522825063" NOME-COMPLETO="Gabriel Alves de Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6145539"
+                             SEQUENCIA-ESTUDANTE="28"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9894457114292762" NOME-COMPLETO="Victor Kléber Santos Leite Melo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4728990"
+                             SEQUENCIA-ESTUDANTE="29"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1966092335043337" NOME-COMPLETO="Filipe Lopes Mendes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5949871"
+                             SEQUENCIA-ESTUDANTE="30"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3338994602614332" NOME-COMPLETO="Danilo Simplicio da Rocha"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5955790"
+                             SEQUENCIA-ESTUDANTE="31"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303057" CODIGO-ESPECIALIDADE="10303057"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento Gráfico (Graphics)"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="61"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8829823677597108"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo e proposição de técnicas para segmentação de texturas, segmentação de objetos em vídeo, segmentação de pele, detecção de humanos, reconhecimento de gestos e face."
+                         NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Texturas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Segmentação de objetos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">reconhecimento de face</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Reconhecimento de gestos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5391560368786656" NOME-COMPLETO="Elias Rodrigues da Silva Júnior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="281692"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1244195230407619" NOME-COMPLETO="Cleber Zanchettin"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="304090"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4942609302112746" NOME-COMPLETO="Bruno José Torres Fernandes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="723243"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2543299534493653" NOME-COMPLETO="Byron Leite Dantas Bezerra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="326746"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6413917211782026" NOME-COMPLETO="Wellington Pinheiro dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="183767"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1433346297212674" NOME-COMPLETO="Diego George da Silva Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2839228"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7344629947673971" NOME-COMPLETO="Pablo Vinicius Alves de Barros"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2602310"
+                               SEQUENCIA-PESQUISADOR="7"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4888290411077526" NOME-COMPLETO="Gearlles Viana Ferreira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4136982"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4068997637518492" NOME-COMPLETO="Juvenal Moreira Maia Bisneto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4129758"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1553497037631903" NOME-COMPLETO="Havana Diogo Alves Andrade"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2923030"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7551850219348909" NOME-COMPLETO="Henrique José Amorim de Andrade"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4082873"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6980001769796752"
+                             NOME-COMPLETO="Hugo Leonardo Marcolino dos Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4049345"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1124807501144211" NOME-COMPLETO="Renan de Freitas Leite"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3846831"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2739835398264135" NOME-COMPLETO="Rodrigo Cavalcanti Neto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4326219"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0860831698613913" NOME-COMPLETO="Henrique da Costa Siqueira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3949527"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0169778239962650" NOME-COMPLETO="Rostan da Silva Ferreira Gomes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2924191"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5364184936984662" NOME-COMPLETO="André Ricardo Gomes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5558570"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4355817145143319" NOME-COMPLETO="Danilo da Costa Pereira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3672536"
+                             SEQUENCIA-ESTUDANTE="11"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2301014610035345" NOME-COMPLETO="Heitor Rodrigues de Sousa Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4933162"
+                             SEQUENCIA-ESTUDANTE="12"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3593380848862715" NOME-COMPLETO="Raul Vítor da Silva Barreto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4628512"
+                             SEQUENCIA-ESTUDANTE="13"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9894457114292762" NOME-COMPLETO="Victor Kléber Santos Leite Melo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4728990"
+                             SEQUENCIA-ESTUDANTE="14"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303057" CODIGO-ESPECIALIDADE="10303057"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento Gráfico (Graphics)"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="61"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas Inteligentes"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="62"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3522903700129843"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo e proposição de modelos/métodos de aprendizagem de máquina, como solução de problemas de reconhecimento de padrões diversos."
+                         NOME-DA-LINHA-DE-PESQUISA="Aprendizado de Máquina"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Redes Neurais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Aprendizado de Máquina</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1244195230407619" NOME-COMPLETO="Cleber Zanchettin"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="304090"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9742028115892992" NOME-COMPLETO="Mêuser Jorge Silva Valença"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="294664"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4610098557429398"
+                               NOME-COMPLETO="Paulo Salgado Gomes de Mattos Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="560683"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6413917211782026" NOME-COMPLETO="Wellington Pinheiro dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="183767"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7344629947673971" NOME-COMPLETO="Pablo Vinicius Alves de Barros"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2602310"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1868656138898441"
+                               NOME-COMPLETO="João Fausto Lorenzato de Oliveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2361559"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2615110766180349" NOME-COMPLETO="Ruben Neri de Araújo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4250864"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8729972531446692" NOME-COMPLETO="Jamisson Santana de Freitas"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3130699"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1253524216998168" NOME-COMPLETO="Bruna Cavalcanti Galle de Aguiar"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3159849"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8104948175664041" NOME-COMPLETO="Breno Augusto de Melo Menezes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3212298"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1553497037631903" NOME-COMPLETO="Havana Diogo Alves Andrade"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2923030"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4237374613641135" NOME-COMPLETO="Lara Dantas Coutinho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3158675"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7977405463012584" NOME-COMPLETO="Italo Yoshito Fujisawa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5473313"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0146197089857487" NOME-COMPLETO="Luciano Roberto da Silva Leal"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3642309"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9102454142373445" NOME-COMPLETO="Alessandra Maranhão Soares"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3644472"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4071727485567939" NOME-COMPLETO="Marcelo Luiz Pereira Freire"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3598167"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2537083494072480"
+                             NOME-COMPLETO="Sabrina Guimarães Tavares de Andrade Bezerra"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3510793"
+                             SEQUENCIA-ESTUDANTE="11"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8510023654004154" NOME-COMPLETO="Larissa Santiago de Lima Soares"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3839877"
+                             SEQUENCIA-ESTUDANTE="12"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10302026" CODIGO-ESPECIALIDADE="10302026"
+                                  CODIGO-SUB-AREA="10302000"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Modelos Analíticos e de Simulação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="55"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas Inteligentes"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="62"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7114180052024139"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver técnicas e algoritmos para processamento de documentos, digitalizados com scanner ou fotografados."
+                         NOME-DA-LINHA-DE-PESQUISA="Processamento de Documentos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Aprendizado de Máquina</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Processamento de Documentos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Processamento de Imagens</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Análise de Texturas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Reconhecimento de escrita</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1244195230407619" NOME-COMPLETO="Cleber Zanchettin"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="304090"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2543299534493653" NOME-COMPLETO="Byron Leite Dantas Bezerra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="326746"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5478416722387725" NOME-COMPLETO="Augusto Cezar Costa Pelzer"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2378845"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6523875298019557" NOME-COMPLETO="Dayvid Welles de Castro Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4440092"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9029559122700209" NOME-COMPLETO="Renata Freire de Paiva Neves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="439769"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0345004193388709" NOME-COMPLETO="Airton Soares da Silva Júnior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5113782"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0633393587316667" NOME-COMPLETO="Alexandre Diego Santos Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5114293"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7977405463012584" NOME-COMPLETO="Italo Yoshito Fujisawa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5473313"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0146197089857487" NOME-COMPLETO="Luciano Roberto da Silva Leal"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3642309"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5002585522825063" NOME-COMPLETO="Gabriel Alves de Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6145539"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9894457114292762" NOME-COMPLETO="Victor Kléber Santos Leite Melo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4728990"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1966092335043337" NOME-COMPLETO="Filipe Lopes Mendes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5949871"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3338994602614332" NOME-COMPLETO="Danilo Simplicio da Rocha"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5955790"
+                             SEQUENCIA-ESTUDANTE="11"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303057" CODIGO-ESPECIALIDADE="10303057"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento Gráfico (Graphics)"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="61"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas Inteligentes"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="62"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0102787066851223"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo e proposição de modelos para discriminação e classificação de objetos, previsão de séries e técnicas de agrupamento de padrões."
+                         NOME-DA-LINHA-DE-PESQUISA="Reconhecimento de Padrões"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Classificação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">aprendizado</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">predição</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Agrupamento</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5391560368786656" NOME-COMPLETO="Elias Rodrigues da Silva Júnior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="281692"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1244195230407619" NOME-COMPLETO="Cleber Zanchettin"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="304090"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6152592335669549" NOME-COMPLETO="Alexandre Magno Andrade Maciel"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="450763"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4942609302112746" NOME-COMPLETO="Bruno José Torres Fernandes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="723243"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2543299534493653" NOME-COMPLETO="Byron Leite Dantas Bezerra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="326746"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9742028115892992" NOME-COMPLETO="Mêuser Jorge Silva Valença"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="294664"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4610098557429398"
+                               NOME-COMPLETO="Paulo Salgado Gomes de Mattos Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="560683"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6413917211782026" NOME-COMPLETO="Wellington Pinheiro dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="183767"
+                               SEQUENCIA-PESQUISADOR="8"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1433346297212674" NOME-COMPLETO="Diego George da Silva Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2839228"
+                               SEQUENCIA-PESQUISADOR="9"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7344629947673971" NOME-COMPLETO="Pablo Vinicius Alves de Barros"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2602310"
+                               SEQUENCIA-PESQUISADOR="10"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1868656138898441"
+                               NOME-COMPLETO="João Fausto Lorenzato de Oliveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2361559"
+                               SEQUENCIA-PESQUISADOR="11"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5512849006877767" NOME-COMPLETO="Rodrigo Lins Rodrigues"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2306468"
+                               SEQUENCIA-PESQUISADOR="12"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7613089587654124"
+                               NOME-COMPLETO="Roberta Andrade de Araujo Fagundes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="717216"
+                               SEQUENCIA-PESQUISADOR="13"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5478416722387725" NOME-COMPLETO="Augusto Cezar Costa Pelzer"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2378845"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8468685143238112" NOME-COMPLETO="Hélder Antero Amaral Nunes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4250952"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4474702744081312" NOME-COMPLETO="Rodrigo Felippo Cordeiro Pereira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6256385"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4736898676333852" NOME-COMPLETO="Yves Mendes Galvão"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6742984"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4911853895500125" NOME-COMPLETO="Igor Sodré Farias"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4526757"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6808586635964888" NOME-COMPLETO="Rafaela Covello de Freitas"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4599292"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4126329978588507"
+                             NOME-COMPLETO="Rebecca Heloisa Santos Nogueira do Nascimento"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6651921"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6523875298019557" NOME-COMPLETO="Dayvid Welles de Castro Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4440092"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2308799619921617"
+                             NOME-COMPLETO="Luiz Eduardo Moura de Oliveira Filho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4442292"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8941731512869222" NOME-COMPLETO="Fabricio Lucimar da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6277116"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9686284950373736"
+                             NOME-COMPLETO="Janderson Romário Borges da Cruz Ferreira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4948635"
+                             SEQUENCIA-ESTUDANTE="11"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0760264656166380" NOME-COMPLETO="Felipe Mendonca Gouveia"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3396682"
+                             SEQUENCIA-ESTUDANTE="12"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2615110766180349" NOME-COMPLETO="Ruben Neri de Araújo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4250864"
+                             SEQUENCIA-ESTUDANTE="13"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9029559122700209" NOME-COMPLETO="Renata Freire de Paiva Neves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="439769"
+                             SEQUENCIA-ESTUDANTE="14"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1553497037631903" NOME-COMPLETO="Havana Diogo Alves Andrade"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2923030"
+                             SEQUENCIA-ESTUDANTE="15"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1124807501144211" NOME-COMPLETO="Renan de Freitas Leite"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3846831"
+                             SEQUENCIA-ESTUDANTE="16"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7977405463012584" NOME-COMPLETO="Italo Yoshito Fujisawa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5473313"
+                             SEQUENCIA-ESTUDANTE="17"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2739835398264135" NOME-COMPLETO="Rodrigo Cavalcanti Neto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4326219"
+                             SEQUENCIA-ESTUDANTE="18"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0146197089857487" NOME-COMPLETO="Luciano Roberto da Silva Leal"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3642309"
+                             SEQUENCIA-ESTUDANTE="19"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9102454142373445" NOME-COMPLETO="Alessandra Maranhão Soares"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3644472"
+                             SEQUENCIA-ESTUDANTE="20"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0860831698613913" NOME-COMPLETO="Henrique da Costa Siqueira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3949527"
+                             SEQUENCIA-ESTUDANTE="21"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0169778239962650" NOME-COMPLETO="Rostan da Silva Ferreira Gomes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2924191"
+                             SEQUENCIA-ESTUDANTE="22"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5364184936984662" NOME-COMPLETO="André Ricardo Gomes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5558570"
+                             SEQUENCIA-ESTUDANTE="23"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1900811502850288" NOME-COMPLETO="Leonardo Guimarães de Holanda"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2440014"
+                             SEQUENCIA-ESTUDANTE="24"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7862098012857553"
+                             NOME-COMPLETO="Domingos Sávio de Oliveira Santos Júnior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4960409"
+                             SEQUENCIA-ESTUDANTE="25"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9894457114292762" NOME-COMPLETO="Victor Kléber Santos Leite Melo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4728990"
+                             SEQUENCIA-ESTUDANTE="26"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1966092335043337" NOME-COMPLETO="Filipe Lopes Mendes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5949871"
+                             SEQUENCIA-ESTUDANTE="27"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4071727485567939" NOME-COMPLETO="Marcelo Luiz Pereira Freire"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3598167"
+                             SEQUENCIA-ESTUDANTE="28"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3338994602614332" NOME-COMPLETO="Danilo Simplicio da Rocha"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5955790"
+                             SEQUENCIA-ESTUDANTE="29"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2537083494072480"
+                             NOME-COMPLETO="Sabrina Guimarães Tavares de Andrade Bezerra"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3510793"
+                             SEQUENCIA-ESTUDANTE="30"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8510023654004154" NOME-COMPLETO="Larissa Santiago de Lima Soares"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3839877"
+                             SEQUENCIA-ESTUDANTE="31"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303057" CODIGO-ESPECIALIDADE="10303057"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento Gráfico (Graphics)"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="61"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas Inteligentes"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="62"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6808119499739738"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudar e aprofundar os conceitos do domínio de Realidade Virtual em conjunto com uma das outras linhas de pesquisa, permitindo o desenvolvimento de aplicações multi-disciplinares. Têm-se ainda como objetivo nesta linha o estudo de novos meios de interação homem-máquina."
+                         NOME-DA-LINHA-DE-PESQUISA="Realidade virtual e multimídia"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Realidade virtual</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2543299534493653" NOME-COMPLETO="Byron Leite Dantas Bezerra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="326746"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4520293519781462" NOME-COMPLETO="Sérgio Murilo Maciel Fernandes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="132514"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3678235802196057" NOME-COMPLETO="Rogério Leite Araújo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4549545"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304037" CODIGO-ESPECIALIDADE="10304037"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Software Básico"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="65"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3101183189397808"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Pesquisa e desenvolvimento de algoritmos, modelos e sistemas de reconhecimento de voz, reconhecimento de locutor e síntese de voz."
+                         NOME-DA-LINHA-DE-PESQUISA="Processamento de Voz"
+                         SEQUENCIA-LINHA-DE-PESQUISA="8">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Reconhecimento de voz</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Reconhecimento de locutor</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Síntese de voz</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6152592335669549" NOME-COMPLETO="Alexandre Magno Andrade Maciel"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="450763"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2371363576121265" NOME-COMPLETO="Bruno Rafael Barbosa Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6333595"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas Inteligentes"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="62"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="1180665235456163"
+               RAZAO-SOCIAL-DA-EMPRESA="Callere Soluções e Comercialização em Informática S/A"
+               NATUREZA-JURIDICA="Sociedade Anônima Fechada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="10603820000121"
+               LOCALIDADE="Olinda"
+               CIDADE="Olinda"
+               UF="PE"
+               SIGLA-DA-EMPRESA="CALLERE"
+               NOME-DA-EMPRESA="Callere Soluções e Comercialização em Informática"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="S.95.11-8/00"
+                                          SUBSETOR="Reparação e manutenção de equipamentos de informática e comunicação"
+                                          SETOR="Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos"
+                                          GRANDE-SETOR="Outras atividades de serviços"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.02-3/00"
+                                          SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                          SETOR="Atividades dos serviços de tecnologia da informação"
+                                          GRANDE-SETOR="Informação e comunicação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="1"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.09-1/00"
+                                          SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                          SETOR="Atividades dos serviços de tecnologia da informação"
+                                          GRANDE-SETOR="Informação e comunicação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="2"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="19">Fornecimento, pelo parceiro, de insumos materiais para as atividades de pesquisa do grupo sem vinculação a um projeto específico de interesse mútuo</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que não se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="14">Transferência de insumos materiais para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="18">Parceria com transfêrencia de recursos de qualquer espécie nos dois sentidos</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="1021384012046981"
+               RAZAO-SOCIAL-DA-EMPRESA="Vocal Lab Sistemas da Informação Ltda"
+               NATUREZA-JURIDICA="Sociedade Empresária Limitada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="10666181000143"
+               LOCALIDADE="Recife"
+               CIDADE="Recife"
+               UF="PE"
+               SIGLA-DA-EMPRESA="VOCAL LAB"
+               NOME-DA-EMPRESA="Vocal Lab Sistemas da Informação"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26.2"
+                                          SUBSETOR="Fabricação de equipamentos de informática e periféricos"
+                                          SETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                          GRANDE-SETOR="Indústrias de transformação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                          SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                          SETOR="Atividades dos serviços de tecnologia da informação"
+                                          GRANDE-SETOR="Informação e comunicação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="1"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.63.1"
+                                          SUBSETOR="Tratamento de dados, hospedagem na internet e outras atividades relacionadas"
+                                          SETOR="Atividades de prestação de serviços de informação"
+                                          GRANDE-SETOR="Informação e comunicação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="2"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="19">Fornecimento, pelo parceiro, de insumos materiais para as atividades de pesquisa do grupo sem vinculação a um projeto específico de interesse mútuo</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="20">Fornecimento, pelo grupo, de insumos materiais para as atividades do parceiro sem vinculação a um projeto específico de interesse mútuo</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="14">Transferência de insumos materiais para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="17">Transferência física temporária de recursos humanos do grupo para as atividades do parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="16102016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1433346297212674"
+               NOME-DO-EGRESSO="Diego George da Silva Santos"/>
+      <EGRESSO DATA-SAIDA="25082014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7344629947673971"
+               NOME-DO-EGRESSO="Pablo Vinicius Alves de Barros"/>
+      <EGRESSO DATA-SAIDA="16102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1433346297212674"
+               NOME-DO-EGRESSO="Diego George da Silva Santos"/>
+      <EGRESSO DATA-SAIDA="25082014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7344629947673971"
+               NOME-DO-EGRESSO="Pablo Vinicius Alves de Barros"/>
+      <EGRESSO DATA-SAIDA="16102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1433346297212674"
+               NOME-DO-EGRESSO="Diego George da Silva Santos"/>
+      <EGRESSO DATA-SAIDA="25082014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7344629947673971"
+               NOME-DO-EGRESSO="Pablo Vinicius Alves de Barros"/>
+      <EGRESSO DATA-SAIDA="16102016" DATA-ENTRADA="23082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1433346297212674"
+               NOME-DO-EGRESSO="Diego George da Silva Santos"/>
+      <EGRESSO DATA-SAIDA="25082014" DATA-ENTRADA="23082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7344629947673971"
+               NOME-DO-EGRESSO="Pablo Vinicius Alves de Barros"/>
+      <EGRESSO DATA-SAIDA="16102016" DATA-ENTRADA="25082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1433346297212674"
+               NOME-DO-EGRESSO="Diego George da Silva Santos"/>
+      <EGRESSO DATA-SAIDA="16102016" DATA-ENTRADA="26112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1433346297212674"
+               NOME-DO-EGRESSO="Diego George da Silva Santos"/>
+      <EGRESSO DATA-SAIDA="16102016" DATA-ENTRADA="23042015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1433346297212674"
+               NOME-DO-EGRESSO="Diego George da Silva Santos"/>
+      <EGRESSO DATA-SAIDA="16102016" DATA-ENTRADA="13082015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1433346297212674"
+               NOME-DO-EGRESSO="Diego George da Silva Santos"/>
+      <EGRESSO DATA-SAIDA="31032016" DATA-ENTRADA="13082015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="5512849006877767"
+               NOME-DO-EGRESSO="Rodrigo Lins Rodrigues"/>
+      <EGRESSO DATA-SAIDA="18102016" DATA-ENTRADA="13082015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="5512849006877767"
+               NOME-DO-EGRESSO="Rodrigo Lins Rodrigues"/>
+      <EGRESSO DATA-SAIDA="16102016" DATA-ENTRADA="13082015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2441367990383979"
+               NOME-DO-EGRESSO="Ygor Amaral Barbosa Leite de Sena"/>
+      <EGRESSO DATA-SAIDA="16102016" DATA-ENTRADA="31032016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1433346297212674"
+               NOME-DO-EGRESSO="Diego George da Silva Santos"/>
+      <EGRESSO DATA-SAIDA="16102016" DATA-ENTRADA="31032016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2441367990383979"
+               NOME-DO-EGRESSO="Ygor Amaral Barbosa Leite de Sena"/>
+      <EGRESSO DATA-SAIDA="16102016" DATA-ENTRADA="16102016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1433346297212674"
+               NOME-DO-EGRESSO="Diego George da Silva Santos"/>
+      <EGRESSO DATA-SAIDA="18102016" DATA-ENTRADA="16102016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="5391560368786656"
+               NOME-DO-EGRESSO="Elias Rodrigues da Silva Júnior"/>
+      <EGRESSO DATA-SAIDA="18102016" DATA-ENTRADA="18102016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="5391560368786656"
+               NOME-DO-EGRESSO="Elias Rodrigues da Silva Júnior"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

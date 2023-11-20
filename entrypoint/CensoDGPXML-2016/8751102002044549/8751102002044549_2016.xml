@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="8751102002044549"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="090227"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="09102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="7404425277041623" CODIGO-AREA-PREDOMINANTE="30400007"
+                           NOME-DA-UNIDADE="Programa de Engenharia Elétrica"
+                           NOME-DO-ORGAO="Programa de Engenharia Elétrica"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="RJ"
+                           SIGLA-DA-INSTITUICAO="UFRJ"
+                           NOME-DA-INSTITUICAO="Universidade Federal do Rio de Janeiro"
+                           AREA-PREDOMINANTE="Engenharia Elétrica"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="2001"
+                           NOME-DO-GRUPO="Grupo de Processamento de Áudio">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="1765239890846505" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Luiz Wagner Pereira Biscainho"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3304557" DDDFAX="21"
+                                       LONGITUDE="-43.231607499999996"
+                                       LATITUDE="-22.8548179"
+                                       CAIXA-POSTAL="68504"
+                                       LOCALIDADE="Rio de Janeiro"
+                                       NUMERO="2030"
+                                       COMPLEMENTO="Prédio do CT, sala H-221"
+                                       LOGRADOURO="Avenida Horácio Macedo"
+                                       HOME-PAGE="www.gpa.smt.ufrj.br"
+                                       E-MAIL="wagner@smt.ufrj.br"
+                                       FAX="3938-8207"
+                                       RAMAL=""
+                                       TELEFONE="3938-8195"
+                                       DDD="21"
+                                       CEP="21941598"
+                                       CIDADE="Rio de Janeiro"
+                                       UF="RJ"
+                                       BAIRRO="Cidade Universitária"/>
+      <REPERCUSSOES>O Grupo de Processamento de Áudio (GPA) da UFRJ tem como principais missões a formação de profissionais e a pesquisa em sua área. Atua associado principalmente ao curso de Engenharia Eletrônica e de Computação da Escola Politécnica (DEL/Poli) e ao Programa de Engenharia Elétrica do Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa de Engenharia (PEE/COPPE), ambos da UFRJ.O GPA atinge estudantes de Graduação e Pós-Graduação, gerando trabalhos de conclusão (teses de doutorado, dissertações de mestrado e projetos finais de curso). Seus resultados de pesquisa são divulgados em congressos e períódicos especializados, nacionais e internacionais. Convênios com empresas e outras instituições produzem cursos e projetos de pesquisa e desenvolvimento de interesse localizado.É um dos poucos grupos de pesquisa atuando especificamente em Processamento de Sinais de Áudio no Brasil.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="BISCAINHO, L. W. P.;Biscainho, Luiz W. P.;BISCAINHO, LUIZ;BISCAINHO, LUIZ W.P."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1765239890846505"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Luiz Wagner Pereira Biscainho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Restauração de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Som Tridimensional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Codificação de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Comunicação por Fala"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Avaliação de Qualidade de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise e Síntese de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Filtros Analógicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Digital de Áudio</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Adaptativos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ESQUEF, P. A. A.;Paulo A. A. Esquef;Paulo Esquef;Esquef, Paulo A.A."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4891962642648106"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Paulo Antonio Andrade Esquef">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Restauração de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Avaliação de Qualidade de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise e Síntese de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Interfaces Homem Computador</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Sinais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Vídeo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Restauração de Sinais de Áudio</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Síntese Sonora de Instrumentos Musicais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Wavelets e Banco de Filtros</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="AVILA, F. R.;AVILA, FLAVIO R.;AVILA, FLÁVIO R."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6480915325344415"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Flavio Rainho Avila">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Restauração de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Avaliação de Qualidade de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Áudio</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Sinais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="NUNES, Leonardo de Oliveira;NUNES, Leonardo O;NUNES, L O;NUNES, LEONARDO O.;NUNES, LEONARDO OLIVEIRA;NUNES, LEONARDO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8206374630458325"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Leonardo de Oliveira Nunes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Avaliação de Qualidade de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise e Síntese de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Sinais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Sinais de Áudio</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="QUINTANILHA, I. M.;QUINTANILHA, IGOR M."
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ WAGNER PEREIRA BISCAINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="1765239890846505"
+                 SEQUENCIA-ESTUDANTE="4446653"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3790573686920537"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Igor Macedo Quintanilha">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Comunicação por Fala"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise e Síntese de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Sinais de Áudio</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes Veiculares</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="APOLINÁRIO, I. F.;Apolinário, Isabela F."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ WAGNER PEREIRA BISCAINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="1765239890846505"
+                 SEQUENCIA-ESTUDANTE="3285373"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6464565486234449"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Isabela Ferrão Apolinário">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Som Tridimensional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise e Síntese de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Sinais de Áudio</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CARVALHO, H. T.;TREMONTE, H.;TREMONTE, HUGO;DE CARVALHO, HUGO TREMONTE;CARVALHO, HUGO T."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ WAGNER PEREIRA BISCAINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="1765239890846505"
+                 SEQUENCIA-ESTUDANTE="2492601"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4007053253975343"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Hugo Tremonte de Carvalho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Restauração de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estatística</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Sinais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Regressão e Correlação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="VALENTE, P. O. L." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ WAGNER PEREIRA BISCAINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="1765239890846505"
+                 SEQUENCIA-ESTUDANTE="4766088"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4953605300038930"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Paulo Oliveira Lenzi Valente">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise e Síntese de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Musical</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COSTA, M. V. M.;COSTA, MAURICIO;COSTA, MAURICIO DO VALE MADEIRA DA;da Costa, M.D.V.M.;DA COSTA, MAURICIO DO V. M.;MAURÍCIO DA COSTA"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ WAGNER PEREIRA BISCAINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="1765239890846505"
+                 SEQUENCIA-ESTUDANTE="3489579"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4529329840770262"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Maurício do Vale Madeira da Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Comunicação por Fala"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise e Síntese de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Áudio</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Musical</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Sinais Digitais de Áudio</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COSTA, V. P." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ WAGNER PEREIRA BISCAINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="1765239890846505"
+                 SEQUENCIA-ESTUDANTE="3701535"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3798063417184939"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Victor Pereira da Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Comunicação por Fala"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MAIA, L. S." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ WAGNER PEREIRA BISCAINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="1765239890846505"
+                 SEQUENCIA-ESTUDANTE="3861824"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6807828618590211"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lucas Simões Maia">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise e Síntese de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Sinais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PINTO, V. A. M." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ WAGNER PEREIRA BISCAINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="1765239890846505"
+                 SEQUENCIA-ESTUDANTE="6740959"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2138504748416971"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Vinicius Allemand Mancebo Pinto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise e Síntese de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ROMERO, C." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ WAGNER PEREIRA BISCAINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="1765239890846505"
+                 SEQUENCIA-ESTUDANTE="5359990"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3656492814219565"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Claudio Romero">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise e Síntese de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FIGUEIREDO, U. R." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ WAGNER PEREIRA BISCAINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="1765239890846505"
+                 SEQUENCIA-ESTUDANTE="4642772"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9674095015465922"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ulisses da Rocha Figueiredo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Comunicação por Fala"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Eletrônica e de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Internet do Futuro, Virtualização, Segurança</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MAGALHÃES, M. J. S." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ WAGNER PEREIRA BISCAINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="1765239890846505"
+                 SEQUENCIA-ESTUDANTE="747580"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8715326521362337"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marcos José Sant'Anna Magalhães">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise e Síntese de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CARVALHO, L. F. V." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ WAGNER PEREIRA BISCAINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="1765239890846505"
+                 SEQUENCIA-ESTUDANTE="3932496"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1762045657637773"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luís Felipe Velloso de Carvalho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Restauração de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ESPINOZA, N.;ESPINOZA, NICOLAS" NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ WAGNER PEREIRA BISCAINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="1765239890846505"
+                 SEQUENCIA-ESTUDANTE="4879490"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4230379514275769"
+                 PAIS-DE-NASCIMENTO="CHL"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Nicolas Andres Espinoza Santibanez">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise e Síntese de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Analise e Processamento de Sinais Musicais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aprendizagem de Máquina Aplicada à Música</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Conversão e Retificação da Energia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LORDELO, C. P. V." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ WAGNER PEREIRA BISCAINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="1765239890846505"
+                 SEQUENCIA-ESTUDANTE="3658948"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5212831046401067"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Carlos Pedro Vianna Lordelo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise e Síntese de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CARVALHO, L. L." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ WAGNER PEREIRA BISCAINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="1765239890846505"
+                 SEQUENCIA-ESTUDANTE="6741760"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2713250050445509"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lucas Lago de Carvalho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise e Síntese de Áudio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="ADMINISTRADORES DE TECNOLOGIA DA INFORMAÇÃO"
+               TITULO-OCUPACAO="Administrador de redes"
+               CODIGO-CBO="2123-10"
+               NIVEL-DE-TREINAMENTO="Graduação"
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="F"
+               NOME-CITACOES="TRIGUEIRO, G. S."
+               NRO-ID-CNPQ="6333012583051956"
+               GRAU-DE-ESCOLARIDADE="Ensino Profissional de nível técnico"
+               ATIVIDADE-NO-GRUPO="Administrador de redes"
+               NOME-COMPLETO="Gabriella de Souza Trigueiro"
+               SEQUENCIA-TECNICO="4238946"/>
+   </TECNICOS>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8925421761641848"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="A restauração digital encontra sua principal aplicação em tornar aceitável para um ouvinte moderno a audição de áudio histórico gravado, podendo ser também essencial em áudio forense.O principal objetivo desta linha é a investigação de técnicas para restauração de defeitos ainda não convenientemente atacados na literatura. Os métodos devem ser o mais possível eficientes computacionalmente, e agir essencialmente sobre os distúrbios, não afetando a qualidade intrínseca do sinal gravado."
+                         NOME-DA-LINHA-DE-PESQUISA="Restauração de Áudio"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">ruído de fundo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">ruído impulsivo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">pulsos longos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">modelagem ARMA</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">modelagem bayesiana</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1765239890846505" NOME-COMPLETO="Luiz Wagner Pereira Biscainho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="54895"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4891962642648106" NOME-COMPLETO="Paulo Antonio Andrade Esquef"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="131194"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6480915325344415" NOME-COMPLETO="Flavio Rainho Avila"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="719263"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4007053253975343" NOME-COMPLETO="Hugo Tremonte de Carvalho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2492601"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1762045657637773" NOME-COMPLETO="Luís Felipe Velloso de Carvalho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3932496"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30406005" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30406005"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento de Áudio"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Telecomunicações"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="445"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J" SUBSETOR=""
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9470095320892877"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Do surround sound ao home theater, dos jogos de computador aos sistemas avançados de realidade virtual, o realismo da localização e ambiência do som é um diferencial de qualidade. E nos mais modernos sistemas de comunicação interpessoal a telepresença requer recursos da mesma natureza.O principal objetivo desta linha é o estudo de estratégias para dar maior realismo à auralização para reprodução em fones de ouvido. O principal problema a ser atacado é a dificuldade de externalização do som."
+                         NOME-DA-LINHA-DE-PESQUISA="Som Tridimensional"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">auralização</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">gravação binaural</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">HRTF</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">som tridimensional</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1765239890846505" NOME-COMPLETO="Luiz Wagner Pereira Biscainho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="54895"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6464565486234449" NOME-COMPLETO="Isabela Ferrão Apolinário"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3285373"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30406005" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30406005"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento de Áudio"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Telecomunicações"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="445"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J" SUBSETOR=""
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2075450535498441"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="A disponibilização do áudio ao consumidor na forma pré-gravada (ex. CD, DVD) ou dinamicamente pelos meios de telecomunicações (ex. internet) foi o maior propulsor da pesquisa em compressão de áudio. A meta é armazenar/transmitir o máximo de informação no mínimo espaço com a máxima qualidade.O principal objetivo desta linha é a busca de métodos alternativos para compressão de áudio com alta qualidade percebida, com vistas a aplicações integradas com vídeo, como TV digitale telepresença."
+                         NOME-DA-LINHA-DE-PESQUISA="Codificação de Áudio"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">codificação sem perdas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">codificação com perdas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Psicoacústica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">codificação perceptiva</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">matching pursuit</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1765239890846505" NOME-COMPLETO="Luiz Wagner Pereira Biscainho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="54895"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30406005" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30406005"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento de Áudio"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Telecomunicações"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="445"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J" SUBSETOR=""
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3864266227529989"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Avaliação perceptiva de qualidade se aplica à avaliação do desempenho de sistemas de codificação, restauração, panoramização etc., bem como da qualidade do tráfego de áudio pelas redes de comunicação. Porém, é desejável substituir a avaliação subjetiva por métodos automáticos.O principal objetivo desta linha é o desenvolvimento de medidores objetivos da qualidade percebida, em especial para sinais na banda completa de áudio contaminados por distúrbios não abordados na literatura associada."
+                         NOME-DA-LINHA-DE-PESQUISA="Avaliação de Qualidade de Áudio"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Psicoacústica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">avaliação subjetiva de qualidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">avaliação objetiva de qualidade</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1765239890846505" NOME-COMPLETO="Luiz Wagner Pereira Biscainho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="54895"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4891962642648106" NOME-COMPLETO="Paulo Antonio Andrade Esquef"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="131194"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6480915325344415" NOME-COMPLETO="Flavio Rainho Avila"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="719263"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8206374630458325" NOME-COMPLETO="Leonardo de Oliveira Nunes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="804977"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30406005" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30406005"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento de Áudio"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Telecomunicações"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="445"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J" SUBSETOR=""
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7669415429630077"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Análise e síntese digitais aplicam-se a remixagem e edição, transcrição musical automática, composição e execução musical, síntese de instrumentos, identificação de instrumentos, temas e estilos etc.Os principais objetivos desta linha são modelagem robusta de sinais de áudio e desenvolvimento de métodos eficientes para: extração, reconhecimento e classificação de características de gravações musicais; separação de fontes sonoras; modificação controlada de áudio."
+                         NOME-DA-LINHA-DE-PESQUISA="Análise e Síntese de Áudio"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">modelagem senoidal</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">bancos de filtros</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">transcrição musical automática</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">modificação de voz</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">separação de fontes sonoras</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1765239890846505" NOME-COMPLETO="Luiz Wagner Pereira Biscainho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="54895"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4891962642648106" NOME-COMPLETO="Paulo Antonio Andrade Esquef"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="131194"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8206374630458325" NOME-COMPLETO="Leonardo de Oliveira Nunes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="804977"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3790573686920537" NOME-COMPLETO="Igor Macedo Quintanilha"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4446653"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6464565486234449" NOME-COMPLETO="Isabela Ferrão Apolinário"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3285373"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4953605300038930" NOME-COMPLETO="Paulo Oliveira Lenzi Valente"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4766088"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4529329840770262"
+                             NOME-COMPLETO="Maurício do Vale Madeira da Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3489579"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6807828618590211" NOME-COMPLETO="Lucas Simões Maia"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3861824"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2138504748416971" NOME-COMPLETO="Vinicius Allemand Mancebo Pinto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6740959"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3656492814219565" NOME-COMPLETO="Claudio Romero"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5359990"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8715326521362337" NOME-COMPLETO="Marcos José Sant'Anna Magalhães"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="747580"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4230379514275769"
+                             NOME-COMPLETO="Nicolas Andres Espinoza Santibanez"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4879490"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5212831046401067" NOME-COMPLETO="Carlos Pedro Vianna Lordelo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3658948"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2713250050445509" NOME-COMPLETO="Lucas Lago de Carvalho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6741760"
+                             SEQUENCIA-ESTUDANTE="11"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30406005" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30406005"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento de Áudio"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Telecomunicações"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="445"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J" SUBSETOR=""
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="R" SUBSETOR=""
+                                SETOR="Artes, cultura, esporte e recreação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0607377926747560"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Sistemas de Comunicação por Fala envolvem a captação e o processamento de sinais de voz para comunicação audiovisual.Os objetivos envolvem a localização de nós acústicos (fontes sonoras e/ou sensores acústicos) a partir de sinais acústicos emitidos/capturados."
+                         NOME-DA-LINHA-DE-PESQUISA="Comunicação por Fala"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">comunicação audiovisual</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">localização de fonte sonora</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">captura de sinal acústico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">localização de sensor acústico</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1765239890846505" NOME-COMPLETO="Luiz Wagner Pereira Biscainho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="54895"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3790573686920537" NOME-COMPLETO="Igor Macedo Quintanilha"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4446653"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4529329840770262"
+                             NOME-COMPLETO="Maurício do Vale Madeira da Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3489579"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3798063417184939" NOME-COMPLETO="Victor Pereira da Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3701535"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9674095015465922" NOME-COMPLETO="Ulisses da Rocha Figueiredo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4642772"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30406005" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30406005"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento de Áudio"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Telecomunicações"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="445"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="30092014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="8206374630458325"
+               NOME-DO-EGRESSO="Leonardo de Oliveira Nunes"/>
+      <EGRESSO DATA-SAIDA="30092014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="8206374630458325"
+               NOME-DO-EGRESSO="Leonardo de Oliveira Nunes"/>
+      <EGRESSO DATA-SAIDA="30092014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="8206374630458325"
+               NOME-DO-EGRESSO="Leonardo de Oliveira Nunes"/>
+      <EGRESSO DATA-SAIDA="30092014" DATA-ENTRADA="18062014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="8206374630458325"
+               NOME-DO-EGRESSO="Leonardo de Oliveira Nunes"/>
+      <EGRESSO DATA-SAIDA="30092014" DATA-ENTRADA="26072014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="8206374630458325"
+               NOME-DO-EGRESSO="Leonardo de Oliveira Nunes"/>
+      <EGRESSO DATA-SAIDA="30092014" DATA-ENTRADA="20082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="8206374630458325"
+               NOME-DO-EGRESSO="Leonardo de Oliveira Nunes"/>
+      <EGRESSO DATA-SAIDA="30092014" DATA-ENTRADA="13092014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="8206374630458325"
+               NOME-DO-EGRESSO="Leonardo de Oliveira Nunes"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

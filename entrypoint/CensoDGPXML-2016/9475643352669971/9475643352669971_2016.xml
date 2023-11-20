@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="9475643352669971"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="095303"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="26102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="5086811331322199" CODIGO-AREA-PREDOMINANTE="30100003"
+                           NOME-DA-UNIDADE="Departamento de Estruturas"
+                           NOME-DO-ORGAO="Departamento de Estruturas"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SP"
+                           SIGLA-DA-INSTITUICAO="USP"
+                           NOME-DA-INSTITUICAO="Universidade de São Paulo"
+                           AREA-PREDOMINANTE="Engenharia Civil"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="2012"
+                           NOME-DO-GRUPO="SCIEnCE">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="2846504755307745" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Sergio Persival Baroncini Proenca"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3548906" DDDFAX="16"
+                                       LONGITUDE="-47.8929895"
+                                       LATITUDE="-22.0045064"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="São Carlos"
+                                       NUMERO="400"
+                                       COMPLEMENTO="Departamento de Engenharia de Estruturas"
+                                       LOGRADOURO="Avenida Trabalhador Sancarlense"
+                                       HOME-PAGE="http://www.set.eesc.usp.br/portal/pt/docentes/135-sergio-persival-baroncini-proenca"
+                                       E-MAIL="persival@sc.usp.br"
+                                       FAX="33739482"
+                                       RAMAL=""
+                                       TELEFONE="33739455"
+                                       DDD="16"
+                                       CEP="13566590"
+                                       CIDADE="São Carlos"
+                                       UF="SP"
+                                       BAIRRO="Parque Arnold Schimidt"/>
+      <REPERCUSSOES>O grupo tem por objetivo desenvolver pesquisas no âmbito da Mecânica Computacional com ênfase no desenvolvimento e aplicação do Método dos Elementos Finitos Generalizados e suas aplicações em mecânica dos sólidos e estruturas e problemas multi-físicos.Problemas lineares e não-lineares, incluindo abordagens estática, dinâmica e acoplamentos com temperatura e interação sólido-fluido estão entre os temas gerais de pesquisa.Todos os desenvolvimentos matemáticos são implementados em computador mediante linguagem de programação PYTHON na forma de software aberto denominado SCIEnCE ("São Carlos Integrated Environment for Computational Engineering").Uma das especializações do programa é o estudo de integridade estrutural, incluindo particularmente as modelagens de processos de microfissuração difusa, fissuração localizada e modelagens de múltiplas fissuras em diferentes escalas.As aplicações incluem problemas de interesse em engenharia civil, mecânica, aeronáutica e naval.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="PROENCA, S. P. B.;Proenca, S. P.;Proença, Sergio Persival;Proença, Sérgio P.;PROENÇA, SERGIO PERSIVAL BARONCINI;PROEN'A, SERGIO P. B.;BARONCINI PROENÇA, SERGIO P.;PROENÇA, S. P. B.;PROENÃ§A, S;PROEN'A, S. P. B;PROEN'A, S. P. B.;PROENÇA, SÉRGIO PERSIVAL BARONCINI;PROENÇA, S.P.B.;PROENÇA, SERGIO P. B."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2846504755307745"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Sergio Persival Baroncini Proenca">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Método dos Elementos Finitos Generalizados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Implementação Computacional do Método dos Elementos Finitos Generalizados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Método dos Elementos Finitos Generalizados em análises multi-física"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formulações Híbrido Mistas para o Método dos Elementos Finitos Generalizados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Método dos Elementos Finitos Generalizados para problemas de contato e fissura coesiva"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mecânica do dano concentrado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estruturas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Estruturas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GÓIS, W;GÓIS, WESLEY" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4494553404168805"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Wesley Góis">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formulações Híbrido Mistas para o Método dos Elementos Finitos Generalizados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estruturas Aeroespaciais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fadiga</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Estruturas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Materiais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Numéricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Projeto de Estruturas Aeroespaciais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="EVANGELISTA JUNIOR, F.;Evangelista Jr, F.;Evangelista, F.;EVANGELISTA, FRANCISCO;EVANGELISTA JUNIOR, FRANCISCO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1213553571707025"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Francisco Evangelista Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Método dos Elementos Finitos Generalizados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Método dos Elementos Finitos Generalizados para problemas de contato e fissura coesiva"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estruturas de Concreto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Materiais Compósitos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Estruturas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem Computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Propagação de Trincas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL="" BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SERGIO PERSIVAL BARONCINI PROENCA"
+                 NRO-ID-CNPQ-ORIENTADOR="2846504755307745"
+                 SEQUENCIA-ESTUDANTE="2470892"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6930392733648456"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Dorival Piedade Neto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Método dos Elementos Finitos Generalizados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Implementação Computacional do Método dos Elementos Finitos Generalizados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Método dos Elementos Finitos Generalizados para problemas de contato e fissura coesiva"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FERREIRA, A. R." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SERGIO PERSIVAL BARONCINI PROENCA"
+                 NRO-ID-CNPQ-ORIENTADOR="2846504755307745"
+                 SEQUENCIA-ESTUDANTE="4393343"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4243580890826764"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ayrton Ribeiro Ferreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Implementação Computacional do Método dos Elementos Finitos Generalizados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Estruturas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Materiais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ANGELICO, R. A.;Angélico, Ricardo Afonso;ANGÉLICO, R.A."
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SERGIO PERSIVAL BARONCINI PROENCA"
+                 NRO-ID-CNPQ-ORIENTADOR="2846504755307745"
+                 SEQUENCIA-ESTUDANTE="565780"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4572583709143785"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ricardo Afonso Angélico">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Método dos Elementos Finitos Generalizados em análises multi-física"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Materiais Compósitos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Projeto de Estruturas Aeroespaciais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COTTA, I. F. S." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SERGIO PERSIVAL BARONCINI PROENCA"
+                 NRO-ID-CNPQ-ORIENTADOR="2846504755307745"
+                 SEQUENCIA-ESTUDANTE="443999"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2935520478737297"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Igor Frederico Stoianov Cotta">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formulações Híbrido Mistas para o Método dos Elementos Finitos Generalizados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Transportes</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento de Transportes</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ARGÔLO, H. S. D. de" NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SERGIO PERSIVAL BARONCINI PROENCA"
+                 NRO-ID-CNPQ-ORIENTADOR="2846504755307745"
+                 SEQUENCIA-ESTUDANTE="2854830"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1844013748609506"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Higor Sérgio Dantas de Argôlo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formulações Híbrido Mistas para o Método dos Elementos Finitos Generalizados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Estruturas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Numéricos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BORGES, L. P." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SERGIO PERSIVAL BARONCINI PROENCA"
+                 NRO-ID-CNPQ-ORIENTADOR="2846504755307745"
+                 SEQUENCIA-ESTUDANTE="3108155"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9952239953392321"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Leonardo Pioto Borges">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Método dos Elementos Finitos Generalizados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SATO, F. M." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="SERGIO PERSIVAL BARONCINI PROENCA"
+                 NRO-ID-CNPQ-ORIENTADOR="2846504755307745"
+                 SEQUENCIA-ESTUDANTE="4965473"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5915831115942965"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Fernando Massami Sato">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Implementação Computacional do Método dos Elementos Finitos Generalizados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS>
+      <COLABORADOR-ESTRANGEIRO NOME-CITACOES="BENALLAL, A." SEXO="M" NRO-ID-CNPQ="7842783666993400"
+                               PAIS-DE-NASCIMENTO="DZA"
+                               NACIONALIDADE="E"
+                               NOME-COMPLETO="Ahmed BENALLAL"
+                               TITULACAO-MAXIMA="Doutorado"
+                               SEQUENCIA-COLABORADOR="1">
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Materiais e Metalúrgica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </COLABORADOR-ESTRANGEIRO>
+   </COLABORADORES-ESTRANGEIROS>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8536335789945850"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento e implementação computacional do Método dos Elementos Finitos Generalizados, com aplicação na análise do comportamento não-linear estático e dinâmico de estruturas e problemas multifísicos relacionados à integridade estrutural.Obtenção de funções de forma para ométodo a partir de partições da unidade com elevado grau de continuidade."
+                         NOME-DA-LINHA-DE-PESQUISA="Método dos Elementos Finitos Generalizados"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">método dos elementos finitos generalizados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Análise não-linear de estruturas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">integridade estrutural</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2846504755307745"
+                               NOME-COMPLETO="Sergio Persival Baroncini Proenca"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25897"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1213553571707025" NOME-COMPLETO="Francisco Evangelista Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="544589"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6930392733648456" NOME-COMPLETO="Dorival Piedade Neto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2470892"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9952239953392321" NOME-COMPLETO="Leonardo Pioto Borges"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3108155"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10302026" CODIGO-ESPECIALIDADE="10302026"
+                                  CODIGO-SUB-AREA="10302000"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Modelos Analíticos e de Simulação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="55"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10104020" CODIGO-ESPECIALIDADE="10104020"
+                                  CODIGO-SUB-AREA="10104003"
+                                  CODIGO-AREA="10100008"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Análise Numérica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática Aplicada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Matemática"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="27"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30102049" CODIGO-ESPECIALIDADE="30102049"
+                                  CODIGO-SUB-AREA="30102006"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica das Estruturas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Estruturas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="360"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9622855147617319"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Trata-se do desenvolvimento do programa SCIEnCE (&#34;São Carlos Integrated Environment for Computational Engineering&#34;), para análises bidimensionais pelo Método dos Elementos Finitos Generalizados, elaborado segundo a filosofia de orientação por objetos em linguagem de programação PYTHON.O programa SCIEnCE inclui módulos para análises lineares, não-lineares estática e dinâmica, e problemas multi-físicos (termomecânicos e interação fluido-estrutura)."
+                         NOME-DA-LINHA-DE-PESQUISA="Implementação Computacional do Método dos Elementos Finitos Generalizados"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">método dos elementos finitos generalizados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Programação Orientada por Objetos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Linguagem de programação PYTHON</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2846504755307745"
+                               NOME-COMPLETO="Sergio Persival Baroncini Proenca"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25897"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6930392733648456" NOME-COMPLETO="Dorival Piedade Neto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2470892"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4243580890826764" NOME-COMPLETO="Ayrton Ribeiro Ferreira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4393343"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5915831115942965" NOME-COMPLETO="Fernando Massami Sato"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4965473"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303014" CODIGO-ESPECIALIDADE="10303014"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Linguagens de Programação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="57"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30102049" CODIGO-ESPECIALIDADE="30102049"
+                                  CODIGO-SUB-AREA="30102006"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica das Estruturas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Estruturas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="360"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30503019" CODIGO-ESPECIALIDADE="30503019"
+                                  CODIGO-SUB-AREA="30503000"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Corpos Sólidos, Elásticos e Plásticos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Mecânica dos Sólidos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="460"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3378387266472192"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento e aplicação aos problemas de análise de integridade estrutural relacionados à evolução de processos de dano e fratura, incluindo-se múltiplas fissuras em diferentes escalas, das formulações híbrido-mistas para o Método dos elementos Finitos Generalizados. Essas formulações permitem aproximar de modo independente os campos de tensão e de deslocamento no domínio e contorno do sólido."
+                         NOME-DA-LINHA-DE-PESQUISA="Formulações Híbrido Mistas para o Método dos Elementos Finitos Generalizados"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">método dos elementos finitos generalizados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Formulações variacionais híbrido -mistas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Mecânicas do dano e da fratura</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Múltiplas fissuras</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2846504755307745"
+                               NOME-COMPLETO="Sergio Persival Baroncini Proenca"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25897"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4494553404168805" NOME-COMPLETO="Wesley Góis"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="184711"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2935520478737297" NOME-COMPLETO="Igor Frederico Stoianov Cotta"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="443999"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1844013748609506" NOME-COMPLETO="Higor Sérgio Dantas de Argôlo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2854830"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30102049" CODIGO-ESPECIALIDADE="30102049"
+                                  CODIGO-SUB-AREA="30102006"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica das Estruturas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Estruturas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="360"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30503035" CODIGO-ESPECIALIDADE="30503035"
+                                  CODIGO-SUB-AREA="30503000"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Análise de Tensões"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Mecânica dos Sólidos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="462"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30503019" CODIGO-ESPECIALIDADE="30503019"
+                                  CODIGO-SUB-AREA="30503000"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Corpos Sólidos, Elásticos e Plásticos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Mecânica dos Sólidos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="460"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0443253952242436"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento e aplicação do Método dos Elementos Finitos Genralizados para problemas não-lineares associados ao contato com e sem atrito e problemas de fissuras coesivas.AS modelagens incluem o enriquecimento com funções customizadas, a compatibilização de malhas não-coincidentes, a proposição de elementos finitos generalizados de contato e aplicação da formulação global-local aos problemas que incluem fissura coesiva."
+                         NOME-DA-LINHA-DE-PESQUISA="Método dos Elementos Finitos Generalizados para problemas de contato e fissura coesiva"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">método dos elementos finitos generalizados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Não-linearidade de contato</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Fissura coesiva</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Abordagem global-local</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2846504755307745"
+                               NOME-COMPLETO="Sergio Persival Baroncini Proenca"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25897"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1213553571707025" NOME-COMPLETO="Francisco Evangelista Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="544589"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6930392733648456" NOME-COMPLETO="Dorival Piedade Neto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2470892"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10302026" CODIGO-ESPECIALIDADE="10302026"
+                                  CODIGO-SUB-AREA="10302000"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Modelos Analíticos e de Simulação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="55"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30503035" CODIGO-ESPECIALIDADE="30503035"
+                                  CODIGO-SUB-AREA="30503000"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Análise de Tensões"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Mecânica dos Sólidos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="462"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30503019" CODIGO-ESPECIALIDADE="30503019"
+                                  CODIGO-SUB-AREA="30503000"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Corpos Sólidos, Elásticos e Plásticos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Mecânica dos Sólidos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="460"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8624297363810746"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento e aplicação do Método dos Elementos Finitos Generalizados para problemas multi-físicos que incluem análises termomecânicas e problemas de interação fluido-estrutura.Tais aplicações envolvem especializações do Método para explorar convenientemente suas vantagens atreladas ao enriquecimento nodal da aproximação e incluir adaptatividade fundamentada em análise de erros a-posteriori."
+                         NOME-DA-LINHA-DE-PESQUISA="Método dos Elementos Finitos Generalizados em análises multi-física"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">método dos elementos finitos generalizados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Multi-física</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Interação fluido-estrutura</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Termomecânica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2846504755307745"
+                               NOME-COMPLETO="Sergio Persival Baroncini Proenca"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25897"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4572583709143785" NOME-COMPLETO="Ricardo Afonso Angélico"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="565780"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10302026" CODIGO-ESPECIALIDADE="10302026"
+                                  CODIGO-SUB-AREA="10302000"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Modelos Analíticos e de Simulação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="55"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10502050" CODIGO-ESPECIALIDADE="10502050"
+                                  CODIGO-SUB-AREA="10502009"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica, Elasticidade e Reologia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Áreas Clássicas de Fenomenologia e suas Aplicações"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="102"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30503019" CODIGO-ESPECIALIDADE="30503019"
+                                  CODIGO-SUB-AREA="30503000"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Corpos Sólidos, Elásticos e Plásticos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Mecânica dos Sólidos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="460"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0303798421949094"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Análise não-linear de estruturas com aplicações em engenharia civil, mecânica e aeronáutica. Trata-se da formulação de modelos nos quais as não-linearidades por fissuração e plastificação são concentradas em rótulas generalizadas. A formulação é baseada em conceitos da Mecânica da Fratura e Teoria da Plasticidade. Formulam-se elementos finitos de dano concentrado para barras, palcas, cascas, sólidos planos e tridimensionais."
+                         NOME-DA-LINHA-DE-PESQUISA="Mecânica do dano concentrado"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Mecânica do dano</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Dano concentrado</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2846504755307745"
+                               NOME-COMPLETO="Sergio Persival Baroncini Proenca"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25897"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30102006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30102006"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Estruturas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="356"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="F.41.2" SUBSETOR="Construção de edifícios"
+                                SETOR="Construção"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28.6"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

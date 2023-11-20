@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="4763713258988906"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="221236"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="02112016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="2416720275812023" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE="Departamento de Informática"
+                           NOME-DO-ORGAO="Departamento de Informática"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="PR"
+                           SIGLA-DA-INSTITUICAO="UFPR"
+                           NOME-DA-INSTITUICAO="Universidade Federal do Paraná"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="1995"
+                           NOME-DO-GRUPO="Laboratório de Inteligência Artificial e Métodos Formais">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="7458912640231220" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Luis Allan Künzle"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="0613768899914607" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Fabiano Silva"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="4106902" DDDFAX="04"
+                                       LONGITUDE="-49.23203028738499"
+                                       LATITUDE="-25.450803316149667"
+                                       CAIXA-POSTAL="19081"
+                                       LOCALIDADE="Curitiba"
+                                       NUMERO="100"
+                                       COMPLEMENTO="Rua Cel. Francisco H. dos Santos, 100 Centro Politécnico"
+                                       LOGRADOURO="ACF Centro Politécnico"
+                                       HOME-PAGE="http://www.inf.ufpr.br/liamf/"
+                                       E-MAIL="kunzle@inf.ufpr.br"
+                                       FAX="33613205"
+                                       RAMAL=""
+                                       TELEFONE="33613410"
+                                       DDD="04"
+                                       CEP="81531980"
+                                       CIDADE="Curitiba"
+                                       UF="PR"
+                                       BAIRRO="Jardim das Américas"/>
+      <REPERCUSSOES>O grupo de estudos em lógica e inteligência artificial se preocupa com a representação lógica de elementos do mundo real não convencionais em sistemas de computação.Diferentes formalismos, envolvendo sobretudo lógica formal e redes de Petri, estão na base dos sub-projetos de pesquisa do grupo, que têm em comum a busca de uma melhor compreensão do raciocínio humano. Diversos problemas surgem devido ao uso de métodos formais, como por exemplo, a representação de acões, diálogos em língua natural, raciocínio temporal e espacial, etc. O grupo pretente disponibilizar protótipos de ferramentas de software que sintetizam os conceitos teóricos descritos acima apresentados.A ferramenta IPE - Ambiente para Estudo de Planejadores foi desenvolvido pela equipe e objeto de dissertação de mestrado.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="CASTILHO, M. A.;CASTILHO, MARCOS;Castilho, Marcos A.;Castilho, Marcos A;Marcos Castilho;Marcos+Castilho;Castilho, Marcos"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5480560533258943"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcos Alexandre Castilho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Lógica e Planejamento"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos Lógicos para Raciocínio sobre Ações"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Satisfatibilidade não clausal"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Livre</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="KÜNZLE, L. A.;Künzle, Luis Allan;KUNZLE, L. A.;Kunzle, Luis A.;Kunzle, Luis Allan"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7458912640231220"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Luis Allan Künzle">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Lógica e Planejamento"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos Lógicos para Raciocínio sobre Ações"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Petri"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagem Formais e Autômatos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento, Projeto e Controle de Sistemas de Produção</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PERES, L. M.;PERES, LETICIA" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="F"
+                   NRO-ID-CNPQ="4936370324386031"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Leticia Mara Peres">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Petri"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SILVA, F.;Silva, Fabiano" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0613768899914607"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fabiano Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Lógica e Planejamento"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos Lógicos para Raciocínio sobre Ações"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Satisfatibilidade não clausal"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Petri"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="DIRENE, A. I.;Direne, Alexandre Ibraim;DIRENE, ALEXANDRE IBRAHIM;DIRENE, ALEXANDRE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6939518478862624"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Alexandre Ibrahim Direne">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Linguagens e ferramentas de autoria para a criação de Sistemas Tutores Inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>INTELIGÊNCIA ARTIFICIAL</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="MONTANO, R.;Razer A. N. R. Montaño;Montaño, Razer A. N. R."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABIANO SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="0613768899914607"
+                 SEQUENCIA-ESTUDANTE="373503"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8472117901680275"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Razer Anthom Nizer Rojas Montano">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Lógica e Planejamento"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Satisfatibilidade não clausal"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Petri"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>GERÊNCIA DE PROJETOS</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógica Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SCHREINER, Marcos A.;Schreiner, Marcos A."
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCOS ALEXANDRE CASTILHO"
+                 NRO-ID-CNPQ-ORIENTADOR="5480560533258943"
+                 SEQUENCIA-ESTUDANTE="2546820"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4027673265033066"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marcos Antonio Schreiner">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Lógica e Planejamento"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Satisfatibilidade não clausal"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Petri"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informática/Informática na Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagem Formais e Autômatos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógicas e Semântica de Programas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Especialistas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PASQUALIN, D. G." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCOS ALEXANDRE CASTILHO"
+                 NRO-ID-CNPQ-ORIENTADOR="5480560533258943"
+                 SEQUENCIA-ESTUDANTE="2276963"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5780294019727223"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Diego Giovane Pasqualin">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos Lógicos para Raciocínio sobre Ações"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Ribas, Bruno Cesar" NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABIANO SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="0613768899914607"
+                 SEQUENCIA-ESTUDANTE="880844"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6871745921667698"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruno César Ribas">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos Lógicos para Raciocínio sobre Ações"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Satisfatibilidade não clausal"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagem Formais e Autômatos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Simbólica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BENITO, F. C. V.;BENITO, FRANCK CARLOS VELEZ"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIS ALLAN KUNZLE"
+                 NRO-ID-CNPQ-ORIENTADOR="7458912640231220"
+                 SEQUENCIA-ESTUDANTE="2658746"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1985383728134790"
+                 PAIS-DE-NASCIMENTO="PER"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Franck Carlos Vélez Benito">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Lógica e Planejamento"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Petri"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>INFORMÁTICA</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>SISTEMAS DE INFORMAÇÃO</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="de OLIVEIRA, R. T.;Tavares de Oliveira, R.;Tavares de Oliveira, Ricardo;Ricardo Tavares de Oliveira;OLIVEIRA, RICARDO TAVARES DE"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABIANO SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="0613768899914607"
+                 SEQUENCIA-ESTUDANTE="2618216"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9304528672959274"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ricardo Tavares de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Satisfatibilidade não clausal"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagem Formais e Autômatos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Simbólica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LUZ, A." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABIANO SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="0613768899914607"
+                 SEQUENCIA-ESTUDANTE="3645940"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5017459985769337"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Adriano da Luz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Satisfatibilidade não clausal"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DERENIEVICZ, G. A.;DERENIEVICZ, G."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABIANO SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="0613768899914607"
+                 SEQUENCIA-ESTUDANTE="3446026"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2264054659512155"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Guilherme Alex Derenievicz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Satisfatibilidade não clausal"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>INTELIGÊNCIA ARTIFICIAL</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Simbólica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Zalewski, Willian;ZALEWSKI, Willian;Willian Zalewski"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABIANO SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="0613768899914607"
+                 SEQUENCIA-ESTUDANTE="2135827"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3425550580618899"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Willian Zalewski">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Satisfatibilidade não clausal"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Séries Temporais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aprendizado de Máquina</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Identificação de Padrões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mineração de Dados</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ZAVADINACK, C. A." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABIANO SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="0613768899914607"
+                 SEQUENCIA-ESTUDANTE="3772234"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2548444959082356"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Carlos André Zavadinack">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Satisfatibilidade não clausal"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administração</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência Políitica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Comunicação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gestão da Informação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gestão de Projetos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguística</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BONIFACIO, A. S." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABIANO SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="0613768899914607"
+                 SEQUENCIA-ESTUDANTE="433205"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8820218244508301"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ailton Sergio Bonifacio">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Lógica e Planejamento"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Web Semântica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Menezes, C. S.;Menezes, Clariane Silva;Clariane Silva Menezes"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCOS ALEXANDRE CASTILHO"
+                 NRO-ID-CNPQ-ORIENTADOR="5480560533258943"
+                 SEQUENCIA-ESTUDANTE="4006462"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4286009343424418"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Clariane Silva Menezes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos Lógicos para Raciocínio sobre Ações"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógica Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="AMARILLA, M. A. M."
+                 NIVEL-DE-TREINAMENTO="Extensão universitária"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIS ALLAN KUNZLE"
+                 NRO-ID-CNPQ-ORIENTADOR="7458912640231220"
+                 SEQUENCIA-ESTUDANTE="3433416"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5128940470144319"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Miguel Angel de Marchi Amarilla">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Petri"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Defesa</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teleinformática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="RÉGIS, L. O. C." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIS ALLAN KUNZLE"
+                 NRO-ID-CNPQ-ORIENTADOR="7458912640231220"
+                 SEQUENCIA-ESTUDANTE="2853226"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8002613620163518"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luiz Otávio das Chagas Régis">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes de Petri"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagem Formais e Autômatos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, Rômulo César;SILVA, RÔMULO" NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE IBRAHIM DIRENE"
+                 NRO-ID-CNPQ-ORIENTADOR="6939518478862624"
+                 SEQUENCIA-ESTUDANTE="410296"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6868372533000061"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rômulo César Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Linguagens e ferramentas de autoria para a criação de Sistemas Tutores Inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informática na Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Jogos Educacionais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagem Formais e Autômatos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Tutores Inteligentes</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5507018224292739"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo da lógica formal como representação do conhecimento e alternativas a este formalismo."
+                         NOME-DA-LINHA-DE-PESQUISA="Modelos Lógicos para Raciocínio sobre Ações"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Representação do conhecimento</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Lógica de ações</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Planificação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Prova automática de teoremas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5480560533258943" NOME-COMPLETO="Marcos Alexandre Castilho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="367607"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7458912640231220" NOME-COMPLETO="Luis Allan Künzle"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="86672"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0613768899914607" NOME-COMPLETO="Fabiano Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="430166"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5780294019727223" NOME-COMPLETO="Diego Giovane Pasqualin"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2276963"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6871745921667698" NOME-COMPLETO="Bruno César Ribas"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="880844"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4286009343424418" NOME-COMPLETO="Clariane Silva Menezes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4006462"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10301046" CODIGO-ESPECIALIDADE="10301046"
+                                  CODIGO-SUB-AREA="10301003"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Lógicas e Semântica de Programas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="52"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3880629860883548"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Métodos e Técnicas para resolver problemas de Planejamento em Inteligência Artificial."
+                         NOME-DA-LINHA-DE-PESQUISA="Lógica e Planejamento"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Planejamento</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Redes de Petri</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Alcançabilidade</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5480560533258943" NOME-COMPLETO="Marcos Alexandre Castilho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="367607"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7458912640231220" NOME-COMPLETO="Luis Allan Künzle"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="86672"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0613768899914607" NOME-COMPLETO="Fabiano Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="430166"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8472117901680275" NOME-COMPLETO="Razer Anthom Nizer Rojas Montano"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="373503"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4027673265033066" NOME-COMPLETO="Marcos Antonio Schreiner"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2546820"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1985383728134790" NOME-COMPLETO="Franck Carlos Vélez Benito"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2658746"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8820218244508301" NOME-COMPLETO="Ailton Sergio Bonifacio"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="433205"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10302026" CODIGO-ESPECIALIDADE="10302026"
+                                  CODIGO-SUB-AREA="10302000"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Modelos Analíticos e de Simulação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="55"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1863219507508010"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="O trabalho desta linha de pesquisa consiste em:a) desenvolver metodologias visando a aplicação da teoria de redes de Petri em diferentes áreas de conhecimento, com foco em Planejamento em Inteligência Artificial;b) desenvolver metodologias visando a análise temporal de Redes de Petri Temporais e sua aplicabilidade em sistemas dinâmicos a eventos discretos."
+                         NOME-DA-LINHA-DE-PESQUISA="Redes de Petri"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Redes de Petri</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Análise Temporal</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7458912640231220" NOME-COMPLETO="Luis Allan Künzle"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="86672"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4936370324386031" NOME-COMPLETO="Leticia Mara Peres"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="398989"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0613768899914607" NOME-COMPLETO="Fabiano Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="430166"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8472117901680275" NOME-COMPLETO="Razer Anthom Nizer Rojas Montano"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="373503"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4027673265033066" NOME-COMPLETO="Marcos Antonio Schreiner"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2546820"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1985383728134790" NOME-COMPLETO="Franck Carlos Vélez Benito"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2658746"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5128940470144319" NOME-COMPLETO="Miguel Angel de Marchi Amarilla"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3433416"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8002613620163518" NOME-COMPLETO="Luiz Otávio das Chagas Régis"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2853226"
+                             SEQUENCIA-ESTUDANTE="5"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10302026" CODIGO-ESPECIALIDADE="10302026"
+                                  CODIGO-SUB-AREA="10302000"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Modelos Analíticos e de Simulação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="55"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4951784331837209"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de métodos baseados em satisfatibilidade para a solução de problemas de Planejamento em Inteligência Artificial."
+                         NOME-DA-LINHA-DE-PESQUISA="Satisfatibilidade não clausal"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Satisfatibilidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">planejamento em intelig&amp;#7869;ncia artificial</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5480560533258943" NOME-COMPLETO="Marcos Alexandre Castilho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="367607"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0613768899914607" NOME-COMPLETO="Fabiano Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="430166"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8472117901680275" NOME-COMPLETO="Razer Anthom Nizer Rojas Montano"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="373503"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4027673265033066" NOME-COMPLETO="Marcos Antonio Schreiner"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2546820"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6871745921667698" NOME-COMPLETO="Bruno César Ribas"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="880844"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9304528672959274" NOME-COMPLETO="Ricardo Tavares de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2618216"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5017459985769337" NOME-COMPLETO="Adriano da Luz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3645940"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2264054659512155" NOME-COMPLETO="Guilherme Alex Derenievicz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3446026"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3425550580618899" NOME-COMPLETO="Willian Zalewski"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2135827"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2548444959082356" NOME-COMPLETO="Carlos André Zavadinack"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3772234"
+                             SEQUENCIA-ESTUDANTE="8"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10302018" CODIGO-ESPECIALIDADE="10302018"
+                                  CODIGO-SUB-AREA="10302000"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Matemática Simbólica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="54"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0030008203596192"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Elaborar conceitos e construir ferramentas de autoria para apoiar a construção de Sistemas Tutores Inteligentes como instrumentos de aprendizagem, de forma a: (a) conduzir um estudo cognitivo sobre o ensino da perícia em conceitos; (b) projetar e implementar protótipos de software, tipicamente simuladores inteligentes; (c) testar o protótipo com especialistas; (d) melhorar o protótipo à luz de resultados empíricos."
+                         NOME-DA-LINHA-DE-PESQUISA="Linguagens e ferramentas de autoria para a criação de Sistemas Tutores Inteligentes"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Ferramentas de Autoria</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Sistemas Tutores Inteligentes</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6939518478862624" NOME-COMPLETO="Alexandre Ibrahim Direne"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11577"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6868372533000061" NOME-COMPLETO="Rômulo César Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="410296"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas Tutores Inteligentes"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

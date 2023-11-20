@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="7764302248271144"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="111754"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="24102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="1554213867338831" CODIGO-AREA-PREDOMINANTE="93300000"
+                           NOME-DA-UNIDADE="Instituto de Informática"
+                           NOME-DO-ORGAO="Instituto de Informática"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="RS"
+                           SIGLA-DA-INSTITUICAO="UFRGS"
+                           NOME-DA-INSTITUICAO="Universidade Federal do Rio Grande do Sul"
+                           AREA-PREDOMINANTE="Microeletrônica"
+                           GRANDE-AREA-PREDOMINANTE="Outra"
+                           ANO-DE-CRIACAO="2016"
+                           NOME-DO-GRUPO="Efeitos da Radiação em Sistemas de Hardware">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="6532338737692493" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Fernanda Gusmão de Lima Kastensmidt"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="1745194055679908" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Gilson Inacio Wirth"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="4314902" DDDFAX=""
+                                       LONGITUDE="-51.13895409999998"
+                                       LATITUDE="-30.0713569"
+                                       CAIXA-POSTAL="15064"
+                                       LOCALIDADE="Porto Alegre"
+                                       NUMERO="43424"
+                                       COMPLEMENTO="sala 225"
+                                       LOGRADOURO="AC Campus da UFRGS"
+                                       HOME-PAGE="www.inf.ufrgs.br/~fglima"
+                                       E-MAIL="fglima@inf.ufrgs.br"
+                                       FAX=""
+                                       RAMAL=""
+                                       TELEFONE="3308-7036"
+                                       DDD="51"
+                                       CEP="91501970"
+                                       CIDADE="Porto Alegre"
+                                       UF="RS"
+                                       BAIRRO="Agronomia"/>
+      <REPERCUSSOES>Este grupo de pesquisa estuda os efeitos de radiação em sistemas de hardware, analisando em detalhes as falhas transientes e errors gerados em diversos componentes, para uso em aplicações de missão crítica e remotas, como a aeroespacial. Os pesquisadores modelam as falhas e estudam e desenvolvem metodologias de injeção de falhas para estudar o comportamento das mesmas. Um conjunto de técnicas de mitigação de falhas transientes, bem como métodos para a qualificação desses circuitos sob radiação são desenvolvidos. Aplicabilidade: área aeroespaciais, servidores, transporte de veiculos autonomos e todas as aplicações que requerem alta confiabilidade. O grupo já qualificou varios circuitos sob radiação e tem dados experimentais de radiação em FPGAs, processadores, GPUs e circuitos integrados digitais e analogicos especificos. Os pesquisadores possuem mais de 100 artigos publicados neste tema e colaboram com diversas instituições internacionais. </REPERCUSSOES>
+      <REDES-DE-PESQUISA>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA=""
+                           URL-DA-REDE-DE-PESQUISA="http://www.namitec.org.br/"
+                           NOME-DA-REDE-DE-PESQUISA="INCT - NAMITEC"/>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="" URL-DA-REDE-DE-PESQUISA=""
+                           NOME-DA-REDE-DE-PESQUISA="PRONEX"/>
+      </REDES-DE-PESQUISA>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="WIRTH, G. I.;Wirth, Gilson Inacio;Wirth, Gilson;Wirth, Gilson I.;Wirth, Gilson Inácio;WIRTH, G.;WIRTH, G;WIRTH, G.I.;Gilson Wirth"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1745194055679908"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Gilson Inacio Wirth">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Falhas transientes em Circuitos Integrados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mitigação a Radiação em Sistemas de Hardware em nivel de projeto lógico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Materiais e Componentes Semicondutores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="AZAMBUJA, J. R. F.;Azambuja, José Rodrigo;AZAMBUJA, JOSE RODRIGO;AZAMBUJA, J. RODRIGO;AZAMBUJA, JOSE R.;AZAMBUJA, JOSE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2507333666306110"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="José Rodrigo Furlanetto de Azambuja">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tolerancia a Falhas em Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CHIELLE, E.;CHIELLE, EDUARDO" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5757943714709622"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Eduardo Chielle">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tolerancia a Falhas em Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teste e Tolerância a Falhas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GONÇALEZ, O. L.;Gonçalez, O.L.;Goncalez, Odair Lelis;GONCALEZ, O. L.;GONC'ALEZ, ODAIR LELIS;GONÇALEZ, ODAIR L.;GONÇALEZ, ODAIR LELIS;GONCALEZ, ODAIR L.;Odair Lélis Gonçalez;GONÇALES, ODAIR LELIS;GONZALES, O. L.;GONZALES, O.L."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7623423841530910"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Odair Lelis Gonçalez">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Falhas transientes em Circuitos Integrados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Qualificação de Sistemas em Hardware sob Radiação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dosimetria da radiação ionizante</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Aeroespacial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BALEN, Tiago Roberto;Balen, Tiago R.;BALEN, T;BALEN, T. R"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6801014238742352"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Tiago Roberto Balen">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Falhas transientes em Circuitos Integrados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mitigação a Radiação em Sistemas de Hardware em nivel de projeto lógico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Qualificação de Sistemas em Hardware sob Radiação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Elétricos, Magnéticos e Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teste de sistemas eletrônicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="RECH, P.;Rech, P.;Rech, Paolo" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4863727818159643"
+                   PAIS-DE-NASCIMENTO="ITA"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Paolo Rech">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Técnicas e Ferramentas para Injeção de Falhas em Sistemas de Hardware"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Qualificação de Sistemas em Hardware sob Radiação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tolerancia a Falhas em Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="KASTENSMIDT,  F. L.;Kastensmidt, Fernanda Lima;Kastensmidt, Fernanda;Kastensmidt, F.;Kastensmidt, F. L.;Kastensmidt, Fernanda L.;KASTENSMIDT, FERNANDA G. L.;Fernanda Lima Kastensmidt;Lima Kastensmidt, Fernanda;Lima Kastensmidt, F.;Kastensmidt, Fernanda Gusmão de Lima"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="F"
+                   NRO-ID-CNPQ="6532338737692493"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fernanda Gusmão de Lima Kastensmidt">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Técnicas e Ferramentas para Injeção de Falhas em Sistemas de Hardware"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mitigação a Radiação em Sistemas de Hardware em nivel de projeto lógico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Qualificação de Sistemas em Hardware sob Radiação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tolerancia a Falhas em Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Satélites e Outros Dispositivos Aeroespaciais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teste e Tolerância a Falhas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="REIS, R. A. L.;Reis, R.;Reis, Ricardo;Reis, Ricardo A. L.;Reis, Ricardo Augusto da Luz;Ricardo Reis;REIS, R.A.L.;Reis, Ricardo A.L.;reis ricardo"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4585719152284650"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ricardo Augusto da Luz Reis">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mitigação a Radiação em Sistemas de Hardware em nivel de projeto lógico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>CAD</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Elétricos, Magnéticos e Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="AGUIAR, Y. Q.;AGUIAR, YGOR QUADROS DE;AGUIAR, Y.Q. DE"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RICARDO AUGUSTO DA LUZ REIS"
+                 NRO-ID-CNPQ-ORIENTADOR="4585719152284650"
+                 SEQUENCIA-ESTUDANTE="4058861"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2003690783535113"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ygor Quadros de Aguiar">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mitigação a Radiação em Sistemas de Hardware em nivel de projeto lógico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação em Ciências</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ROSSETTO, A. C. J." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="GILSON INACIO WIRTH"
+                 NRO-ID-CNPQ-ORIENTADOR="1745194055679908"
+                 SEQUENCIA-ESTUDANTE="4178479"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6944075685926454"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alan Carlos Junior Rossetto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Falhas transientes em Circuitos Integrados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teste e Tolerância a Falhas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PEREIRA JUNIOR, E. C. F.;FONSECA, EVALDO CARLOS PEREIRA;JUNIOR, EVALDO C. P. F.;Pereira, Evaldo C. F.;Pereira, Evaldo Carlos Fonseca;PEREIRA JUNIOR, EVALDO CARLOS FONSECA"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ODAIR LELIS GONCALEZ"
+                 NRO-ID-CNPQ-ORIENTADOR="7623423841530910"
+                 SEQUENCIA-ESTUDANTE="2710926"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3529822081139841"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Evaldo Carlos Fonseca Pereira Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Qualificação de Sistemas em Hardware sob Radiação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Lineares e Não-Lineares</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Magnéticos , Magnetismos e Eletromagnetismos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Vieira, Michele G.;VIEIRA, MICHELE;Michele G. Vieira;VIEIRA, M.G.;VIEIRA, M."
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="GILSON INACIO WIRTH"
+                 NRO-ID-CNPQ-ORIENTADOR="1745194055679908"
+                 SEQUENCIA-ESTUDANTE="636515"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4811521708529977"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Michele Gusson Vieira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Falhas transientes em Circuitos Integrados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle e Automação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LINS, F. M." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Mestrado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="PAOLO RECH"
+                 NRO-ID-CNPQ-ORIENTADOR="4863727818159643"
+                 SEQUENCIA-ESTUDANTE="4151553"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4843014134600444"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Filipe Maciel Lins">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Técnicas e Ferramentas para Injeção de Falhas em Sistemas de Hardware"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>.</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Códigos Corretores de Erro</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Digital de Sinais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Unified Extensible Firmware Interface</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Copetti, T.;COPETTI, T.;COPETTI, T.S.;COPETTI, THIAGO;COPETTI, THIAGO SANTOS"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="TIAGO ROBERTO BALEN"
+                 NRO-ID-CNPQ-ORIENTADOR="6801014238742352"
+                 SEQUENCIA-ESTUDANTE="4163202"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5398397580824100"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Thiago Santos Copetti">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mitigação a Radiação em Sistemas de Hardware em nivel de projeto lógico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LIBANO, F. P." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FERNANDA GUSMAO DE LIMA KASTENSMIDT"
+                 NRO-ID-CNPQ-ORIENTADOR="6532338737692493"
+                 SEQUENCIA-ESTUDANTE="5334284"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5336273463644846"
+                 PAIS-DE-NASCIMENTO="ESP"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Fabiano Pereira Libano">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Qualificação de Sistemas em Hardware sob Radiação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagem Formais e Autômatos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mobile Application Development</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria Geral dos Circuitos Elétricos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BOTH, T. H.;BOTH, THIAGO HANNA;BOTH, T.;BOTH, THIAGO;BOTH, THIAGO H."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="GILSON INACIO WIRTH"
+                 NRO-ID-CNPQ-ORIENTADOR="1745194055679908"
+                 SEQUENCIA-ESTUDANTE="3152047"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3947072395032242"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Thiago Hanna Both">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Falhas transientes em Circuitos Integrados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS, A. F." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FERNANDA GUSMAO DE LIMA KASTENSMIDT"
+                 NRO-ID-CNPQ-ORIENTADOR="6532338737692493"
+                 SEQUENCIA-ESTUDANTE="5779158"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4249324194215985"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="André Flores dos Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mitigação a Radiação em Sistemas de Hardware em nivel de projeto lógico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, Á. B." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FERNANDA GUSMAO DE LIMA KASTENSMIDT"
+                 NRO-ID-CNPQ-ORIENTADOR="6532338737692493"
+                 SEQUENCIA-ESTUDANTE="3877954"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7314683710899486"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ádria Barros de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Qualificação de Sistemas em Hardware sob Radiação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tolerancia a Falhas em Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="TAMBARA, L. A.;TAMBARA, LUCAS A.;TAMBARA, LUCAS;TAMBARA, L.;Tambara, Lucas A.;Tambara, L. A.;Tambara, Lucas;Tambara, L.;TAMBARA, LUCAS ANTUNES"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FERNANDA GUSMAO DE LIMA KASTENSMIDT"
+                 NRO-ID-CNPQ-ORIENTADOR="6532338737692493"
+                 SEQUENCIA-ESTUDANTE="2897238"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3272427542645197"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lucas Antunes Tambara">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mitigação a Radiação em Sistemas de Hardware em nivel de projeto lógico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Qualificação de Sistemas em Hardware sob Radiação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Satélites e Outros Dispositivos Aeroespaciais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Embarcados</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="RODRIGUES, G. S.;RODRIGUES, GENNARO S.;RODRIGUES, GENNARO SEVERINO"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FERNANDA GUSMAO DE LIMA KASTENSMIDT"
+                 NRO-ID-CNPQ-ORIENTADOR="6532338737692493"
+                 SEQUENCIA-ESTUDANTE="4105547"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0076972069450627"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gennaro Severino Rodrigues">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Técnicas e Ferramentas para Injeção de Falhas em Sistemas de Hardware"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tolerancia a Falhas em Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GOMES, I. A. C.;GOMES, IURI A. C."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FERNANDA GUSMAO DE LIMA KASTENSMIDT"
+                 NRO-ID-CNPQ-ORIENTADOR="6532338737692493"
+                 SEQUENCIA-ESTUDANTE="3266328"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7482827809634477"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Iuri Albandes Cunha Gomes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mitigação a Radiação em Sistemas de Hardware em nivel de projeto lógico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="AGUILERA, C. J. G." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="TIAGO ROBERTO BALEN"
+                 NRO-ID-CNPQ-ORIENTADOR="6801014238742352"
+                 SEQUENCIA-ESTUDANTE="4520176"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8932749551005206"
+                 PAIS-DE-NASCIMENTO="COL"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Carlos Julio Gonzalez Aguilera">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mitigação a Radiação em Sistemas de Hardware em nivel de projeto lógico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Elétricos, Magnéticos e Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Eletrônica Industrial, Sistemas e Controles Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica, Mecatrônica e Automação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PICCOLI, Leonardo Bisch;PICCOLI, Leonardo B.;PICCOLI, L. B.;PICCOLI, Leonardo;PICCOLI, L.;LEONARDO, PICCOLI,;Bisch Piccoli, Leonardo;Piccoli, L. B."
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="TIAGO ROBERTO BALEN"
+                 NRO-ID-CNPQ-ORIENTADOR="6801014238742352"
+                 SEQUENCIA-ESTUDANTE="638423"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1537113909335138"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Leonardo Bisch Piccoli">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mitigação a Radiação em Sistemas de Hardware em nivel de projeto lógico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Sinais Biológicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ZIMPECK, A. L.;ZIMPECK, A.L.;ZIMPECK, ALEXANDRA L."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RICARDO AUGUSTO DA LUZ REIS"
+                 NRO-ID-CNPQ-ORIENTADOR="4585719152284650"
+                 SEQUENCIA-ESTUDANTE="3823099"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9364248421045844"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alexandra Lackmann Zimpeck">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mitigação a Radiação em Sistemas de Hardware em nivel de projeto lógico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teste e Tolerância a Falhas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, M. L. B." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="TIAGO ROBERTO BALEN"
+                 NRO-ID-CNPQ-ORIENTADOR="6801014238742352"
+                 SEQUENCIA-ESTUDANTE="6812380"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8025578358329296"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Matheus Ladvig Budelon Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mitigação a Radiação em Sistemas de Hardware em nivel de projeto lógico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BENITES, L. A. C." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FERNANDA GUSMAO DE LIMA KASTENSMIDT"
+                 NRO-ID-CNPQ-ORIENTADOR="6532338737692493"
+                 SEQUENCIA-ESTUDANTE="4748328"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3246997150685946"
+                 PAIS-DE-NASCIMENTO="PER"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Luis Alberto Contreras Benites">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mitigação a Radiação em Sistemas de Hardware em nivel de projeto lógico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Integrados Digitais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica, Mecatrônica e Automação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Embarcados</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="VAZ, P. I.;VAZ, PABLO;VAZ, PABLO ILHA"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="GILSON INACIO WIRTH"
+                 NRO-ID-CNPQ-ORIENTADOR="1745194055679908"
+                 SEQUENCIA-ESTUDANTE="2058032"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5007427599617309"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Pablo Ilha Vaz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Falhas transientes em Circuitos Integrados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="HOPPE, A. W.;HOPPE, A.;WANKLER HOPPE, A.;WANKLER-HOPPE, A.;Hoppe, Augusto Wankler"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FERNANDA GUSMAO DE LIMA KASTENSMIDT"
+                 NRO-ID-CNPQ-ORIENTADOR="6532338737692493"
+                 SEQUENCIA-ESTUDANTE="4569312"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0380473364655125"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Augusto Wankler Hoppe">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Técnicas e Ferramentas para Injeção de Falhas em Sistemas de Hardware"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Qualificação de Sistemas em Hardware sob Radiação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS>
+      <COLABORADOR-ESTRANGEIRO NOME-CITACOES="TARRILLO, J. F." SEXO="M" NRO-ID-CNPQ="9605201254051004"
+                               PAIS-DE-NASCIMENTO="PER"
+                               NACIONALIDADE="E"
+                               NOME-COMPLETO="Jimmy Fernando Tarrillo Olano"
+                               TITULACAO-MAXIMA="Mestrado"
+                               SEQUENCIA-COLABORADOR="1">
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </COLABORADOR-ESTRANGEIRO>
+      <COLABORADOR-ESTRANGEIRO NOME-CITACOES="RESTREPO-CALLE, F.;RESTREPO-CALLE, FELIPE" SEXO="M"
+                               NRO-ID-CNPQ="4213309656202548"
+                               PAIS-DE-NASCIMENTO="COL"
+                               NACIONALIDADE="E"
+                               NOME-COMPLETO="Felipe Restrepo-Calle"
+                               TITULACAO-MAXIMA="Doutorado"
+                               SEQUENCIA-COLABORADOR="2">
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </COLABORADOR-ESTRANGEIRO>
+      <COLABORADOR-ESTRANGEIRO NOME-CITACOES="TONFAT, J.;TONFAT, JORGE;TONFAT, J.L.;TONFAT, JORGE L;TONFAT, JORGE L."
+                               SEXO="M"
+                               NRO-ID-CNPQ="6759598687328322"
+                               PAIS-DE-NASCIMENTO="PER"
+                               NACIONALIDADE="E"
+                               NOME-COMPLETO="Jorge Lucio Tonfat Seclen"
+                               TITULACAO-MAXIMA="Doutorado"
+                               SEQUENCIA-COLABORADOR="3">
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microeletrônica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </COLABORADOR-ESTRANGEIRO>
+   </COLABORADORES-ESTRANGEIROS>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2236685187821869"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Técnicas de tolerancia a falhas em nivel de circuito para sistemas de hardware."
+                         NOME-DA-LINHA-DE-PESQUISA="Mitigação a Radiação em Sistemas de Hardware em nivel de projeto lógico"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Hardening by design</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">redundância temporal e espacial</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">SEE</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4585719152284650" NOME-COMPLETO="Ricardo Augusto da Luz Reis"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="30"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1745194055679908" NOME-COMPLETO="Gilson Inacio Wirth"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="80698"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6801014238742352" NOME-COMPLETO="Tiago Roberto Balen"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="312721"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6532338737692493"
+                               NOME-COMPLETO="Fernanda Gusmão de Lima Kastensmidt"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="380286"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1537113909335138" NOME-COMPLETO="Leonardo Bisch Piccoli"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="638423"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3272427542645197" NOME-COMPLETO="Lucas Antunes Tambara"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2897238"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7482827809634477" NOME-COMPLETO="Iuri Albandes Cunha Gomes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3266328"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9364248421045844" NOME-COMPLETO="Alexandra Lackmann Zimpeck"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3823099"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2003690783535113" NOME-COMPLETO="Ygor Quadros de Aguiar"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4058861"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5398397580824100" NOME-COMPLETO="Thiago Santos Copetti"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4163202"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8932749551005206" NOME-COMPLETO="Carlos Julio Gonzalez Aguilera"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4520176"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3246997150685946" NOME-COMPLETO="Luis Alberto Contreras Benites"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4748328"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4249324194215985" NOME-COMPLETO="André Flores dos Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5779158"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8025578358329296" NOME-COMPLETO="Matheus Ladvig Budelon Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6812380"
+                             SEQUENCIA-ESTUDANTE="10"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="93303009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="93303009"
+                                  CODIGO-AREA="93300000"
+                                  CODIGO-GRANDE-AREA="90000005"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teste e Tolerância a Falhas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Microeletrônica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Outra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1376"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.61.3" SUBSETOR="Telecomunicações"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7043000197434392"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Teste de microprocessadores, circuitos programáveis, GPUs e outros sistemas de harware sob ions ionizados como ions pesados, protons e neutrons. "
+                         NOME-DA-LINHA-DE-PESQUISA="Qualificação de Sistemas em Hardware sob Radiação"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">SEE</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">TID</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">soft error</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">aceleradores de partículas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">radiação ionizante</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Microprocessadores</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6801014238742352" NOME-COMPLETO="Tiago Roberto Balen"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="312721"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7623423841530910" NOME-COMPLETO="Odair Lelis Gonçalez"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="339960"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6532338737692493"
+                               NOME-COMPLETO="Fernanda Gusmão de Lima Kastensmidt"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="380286"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4863727818159643" NOME-COMPLETO="Paolo Rech"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="4328472"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3529822081139841"
+                             NOME-COMPLETO="Evaldo Carlos Fonseca Pereira Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2710926"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3272427542645197" NOME-COMPLETO="Lucas Antunes Tambara"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2897238"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7314683710899486" NOME-COMPLETO="Ádria Barros de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3877954"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0380473364655125" NOME-COMPLETO="Augusto Wankler Hoppe"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4569312"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5336273463644846" NOME-COMPLETO="Fabiano Pereira Libano"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5334284"
+                             SEQUENCIA-ESTUDANTE="5"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="93303009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="93303009"
+                                  CODIGO-AREA="93300000"
+                                  CODIGO-GRANDE-AREA="90000005"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teste e Tolerância a Falhas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Microeletrônica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Outra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1376"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.61.3" SUBSETOR="Telecomunicações"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6785758986325872"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Tecnicas de redandancia aplicada em software para detectar e corrigir errors de radiação. "
+                         NOME-DA-LINHA-DE-PESQUISA="Tolerancia a Falhas em Software"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">redundância</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">tolerância a falhas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">software tolerante</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2507333666306110"
+                               NOME-COMPLETO="José Rodrigo Furlanetto de Azambuja"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="728904"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6532338737692493"
+                               NOME-COMPLETO="Fernanda Gusmão de Lima Kastensmidt"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="380286"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5757943714709622" NOME-COMPLETO="Eduardo Chielle"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2938898"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4863727818159643" NOME-COMPLETO="Paolo Rech"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="4328472"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7314683710899486" NOME-COMPLETO="Ádria Barros de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3877954"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0076972069450627" NOME-COMPLETO="Gennaro Severino Rodrigues"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4105547"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="93303009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="93303009"
+                                  CODIGO-AREA="93300000"
+                                  CODIGO-GRANDE-AREA="90000005"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teste e Tolerância a Falhas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Microeletrônica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Outra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1376"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.61.3" SUBSETOR="Telecomunicações"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5929746623338106"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de técnicas e ferramentas que permitem a injeção de falhas em sistemas de hardware no nivel de transistor, logico e sistemico. "
+                         NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de Técnicas e Ferramentas para Injeção de Falhas em Sistemas de Hardware"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">injeção de falhas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">falhas transientes</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6532338737692493"
+                               NOME-COMPLETO="Fernanda Gusmão de Lima Kastensmidt"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="380286"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4863727818159643" NOME-COMPLETO="Paolo Rech"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="4328472"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0076972069450627" NOME-COMPLETO="Gennaro Severino Rodrigues"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4105547"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4843014134600444" NOME-COMPLETO="Filipe Maciel Lins"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4151553"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0380473364655125" NOME-COMPLETO="Augusto Wankler Hoppe"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4569312"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="93303009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="93303009"
+                                  CODIGO-AREA="93300000"
+                                  CODIGO-GRANDE-AREA="90000005"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teste e Tolerância a Falhas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Microeletrônica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Outra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1376"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.61.3" SUBSETOR="Telecomunicações"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1113370797139925"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Modelar falhas do tipo transientes em dispositivos e sistemas de hardware."
+                         NOME-DA-LINHA-DE-PESQUISA="Modelagem de Falhas transientes em Circuitos Integrados"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">análise de falhas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">modelagem de falhas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Falhas transientes</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1745194055679908" NOME-COMPLETO="Gilson Inacio Wirth"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="80698"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6801014238742352" NOME-COMPLETO="Tiago Roberto Balen"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="312721"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7623423841530910" NOME-COMPLETO="Odair Lelis Gonçalez"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="339960"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4811521708529977" NOME-COMPLETO="Michele Gusson Vieira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="636515"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5007427599617309" NOME-COMPLETO="Pablo Ilha Vaz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2058032"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3947072395032242" NOME-COMPLETO="Thiago Hanna Both"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3152047"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6944075685926454" NOME-COMPLETO="Alan Carlos Junior Rossetto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4178479"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="93303009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="93303009"
+                                  CODIGO-AREA="93300000"
+                                  CODIGO-GRANDE-AREA="90000005"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teste e Tolerância a Falhas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Microeletrônica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Outra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1376"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.61.3" SUBSETOR="Telecomunicações"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="0075478759319119"
+               RAZAO-SOCIAL-DA-EMPRESA="Comando da Aeronáutica"
+               NATUREZA-JURIDICA="Órgão Público do Poder Executivo Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="00394429014160"
+               LOCALIDADE="São José dos Campos"
+               CIDADE="São José dos Campos"
+               UF="SP"
+               SIGLA-DA-EMPRESA="IEAv"
+               NOME-DA-EMPRESA="Instituto de Estudos Avançados"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="O.84.2"
+                                          SUBSETOR="Serviços coletivos prestados pela administração pública"
+                                          SETOR="Administração pública, defesa e seguridade social"
+                                          GRANDE-SETOR="Administração pública, defesa e seguridade social"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

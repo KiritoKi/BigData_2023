@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="8379746972475981"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="114858"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="08102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="5755154155809570" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE="Departamento de Informática"
+                           NOME-DO-ORGAO="Departamento de Informática"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="PR"
+                           SIGLA-DA-INSTITUICAO="UEM"
+                           NOME-DA-INSTITUICAO="Universidade Estadual de Maringá"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2006"
+                           NOME-DO-GRUPO="Engenharia de Algoritmo">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="2294602229519458" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Ademir Aparecido Constantino"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="9002277319801098" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Wesley Romão"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="4115200" DDDFAX="44"
+                                       LONGITUDE="-51.93638026714325"
+                                       LATITUDE="-23.405699542742177"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Maringá"
+                                       NUMERO="5790"
+                                       COMPLEMENTO="Bloco C56"
+                                       LOGRADOURO="Av. Colombo"
+                                       HOME-PAGE="www.din.uem.br/~ademir"
+                                       E-MAIL="ademir@din.uem.br"
+                                       FAX="32635874"
+                                       RAMAL=""
+                                       TELEFONE="30114324"
+                                       DDD="44"
+                                       CEP="87020900"
+                                       CIDADE="Maringá"
+                                       UF="PR"
+                                       BAIRRO="Jardim Universitário"/>
+      <REPERCUSSOES>A atividade pesquisa do grupo está concentrada no projeto e análise teórica e experimental de algoritmos para problemas que surgem nos modernos Sistemas de Produção e Computação e em aplicações relacionadas com problemas complexos de gerenciamento de recursos. O principial  interesse de pesquisa está focado na resolução de problemas de otimização, de problemas de desenho de grafo e em projeto de estrutura de dados e algoritmos eficientes, com ênfase especial naquelas aplicações envolvendo grande quantidade de dados.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="MULATI, M. H.;MULATI, MAURO HENRIQUE"
+                   TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3945457468863985"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Mauro Henrique Mulati">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Heurísticas e Meta-heurísticas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Algoritmos Heurísticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização Combinatória</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CONSTANTINO, A. A.;Constantino, Ademir A.;Constantino, Ademir Aparecido"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2294602229519458"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ademir Aparecido Constantino">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Planarização de grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Heurísticas e Meta-heurísticas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Problemas de Escalonamento (Scheduling)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mineração de dados e Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Linear, Não-Linear, Mista e Dinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria dos Grafos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Romão;Wesley;Romão, W.;ROMÃO, WESLEY;ROMAO, WESLEY;Wesley Romão;Romão, Wesley"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9002277319801098"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Wesley Romão">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Problemas de Escalonamento (Scheduling)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Mineração de dados e Otimização"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Algoritmos Genéticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mineração de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Para Web</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="KIKUTI, D.;Kikuti, Daniel" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0159787550694631"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Daniel Kikuti">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Problemas de Escalonamento (Scheduling)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MENDONÇA, C. F. X.;Mendonça, C. F. X.;Mendonça, Candido F.X.;Mendonça, C.F.X.;Mendonça, Candido Ferreira Xavier"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1539584880795958"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Candido Ferreira Xavier de Mendonça Neto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Planarização de grafos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Heurísticas e Meta-heurísticas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Problemas de Escalonamento (Scheduling)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria dos Grafos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ARAUJO, S. A.;ARAÚJO, S. A.;S. A. ARAUJO;ARAUJO, S.;de ARAUJO, S. A.;de ARAUJO, S.;Silvio A. Araujo;Silvio Araujo;Silvio de Araujo;Silvio A. de Araujo;Araujo, Silvio A.;ARAUJO, S.A. de;ARAUJO, SILVIO ALEXANDRE DE;ARAUJO, SILVIO ALEXANDRE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9919773182316062"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Silvio Alexandre de Araujo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Heurísticas e Meta-heurísticas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Produção</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Discreta e Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Linear Inteira e Mista</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="HAERTEL, R." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ADEMIR APARECIDO CONSTANTINO"
+                 NRO-ID-CNPQ-ORIENTADOR="2294602229519458"
+                 SEQUENCIA-ESTUDANTE="5378070"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1859716994871377"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Renan Haertel">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Heurísticas e Meta-heurísticas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Problemas de Escalonamento (Scheduling)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOLTOSKI, Roberto César" NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ADEMIR APARECIDO CONSTANTINO"
+                 NRO-ID-CNPQ-ORIENTADOR="2294602229519458"
+                 SEQUENCIA-ESTUDANTE="827907"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8582069248941402"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Roberto César Soltoski">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Heurísticas e Meta-heurísticas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Redes</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cisco Networking Academy</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Furukawa</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Servidores Linux</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Servidores Windows</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Virtualização de Servidores</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MARTINS, L. L." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ADEMIR APARECIDO CONSTANTINO"
+                 NRO-ID-CNPQ-ORIENTADOR="2294602229519458"
+                 SEQUENCIA-ESTUDANTE="6305722"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9209446423316946"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Leonardo Laraniaga Martins">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Heurísticas e Meta-heurísticas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, E. D." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ADEMIR APARECIDO CONSTANTINO"
+                 NRO-ID-CNPQ-ORIENTADOR="2294602229519458"
+                 SEQUENCIA-ESTUDANTE="2501517"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8973292500479971"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Emmanuel Damiani da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Problemas de Escalonamento (Scheduling)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GARCIA, R. L." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ADEMIR APARECIDO CONSTANTINO"
+                 NRO-ID-CNPQ-ORIENTADOR="2294602229519458"
+                 SEQUENCIA-ESTUDANTE="3870856"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7881193399087120"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Renan Leon Garcia">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Problemas de Escalonamento (Scheduling)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS, A. F." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ADEMIR APARECIDO CONSTANTINO"
+                 NRO-ID-CNPQ-ORIENTADOR="2294602229519458"
+                 SEQUENCIA-ESTUDANTE="4510812"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5141952181504703"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Allainclair Flausino dos Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Problemas de Escalonamento (Scheduling)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria dos Grafos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1639634794819918"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Investigar as mais variadas meta-heurísticas existentes na literatura com o objetivo de desenvolver algoritmos heurísticos robustos para diversos problema de otimização combinatória e grafos."
+                         NOME-DA-LINHA-DE-PESQUISA="Heurísticas e Meta-heurísticas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">meta-heurísticas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3945457468863985" NOME-COMPLETO="Mauro Henrique Mulati"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="735327"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2294602229519458" NOME-COMPLETO="Ademir Aparecido Constantino"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="98777"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1539584880795958"
+                               NOME-COMPLETO="Candido Ferreira Xavier de Mendonça Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="5297"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9919773182316062" NOME-COMPLETO="Silvio Alexandre de Araujo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="135439"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1859716994871377" NOME-COMPLETO="Renan Haertel"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5378070"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8582069248941402" NOME-COMPLETO="Roberto César Soltoski"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="827907"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9209446423316946" NOME-COMPLETO="Leonardo Laraniaga Martins"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6305722"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30802008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30802008"
+                                  CODIGO-AREA="30800005"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Pesquisa Operacional"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Produção"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="546"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="H" SUBSETOR=""
+                                SETOR="Transporte, armazenagem e correio"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3178362102378281"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Muitas aplicações estão relacionadas com o problema de planarização de grafos. O objetivo é investigar técnicas, propriedades e algoritmos para solucionar estes problema."
+                         NOME-DA-LINHA-DE-PESQUISA="Planarização de grafos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Planarização de grafos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Árvores-PQ</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Teste de Planaridade</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2294602229519458" NOME-COMPLETO="Ademir Aparecido Constantino"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="98777"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1539584880795958"
+                               NOME-COMPLETO="Candido Ferreira Xavier de Mendonça Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="5297"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10301003" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10301003"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="48"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="H.49.3" SUBSETOR="Transporte terrestre"
+                                SETOR="Transporte, armazenagem e correio"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2796473201387821"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Investigação de algoritmos heurísticos para Mineração de dados e Descoberta de conhecimento, assim como a integração e aplicação de técnicas em otimização."
+                         NOME-DA-LINHA-DE-PESQUISA="Mineração de dados e Otimização"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Mineração de Dados</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2294602229519458" NOME-COMPLETO="Ademir Aparecido Constantino"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="98777"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9002277319801098" NOME-COMPLETO="Wesley Romão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="223686"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="62"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.6"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4563409744289634"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Escalonamento (scheduling) signfica definir uma sequência de evento ao longo do tempo, obecendo a um conjunto de restrições e, normalmente, otimizando uma função objtivo.Esta linha tem o objetivo de investigar técnicas focadas em problemas de escalonamento (scheduling), combinando métodos heurísticos com métodos exatos."
+                         NOME-DA-LINHA-DE-PESQUISA="Problemas de Escalonamento (Scheduling)"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Scheduling</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Rostering</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Timetabling</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Escalonamento</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2294602229519458" NOME-COMPLETO="Ademir Aparecido Constantino"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="98777"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9002277319801098" NOME-COMPLETO="Wesley Romão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="223686"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0159787550694631" NOME-COMPLETO="Daniel Kikuti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="279572"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1539584880795958"
+                               NOME-COMPLETO="Candido Ferreira Xavier de Mendonça Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="5297"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1859716994871377" NOME-COMPLETO="Renan Haertel"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5378070"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8973292500479971" NOME-COMPLETO="Emmanuel Damiani da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2501517"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7881193399087120" NOME-COMPLETO="Renan Leon Garcia"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3870856"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5141952181504703" NOME-COMPLETO="Allainclair Flausino dos Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4510812"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30802008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30802008"
+                                  CODIGO-AREA="30800005"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Pesquisa Operacional"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Produção"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="546"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="H" SUBSETOR=""
+                                SETOR="Transporte, armazenagem e correio"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P" SUBSETOR="" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

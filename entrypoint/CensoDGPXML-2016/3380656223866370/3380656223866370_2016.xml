@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="3380656223866370"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="142309"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="16102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="8004037847464216" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE="Departamento de Informática"
+                           NOME-DO-ORGAO="Departamento de Informática"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="RJ"
+                           SIGLA-DA-INSTITUICAO="PUC-Rio"
+                           NOME-DA-INSTITUICAO="Pontifícia Universidade Católica do Rio de Janeiro"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2002"
+                           NOME-DO-GRUPO="Tecnologias de Otimização e Aplicações">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="0833253899619895" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Marcus Vinicius Soledade Poggi de Aragao"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="6500432536491071" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Eduardo Uchoa Barboza"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3304557" DDDFAX="21"
+                                       LONGITUDE="-43.228514700000005"
+                                       LATITUDE="-22.9760044"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Rio de Janeiro"
+                                       NUMERO="225"
+                                       COMPLEMENTO="Depto. Informatica"
+                                       LOGRADOURO="Pontifícia Universidade Católica - PUC"
+                                       HOME-PAGE="http://galgos.inf.puc-rio.br"
+                                       E-MAIL="poggi@inf.puc-rio.br"
+                                       FAX="35271530"
+                                       RAMAL=""
+                                       TELEFONE="35271500"
+                                       DDD="21"
+                                       CEP="22451900"
+                                       CIDADE="Rio de Janeiro"
+                                       UF="RJ"
+                                       BAIRRO="Gávea"/>
+      <REPERCUSSOES>Resultados e códigos com impacto direto no estado arte na sua área de atuação.  O grupo é o atual benchmark na resolução ótima do clássico Problema de Roteamento de Veículos com Restrição de Capacidade (CVRP) ver o site: VRP.INF.PUC-RIO.BR. Atualmente, instâncias com mais de 300 clientes podem ser resolvidas, comprovando seus valores ótimos. Ainda no problema de Roteamento de Veículos, os pesquisadores Vidal e Subramanian são os autores doa algoritmos aproximados para 26 variantes desse problema,Publicações em 1999, 2004 e 2014 na conferência "Integer Programming and Combinatorial Optimization (IPCO)" organizado pela Mathematical Programming Society.  Outras publicações: Mathematical Programming, Networks, EJOR, TCS, Computers and Operations Research, Informs Journal on Computing, Journal of Approximate Resonning, ACM Journal of Experimental Algorithms, entre outras, e conferências como ALENEX, ATMOS, WEA, GRACO, ROUTE, ISMP, IPCO.  </REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="VIDAL, T.;VIDAL, THIBAUT" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1821402316308818"
+                   PAIS-DE-NASCIMENTO="FRA"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Thibaut Victor Gaston Vidal">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos Aproximados e Metaeurísticas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização Combinatória para Processamento de Sinal"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos para Problemas de Escalonamento (Scheduling)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Transportes</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MORENO, Lorenza; MORENO, L.;Moreno, L."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="F"
+                   NRO-ID-CNPQ="9449361976082673"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Lorenza Leão Oliveira Moreno">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Geração de Colunas para Problemas de Empacotamento e Transportes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Discreta e Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="UCHOA, E.;UCHOA, E;Uchoa, Eduardo;Barboza, Eduardo Uchoa"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6500432536491071"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Eduardo Uchoa Barboza">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos de Fluxo para Problemas de Otimização Combinatória"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos para Problemas de Escalonamento (Scheduling)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Geração de Colunas para Problemas de Empacotamento e Transportes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="POGGI DE ARAGAO, M.;Poggi de Aragão, Marcus V.S.;Poggi de AragÃ£o, Marcus;Poggi, Marcus;Aragao, M. P. d.;de Aragão, Marcus Poggi;Aragão, Marcus Poggi;Poggi de Aragão, Marcus V. S."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0833253899619895"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcus Vinicius Soledade Poggi de Aragao">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos Aproximados e Metaeurísticas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Estocástica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização Combinatória para Processamento de Sinal"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos de Fluxo para Problemas de Otimização Combinatória"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos para Problemas de Escalonamento (Scheduling)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Geração de Colunas para Problemas de Empacotamento e Transportes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Discreta e Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Linear, Não-Linear, Mista e Dinâmica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SUBRAMANIAN, Anand;SUBRAMANIAN, A.;Subramanian, Anand"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2752210156480636"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Anand Subramanian">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Geração de Colunas para Problemas de Empacotamento e Transportes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Martinelli, R.;Martinelli, Rafael;Pinto, R.M."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6823993478179598"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rafael Martinelli Pinto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos Aproximados e Metaeurísticas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização Combinatória para Processamento de Sinal"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Estocástica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Geração de Colunas para Problemas de Empacotamento e Transportes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SOTELO, D.;SOTELO, DAVID" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3686198031103649"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="David Sotelo Pinheiro da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos para Problemas de Escalonamento (Scheduling)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LONGO, H.;LONGO, HUMBERTO;LONGO, HUMBERTO J;LONGO, HUMBERTO J.;LONGO, HUMBERTO JOSÉ;Longo, Humberto José"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0188685041571480"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Humberto José Longo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Geração de Colunas para Problemas de Empacotamento e Transportes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Discreta e Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Linear, Não-Linear, Mista e Dinâmica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PESSOA, A. A.;Pessoa, Artur;Pessoa, Artur Alves;Pessoa, Artur A.;Pessoa, A.A."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9574752711042482"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Artur Alves Pessoa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos para Problemas de Escalonamento (Scheduling)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Geração de Colunas para Problemas de Empacotamento e Transportes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Linear, Não-Linear, Mista e Dinâmica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PECIN, D.;PECIN, DIEGO" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7648677337334837"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Diego Galindo Pecin">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Geração de Colunas para Problemas de Empacotamento e Transportes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="SILVA, T. A." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCUS VINICIUS SOLEDADE POGGI DE ARAGAO"
+                 NRO-ID-CNPQ-ORIENTADOR="0833253899619895"
+                 SEQUENCIA-ESTUDANTE="3022444"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2386179016736430"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Thuener Armando da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Estocástica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos de Fluxo para Problemas de Otimização Combinatória"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Estocástica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Recuperação/Extração de Informações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="F. Castilla" NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCUS VINICIUS SOLEDADE POGGI DE ARAGAO"
+                 NRO-ID-CNPQ-ORIENTADOR="0833253899619895"
+                 SEQUENCIA-ESTUDANTE="3653239"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1420319081322039"
+                 PAIS-DE-NASCIMENTO="COL"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Fabián Arturo Castilla Penaranda">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos para Problemas de Escalonamento (Scheduling)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Geração de Colunas para Problemas de Empacotamento e Transportes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquiça Operacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Computadores</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MENDES, Carlos Raoni A.;Mendes, Carlos Raoni de Alencar;Mendes, Carlos"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCUS VINICIUS SOLEDADE POGGI DE ARAGAO"
+                 NRO-ID-CNPQ-ORIENTADOR="0833253899619895"
+                 SEQUENCIA-ESTUDANTE="701316"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4828370609596492"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Carlos Raoni de Alencar Mendes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Programação Estocástica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Geração de Colunas para Problemas de Empacotamento e Transportes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LIMA, I. X. A." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCUS VINICIUS SOLEDADE POGGI DE ARAGAO"
+                 NRO-ID-CNPQ-ORIENTADOR="0833253899619895"
+                 SEQUENCIA-ESTUDANTE="557767"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7595550329064341"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ivan Xavier Araújo de Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Geração de Colunas para Problemas de Empacotamento e Transportes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ALBUQUERQUE, M. C." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="THIBAUT VICTOR GASTON VIDAL"
+                 NRO-ID-CNPQ-ORIENTADOR="1821402316308818"
+                 SEQUENCIA-ESTUDANTE="2713103"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4428602321810391"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Mayra Carvalho Albuquerque">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos para Problemas de Escalonamento (Scheduling)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização Combinatória</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Linear, Não-Linear, Mista e Dinâmica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7104166416386658"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Propor e estudar  formulações de problemas de otimização combinatória como problemas de múltiplos fluxos   em redes. O objetivo está em avaliar a qualidade destas formulações assim como a eficiência dos métodos  e códigos disponíveis para resolvê-las."
+                         NOME-DA-LINHA-DE-PESQUISA="Modelos de Fluxo para Problemas de Otimização Combinatória"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Programação Linear</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Fluxos em Redes</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Programação Inteira</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6500432536491071" NOME-COMPLETO="Eduardo Uchoa Barboza"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="109703"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0833253899619895"
+                               NOME-COMPLETO="Marcus Vinicius Soledade Poggi de Aragao"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25305"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2386179016736430" NOME-COMPLETO="Thuener Armando da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3022444"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10301038" CODIGO-ESPECIALIDADE="10301038"
+                                  CODIGO-SUB-AREA="10301003"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Análise de Algoritmos e Complexidade de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="51"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.70"
+                                SUBSETOR="Atividades de sedes de empresas e de consultoria em gestão empresarial"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5979885490321844"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Geração de Colunas é uma ferramenta flexível que permite modelar de forma simples e independente um   enorme espectro de restrições específicas. Sua aplicação é adequada a inúmeros problemas práticos,  entre eles os de empacotamento, os de transportes e ainda os que envolvem ambos.  O objetivo desta linha de pesquisa é propor e analisar métodos de desenvolvimento de modelos  desta classe, em especial quanto à sua convergência e sua capacidade de obter boas soluções e   provar otimalidade."
+                         NOME-DA-LINHA-DE-PESQUISA="Métodos de Geração de Colunas para Problemas de Empacotamento e Transportes"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Branch-and-Price</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Métodos de decomposição</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Heurísticas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9449361976082673" NOME-COMPLETO="Lorenza Leão Oliveira Moreno"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="179607"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6500432536491071" NOME-COMPLETO="Eduardo Uchoa Barboza"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="109703"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0833253899619895"
+                               NOME-COMPLETO="Marcus Vinicius Soledade Poggi de Aragao"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25305"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2752210156480636" NOME-COMPLETO="Anand Subramanian"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="723353"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6823993478179598" NOME-COMPLETO="Rafael Martinelli Pinto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="625602"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0188685041571480" NOME-COMPLETO="Humberto José Longo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="98391"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9574752711042482" NOME-COMPLETO="Artur Alves Pessoa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="343459"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7648677337334837" NOME-COMPLETO="Diego Galindo Pecin"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2278112"
+                               SEQUENCIA-PESQUISADOR="8"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1420319081322039" NOME-COMPLETO="Fabián Arturo Castilla Penaranda"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3653239"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4828370609596492" NOME-COMPLETO="Carlos Raoni de Alencar Mendes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="701316"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7595550329064341" NOME-COMPLETO="Ivan Xavier Araújo de Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="557767"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10301038" CODIGO-ESPECIALIDADE="10301038"
+                                  CODIGO-SUB-AREA="10301003"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Análise de Algoritmos e Complexidade de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="51"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="H" SUBSETOR=""
+                                SETOR="Transporte, armazenagem e correio"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M" SUBSETOR=""
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8362889675496720"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Propor e avaliar algoritmos em seus aspectos teóricos e experimentais no tema desta linha é o objetivo principal. Do lado teórico o interesse está na garantia de aproximação e no desempenho empírico de algoritmos fortemente polinomiais. O estudo e proposta de variações e extensões de problemas clássicos de escalomanento também fazem parte dos trabalhos desenvolvidos e em desenvolvimento."
+                         NOME-DA-LINHA-DE-PESQUISA="Algoritmos para Problemas de Escalonamento (Scheduling)"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Escalonamento</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1821402316308818" NOME-COMPLETO="Thibaut Victor Gaston Vidal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="5271702"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6500432536491071" NOME-COMPLETO="Eduardo Uchoa Barboza"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="109703"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0833253899619895"
+                               NOME-COMPLETO="Marcus Vinicius Soledade Poggi de Aragao"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25305"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3686198031103649" NOME-COMPLETO="David Sotelo Pinheiro da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="267160"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9574752711042482" NOME-COMPLETO="Artur Alves Pessoa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="343459"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1420319081322039" NOME-COMPLETO="Fabián Arturo Castilla Penaranda"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3653239"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4428602321810391" NOME-COMPLETO="Mayra Carvalho Albuquerque"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2713103"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10301038" CODIGO-ESPECIALIDADE="10301038"
+                                  CODIGO-SUB-AREA="10301003"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Análise de Algoritmos e Complexidade de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="51"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="H" SUBSETOR=""
+                                SETOR="Transporte, armazenagem e correio"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.19.3"
+                                SUBSETOR="Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6498368655169316"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudar problemas one a incerteza é um elemento inerente. "
+                         NOME-DA-LINHA-DE-PESQUISA="Programação Estocástica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Incerteza exógena</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Incerteza endógena</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0833253899619895"
+                               NOME-COMPLETO="Marcus Vinicius Soledade Poggi de Aragao"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25305"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6823993478179598" NOME-COMPLETO="Rafael Martinelli Pinto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="625602"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2386179016736430" NOME-COMPLETO="Thuener Armando da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3022444"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4828370609596492" NOME-COMPLETO="Carlos Raoni de Alencar Mendes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="701316"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10301038" CODIGO-ESPECIALIDADE="10301038"
+                                  CODIGO-SUB-AREA="10301003"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Análise de Algoritmos e Complexidade de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="51"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30802024" CODIGO-ESPECIALIDADE="30802024"
+                                  CODIGO-SUB-AREA="30802008"
+                                  CODIGO-AREA="30800005"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Programação Linear, Não-Linear, Mista e Dinâmica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Pesquisa Operacional"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Produção"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="548"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="H" SUBSETOR=""
+                                SETOR="Transporte, armazenagem e correio"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B" SUBSETOR="" SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7550625224662651"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estude de técnicas de processamento de sinal: filtros, phase-unwrapping."
+                         NOME-DA-LINHA-DE-PESQUISA="Otimização Combinatória para Processamento de Sinal"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Phase-unwrapping</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1821402316308818" NOME-COMPLETO="Thibaut Victor Gaston Vidal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="5271702"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0833253899619895"
+                               NOME-COMPLETO="Marcus Vinicius Soledade Poggi de Aragao"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25305"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6823993478179598" NOME-COMPLETO="Rafael Martinelli Pinto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="625602"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10301038" CODIGO-ESPECIALIDADE="10301038"
+                                  CODIGO-SUB-AREA="10301003"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Análise de Algoritmos e Complexidade de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="51"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.09.1"
+                                SUBSETOR="Atividades de Apoio à Extração de Minerais"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7313712009844614"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de metodologias e algoritmos com o objetivo de encontrar eficientemente soluções quasi-ótimas para problemas de Otimização Combinatória."
+                         NOME-DA-LINHA-DE-PESQUISA="Métodos Aproximados e Metaeurísticas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Busca em Vizinhança Variável</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Busca Local</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Arredondamento aleatorizado</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1821402316308818" NOME-COMPLETO="Thibaut Victor Gaston Vidal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="5271702"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0833253899619895"
+                               NOME-COMPLETO="Marcus Vinicius Soledade Poggi de Aragao"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25305"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6823993478179598" NOME-COMPLETO="Rafael Martinelli Pinto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="625602"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10301038" CODIGO-ESPECIALIDADE="10301038"
+                                  CODIGO-SUB-AREA="10301003"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Análise de Algoritmos e Complexidade de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Teoria da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="51"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.09.1"
+                                SUBSETOR="Atividades de Apoio à Extração de Minerais"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="H.52"
+                                SUBSETOR="Armazenamento e atividades auxiliares dos transportes"
+                                SETOR="Transporte, armazenagem e correio"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="7195943269777084" RAZAO-SOCIAL-DA-EMPRESA=""
+               NATUREZA-JURIDICA="Autarquia Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="28523215000106"
+               LOCALIDADE="Niterói"
+               CIDADE="Niterói"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="UFF"
+               NOME-DA-EMPRESA="Departamento de Engenharia de Produção"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="5040840593002707"
+               RAZAO-SOCIAL-DA-EMPRESA="GAPSO Serviços de Informática Ltda"
+               NATUREZA-JURIDICA="Sociedade Empresária Limitada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="05583021000109"
+               LOCALIDADE="Rio de Janeiro"
+               CIDADE="Rio de Janeiro"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="GAPSO"
+               NOME-DA-EMPRESA="GAPSO Serviços de Informática"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                          SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                          SETOR="Atividades dos serviços de tecnologia da informação"
+                                          GRANDE-SETOR="Informação e comunicação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="K.64.6"
+                                          SUBSETOR="Atividades de sociedades de participação"
+                                          SETOR="Atividades de serviços financeiros"
+                                          GRANDE-SETOR="Atividades financeiras, de seguros e serviços relacionados"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="1"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="S.95.1"
+                                          SUBSETOR="Reparação e manutenção de equipamentos de informática e comunicação"
+                                          SETOR="Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos"
+                                          GRANDE-SETOR="Outras atividades de serviços"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="2"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="17">Transferência de tecnologia desenvolvida pelo parceiro para o grupo</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="10122014" DATA-ENTRADA="31032013"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7648677337334837"
+               NOME-DO-EGRESSO="Diego Galindo Pecin"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="6005318601941170"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="013415"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="09102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="7404425277041623" CODIGO-AREA-PREDOMINANTE="30500001"
+                           NOME-DA-UNIDADE="Programa de Engenharia Mecânica"
+                           NOME-DO-ORGAO="Programa de Engenharia Mecânica"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="RJ"
+                           SIGLA-DA-INSTITUICAO="UFRJ"
+                           NOME-DA-INSTITUICAO="Universidade Federal do Rio de Janeiro"
+                           AREA-PREDOMINANTE="Engenharia Mecânica"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="1995"
+                           NOME-DO-GRUPO="Estados limites em sólidos">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="3996404436225621" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Lavinia Maria Sanabio Alves Borges"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="9561665589595461" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Daniel Alves Castello"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3304557" DDDFAX="21"
+                                       LONGITUDE="-43.23233290000002"
+                                       LATITUDE="-22.853563"
+                                       CAIXA-POSTAL="68503"
+                                       LOCALIDADE="Rio de Janeiro"
+                                       NUMERO="2030"
+                                       COMPLEMENTO="CT G204 "
+                                       LOGRADOURO="Avenida Horácio Macedo"
+                                       HOME-PAGE="http://www.mecanica.ufrj.br"
+                                       E-MAIL="lavinia@mecanica.coppe.ufrj.br"
+                                       FAX="3938-8383"
+                                       RAMAL=""
+                                       TELEFONE="3938-8382"
+                                       DDD="21"
+                                       CEP="21941598"
+                                       CIDADE="Rio de Janeiro"
+                                       UF="RJ"
+                                       BAIRRO="Cidade Universitária"/>
+      <REPERCUSSOES>O grupo estuda a formulação, o desenvolvimento e a implementação de modelos para o comportamento inelástico de sólidos visando, principalmente, a caracterização e identificação do estado limite de resitência e estabilidade. Os métodos numéricos e programas associados aos modelos, destinam-se à avaliação da segurança e integridade de vasos de pressão, tubulações, peças e equipamentos mecânicos. Particular ênfase tem sido dada  caracterização e identificado de materiais viscoelasticos visando, fundamentalmente,  o desenvolvimento de modelos para descrever o comportamento mecânico de adesivos. Em particular consideram-se: a análise elastoplástica incremental, a análise limite, a análise de acomodação (shakedown), as formulações variacionais para as equações constitutivas e os algoritmos para análise inelástica.Os métodos inversos para identificaçao de propriedades, incluindo inferências estatísticas e análise de incertezas foram incluídos na metodologia de trabalho.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="BORGES, L. M. S. A.;Borges, Lavinia;Borges, L.;Borges, L.A.;BORGES, L. A."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3996404436225621"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Lavinia Maria Sanabio Alves Borges">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Integridade Estrutural"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Viscoelasticidade e adesivos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos de comportamento para materiais avançados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="elastoplasticidade e viscoplasticidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Tensões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica dos Corpos Rígidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Materiais Conjugados Não-Metálicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Materiais e Processos para Engenharia Aeronáutica e Aeroespacial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Estruturas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Corpos Sólidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MARTINS, S. A." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="F"
+                   NRO-ID-CNPQ="2763044952669720"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Silvana de Abreu Martins">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Viscoelasticidade e adesivos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos de comportamento para materiais avançados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="elastoplasticidade e viscoplasticidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CASTELLO, D. A.;CASTELLO, D;CASTELLO, D.A.;CASTELLO, DANIEL;CASTELLO, DANIEL A."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9561665589595461"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Daniel Alves Castello">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Viscoelasticidade e adesivos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos de comportamento para materiais avançados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica dos Corpos Rígidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Materiais e Processos para Engenharia Aeronáutica e Aeroespacial</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Nestor Zouain;N. Zouain;N. A. Z. Pereira;Zouain, Nestor"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4036812106816798"
+                   PAIS-DE-NASCIMENTO="URY"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Nestor Alberto Zouain Pereira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Integridade Estrutural"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos de comportamento para materiais avançados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="elastoplasticidade e viscoplasticidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Tensões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Corpos Sólidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Sólidos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Projetos de Máquinas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SILVEIRA, J. L. L.;SILVEIRA, J L.;SILVEIRA, José Luís;SILVEIRA, JOSE LUIS"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4336860594052324"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Jose Luis Lopes da Silveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processos de fabricação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="elastoplasticidade e viscoplasticidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Tensões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle Numérico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Maquinas de Usinagem e Conformação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Corpos Sólidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Sólidos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos de Fabricação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FIGUEIREDO, Fabio da Costa;FIGUEIREDO, FABIO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2116099133299669"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fabio da Costa Figueiredo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Integridade Estrutural"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="elastoplasticidade e viscoplasticidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Mecânica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="RUIZ, C. C. L. P.;DE LA PLATA RUIZ, CARLOS CEZAR"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1170435110559387"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Carlos Cezar de La Plata Ruiz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processos de fabricação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="elastoplasticidade e viscoplasticidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica dos Corpos Rígidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Fluídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Linear, Não-Linear, Mista e Dinâmica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="O?CONNOR, J. O.;O'Connor, J." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0910370142931356"
+                   PAIS-DE-NASCIMENTO="CUB"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Joan Oswald Oconnor Blanco">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos de comportamento para materiais avançados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Corpos Sólidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem de Sistemas Biológicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="HENRIQUES, I. R." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="DANIEL ALVES CASTELLO"
+                 NRO-ID-CNPQ-ORIENTADOR="9561665589595461"
+                 SEQUENCIA-ESTUDANTE="3758349"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4663022757830458"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Isadora Ruas Henriques">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Viscoelasticidade e adesivos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, G. L. S." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="DANIEL ALVES CASTELLO"
+                 NRO-ID-CNPQ-ORIENTADOR="9561665589595461"
+                 SEQUENCIA-ESTUDANTE="6450972"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5630317194591499"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gabriel Lucas Sousa da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Viscoelasticidade e adesivos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos de comportamento para materiais avançados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ORLANDINI, L. R." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="DANIEL ALVES CASTELLO"
+                 NRO-ID-CNPQ-ORIENTADOR="9561665589595461"
+                 SEQUENCIA-ESTUDANTE="3628363"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7451431003957739"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luana Ribeiro Orlandini">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Viscoelasticidade e adesivos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos de comportamento para materiais avançados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PINTO H., W.;HERNÁNDEZ, W.P." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="DANIEL ALVES CASTELLO"
+                 NRO-ID-CNPQ-ORIENTADOR="9561665589595461"
+                 SEQUENCIA-ESTUDANTE="4080026"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7406354482981241"
+                 PAIS-DE-NASCIMENTO="COL"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="William Pinto Hernández">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos de comportamento para materiais avançados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="elastoplasticidade e viscoplasticidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Sistemas Mecânicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estática e Dinâmica Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica de Solidos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Tecnologia de Próteses</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NOGUEIRA, L. M." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LAVINIA MARIA SANABIO ALVES BORGES"
+                 NRO-ID-CNPQ-ORIENTADOR="3996404436225621"
+                 SEQUENCIA-ESTUDANTE="4173851"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9080249863785870"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lívia Mendonça Nogueira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Integridade Estrutural"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="elastoplasticidade e viscoplasticidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de tensões</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GUZMAN, C." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LAVINIA MARIA SANABIO ALVES BORGES"
+                 NRO-ID-CNPQ-ORIENTADOR="3996404436225621"
+                 SEQUENCIA-ESTUDANTE="5304436"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2695425149823475"
+                 PAIS-DE-NASCIMENTO="USA"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Cynthia Guzman">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Integridade Estrutural"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelos de comportamento para materiais avançados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NONATO, R. B. P." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LAVINIA MARIA SANABIO ALVES BORGES"
+                 NRO-ID-CNPQ-ORIENTADOR="3996404436225621"
+                 SEQUENCIA-ESTUDANTE="597348"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9331089672178927"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Raphael Basilio Pires Nonato">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Integridade Estrutural"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="elastoplasticidade e viscoplasticidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>GERENCIAMENTO DE PROJETOS</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Sólidos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>PROJETOS</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Projetos de Máquinas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8295754469945755"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver e propor   formulação de comportamento, modelos,  métodos numéricos   e  algoritmos para simulação  do comportamento mecãnico de equipamentos, considerando materiais elasto-plásticos ou viscoplásticos.Os métodos estudados envolvem tanto os modelos de elastoplasticidade incremental como os métodos diretos que incluem análise limite e a teoria de shakedown.Todo a metodologia de estudo envolve o método dos elementos finitos."
+                         NOME-DA-LINHA-DE-PESQUISA="elastoplasticidade e viscoplasticidade"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">analise elastoplastica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">elastoplasticidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">shakedown</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">viscoplasticidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">análise limite</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4036812106816798" NOME-COMPLETO="Nestor Alberto Zouain Pereira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="31124"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4336860594052324" NOME-COMPLETO="Jose Luis Lopes da Silveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100462"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1170435110559387" NOME-COMPLETO="Carlos Cezar de La Plata Ruiz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="66896"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2763044952669720" NOME-COMPLETO="Silvana de Abreu Martins"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="371474"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3996404436225621"
+                               NOME-COMPLETO="Lavinia Maria Sanabio Alves Borges"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="47541"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2116099133299669" NOME-COMPLETO="Fabio da Costa Figueiredo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="215188"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9080249863785870" NOME-COMPLETO="Lívia Mendonça Nogueira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4173851"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7406354482981241" NOME-COMPLETO="William Pinto Hernández"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4080026"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9331089672178927" NOME-COMPLETO="Raphael Basilio Pires Nonato"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="597348"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30503019" CODIGO-ESPECIALIDADE="30503019"
+                                  CODIGO-SUB-AREA="30503000"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Corpos Sólidos, Elásticos e Plásticos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Mecânica dos Sólidos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="460"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28.6"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7013049285925502"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Definir critérios e metodologias de cálculo para analisar a integridade de materiais e estruturas. Os métodos propostos incluem o estudos de modelos de acomodacao elastoplastica(shakedown), análise limite, dano, fadiga e etc..Os modelos previamente desenvolvidos para materiais convencionais são estendidos para incluir critérios adequados para previsão de falhas em   materiais avançados. "
+                         NOME-DA-LINHA-DE-PESQUISA="Integridade Estrutural"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">acomodação elastoplastica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">cargas variáveis</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">shakedown</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">análise limite</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">dano</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">fadiga</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4036812106816798" NOME-COMPLETO="Nestor Alberto Zouain Pereira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="31124"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3996404436225621"
+                               NOME-COMPLETO="Lavinia Maria Sanabio Alves Borges"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="47541"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2116099133299669" NOME-COMPLETO="Fabio da Costa Figueiredo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="215188"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2695425149823475" NOME-COMPLETO="Cynthia Guzman"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5304436"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9080249863785870" NOME-COMPLETO="Lívia Mendonça Nogueira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4173851"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9331089672178927" NOME-COMPLETO="Raphael Basilio Pires Nonato"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="597348"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30503019" CODIGO-ESPECIALIDADE="30503019"
+                                  CODIGO-SUB-AREA="30503000"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Corpos Sólidos, Elásticos e Plásticos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Mecânica dos Sólidos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="460"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28.6"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0042784232153975"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Proposição de modelos para descrever o comportamento mecânico de materiais não convencioniais, tais como, Materiais com memória de forma, biomateriais, Materiais compósitos e materiais com Gradientes Funcionais."
+                         NOME-DA-LINHA-DE-PESQUISA="Modelos de comportamento para materiais avançados"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">materiais com memória de forma</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">materiais compósitos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Biomateriais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Materiais com gradientes Funcionais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4036812106816798" NOME-COMPLETO="Nestor Alberto Zouain Pereira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="31124"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9561665589595461" NOME-COMPLETO="Daniel Alves Castello"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="394697"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2763044952669720" NOME-COMPLETO="Silvana de Abreu Martins"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="371474"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3996404436225621"
+                               NOME-COMPLETO="Lavinia Maria Sanabio Alves Borges"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="47541"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0910370142931356" NOME-COMPLETO="Joan Oswald Oconnor Blanco"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="4105385"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2695425149823475" NOME-COMPLETO="Cynthia Guzman"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5304436"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7406354482981241" NOME-COMPLETO="William Pinto Hernández"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4080026"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5630317194591499" NOME-COMPLETO="Gabriel Lucas Sousa da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6450972"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7451431003957739" NOME-COMPLETO="Luana Ribeiro Orlandini"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3628363"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30503019" CODIGO-ESPECIALIDADE="30503019"
+                                  CODIGO-SUB-AREA="30503000"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Corpos Sólidos, Elásticos e Plásticos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Mecânica dos Sólidos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="460"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.22"
+                                SUBSETOR="Fabricação de produtos de borracha e de material plástico"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.32.5"
+                                SUBSETOR="Fabricação de produtos diversos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.23.4"
+                                SUBSETOR="Fabricação de produtos de minerais não-metálicos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8958509688250300"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Aplicação dos modelos de plasticidade nos estudo de processo de fabricação."
+                         NOME-DA-LINHA-DE-PESQUISA="Processos de fabricação"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Plasticidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">conformação de metais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4336860594052324" NOME-COMPLETO="Jose Luis Lopes da Silveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100462"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1170435110559387" NOME-COMPLETO="Carlos Cezar de La Plata Ruiz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="66896"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30503019" CODIGO-ESPECIALIDADE="30503019"
+                                  CODIGO-SUB-AREA="30503000"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Corpos Sólidos, Elásticos e Plásticos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Mecânica dos Sólidos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="460"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30505020" CODIGO-ESPECIALIDADE="30505020"
+                                  CODIGO-SUB-AREA="30505003"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Maquinas de Usinagem e Conformação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Processos de Fabricação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="475"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30505011" CODIGO-ESPECIALIDADE="30505011"
+                                  CODIGO-SUB-AREA="30505003"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Matrizes e Ferramentas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Processos de Fabricação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="474"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.25"
+                                SUBSETOR="Fabricação de produtos de metal, exceto máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3009511021432876"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de modelos constitutivos para materiais viscoelásticos  e adesivos. Caracterização e identificação  de propriedades mecânicas  através de métodos inversos incluindo inferências estatísticas e análise de incertezas."
+                         NOME-DA-LINHA-DE-PESQUISA="Viscoelasticidade e adesivos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">viscoelasticidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">adesivos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">inferência Bayesiana</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">análise de incertezas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9561665589595461" NOME-COMPLETO="Daniel Alves Castello"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="394697"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2763044952669720" NOME-COMPLETO="Silvana de Abreu Martins"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="371474"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3996404436225621"
+                               NOME-COMPLETO="Lavinia Maria Sanabio Alves Borges"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="47541"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4663022757830458" NOME-COMPLETO="Isadora Ruas Henriques"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3758349"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5630317194591499" NOME-COMPLETO="Gabriel Lucas Sousa da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6450972"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7451431003957739" NOME-COMPLETO="Luana Ribeiro Orlandini"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3628363"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30503019" CODIGO-ESPECIALIDADE="30503019"
+                                  CODIGO-SUB-AREA="30503000"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Corpos Sólidos, Elásticos e Plásticos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Mecânica dos Sólidos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="460"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.32.5"
+                                SUBSETOR="Fabricação de produtos diversos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.22.2"
+                                SUBSETOR="Fabricação de produtos de borracha e de material plástico"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="0117287490175749"
+               RAZAO-SOCIAL-DA-EMPRESA="Centro Federal de Educação Tecnológica Celso Suckow da Fonseca"
+               NATUREZA-JURIDICA="Autarquia Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="42441758000105"
+               LOCALIDADE="Rio de Janeiro"
+               CIDADE="Rio de Janeiro"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="CEFET/RJ"
+               NOME-DA-EMPRESA="Centro Federal de Educação Tecnológica Celso Suckow da Fonseca"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="8476159824704313"
+               RAZAO-SOCIAL-DA-EMPRESA="Fundação Centro Universitário Estadual da Zona Oeste"
+               NATUREZA-JURIDICA="Fundação Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="10889295000152"
+               LOCALIDADE="Rio de Janeiro"
+               CIDADE="Rio de Janeiro"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="UEZO"
+               NOME-DA-EMPRESA="Centro Universitário da Zona Oeste"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.9"
+                                          SUBSETOR="Outras atividades de ensino"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="1"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="N" CUSTO-LICENCIAMENTO="13000"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES=""
+                MODELO=""
+                VERSAO="15.0"
+                NOME="ANSYS"
+                CLASSIFICACAO="Engenharia/estatística/geoprocessamento"
+                TIPO-DE-LICENCIAMENTO="Comercial"
+                DESENVOLVIMENTO-PROPRIO="N"
+                SEQUENCIA-SOFTWARE="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Capes</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="30000"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES=""
+                MODELO=""
+                VERSAO="4.3"
+                NOME="COMSOL"
+                CLASSIFICACAO="Engenharia/estatística/geoprocessamento"
+                TIPO-DE-LICENCIAMENTO="Comercial"
+                DESENVOLVIMENTO-PROPRIO="N"
+                SEQUENCIA-SOFTWARE="1">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Finep</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+   </SOFTWARES>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="25112010"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2116099133299669"
+               NOME-DO-EGRESSO="Fabio da Costa Figueiredo"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="03122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0910370142931356"
+               NOME-DO-EGRESSO="Joan Oswald Oconnor Blanco"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="03122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2116099133299669"
+               NOME-DO-EGRESSO="Fabio da Costa Figueiredo"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="9056096968399128"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="132141"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="28102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="9153197478018430" CODIGO-AREA-PREDOMINANTE="50500007"
+                           NOME-DA-UNIDADE="Departamento de Bioquímica e Biologia Molecular"
+                           NOME-DO-ORGAO="Departamento de Bioquímica e Biologia Molecular"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="MG"
+                           SIGLA-DA-INSTITUICAO="UFV"
+                           NOME-DA-INSTITUICAO="Universidade Federal de Viçosa"
+                           AREA-PREDOMINANTE="Medicina Veterinária"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Agrárias"
+                           ANO-DE-CRIACAO="2004"
+                           NOME-DO-GRUPO="Rickettsioses e enfermidades veiculadas por carrapatos">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="1004000475494796" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Claudio Lisias Mafra de Siqueira"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="6011714159868081" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Marcio Antonio Moreira Galvão"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3171303" DDDFAX="31"
+                                       LONGITUDE="-42.868244600000025"
+                                       LATITUDE="-20.7644406"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Viçosa"
+                                       NUMERO="s/n"
+                                       COMPLEMENTO="Av. P. H. Rolfs"
+                                       LOGRADOURO="Universidade Federal de Viçosa"
+                                       HOME-PAGE="http://"
+                                       E-MAIL="mafra@ufv.br"
+                                       FAX="38992373"
+                                       RAMAL=""
+                                       TELEFONE="38993701"
+                                       DDD="31"
+                                       CEP="36570900"
+                                       CIDADE="Viçosa"
+                                       UF="MG"
+                                       BAIRRO="Campus Universitário"/>
+      <REPERCUSSOES>Este grupo tem como finalidade estudar e melhor conhecer agentes veiculados por carrapatos que ocorrem no Brasil, enfermidades ocasionadas, seus vetores e relações com estes, e reservatórios domésticos e silvestres em áreas endêmicas para a ocorrência de Febre Maculosa. Atualmente, foco quanto relação parasito-hospedeiro, com estudo das interações por meio de ferramentas de genômica, transcriptômica e proteômica.</REPERCUSSOES>
+      <REDES-DE-PESQUISA>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="" URL-DA-REDE-DE-PESQUISA=""
+                           NOME-DA-REDE-DE-PESQUISA="REDE GENOMA CARRAPATOS"/>
+      </REDES-DE-PESQUISA>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="GALVÃO, Marcio Antonio Moreira;Galvão, M. A. M.;GALVAO, M. A. M.;GALVÃO, MÁRCIO ANTÔNIO MOREIRA;Galvão, M. A."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6011714159868081"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcio Antonio Moreira Galvão">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sorologia de animais silvestres e domésticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Filogenia de rickettsia e ehrlichia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Investigação molecular de Ehrlichia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Outros agentes veiculados por carrapatos e pulgas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Investigação sorológica e molecular de Borrelia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Investigação molecular de Rickettsias e Ehrlichias"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cultivo celular de Rickettsia e Ehrlichia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Taxonomia molecular de carrapatos vetores de rickettsioses"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="8"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioquímica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Epidemiologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Epidemiologia das Doenças Infecciosas e Parasitárias</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Epidemiologia das Doenças Não Transmissíveis</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medicina</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Saúde Pública</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MAFRA, C. L.;Mafra, C. L.;Mafra, C.;Mafra, CL;Mafra, Cláudio Lisias;Mafra, Cláudio Lísias;MAFRA, C.L;Mafra, Cláudio;Mafra, Cláudio L.;Mafra S., Cláudio Lísias;Mafra, Claudio L.;SIQUEIRA, CLÁUDIO LISIAS MAFRA DE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1004000475494796"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Claudio Lisias Mafra de Siqueira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sorologia de animais silvestres e domésticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Filogenia de rickettsia e ehrlichia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Investigação molecular de Ehrlichia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Outros agentes veiculados por carrapatos e pulgas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Investigação molecular de Rickettsias e Ehrlichias"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Investigação sorológica e molecular de Borrelia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica de carrapatos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Taxonomia molecular de carrapatos vetores de rickettsioses"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="8"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cultivo celular de Rickettsia e Ehrlichia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="9"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biossegurança</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Doenças Parasitárias de Animais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Entomologia e Malacologia de Parasitos e Vetores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Saúde Pública</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BARROS, E.;BARROS, EDVALDO;BARROS, E"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9351943615435543"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Edvaldo Barros">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise proteômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Entomologia e Acaralogia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>ESPECTROMETRIA DE MASSA</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Proteômica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Saúde Pública</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SOARES, A. C.;CARLOS SOARES, A.;ADRIANO CARLOS SOARES"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2818008516268315"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Adriano Carlos Soares">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise proteômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análises Clínicas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioquímica e Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Farmacologia Geral e Médica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microbiologia Geral e Médica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Parasitologia Geral e Médica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MILAGRES, B. S" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4464537337068448"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Bruno Silva Milagres">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sorologia de animais silvestres e domésticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Investigação sorológica e molecular de Borrelia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Investigação molecular de Rickettsias e Ehrlichias"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Celular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Epidemiologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Imunologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microbiologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Parasitologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="VIDIGAL, P.M.P.;VIDIGAL, P. M. P.;Vidigal, P.M.P.;Vidigal, Pedro M.P.;VIDIGAL, PEDRO M;Vidigal, Pedro Marcus Pereira;VIDIGAL, PEDRO M.;VIDIGAL, PEDRO M. P.;VIDIGAL, PEDRO M. PEREIRA;VIDIGAL, PEDRO MARCUS"
+                   TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4423245295284314"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Pedro Marcus Pereira Vidigal">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Filogenia de rickettsia e ehrlichia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica de carrapatos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Taxonomia molecular de carrapatos vetores de rickettsioses"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Computacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="GOMES, G. G.;Gabriel G Gomes;GOMES, GABRIEL GUIMARÃES;GOMES, GG."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLAUDIO LISIAS MAFRA DE SIQUEIRA"
+                 NRO-ID-CNPQ-ORIENTADOR="1004000475494796"
+                 SEQUENCIA-ESTUDANTE="3035455"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1917821201573548"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gabriel Guimarães Gomes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Outros agentes veiculados por carrapatos e pulgas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Investigação molecular de Rickettsias e Ehrlichias"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioquímica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ecologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Epidemiologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Imunologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Parasitologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Saúde Coletiva</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BARCELOS, R. M.;MAZIOLI, R.;Rafael Mazioli;MAZIOLI, RAFAEL;BARCELOS, RAFAEL MAZIOLI"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLAUDIO LISIAS MAFRA DE SIQUEIRA"
+                 NRO-ID-CNPQ-ORIENTADOR="1004000475494796"
+                 SEQUENCIA-ESTUDANTE="3242508"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9152962499215486"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rafael Mazioli Barcelos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Filogenia de rickettsia e ehrlichia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Epidemiologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Imunologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Levantamento Faunístico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microbiologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Parasitologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FERREIRA, C. G. T.;Caroline Gracielle Torres Ferreira;Ferreira, Caroline Gracielle Torres;Ferreira, C. G. T."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CLAUDIO LISIAS MAFRA DE SIQUEIRA"
+                 NRO-ID-CNPQ-ORIENTADOR="1004000475494796"
+                 SEQUENCIA-ESTUDANTE="2071150"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6433806852738384"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Caroline Gracielle Torres Ferreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Investigação molecular de Rickettsias e Ehrlichias"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Clínica Veterinária</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Doenças Parasitárias de Animais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medicina Veterinária</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medicina Veterinária Preventiva</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Parasitologia  Animal</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Virologia Animal</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PADILHA, A. F.;PADILHA, AMANDA DE FREITAS"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCIO ANTONIO MOREIRA GALVAO"
+                 NRO-ID-CNPQ-ORIENTADOR="6011714159868081"
+                 SEQUENCIA-ESTUDANTE="3482432"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3814972886469218"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Amanda de Freitas Padilha">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Investigação molecular de Rickettsias e Ehrlichias"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5884535150257596"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Por meio de reações de polimerase em cadeia, utilizando-se variados primers busca-se a identificação molecular de Rickettsias e Ehrlichias em carrapatos, pulgas e material de biópsia de animais provenientes de áreas endêmicas para febre meculosa.Tem como premissa que ainda não estão mapeadas as rickettsias e ehrlichias que ocorrem em nosso país, bem como a sua relação ecológica entre os agentes, seus hospedeiros e vetores."
+                         NOME-DA-LINHA-DE-PESQUISA="Investigação molecular de Rickettsias e Ehrlichias"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Rickettsia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Ehrlichia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Febre maculosa</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Ehrlichiose</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Carrapatos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Saúde pública</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6011714159868081" NOME-COMPLETO="Marcio Antonio Moreira Galvão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="39920"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1004000475494796" NOME-COMPLETO="Claudio Lisias Mafra de Siqueira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="77486"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4464537337068448" NOME-COMPLETO="Bruno Silva Milagres"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="539727"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1917821201573548" NOME-COMPLETO="Gabriel Guimarães Gomes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3035455"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6433806852738384"
+                             NOME-COMPLETO="Caroline Gracielle Torres Ferreira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2071150"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3814972886469218" NOME-COMPLETO="Amanda de Freitas Padilha"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3482432"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21201021" CODIGO-ESPECIALIDADE="21201021"
+                                  CODIGO-SUB-AREA="21201005"
+                                  CODIGO-AREA="21200009"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Bacteriologia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia e Fisiologia dos Microorganismos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Microbiologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="337"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21303002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="21303002"
+                                  CODIGO-AREA="21300003"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Entomologia e Malacologia de Parasitos e Vetores"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Parasitologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="349"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40602001" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="40602001"
+                                  CODIGO-AREA="40600009"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Saúde Pública"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Saúde Coletiva"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="727"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.6"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5938785520651275"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Verificar a ocorrência de respostas imune contra ehrlichias e rickettsias, correlacionando estes achados com espécies animais e sua importância epidemiológica."
+                         NOME-DA-LINHA-DE-PESQUISA="Sorologia de animais silvestres e domésticos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Rickettsia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Ehrlichia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Febre maculosa</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Carrapato</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">animais domésticos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">animais silvestres</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6011714159868081" NOME-COMPLETO="Marcio Antonio Moreira Galvão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="39920"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1004000475494796" NOME-COMPLETO="Claudio Lisias Mafra de Siqueira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="77486"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4464537337068448" NOME-COMPLETO="Bruno Silva Milagres"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="539727"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="50502042" CODIGO-ESPECIALIDADE="50502042"
+                                  CODIGO-SUB-AREA="50502000"
+                                  CODIGO-AREA="50500007"
+                                  CODIGO-GRANDE-AREA="50000004"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Doenças Parasitárias de Animais"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Medicina Veterinária Preventiva"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina Veterinária"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Agrárias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="842"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="50502018" CODIGO-ESPECIALIDADE="50502018"
+                                  CODIGO-SUB-AREA="50502000"
+                                  CODIGO-AREA="50500007"
+                                  CODIGO-GRANDE-AREA="50000004"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Epidemiologia Animal"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Medicina Veterinária Preventiva"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina Veterinária"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Agrárias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="839"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40602001" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="40602001"
+                                  CODIGO-AREA="40600009"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Saúde Pública"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Saúde Coletiva"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="727"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.6"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="A.01.5"
+                                SUBSETOR="Agricultura, Pecuária e Serviços Relacionados"
+                                SETOR="Agricultura, Pecuária, Produção Florestal, Pesca e Aqüicultura"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4113709425845050" OBJETIVO-DA-LINHA-DE-PESQUISA="a"
+                         NOME-DA-LINHA-DE-PESQUISA="Investigação molecular de Ehrlichia"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Ehrlichia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Zoonose</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Investigação molecular</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">pcr</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">sequencimento</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6011714159868081" NOME-COMPLETO="Marcio Antonio Moreira Galvão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="39920"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1004000475494796" NOME-COMPLETO="Claudio Lisias Mafra de Siqueira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="77486"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20804008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20804008"
+                                  CODIGO-AREA="20800002"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia Molecular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Bioquímica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="311"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21201021" CODIGO-ESPECIALIDADE="21201021"
+                                  CODIGO-SUB-AREA="21201005"
+                                  CODIGO-AREA="21200009"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Bacteriologia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia e Fisiologia dos Microorganismos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Microbiologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="337"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21303002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="21303002"
+                                  CODIGO-AREA="21300003"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Acarologia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Entomologia e Malacologia de Parasitos e Vetores"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Parasitologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="349"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.6"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="A.01.5"
+                                SUBSETOR="Agricultura, Pecuária e Serviços Relacionados"
+                                SETOR="Agricultura, Pecuária, Produção Florestal, Pesca e Aqüicultura"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1729251843273679" OBJETIVO-DA-LINHA-DE-PESQUISA="a"
+                         NOME-DA-LINHA-DE-PESQUISA="Taxonomia molecular de carrapatos vetores de rickettsioses"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Rickettsia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Carrapatos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">ixodida</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">taxonomia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Riquetsioses</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Brasil</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6011714159868081" NOME-COMPLETO="Marcio Antonio Moreira Galvão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="39920"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1004000475494796" NOME-COMPLETO="Claudio Lisias Mafra de Siqueira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="77486"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4423245295284314" NOME-COMPLETO="Pedro Marcus Pereira Vidigal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2118896"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20804008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20804008"
+                                  CODIGO-AREA="20800002"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia Molecular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Bioquímica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="311"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21303002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="21303002"
+                                  CODIGO-AREA="21300003"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Entomologia e Malacologia de Parasitos e Vetores"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Parasitologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="349"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40601005" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="40601005"
+                                  CODIGO-AREA="40600009"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Epidemiologia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Saúde Coletiva"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="726"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="A.01.5"
+                                SUBSETOR="Agricultura, Pecuária e Serviços Relacionados"
+                                SETOR="Agricultura, Pecuária, Produção Florestal, Pesca e Aqüicultura"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5338537078748688"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Investigar a ocorrência de agentes causadores da Doença de Lyme simile brasileira. Foco em carraptos e aniamis de areas silvestres e urbanas."
+                         NOME-DA-LINHA-DE-PESQUISA="Investigação sorológica e molecular de Borrelia"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Carrapatos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Zoonose</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Doença de Lyme simile</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Borrelia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Epidemiologia molecular</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Enfermidade emergente</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6011714159868081" NOME-COMPLETO="Marcio Antonio Moreira Galvão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="39920"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1004000475494796" NOME-COMPLETO="Claudio Lisias Mafra de Siqueira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="77486"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4464537337068448" NOME-COMPLETO="Bruno Silva Milagres"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="539727"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="50502042" CODIGO-ESPECIALIDADE="50502042"
+                                  CODIGO-SUB-AREA="50502000"
+                                  CODIGO-AREA="50500007"
+                                  CODIGO-GRANDE-AREA="50000004"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Doenças Parasitárias de Animais"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Medicina Veterinária Preventiva"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina Veterinária"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Agrárias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="842"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20804008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20804008"
+                                  CODIGO-AREA="20800002"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia Molecular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Bioquímica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="311"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40601005" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="40601005"
+                                  CODIGO-AREA="40600009"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Epidemiologia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Saúde Coletiva"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="726"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4594050973429096"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Não Informado"
+                         NOME-DA-LINHA-DE-PESQUISA="Filogenia de rickettsia e ehrlichia"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Rickettsia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Ehrlichia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Analises filogeneticas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6011714159868081" NOME-COMPLETO="Marcio Antonio Moreira Galvão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="39920"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1004000475494796" NOME-COMPLETO="Claudio Lisias Mafra de Siqueira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="77486"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4423245295284314" NOME-COMPLETO="Pedro Marcus Pereira Vidigal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2118896"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9152962499215486" NOME-COMPLETO="Rafael Mazioli Barcelos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3242508"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20804008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20804008"
+                                  CODIGO-AREA="20800002"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Filogenia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia Molecular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Bioquímica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="311"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21201021" CODIGO-ESPECIALIDADE="21201021"
+                                  CODIGO-SUB-AREA="21201005"
+                                  CODIGO-AREA="21200009"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Bacteriologia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia e Fisiologia dos Microorganismos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Microbiologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="337"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40601005" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="40601005"
+                                  CODIGO-AREA="40600009"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Epidemiologia molecular"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Epidemiologia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Saúde Coletiva"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="726"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="A.01.5"
+                                SUBSETOR="Agricultura, Pecuária e Serviços Relacionados"
+                                SETOR="Agricultura, Pecuária, Produção Florestal, Pesca e Aqüicultura"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5705357660533991" OBJETIVO-DA-LINHA-DE-PESQUISA=""
+                         NOME-DA-LINHA-DE-PESQUISA="Cultivo celular de Rickettsia e Ehrlichia"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Rickettsia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Ehrlichia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Cultivo celular</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Isolamento</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6011714159868081" NOME-COMPLETO="Marcio Antonio Moreira Galvão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="39920"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1004000475494796" NOME-COMPLETO="Claudio Lisias Mafra de Siqueira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="77486"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="50502042" CODIGO-ESPECIALIDADE="50502042"
+                                  CODIGO-SUB-AREA="50502000"
+                                  CODIGO-AREA="50500007"
+                                  CODIGO-GRANDE-AREA="50000004"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Doenças Parasitárias de Animais"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Medicina Veterinária Preventiva"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina Veterinária"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Agrárias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="842"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21201021" CODIGO-ESPECIALIDADE="21201021"
+                                  CODIGO-SUB-AREA="21201005"
+                                  CODIGO-AREA="21200009"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Bacteriologia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia e Fisiologia dos Microorganismos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Microbiologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="337"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2944727742843090" OBJETIVO-DA-LINHA-DE-PESQUISA=""
+                         NOME-DA-LINHA-DE-PESQUISA="Outros agentes veiculados por carrapatos e pulgas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="8">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Hepatzoon</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Wolbachia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Babesia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Anaplasma</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6011714159868081" NOME-COMPLETO="Marcio Antonio Moreira Galvão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="39920"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1004000475494796" NOME-COMPLETO="Claudio Lisias Mafra de Siqueira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="77486"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1917821201573548" NOME-COMPLETO="Gabriel Guimarães Gomes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3035455"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="50502042" CODIGO-ESPECIALIDADE="50502042"
+                                  CODIGO-SUB-AREA="50502000"
+                                  CODIGO-AREA="50500007"
+                                  CODIGO-GRANDE-AREA="50000004"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Doenças Parasitárias de Animais"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Medicina Veterinária Preventiva"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina Veterinária"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Agrárias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="842"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21303002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="21303002"
+                                  CODIGO-AREA="21300003"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Acarologia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Entomologia e Malacologia de Parasitos e Vetores"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Parasitologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="349"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40602001" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="40602001"
+                                  CODIGO-AREA="40600009"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Enfermidades emergentes"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Saúde Pública"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Saúde Coletiva"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="727"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5526198143504238" OBJETIVO-DA-LINHA-DE-PESQUISA=""
+                         NOME-DA-LINHA-DE-PESQUISA="Análise proteômica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="9">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Carrapatos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Riquétsias</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9351943615435543" NOME-COMPLETO="Edvaldo Barros"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2097858"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2818008516268315" NOME-COMPLETO="Adriano Carlos Soares"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2787812"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20800002" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="20800002"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Bioquímica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="304"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0208712444470294" OBJETIVO-DA-LINHA-DE-PESQUISA=""
+                         NOME-DA-LINHA-DE-PESQUISA="Genômica de carrapatos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="10">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Amblyomma sculptum</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">argasideos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1004000475494796" NOME-COMPLETO="Claudio Lisias Mafra de Siqueira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="77486"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4423245295284314" NOME-COMPLETO="Pedro Marcus Pereira Vidigal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2118896"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21303002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="21303002"
+                                  CODIGO-AREA="21300003"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Entomologia e Malacologia de Parasitos e Vetores"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Parasitologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="349"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="28102016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2818008516268315"
+               NOME-DO-EGRESSO="Adriano Carlos Soares"/>
+      <EGRESSO DATA-SAIDA="28102016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9351943615435543"
+               NOME-DO-EGRESSO="Edvaldo Barros"/>
+      <EGRESSO DATA-SAIDA="28102016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4464537337068448"
+               NOME-DO-EGRESSO="Bruno Silva Milagres"/>
+      <EGRESSO DATA-SAIDA="28102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4464537337068448"
+               NOME-DO-EGRESSO="Bruno Silva Milagres"/>
+      <EGRESSO DATA-SAIDA="28102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2818008516268315"
+               NOME-DO-EGRESSO="Adriano Carlos Soares"/>
+      <EGRESSO DATA-SAIDA="28102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9351943615435543"
+               NOME-DO-EGRESSO="Edvaldo Barros"/>
+      <EGRESSO DATA-SAIDA="28102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4464537337068448"
+               NOME-DO-EGRESSO="Bruno Silva Milagres"/>
+      <EGRESSO DATA-SAIDA="28102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9351943615435543"
+               NOME-DO-EGRESSO="Edvaldo Barros"/>
+      <EGRESSO DATA-SAIDA="28102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2818008516268315"
+               NOME-DO-EGRESSO="Adriano Carlos Soares"/>
+      <EGRESSO DATA-SAIDA="28102016" DATA-ENTRADA="10122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2818008516268315"
+               NOME-DO-EGRESSO="Adriano Carlos Soares"/>
+      <EGRESSO DATA-SAIDA="28102016" DATA-ENTRADA="10122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9351943615435543"
+               NOME-DO-EGRESSO="Edvaldo Barros"/>
+      <EGRESSO DATA-SAIDA="28102016" DATA-ENTRADA="10122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4464537337068448"
+               NOME-DO-EGRESSO="Bruno Silva Milagres"/>
+      <EGRESSO DATA-SAIDA="28102016" DATA-ENTRADA="18042016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2818008516268315"
+               NOME-DO-EGRESSO="Adriano Carlos Soares"/>
+      <EGRESSO DATA-SAIDA="28102016" DATA-ENTRADA="18042016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9351943615435543"
+               NOME-DO-EGRESSO="Edvaldo Barros"/>
+      <EGRESSO DATA-SAIDA="28102016" DATA-ENTRADA="18042016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4464537337068448"
+               NOME-DO-EGRESSO="Bruno Silva Milagres"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

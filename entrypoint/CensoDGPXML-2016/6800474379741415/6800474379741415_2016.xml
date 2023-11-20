@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="6800474379741415"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="183100"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="13102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="2922914173767981" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE="Campus São José dos Campos"
+                           NOME-DO-ORGAO="Campus São José dos Campos"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SP"
+                           SIGLA-DA-INSTITUICAO="UNIFESP"
+                           NOME-DA-INSTITUICAO="Universidade Federal de São Paulo"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2011"
+                           NOME-DO-GRUPO="Aprendizado de Máquina">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="8867164774240536" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Marcos Gonçalves Quiles"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="4922142296922435" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Márcio Porto Basgalupp"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3549904" DDDFAX="12"
+                                       LONGITUDE="-45.88534830000003"
+                                       LATITUDE="-23.217665"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="São José dos Campos"
+                                       NUMERO="1201"
+                                       COMPLEMENTO="Universidade Federal de São Paulo - UNIFESP"
+                                       LOGRADOURO="Avenida Cesare Mansueto Giulio Lattes"
+                                       HOME-PAGE=""
+                                       E-MAIL="quiles@unifesp.br"
+                                       FAX=""
+                                       RAMAL=""
+                                       TELEFONE="33099582"
+                                       DDD="12"
+                                       CEP="12247014"
+                                       CIDADE="São José dos Campos"
+                                       UF="SP"
+                                       BAIRRO="Eugênio de Mello"/>
+      <REPERCUSSOES>A capacidade de "aprender" é uma propriedade fundamental para a criação de um comportamento inteligente. O Aprendizado de Máquina pode ser definido como uma área da Ciência da Computação que visa desenvolver métodos computacionais capazes de ?aprender? por meio da experiência. A partir da representação computacional de conjuntos de dados, os quais podem ser extraídos de diferentes domínios, as técnicas de aprendizado de máquina podem gerar modelos capazes de organizar o conhecimento existente ou ainda imitar o comportamento de um especialista humano deste domínio. Este grupo de pesquisa tem como principal objetivo desenvolver novas técnicas de aprendizado de máquina sob diferentes paradigmas, tais como supervisionado, não-supervisionado e semi-supervisionado. Os integrantes deste grupo têm contribuído significativamente com trabalhos publicados em periódicos e conferências tradicionais da área. Além disso, o grupo também conta com diversos projetos de pesquisa financiados pelas agências de fomento CNPq e FAPESP.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="BARROS, Rodrigo C.;BARROS, R.;BARROS, R. C.;Barros, R.;Barros, R. C.;BARROS, R.C.;Barros, R.C.;BARROS, Rodrigo Coelho;Barros, Rodrigo Coelho;BARROS, RODRIGO C;Barros, Rodrigo C.;Rodrigo C. Barros;Rodrigo Coelho Barros;Rodrigo Barros"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8172124241767828"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rodrigo Coelho Barros">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automatic-design of machine learning algorithms"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aprendizado de Máquina</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LORENA, A. C.;Lorena, Ana Carolina;Lorena, Ana C.;CAROLINA LORENA, ANA;LORENA, ANA C"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3451628262694747"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ana Carolina Lorena">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado Supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia e Técnicas da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mineração de Dados</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ZORZAL, Ezequiel Roberto;Zorzal, Ezequiel"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3683706649252319"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ezequiel Roberto Zorzal">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Detecção de Comunidades em Redes Complexas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes Complexas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Internet</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Realidade Aumentada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Realidade Virtual</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Visualização da Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BASGALUPP, M. P.;Basgalupp, Marcio P.;Basgalupp, Márcio P.;BASGALUPP, Márcio P;BASGALUPP, MARCIO R;BASGALUPP, MÁRCIO PORTO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4922142296922435"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Márcio Porto Basgalupp">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automatic-design of machine learning algorithms"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado semi-supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado Supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Algoritmos Evolutivos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aprendizado de Máquina</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Business Intelligence</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estatística</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistema de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MELO, V. V.;Veloso de Melo, Vinícius;de Melo, Vinícius Veloso;Melo, Vinícius Veloso de;DE MELO, VINÍCIUS V.;DE MELO, VINICIUS VELOSO;MELO, VINICIUS V.;MELO, VINÍCIUS V. DE;VELOSO DE MELO, VINICIUS;MELO, VINICIUS VELOSO DE;MELO, VINICIUS V;DE MELO, VINCIUS V"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5205741481605855"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Vinícius Veloso de Melo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise de Séries Temporais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado não-supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Quiles, Marcos G.;QUILES, M. G.;QUILES, M.G.;QUILES, M.;Quiles, Marcos"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8867164774240536"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcos Gonçalves Quiles">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado não-supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado Ativo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Detecção de Comunidades em Redes Complexas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes Complexas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado semi-supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aprendizado de Máquina</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Bioinspirada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Detecção de Comunidades em Redes Complexas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes Neurais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="IDE, J. S.;IDE, J;Ide, Jaime S." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1414144663149679"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Jaime Shinsuke Ide">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise de Séries Temporais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado Supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Probabilísticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens Biomedicas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Inteligentes de Automação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ALMEIDA, J.;Almeida, Jurandy" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4495269939725770"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Jurandy Gomes de Almeida Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado não-supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado Supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FARIA, Fabio Augusto;FARIA, FÁBIO A.;FARIA, F.;FARIA, FABIO A.;Faria, F. F.;Faria, Fabio F.;FARIA, F.A.;AUGUSTO FARIA, FABIO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3828728429230356"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fabio Augusto Faria">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado Supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aprendizagem de Máquina</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fusão de Informação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mineração de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Recuperação de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="de Carvalho, A. C. P. L. F.;Carvalho, A.;André C. P. L. F. de Carvalho;André C. P. L.F. de Carvalho;André C.P.L.F. de Carvalho;ANDRÉ C.P.L.F. DE CARVALHO;de Carvalho, André C.P.L.F.;André C. P. L. F. Carvalho;DE CARVALHO, ANDRE C. P. L. F.;CARVALHO, ANDRE C.P.L.F.;CARVALHO, ANDRÉ C. P. L. F.;DE CARVALHO, ANDRÉ C. P. L. F.;CARVALHO, ANDRÉ C. P. L. F. DE;ANDRÉ C. P. L. F. DE CARVALHO;André Carlos Ponce de Leon Ferreira de Carvalho;DE LF DE CARVALHO, ANDRÉ CP;DE CARVALHO, ANDRÉ P.L.F.;André Carlos Ponce Leon Ferreira de Carvalho;Carvalho, A.C.P.L.F.;A.C.P.L.F. Carvalho;DE CARVALHO, ANDRE C.P.L.F.;de Carvalho, A.C.P.L.F.;André Carlos Ponce Leon Ferreira Carvalho;CARVALHO, ANDRE CARLOS PONCE;CARVALHO, ANDRE CARLOS;DE CARVALHO, ANDRÉ CARLOS P. L. F.;CARVALHO, ANDRÉ CARLOS P.L.F.;L.F Carvalho, A.;L.F. Carvalho, A.C.P.;PONCE DE LEON FERREIRA CARVALHO, ANDRE;FERREIRA DE CARVALHO, ANDRÉ PONCE DE LEÓN;PONCE DE LEON FERREIRA CARVALHO, ANDRÉ CARLOS;CARVALHO, ANDRE C.P.L.F. DE;CARVALHO, ANDRE C. P. L. F.;CARVALHO, ANDRE DE;De L. F. de Carvalho André;DE L F DE CARVALHO ANDRÉ P;DE L. F. DE CARVALHO ANDRÉ P.;P. L. F. DE CARVALHO, ANDRÉ C.;CARVALHO, ANDRE;Carvalho, André"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9674541381385819"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="André Carlos Ponce de Leon Ferreira de Carvalho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado não-supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automatic-design of machine learning algorithms"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado Supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aprendizado de Máquina</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Evolutiva</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mineração de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes Neurais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Inteligentes Híbridos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="MIQUILINI, P." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCIO PORTO BASGALUPP"
+                 NRO-ID-CNPQ-ORIENTADOR="4922142296922435"
+                 SEQUENCIA-ESTUDANTE="4085709"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0518460088050054"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Patrícia Miquilini">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado Supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Algoritmos Evolutivos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SERON, W.;Seron, Wilson" NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCOS GONCALVES QUILES"
+                 NRO-ID-CNPQ-ORIENTADOR="8867164774240536"
+                 SEQUENCIA-ESTUDANTE="3627986"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8712751771968962"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Wilson Francisco Moreira de Souza Seron">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Detecção de Comunidades em Redes Complexas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes Complexas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Oliveira, J. E. M.;DE OLIVEIRA, JOÃO E. M.;OLIVEIRA, JOAO ELIAKIN MOTA DE"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCOS GONCALVES QUILES"
+                 NRO-ID-CNPQ-ORIENTADOR="8867164774240536"
+                 SEQUENCIA-ESTUDANTE="3684584"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0561292053530672"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="João Eliakin Mota de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Detecção de Comunidades em Redes Complexas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes Complexas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado semi-supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Inteligentes</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria de Cordas Bosônicas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CLAUS, R. L." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JAIME SHINSUKE IDE"
+                 NRO-ID-CNPQ-ORIENTADOR="1414144663149679"
+                 SEQUENCIA-ESTUDANTE="2862382"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2122383283870825"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Regis Lima Claus">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise de Séries Temporais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado Supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógicas e Semântica de Programas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PORTO, S. M." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCOS GONCALVES QUILES"
+                 NRO-ID-CNPQ-ORIENTADOR="8867164774240536"
+                 SEQUENCIA-ESTUDANTE="3239778"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8707473792725178"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Sandy Moreira Porto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Detecção de Comunidades em Redes Complexas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado semi-supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes Complexas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Recomendação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Aron Ifanger Maciel;Aron Ifanger;Ifanger, Aron"
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA CAROLINA LORENA"
+                 NRO-ID-CNPQ-ORIENTADOR="3451628262694747"
+                 SEQUENCIA-ESTUDANTE="3348834"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6036684149470145"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Aron Ifanger Maciel">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado Supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DIAS, J. M." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA CAROLINA LORENA"
+                 NRO-ID-CNPQ-ORIENTADOR="3451628262694747"
+                 SEQUENCIA-ESTUDANTE="3945082"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8896724358481292"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Jussara Miranda Dias">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado Supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SUENAGA, J. J." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA CAROLINA LORENA"
+                 NRO-ID-CNPQ-ORIENTADOR="3451628262694747"
+                 SEQUENCIA-ESTUDANTE="5502695"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2630848231653676"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Jonathan Jyunri Suenaga">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado Supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="RIBEIRO, P. F. O." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA CAROLINA LORENA"
+                 NRO-ID-CNPQ-ORIENTADOR="3451628262694747"
+                 SEQUENCIA-ESTUDANTE="5286778"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4813237534269854"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Pedro Felipe de Oliveira Ribeiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprendizado Supervisionado"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia e Técnicas da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOUSA, A. M." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCIO PORTO BASGALUPP"
+                 NRO-ID-CNPQ-ORIENTADOR="4922142296922435"
+                 SEQUENCIA-ESTUDANTE="3639779"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0677590555107263"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Aruã de Mello Sousa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automatic-design of machine learning algorithms"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BURKE, P. E. P.;BURKE, PAULO" NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCOS GONCALVES QUILES"
+                 NRO-ID-CNPQ-ORIENTADOR="8867164774240536"
+                 SEQUENCIA-ESTUDANTE="4351688"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5649306221294524"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Paulo Eduardo Pinto Burke">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Detecção de Comunidades em Redes Complexas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia de Sistemas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes Complexas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOTTO, L. F. D. P.;Sotto, Léo Françoso Dal Piccol;SOTTO, LÉO F.D.P."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="VINICIUS VELOSO DE MELO"
+                 NRO-ID-CNPQ-ORIENTADOR="5205741481605855"
+                 SEQUENCIA-ESTUDANTE="5035143"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8951183465179786"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Léo Françoso Dal Piccol Sotto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automatic-design of machine learning algorithms"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS, J. S." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCIO PORTO BASGALUPP"
+                 NRO-ID-CNPQ-ORIENTADOR="4922142296922435"
+                 SEQUENCIA-ESTUDANTE="4354141"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1813371122204205"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Jeferson de Souza Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automatic-design of machine learning algorithms"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SAVII, R. M.;SAVII, Ricardo M." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCIO PORTO BASGALUPP"
+                 NRO-ID-CNPQ-ORIENTADOR="4922142296922435"
+                 SEQUENCIA-ESTUDANTE="5533810"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7614391299549728"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ricardo Manhães Savii">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Automatic-design of machine learning algorithms"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciências Exatas e da Terra</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia e Técnicas da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9278116724233555"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de técnicas de aprendizado semi-supervisionado com foco no tratamento dinâmico de dados."
+                         NOME-DA-LINHA-DE-PESQUISA="Aprendizado semi-supervisionado"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">grafos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">redes complexas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">aprendizado ativo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">rotulação automática</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4922142296922435" NOME-COMPLETO="Márcio Porto Basgalupp"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="320020"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8867164774240536" NOME-COMPLETO="Marcos Gonçalves Quiles"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="479518"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0561292053530672" NOME-COMPLETO="João Eliakin Mota de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3684584"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8707473792725178" NOME-COMPLETO="Sandy Moreira Porto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3239778"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Aprendizado de Máquina"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.63.1"
+                                SUBSETOR="Atividades de prestação de serviços de informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8063416519776575"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="O aprendizado ativo tem por objetivo guiar o processo de rotulação de exemplos pelo especialista do domínio. Indicando a este quais exemplos, se rotulados, fornecerão maiores informações sobre a fronteira de separação."
+                         NOME-DA-LINHA-DE-PESQUISA="Aprendizado Ativo"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">aprendizado ativo</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8867164774240536" NOME-COMPLETO="Marcos Gonçalves Quiles"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="479518"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Aprendizado de Máquina"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.63.1"
+                                SUBSETOR="Atividades de prestação de serviços de informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4950595172790926"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo das propriedades das redes complexas e representação de dados em redes."
+                         NOME-DA-LINHA-DE-PESQUISA="Redes Complexas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">grafos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">redes complexas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">sistemas complexos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3683706649252319" NOME-COMPLETO="Ezequiel Roberto Zorzal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="533567"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8867164774240536" NOME-COMPLETO="Marcos Gonçalves Quiles"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="479518"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8712751771968962"
+                             NOME-COMPLETO="Wilson Francisco Moreira de Souza Seron"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3627986"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0561292053530672" NOME-COMPLETO="João Eliakin Mota de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3684584"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Aprendizado de Máquina"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.63.1"
+                                SUBSETOR="Atividades de prestação de serviços de informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7463911303545928"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de novas técnicas de classificação de dados."
+                         NOME-DA-LINHA-DE-PESQUISA="Aprendizado Supervisionado"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Dados rotulados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">classificação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3451628262694747" NOME-COMPLETO="Ana Carolina Lorena"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="314228"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4922142296922435" NOME-COMPLETO="Márcio Porto Basgalupp"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="320020"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1414144663149679" NOME-COMPLETO="Jaime Shinsuke Ide"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="431204"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4495269939725770" NOME-COMPLETO="Jurandy Gomes de Almeida Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="547273"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3828728429230356" NOME-COMPLETO="Fabio Augusto Faria"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2197114"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9674541381385819"
+                               NOME-COMPLETO="André Carlos Ponce de Leon Ferreira de Carvalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="27679"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0518460088050054" NOME-COMPLETO="Patrícia Miquilini"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4085709"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2122383283870825" NOME-COMPLETO="Regis Lima Claus"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2862382"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6036684149470145" NOME-COMPLETO="Aron Ifanger Maciel"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3348834"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8896724358481292" NOME-COMPLETO="Jussara Miranda Dias"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3945082"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2630848231653676" NOME-COMPLETO="Jonathan Jyunri Suenaga"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5502695"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4813237534269854" NOME-COMPLETO="Pedro Felipe de Oliveira Ribeiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5286778"
+                             SEQUENCIA-ESTUDANTE="6"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Aprendizado de Máquina"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.63.1"
+                                SUBSETOR="Atividades de prestação de serviços de informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0909920034872201"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver novas técnicas de agrupamentos de dados."
+                         NOME-DA-LINHA-DE-PESQUISA="Aprendizado não-supervisionado"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">clustering</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5205741481605855" NOME-COMPLETO="Vinícius Veloso de Melo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="605373"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8867164774240536" NOME-COMPLETO="Marcos Gonçalves Quiles"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="479518"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4495269939725770" NOME-COMPLETO="Jurandy Gomes de Almeida Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="547273"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9674541381385819"
+                               NOME-COMPLETO="André Carlos Ponce de Leon Ferreira de Carvalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="27679"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Aprendizado de Máquina"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.63.1"
+                                SUBSETOR="Atividades de prestação de serviços de informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1966184661692881"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de modelos para detecção de estruturas modulares em redes complexas."
+                         NOME-DA-LINHA-DE-PESQUISA="Detecção de Comunidades em Redes Complexas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">detecção de comunidades</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">estrutura modular</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">agrupamentos em redes</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">agrupamentos em grafos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3683706649252319" NOME-COMPLETO="Ezequiel Roberto Zorzal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="533567"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8867164774240536" NOME-COMPLETO="Marcos Gonçalves Quiles"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="479518"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8712751771968962"
+                             NOME-COMPLETO="Wilson Francisco Moreira de Souza Seron"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3627986"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0561292053530672" NOME-COMPLETO="João Eliakin Mota de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3684584"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8707473792725178" NOME-COMPLETO="Sandy Moreira Porto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3239778"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5649306221294524" NOME-COMPLETO="Paulo Eduardo Pinto Burke"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4351688"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Aprendizado de Máquina"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.63.1"
+                                SUBSETOR="Atividades de prestação de serviços de informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4714861832877215"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Uma série temporal pode ser definida como uma coleção de observações feitas sequencialmente ao longo do tempo. Esta linha de pesquisa busca desenvolver modelos computacionais capazes automatizar o processo de análise de tais séries"
+                         NOME-DA-LINHA-DE-PESQUISA="Análise de Séries Temporais"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Séries temporais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5205741481605855" NOME-COMPLETO="Vinícius Veloso de Melo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="605373"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1414144663149679" NOME-COMPLETO="Jaime Shinsuke Ide"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="431204"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2122383283870825" NOME-COMPLETO="Regis Lima Claus"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2862382"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Análise de Sinais"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.63.1"
+                                SUBSETOR="Atividades de prestação de serviços de informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3296840555526695"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento automático de novos algoritmos de aprendizado de máquina utilizando programação genética."
+                         NOME-DA-LINHA-DE-PESQUISA="Automatic-design of machine learning algorithms"
+                         SEQUENCIA-LINHA-DE-PESQUISA="8">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">desenvolvimento automático de algoritmos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">programação genética</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8172124241767828" NOME-COMPLETO="Rodrigo Coelho Barros"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="883895"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4922142296922435" NOME-COMPLETO="Márcio Porto Basgalupp"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="320020"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9674541381385819"
+                               NOME-COMPLETO="André Carlos Ponce de Leon Ferreira de Carvalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="27679"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0677590555107263" NOME-COMPLETO="Aruã de Mello Sousa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3639779"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8951183465179786" NOME-COMPLETO="Léo Françoso Dal Piccol Sotto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5035143"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1813371122204205" NOME-COMPLETO="Jeferson de Souza Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4354141"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7614391299549728" NOME-COMPLETO="Ricardo Manhães Savii"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5533810"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Aprendizado de Máquina"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.63.1"
+                                SUBSETOR="Atividades de prestação de serviços de informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

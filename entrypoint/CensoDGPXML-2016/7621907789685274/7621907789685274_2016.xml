@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="7621907789685274"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="224133"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="04102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="1554213867338831" CODIGO-AREA-PREDOMINANTE="30700000"
+                           NOME-DA-UNIDADE="Instituto de Pesquisas Hidráulicas"
+                           NOME-DO-ORGAO="Instituto de Pesquisas Hidráulicas"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="RS"
+                           SIGLA-DA-INSTITUICAO="UFRGS"
+                           NOME-DA-INSTITUICAO="Universidade Federal do Rio Grande do Sul"
+                           AREA-PREDOMINANTE="Engenharia Sanitária"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="2016"
+                           NOME-DO-GRUPO="AHRNA - Aplicações hidroambientais com redes neurais artificiais">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="2600928966568151" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Olavo Correa Pedrollo"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="5253343519757030" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Nilza Maria dos Reis Castro"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="4314902" DDDFAX="51"
+                                       LONGITUDE="-51.12557170000002"
+                                       LATITUDE="-30.06879929999999"
+                                       CAIXA-POSTAL="15029"
+                                       LOCALIDADE="Porto Alegre"
+                                       NUMERO="9500"
+                                       COMPLEMENTO="Avenida Bento Gonçalves"
+                                       LOGRADOURO="AC Campus da UFRGS"
+                                       HOME-PAGE="http://www.ufrgs.br/iph/"
+                                       E-MAIL="olavopedrollo@gmail.com"
+                                       FAX="3308-7292"
+                                       RAMAL=""
+                                       TELEFONE="3308-7500"
+                                       DDD="51"
+                                       CEP="91501970"
+                                       CIDADE="Porto Alegre"
+                                       UF="RS"
+                                       BAIRRO="Agronomia"/>
+      <REPERCUSSOES>O grupo contribui para consolidar e divulgar recursos experimentais para o uso de redes neurais artificiais na área hídrica e ambiental, tendo publicado, somente no ano de 2015, diversos artigos, entre outros nos seguintes veículos: Applied and Environmental Soil Science, Revista Brasileira de Meteorologia (Impresso), Hydrobiologia (The Hague. Print), Journal of Hydrology (Amsterdam),  Engineering Applications of Artificial Intelligence, Hydrology and Earth System Sciences, e American Journal of Climate Change.O grupo tem contribuído, com os trabalhos divulgados, nas discussões científicas envolvendo impactos de mudanças climáticas sobre a irrigação de culturas e a demanda de água para diversos usos, impacto ambiental de reservatórios sobre as planícies de inundação do Pantanal Brasileiro e o uso de redes neurais para simular diversos fenômenos hidrológicos e ambientais. Contam-se também contribuições importantes na simulação e previsão de curto prazo para o alerta de cheias fluviais.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="PEDROLLO, O. C.;PEDROLLO, OLAVO C.;PEDROLLO, OLAVO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2600928966568151"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Olavo Correa Pedrollo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Monitoramento, previsão e alerta de inundações fluviais."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo das alterações hidrológicas e ambientais produzidas por reservatórios."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processos hidrossedimentológicos em bacias representativas, reservatórios e no meio fluvial."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Preenchimento de falhas em séries hidrológicas."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações hidrológicas e ambientais de redes neurais artificiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação estocástica de processos hidrológicos."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem da umidade e relações solo-água com uso de redes neurais artificiais."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos matemáticos empíricos na área hídrica e ambiental</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Previsões hidrológicas de curto prazo com modelos empíricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes neurais artificiais com aplicações hídricas e ambientais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PUHL, E.;PUHL, EDUARDO" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0573599917601116"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Eduardo Puhl">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processos hidrossedimentológicos em bacias representativas, reservatórios e no meio fluvial."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hidráulica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hidráulica Fluvial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hidráulica Marítima</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sedimentologia Marinha</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FANTIN-CRUZ, I.;FANTIN-CRUZ, IBRAIM;FANTIN- CRUZ, IBRAIM"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0191832925366432"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ibraim Fantin da Cruz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo das alterações hidrológicas e ambientais produzidas por reservatórios."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações hidrológicas e ambientais de redes neurais artificiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ecohidrologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hidrologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Limnologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento Integrado dos Recursos Hídricos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CASTRO, N. M. R.;Castro, Nilza M. R.;Castro, Nilza M.R."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="F"
+                   NRO-ID-CNPQ="5253343519757030"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Nilza Maria dos Reis Castro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo das alterações hidrológicas e ambientais produzidas por reservatórios."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processos hidrossedimentológicos em bacias representativas, reservatórios e no meio fluvial."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Preenchimento de falhas em séries hidrológicas."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação estocástica de processos hidrológicos."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações hidrológicas e ambientais de redes neurais artificiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem da umidade e relações solo-água com uso de redes neurais artificiais."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Erosão</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hidrologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>hidrometria</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Irrigação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="OLIVEIRA, G. G." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5149357364476181"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Guilherme Garcia de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Monitoramento, previsão e alerta de inundações fluviais."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação estocástica de processos hidrológicos."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicações hidrológicas e ambientais de redes neurais artificiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geomorfologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geoprocessamento</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hidrologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Recursos Hídricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes Neurais Artificiais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sensoriamento Remoto</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MELO, T. M.;Melo, Tirzah Moreira de;Tirzah Moreira de Melo"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="F"
+                   NRO-ID-CNPQ="8413080701996952"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Tirzah Moreira de Melo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem da umidade e relações solo-água com uso de redes neurais artificiais."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Estocástica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física do Solo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geoestatística</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Recursos Hídricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Saneamento Ambiental</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="SARI, V.;Sari, V.;SARI, VANESSA;Sari, Vanessa"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="NILZA MARIA DOS REIS CASTRO"
+                 NRO-ID-CNPQ-ORIENTADOR="5253343519757030"
+                 SEQUENCIA-ESTUDANTE="833322"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8138763995619661"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Vanessa Sari">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processos hidrossedimentológicos em bacias representativas, reservatórios e no meio fluvial."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Hidráulica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino Profissionalizante</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Recursos Hídricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Saneamento Ambiental</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MOREIRA, G. C." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="OLAVO CORREA PEDROLLO"
+                 NRO-ID-CNPQ-ORIENTADOR="2600928966568151"
+                 SEQUENCIA-ESTUDANTE="3674120"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7357870481113032"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Giuliana Chaves Moreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Monitoramento, previsão e alerta de inundações fluviais."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciências Ambientais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Sanitária</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Saneamento Ambiental</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS, S. A.;Sizabeli Amaral dos Santos;DOS SANTOS, SIZABELI AMARAL"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="NILZA MARIA DOS REIS CASTRO"
+                 NRO-ID-CNPQ-ORIENTADOR="5253343519757030"
+                 SEQUENCIA-ESTUDANTE="4165743"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1930231403156707"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Sizabeli Amaral dos Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Preenchimento de falhas em séries hidrológicas."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciências Ambientais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Ambiental</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Sanitária</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Recursos Hídricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Saneamento Ambiental</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Tratamento de Águas de Abastecimento e Residuárias</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2636389310727801"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA=" O objetivo é quantificar os efeitos da operação de hidrelétricas na alteraçãode curta duração e alta frequência na qualidade da água e do regime hidrológico em rios formadores do Pantanal. E com isso, fornecer informações técnocientíficas que definam os limites entre o desenvolvimento econômico e a preservação ambiental que norteiem a instalação e operação dos atuais e futuros empreendimentos."
+                         NOME-DA-LINHA-DE-PESQUISA="Estudo das alterações hidrológicas e ambientais produzidas por reservatórios."
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Preservação Ambiental</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Efeitos de reservatórios</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Pantanal</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2600928966568151" NOME-COMPLETO="Olavo Correa Pedrollo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="47896"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0191832925366432" NOME-COMPLETO="Ibraim Fantin da Cruz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="555840"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5253343519757030" NOME-COMPLETO="Nilza Maria dos Reis Castro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="347676"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30701015" CODIGO-ESPECIALIDADE="30701015"
+                                  CODIGO-SUB-AREA="30701007"
+                                  CODIGO-AREA="30700000"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Planejamento Integrado dos Recursos Hídricos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Recursos Hídricos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Sanitária"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="512"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="O.84.1"
+                                SUBSETOR="Administração pública, defesa e seguridade social"
+                                SETOR="Administração pública, defesa e seguridade social"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9852205391137894"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="A simulação de processos hidrológicos mostra-se um recurso importante para o entendimento das relações entre as diversas variáveis, tanto físicas quanto climáticas, biológicas, geográficas e econômicas.Particularmente, a simulação para efeito de planejamento para o futuro, envolve incertezas (mudanças climáticas, alterações do cenário geo-econômico, etc.), que podem ser tratadas com a modelagem estocástica dos processos, para a qual o uso, inclusive, de redes neurais, revela-se útil."
+                         NOME-DA-LINHA-DE-PESQUISA="Simulação estocástica de processos hidrológicos."
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Cenários climáticos futuros</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Planejamento hídrico e ambiental</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Modelagem hidrológica estocástica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2600928966568151" NOME-COMPLETO="Olavo Correa Pedrollo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="47896"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5253343519757030" NOME-COMPLETO="Nilza Maria dos Reis Castro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="347676"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5149357364476181" NOME-COMPLETO="Guilherme Garcia de Oliveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2398638"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30701015" CODIGO-ESPECIALIDADE="30701015"
+                                  CODIGO-SUB-AREA="30701007"
+                                  CODIGO-AREA="30700000"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Planejamento Integrado dos Recursos Hídricos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Recursos Hídricos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Sanitária"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="512"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="O.84.1"
+                                SUBSETOR="Administração pública, defesa e seguridade social"
+                                SETOR="Administração pública, defesa e seguridade social"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4240436804536638"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="O uso de modelos matemáticos de simulação, cada vez mais, requer a disponibilidade de séries contínuas de dados.Esta disponibilidade, porém, é prejudicada pela ocorrência de falhas, devido à possibilidade de pane nos equipamentos de captação e transmissão, bem como as dificuldades de acesso para manutenção imediata. No caso de falhas de curta duração, é possível, frequentemente, o preenchimento de falhas com uma margem aceitável de erros, com uso de redes neurais artificiais."
+                         NOME-DA-LINHA-DE-PESQUISA="Preenchimento de falhas em séries hidrológicas."
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Preenchimento de falhas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Modelagem matemática</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Séries contínuas de dados</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2600928966568151" NOME-COMPLETO="Olavo Correa Pedrollo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="47896"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5253343519757030" NOME-COMPLETO="Nilza Maria dos Reis Castro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="347676"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1930231403156707" NOME-COMPLETO="Sizabeli Amaral dos Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4165743"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30701015" CODIGO-ESPECIALIDADE="30701015"
+                                  CODIGO-SUB-AREA="30701007"
+                                  CODIGO-AREA="30700000"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Planejamento Integrado dos Recursos Hídricos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Recursos Hídricos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Sanitária"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="512"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="O.84.1"
+                                SUBSETOR="Administração pública, defesa e seguridade social"
+                                SETOR="Administração pública, defesa e seguridade social"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2273804735097063"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Em aplicações agrícolas, o conhecimento destas propriedades são necessárias, por exemplo, quando se lida com irrigação e gestão de drenagem, e a análise de dados biológicos. A determinação da umidade do solo depende de monitoramento contínuo e espacializado, cujo custo pode ser reduzido por meio de modelagem matemática. As redes neurais artificiais podem proporcionar resultados, desde que existam registros de dados monitorados suficientes."
+                         NOME-DA-LINHA-DE-PESQUISA="Modelagem da umidade e relações solo-água com uso de redes neurais artificiais."
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">modelos empíricos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Umidade de Solos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">modelagem da umidade</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2600928966568151" NOME-COMPLETO="Olavo Correa Pedrollo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="47896"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5253343519757030" NOME-COMPLETO="Nilza Maria dos Reis Castro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="347676"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8413080701996952" NOME-COMPLETO="Tirzah Moreira de Melo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2119065"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30701023" CODIGO-ESPECIALIDADE="30701023"
+                                  CODIGO-SUB-AREA="30701007"
+                                  CODIGO-AREA="30700000"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Tecnologia e Problemas Sanitários de Irrigação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Recursos Hídricos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Sanitária"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="513"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="O.84.1"
+                                SUBSETOR="Administração pública, defesa e seguridade social"
+                                SETOR="Administração pública, defesa e seguridade social"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0818123978952926"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="O monitoramento das situações de cheias fluviais, associadas a medidas complementares, como informação e educação pública, bem como planos para evacuação emergencial, podem fazer muita diferença para uma população atingida por uma enchente. A efetividade das providências necessárias, porém, depende do tempo disponível, uma vez detectada a situação de emergência. Para incrementar este tempo, podem-se utilizar modelos de previsão hidrológica, obtendo-se com antecedência um panorama da situação."
+                         NOME-DA-LINHA-DE-PESQUISA="Monitoramento, previsão e alerta de inundações fluviais."
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Previsões hidrológicas de curto prazo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Inundações fluviais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Incertezas das previsões</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Redes neurais artificiais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2600928966568151" NOME-COMPLETO="Olavo Correa Pedrollo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="47896"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5149357364476181" NOME-COMPLETO="Guilherme Garcia de Oliveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2398638"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7357870481113032" NOME-COMPLETO="Giuliana Chaves Moreira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3674120"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30701040" CODIGO-ESPECIALIDADE="30701040"
+                                  CODIGO-SUB-AREA="30701007"
+                                  CODIGO-AREA="30700000"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de Enchentes e de Barragens"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Recursos Hídricos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Sanitária"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="515"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="O.84.1"
+                                SUBSETOR="Administração pública, defesa e seguridade social"
+                                SETOR="Administração pública, defesa e seguridade social"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5184769728695702"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de atividades, com a experimentação de recursos para a aplicação de redes neurais artificiais na área hidro-ambiental, visando contribuir para o conhecimento em diversas áreas, bem como para a aplicação.Também contempla-se o estudo e a experimentação de recursos para o melhoramento da técnica das redes neurais artificiais, quanto aos meios para a utilização, para o melhoramento de sua eficiência, e para a identificação da incerteza dos resultados, bem como para a sua redução."
+                         NOME-DA-LINHA-DE-PESQUISA="Aplicações hidrológicas e ambientais de redes neurais artificiais"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Redes Neurais Artificiais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Simulação e previsão hidrológica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Modelagem hidro-sedimentológica e ambiental</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2600928966568151" NOME-COMPLETO="Olavo Correa Pedrollo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="47896"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0191832925366432" NOME-COMPLETO="Ibraim Fantin da Cruz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="555840"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5253343519757030" NOME-COMPLETO="Nilza Maria dos Reis Castro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="347676"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5149357364476181" NOME-COMPLETO="Guilherme Garcia de Oliveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2398638"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30104025" CODIGO-ESPECIALIDADE="30104025"
+                                  CODIGO-SUB-AREA="30104009"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Hidrologia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Engenharia Hidráulica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="369"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="O.84.1"
+                                SUBSETOR="Administração pública, defesa e seguridade social"
+                                SETOR="Administração pública, defesa e seguridade social"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7670006589015383"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Modelagem dos processos da produção de água e sedimentos em bacias experimentais representativas no bioma Mata Atlântica por meio de monitoramento e modelagem hidrossedimentológica e de qualidade de água visando a determinação dos efeitos da escala e do uso do solo.Modelagem dos processos geomorfológicos fluviais e deltaicos."
+                         NOME-DA-LINHA-DE-PESQUISA="Processos hidrossedimentológicos em bacias representativas, reservatórios e no meio fluvial."
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Água e sedimentos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Processos geomorfológicos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Efeitos de escala</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2600928966568151" NOME-COMPLETO="Olavo Correa Pedrollo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="47896"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0573599917601116" NOME-COMPLETO="Eduardo Puhl"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="613618"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5253343519757030" NOME-COMPLETO="Nilza Maria dos Reis Castro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="347676"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8138763995619661" NOME-COMPLETO="Vanessa Sari"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="833322"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30701058" CODIGO-ESPECIALIDADE="30701058"
+                                  CODIGO-SUB-AREA="30701007"
+                                  CODIGO-AREA="30700000"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sedimentologia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Recursos Hídricos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Sanitária"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="516"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="O.84.1"
+                                SUBSETOR="Administração pública, defesa e seguridade social"
+                                SETOR="Administração pública, defesa e seguridade social"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES="GNU Octave é uma linguagem de programação interpretada de alto nível, primeiramente desenvolvida para computação e experimentação numérica. Copyright (C) 2016 John W. Eaton e outros. "
+                MODELO=""
+                VERSAO="4.0.3"
+                NOME="GNU Octave"
+                CLASSIFICACAO="Engenharia/estatística/geoprocessamento"
+                TIPO-DE-LICENCIAMENTO="Livre"
+                DESENVOLVIMENTO-PROPRIO="N"
+                SEQUENCIA-SOFTWARE="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Não necessitou de financiamento</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+   </SOFTWARES>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

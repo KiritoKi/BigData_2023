@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="2457595190051812"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="191535"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="19042016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="7884369240668788" CODIGO-AREA-PREDOMINANTE="30600006"
+                           NOME-DA-UNIDADE="Departamento de Engenharia Química"
+                           NOME-DO-ORGAO="Departamento de Engenharia Química"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="CE"
+                           SIGLA-DA-INSTITUICAO="UFC"
+                           NOME-DA-INSTITUICAO="Universidade Federal do Ceará"
+                           AREA-PREDOMINANTE="Engenharia Química"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="2009"
+                           NOME-DO-GRUPO="Grupo de Pesquisa em Termofluidodinâmica Aplicada">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="2092735974889850" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Hosiberto Batista de Sant'Ana"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="8912166751688514" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Rílvia Saraiva de Santiago Aguiar"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="2304400" DDDFAX="85"
+                                       LONGITUDE="-38.57166670000004"
+                                       LATITUDE="-3.7584061"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Fortaleza"
+                                       NUMERO="709"
+                                       COMPLEMENTO="Bloco 709"
+                                       LOGRADOURO="Rua Campus do Pici"
+                                       HOME-PAGE="www.gpta.ufc.br"
+                                       E-MAIL="hbs@ufc.br"
+                                       FAX="33669610"
+                                       RAMAL=""
+                                       TELEFONE="33669611"
+                                       DDD="85"
+                                       CEP="60440554"
+                                       CIDADE="Fortaleza"
+                                       UF="CE"
+                                       BAIRRO="Pici"/>
+      <REPERCUSSOES/>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="DE SANT'ANA, H. B.;Sant'Ana, H. B.;de Sant¿Ana, Hosiberto B.;de Sant'Ana, Hosiberto B.;de Santâ¿¿Ana, H.B.;Sant¿ana, H. B.;SANT¿ANA, HOSIBERTO B.;SANT&#146;ANA, HOSIBERTO BATISTA DE;DE SANT&#146;ANA, H.B.;ANA, HOSIBERTO BATISTA DE SANT&#146;;SANT'ANA, HOSIBERTO BATISTA DE;DE SANT&#146;ANA, HOSIBERTO B.;SANT'ANA, H. B. DE;SANT&#146;ANA, HOSIBERTO B. DE;DE SANT&#146;ANA, HOSIBERTO BATISTA;SANT'ANA, HOSIBERTO B.DE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2092735974889850"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Hosiberto Batista de Sant'Ana">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Propriedades Termofluidodinâmicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tecnologia de Fluidos Supercríticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Integridade de Materiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tecnologia de Asfalto"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tecnologia de Emulsões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise PVT"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Equilíbrio Líquido-Líquido"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="8"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Físico Química e Termodinâmica Aplicada a Fluidos Petrolíferos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Tecnologia de extração supercrítica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANTIAGO-AGUIAR, R. S.;Santiago, R. S.;AGUIAR, Rilvia Saraiva de Santiago;Santiago Aguiar, R. S.;Aguiar, R. S. Saraiva;Santiago Aguiar, Rilvia S.;Santiago Aguiar, Rilvia Saraiva;Santiago, Rílvia S.;Santiago-Aguiar, R. S. de;SANTIAGO-AGUIAR, R.S.;SANTIAGO-AGUIAR, RÍLVIA SARAIVA DE;DE SANTIAGO-AGUIAR, RÍLVIA S.;SANTIAGO-AGUIAR, RÍLVIA S. DE;SANTIAGO-AGUIAR, RÍLVIA S."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="F"
+                   NRO-ID-CNPQ="8912166751688514"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rílvia Saraiva de Santiago Aguiar">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Propriedades Termofluidodinâmicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tecnologia de Fluidos Supercríticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Integridade de Materiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tecnologia de Asfalto"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tecnologia de Emulsões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Equilíbrio Líquido-Líquido"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Equilibrio Líquido-Líquido</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Operações de Separação e Mistura</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Petróleo e Petroquímica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Francisca Maria Rodrigues Mesquita;Mesquita, Francisca M. R.;Mesquita, Francisca Maria R.;RODRIGUES MESQUITA, FRANCISCA MARIA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0384846482774966"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Francisca Maria Rodrigues Mesquita">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Equilíbrio Líquido-Líquido"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biocombustíveis</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência e Tecnologia de Alimentos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Química dos Produtos Naturais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Tecnologia de Alimentos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CARMO, F. R.;Carmo, Frederico R.;do Carmo, F.R.;F. R. do Carmo;Carmo, F. R. do;DO CARMO, FREDERICO R.;DO CARMO, FREDERICO R;CARMO, FREDERICO R. DO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5965241819609616"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Frederico Ribeiro do Carmo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Propriedades Termofluidodinâmicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem e Simulação de Processos Industriais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biodiesel</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento de Softwares para Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Equação de Estado, Equilíbrio de Fases e Transições de Fase</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fluidos Petrolíferos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Líquidos Iônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem de Propriedades Termodinâmicas e de Transporte</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FEITOSA, F. X.;Feitosa, Filipe X." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7891947785454785"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Filipe Xavier Feitosa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tecnologia de Emulsões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="RODRIGUES, R. D. P.;ROBRIGUES, RENATA DÉBORA PINTO;PINTO RODRIGUES, RENATA DÉBORA"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RILVIA SARAIVA DE SANTIAGO AGUIAR"
+                 NRO-ID-CNPQ-ORIENTADOR="8912166751688514"
+                 SEQUENCIA-ESTUDANTE="3078681"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7631490381424008"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Renata Débora Pinto Rodrigues">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Equilíbrio Líquido-Líquido"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência e Tecnologia de Alimentos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Tecnologia de Alimentos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="EVANGELISTA, N.S;EVANGELISTA, NATHAN SOMBRA;EVANGELISTA, NATHAN S."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="HOSIBERTO BATISTA DE SANT ANA"
+                 NRO-ID-CNPQ-ORIENTADOR="2092735974889850"
+                 SEQUENCIA-ESTUDANTE="3463560"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1361603980743131"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Nathan Sombra Evangelista">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Propriedades Termofluidodinâmicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FELIX, A. K. N.;Felix, A.K.N.;Félix, Anne Kamilly Nogueira;FELIX, ANNE KAMILLY NOGUEIRA"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RILVIA SARAIVA DE SANTIAGO AGUIAR"
+                 NRO-ID-CNPQ-ORIENTADOR="8912166751688514"
+                 SEQUENCIA-ESTUDANTE="3460382"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8554152510750677"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Anne Kamilly Nogueira Felix">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tecnologia de Emulsões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Avaliação e Controle de Qualidade de Alimentos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biotecnologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microbiologia de Alimentos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Padrões, Legislação e Fiscalização de Alimentos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BESSA, ALINE M. M.;BESSA, ALINE M.M."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RILVIA SARAIVA DE SANTIAGO AGUIAR"
+                 NRO-ID-CNPQ-ORIENTADOR="8912166751688514"
+                 SEQUENCIA-ESTUDANTE="3538380"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3693616419420275"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Aline Mara Maia Bessa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Equilíbrio Líquido-Líquido"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Equilíbrio de Fases</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Termodinâmica Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SIQUEIRA, A. C. A.;Ana Cristina de Abreu Siqueira;Ana Cristina de A. Siqueira;A. C. A. Siqueira;Ana C. A. Siqueira;SIQUEIRA, A. C."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="HOSIBERTO BATISTA DE SANT ANA"
+                 NRO-ID-CNPQ-ORIENTADOR="2092735974889850"
+                 SEQUENCIA-ESTUDANTE="2881629"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6663257642846151"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ana Cristina de Abreu Siqueira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Equilíbrio Líquido-Líquido"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Avaliação e Controle de Qualidade de Alimentos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência e Tecnologia de Alimentos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos Químicos e Bioquímicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Toxicidade e Resíduos de Pesticidas em Alimentos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ALVES, R. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RILVIA SARAIVA DE SANTIAGO AGUIAR"
+                 NRO-ID-CNPQ-ORIENTADOR="8912166751688514"
+                 SEQUENCIA-ESTUDANTE="5167831"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6219705173879290"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Raíssa Sales Alves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Equilíbrio Líquido-Líquido"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PINHEIRO, R. S.;Pinheiro, Regiane Silva;PINHEIRO, REGIANE S."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RILVIA SARAIVA DE SANTIAGO AGUIAR"
+                 NRO-ID-CNPQ-ORIENTADOR="8912166751688514"
+                 SEQUENCIA-ESTUDANTE="2930802"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3444570605688961"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Regiane Silva Pinheiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Equilíbrio Líquido-Líquido"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NOGUEIRA JÚNIOR, C. A.;Nogueira, Carlos A."
+                 NIVEL-DE-TREINAMENTO="Outros"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="HOSIBERTO BATISTA DE SANT ANA"
+                 NRO-ID-CNPQ-ORIENTADOR="2092735974889850"
+                 SEQUENCIA-ESTUDANTE="3427727"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7191521378825076"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Carlos Augusto Nogueira Júnior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Propriedades Termofluidodinâmicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Propriedades Termodinâmicas e de Transporte de Sistemas Contendo Biocombustíveis</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FAHEINA JUNIOR, G. S.;FAHEINA JUNIOR, GENILTON DA SILVA;FAHEINA JUNIOR, GENILTON"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RILVIA SARAIVA DE SANTIAGO AGUIAR"
+                 NRO-ID-CNPQ-ORIENTADOR="8912166751688514"
+                 SEQUENCIA-ESTUDANTE="620216"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6662991468989128"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Genilton da Silva Faheina Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Equilíbrio Líquido-Líquido"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Alimentos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FERREIRA, A. F. B." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FREDERICO RIBEIRO DO CARMO"
+                 NRO-ID-CNPQ-ORIENTADOR="5965241819609616"
+                 SEQUENCIA-ESTUDANTE="4729574"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2495048954401618"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ailton Freitas Balieiro Ferreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem e Simulação de Processos Industriais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="YANES, J. F. R." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Mestrado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="HOSIBERTO BATISTA DE SANT ANA"
+                 NRO-ID-CNPQ-ORIENTADOR="2092735974889850"
+                 SEQUENCIA-ESTUDANTE="6581961"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7659878119527874"
+                 PAIS-DE-NASCIMENTO="VEN"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="José Francisco Romero Yanes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tecnologia de Emulsões"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cinética Química e Catálise</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Operações de Separação e Mistura</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Operações Industriais e Equipamentos para Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Petróleo e Petroquímica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GOMES, R. F." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FREDERICO RIBEIRO DO CARMO"
+                 NRO-ID-CNPQ-ORIENTADOR="5965241819609616"
+                 SEQUENCIA-ESTUDANTE="5348692"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4505792422081948"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rafael Faria Gomes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem e Simulação de Processos Industriais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MARQUES, M. D.;Marques, Marina Dias;Marques, Marina D."
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FILIPE XAVIER FEITOSA"
+                 NRO-ID-CNPQ-ORIENTADOR="7891947785454785"
+                 SEQUENCIA-ESTUDANTE="4352102"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6881402901344259"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marina Dias Marques">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Petróleo e Petroquímica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9583439185286328"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Apresentar soluções específicas para o desenvolvimento de misturas asfálticas. "
+                         NOME-DA-LINHA-DE-PESQUISA="Tecnologia de Asfalto"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Formulação e Aditivação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2092735974889850" NOME-COMPLETO="Hosiberto Batista de Sant'Ana"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="391473"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8912166751688514"
+                               NOME-COMPLETO="Rílvia Saraiva de Santiago Aguiar"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="191192"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31003001" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="31003001"
+                                  CODIGO-AREA="31000002"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações de Transportes"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Transportes"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="595"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B" SUBSETOR="" SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2782452366004962" OBJETIVO-DA-LINHA-DE-PESQUISA="a"
+                         NOME-DA-LINHA-DE-PESQUISA="Equilíbrio Líquido-Líquido"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Sistemas Aquosos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Sistemas Combustíveis</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2092735974889850" NOME-COMPLETO="Hosiberto Batista de Sant'Ana"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="391473"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8912166751688514"
+                               NOME-COMPLETO="Rílvia Saraiva de Santiago Aguiar"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="191192"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0384846482774966"
+                               NOME-COMPLETO="Francisca Maria Rodrigues Mesquita"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="891214"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7631490381424008" NOME-COMPLETO="Renata Débora Pinto Rodrigues"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3078681"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3693616419420275" NOME-COMPLETO="Aline Mara Maia Bessa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3538380"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6663257642846151" NOME-COMPLETO="Ana Cristina de Abreu Siqueira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2881629"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6219705173879290" NOME-COMPLETO="Raíssa Sales Alves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5167831"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3444570605688961" NOME-COMPLETO="Regiane Silva Pinheiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2930802"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6662991468989128" NOME-COMPLETO="Genilton da Silva Faheina Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="620216"
+                             SEQUENCIA-ESTUDANTE="6"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B" SUBSETOR="" SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2535367975643515"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudar técnicas de extração usando fluidos sub e supercríticos."
+                         NOME-DA-LINHA-DE-PESQUISA="Tecnologia de Fluidos Supercríticos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Síntese e Extração</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Sistemas Petrolíferos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2092735974889850" NOME-COMPLETO="Hosiberto Batista de Sant'Ana"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="391473"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8912166751688514"
+                               NOME-COMPLETO="Rílvia Saraiva de Santiago Aguiar"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="191192"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602033" CODIGO-ESPECIALIDADE="30602033"
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Operações de Separação e Mistura"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="487"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B" SUBSETOR="" SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2340466018451392" OBJETIVO-DA-LINHA-DE-PESQUISA="a"
+                         NOME-DA-LINHA-DE-PESQUISA="Integridade de Materiais"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Corrosão</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2092735974889850" NOME-COMPLETO="Hosiberto Batista de Sant'Ana"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="391473"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8912166751688514"
+                               NOME-COMPLETO="Rílvia Saraiva de Santiago Aguiar"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="191192"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30603005" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30603005"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Tecnologia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="488"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2982347229151953"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudar sistemas emulsionados no que tangem aspectos de estabilidade e instabilidade."
+                         NOME-DA-LINHA-DE-PESQUISA="Tecnologia de Emulsões"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Sistemas Biossurfactantes</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Formulação e Estabilidade</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2092735974889850" NOME-COMPLETO="Hosiberto Batista de Sant'Ana"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="391473"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8912166751688514"
+                               NOME-COMPLETO="Rílvia Saraiva de Santiago Aguiar"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="191192"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7891947785454785" NOME-COMPLETO="Filipe Xavier Feitosa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2786280"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8554152510750677" NOME-COMPLETO="Anne Kamilly Nogueira Felix"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3460382"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7659878119527874" NOME-COMPLETO="José Francisco Romero Yanes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6581961"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2432925033529924"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo de propriedades volumétricas e de transporte de sistemas de interesse industrial."
+                         NOME-DA-LINHA-DE-PESQUISA="Propriedades Termofluidodinâmicas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Propriedades volumétricas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Propriedades de transporte</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Reologia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Velocidade do som</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2092735974889850" NOME-COMPLETO="Hosiberto Batista de Sant'Ana"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="391473"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8912166751688514"
+                               NOME-COMPLETO="Rílvia Saraiva de Santiago Aguiar"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="191192"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5965241819609616" NOME-COMPLETO="Frederico Ribeiro do Carmo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="3461401"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1361603980743131" NOME-COMPLETO="Nathan Sombra Evangelista"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3463560"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7191521378825076" NOME-COMPLETO="Carlos Augusto Nogueira Júnior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3427727"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0005342868326324"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA=" Estudar o processo de precipitação de asfaltenos induzido pela adição de dióxido de carbono em condições de altas pressões e altas temperaturas (HPHT ¿ high pressure and high temperature).Estudos de síntese e avaliação do desempenho inibidor de asfaltenos para aplicações diretas em reservatórios levando ao entendimento das necessidades de um inibidor para tratamento squeeze orgânico."
+                         NOME-DA-LINHA-DE-PESQUISA="Petróleo"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Análise PVT</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Aditivos Petroquímicos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2092735974889850" NOME-COMPLETO="Hosiberto Batista de Sant'Ana"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="391473"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7659878119527874" NOME-COMPLETO="José Francisco Romero Yanes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6581961"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6881402901344259" NOME-COMPLETO="Marina Dias Marques"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4352102"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30603161" CODIGO-ESPECIALIDADE="30603161"
+                                  CODIGO-SUB-AREA="30603005"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Petróleo e Petroquímica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Tecnologia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="504"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06.0"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2827033007495824"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="- avaliação e desenvolvimento de modelos preditivos para propriedades termofísicas de fluidos;- avaliação e desenvolvimento de equações de estado e coeficientes de atividade. - modelagem do equilíbrio de fases; - desenvolvimento de algoritmos para cálculos de EQ; - desenvolvimento de banco de dados; - desenvolvimento de softwares educacionais para EQ.Enfase em líquidos iônicos, fluidos petrolíferos e biocombustíveis."
+                         NOME-DA-LINHA-DE-PESQUISA="Modelagem e Simulação de Processos Industriais"
+                         SEQUENCIA-LINHA-DE-PESQUISA="8">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">MODELAGEM</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Simulação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Líquidos iônicos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Fluidos de Reservatórios de Petróleo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Biocombustíveis</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5965241819609616" NOME-COMPLETO="Frederico Ribeiro do Carmo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="3461401"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2495048954401618" NOME-COMPLETO="Ailton Freitas Balieiro Ferreira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4729574"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4505792422081948" NOME-COMPLETO="Rafael Faria Gomes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5348692"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602033" CODIGO-ESPECIALIDADE="30602033"
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Operações de Separação e Mistura"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="487"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06.0"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0580032878038138"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="- Estudo do comportamento de fases de sistemas de interesse em Engenharia Quimica."
+                         NOME-DA-LINHA-DE-PESQUISA="Análise PVT"
+                         SEQUENCIA-LINHA-DE-PESQUISA="9">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Análise PVT</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2092735974889850" NOME-COMPLETO="Hosiberto Batista de Sant'Ana"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="391473"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS>
+      <EQUIPAMENTO DISPONIBILIZADO-OUTROS-PESQUISADORES="N" ESTADO="Atualizado"
+                   SITUACAO="Em operação"
+                   CUSTO-AQUISICAO="100000"
+                   MOEDA-AQUISICAO="REAL"
+                   DATA-FIM-AQUISICAO-EQUIPAMENTO-SISTEMA=""
+                   DATA-INICIO-AQUISICAO-EQUIPAMENTO-SISTEMA=""
+                   ESPECIFICACOES="Condições operacionais: P até 450 bar e T até 423,15 K"
+                   MODELO=""
+                   MARCA=""
+                   NOME="Célula PVT"
+                   CLASSIFICACAO="Analisadores de propriedades físico químicas"
+                   TIPO-DE-EQUIPAMENTO="Sistema"
+                   DESENVOLVIMENTO-PROPRIO="S"
+                   SEQUENCIA-EQUIPAMENTO="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">CNPq</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </EQUIPAMENTO>
+      <EQUIPAMENTO DISPONIBILIZADO-OUTROS-PESQUISADORES="N" ESTADO="Atualizado"
+                   SITUACAO="Em operação"
+                   CUSTO-AQUISICAO="100000"
+                   MOEDA-AQUISICAO="REAL"
+                   ANO-AQUISICAO-EQUIPAMENTO-UNITARIO="2009"
+                   ESPECIFICACOES=""
+                   MODELO="SVM 3000"
+                   MARCA="Anton Paar"
+                   NOME="Densímetro"
+                   CLASSIFICACAO="Analisadores de propriedades físico químicas"
+                   TIPO-DE-EQUIPAMENTO="Equipamento unitário"
+                   DESENVOLVIMENTO-PROPRIO="N"
+                   SEQUENCIA-EQUIPAMENTO="1">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">CNPq</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </EQUIPAMENTO>
+      <EQUIPAMENTO DISPONIBILIZADO-OUTROS-PESQUISADORES="N" ESTADO="Atualizado"
+                   SITUACAO="Em operação"
+                   CUSTO-AQUISICAO="100000"
+                   MOEDA-AQUISICAO="REAL"
+                   ANO-AQUISICAO-EQUIPAMENTO-UNITARIO="2011"
+                   ESPECIFICACOES=""
+                   MODELO="DSA 5000"
+                   MARCA="Anton Paar"
+                   NOME="Densímetro"
+                   CLASSIFICACAO="Analisadores de propriedades físico químicas"
+                   TIPO-DE-EQUIPAMENTO="Equipamento unitário"
+                   DESENVOLVIMENTO-PROPRIO="N"
+                   SEQUENCIA-EQUIPAMENTO="2">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">CNPq</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </EQUIPAMENTO>
+   </EQUIPAMENTOS>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="10032016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7891947785454785"
+               NOME-DO-EGRESSO="Filipe Xavier Feitosa"/>
+      <EGRESSO DATA-SAIDA="10032016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0384846482774966"
+               NOME-DO-EGRESSO="Francisca Maria Rodrigues Mesquita"/>
+      <EGRESSO DATA-SAIDA="16032015" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="5965241819609616"
+               NOME-DO-EGRESSO="Frederico Ribeiro do Carmo"/>
+      <EGRESSO DATA-SAIDA="16032015" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="5965241819609616"
+               NOME-DO-EGRESSO="Frederico Ribeiro do Carmo"/>
+      <EGRESSO DATA-SAIDA="10032016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7891947785454785"
+               NOME-DO-EGRESSO="Filipe Xavier Feitosa"/>
+      <EGRESSO DATA-SAIDA="10032016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0384846482774966"
+               NOME-DO-EGRESSO="Francisca Maria Rodrigues Mesquita"/>
+      <EGRESSO DATA-SAIDA="10032016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7891947785454785"
+               NOME-DO-EGRESSO="Filipe Xavier Feitosa"/>
+      <EGRESSO DATA-SAIDA="16032015" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="5965241819609616"
+               NOME-DO-EGRESSO="Frederico Ribeiro do Carmo"/>
+      <EGRESSO DATA-SAIDA="10032016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0384846482774966"
+               NOME-DO-EGRESSO="Francisca Maria Rodrigues Mesquita"/>
+      <EGRESSO DATA-SAIDA="10032016" DATA-ENTRADA="24102014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7891947785454785"
+               NOME-DO-EGRESSO="Filipe Xavier Feitosa"/>
+      <EGRESSO DATA-SAIDA="10032016" DATA-ENTRADA="24102014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0384846482774966"
+               NOME-DO-EGRESSO="Francisca Maria Rodrigues Mesquita"/>
+      <EGRESSO DATA-SAIDA="16032015" DATA-ENTRADA="24102014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="5965241819609616"
+               NOME-DO-EGRESSO="Frederico Ribeiro do Carmo"/>
+      <EGRESSO DATA-SAIDA="10032016" DATA-ENTRADA="16032015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0384846482774966"
+               NOME-DO-EGRESSO="Francisca Maria Rodrigues Mesquita"/>
+      <EGRESSO DATA-SAIDA="10032016" DATA-ENTRADA="16032015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7891947785454785"
+               NOME-DO-EGRESSO="Filipe Xavier Feitosa"/>
+      <EGRESSO DATA-SAIDA="10032016" DATA-ENTRADA="16032015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7891947785454785"
+               NOME-DO-EGRESSO="Filipe Xavier Feitosa"/>
+      <EGRESSO DATA-SAIDA="10032016" DATA-ENTRADA="16032015"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0384846482774966"
+               NOME-DO-EGRESSO="Francisca Maria Rodrigues Mesquita"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

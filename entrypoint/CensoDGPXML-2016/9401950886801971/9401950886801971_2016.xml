@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="9401950886801971"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="133352"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="12082016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="5007689366616827" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE="Centro de Ciências e Tecnologia"
+                           NOME-DO-ORGAO="Centro de Ciências e Tecnologia"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="CE"
+                           SIGLA-DA-INSTITUICAO="UECE"
+                           NOME-DA-INSTITUICAO="Universidade Estadual do Ceará"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2011"
+                           NOME-DO-GRUPO="Internet do Futuro">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="7708021019524305" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Marcial Porto Fernandez"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="0486779090155155" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Andre Luiz Moura dos Santos"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="2304400" DDDFAX="85"
+                                       LONGITUDE="-38.55220556259155"
+                                       LATITUDE="-3.7866525665419886"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Fortaleza"
+                                       NUMERO="1700"
+                                       COMPLEMENTO="Ciência da Computação"
+                                       LOGRADOURO="Fundação Universidade Estadual do Ceará - UECE"
+                                       HOME-PAGE="www.uece.br"
+                                       E-MAIL="marcial.fernandez@uece.br"
+                                       FAX="3101-9776"
+                                       RAMAL=""
+                                       TELEFONE="3101-9776"
+                                       DDD="85"
+                                       CEP="60714903"
+                                       CIDADE="Fortaleza"
+                                       UF="CE"
+                                       BAIRRO="Itaperi"/>
+      <REPERCUSSOES>A Internet é sem dúvida, o maior sucesso de arquitetura de comunicação surgida no final do século XX. O crescimento a partir de um pequeno experimento em universidades norte-americanas até a difusão global corrobora os seus conceitos e filosofias, influindo decisivamente no meio empresarial, cultural e na vida das pessoas. Entretanto, sua simplicidade, que foi determinante para o sucesso, causa hoje uma série de problemas não imaginados na epoca de sua concepção. Assim, vários projetos na Europa e Estados Unidos tem realizado propostas e avaliação de novas arquiteturas e novos serviços para a Internet que existirá em 2020, a Internet do Futuro. Esse grupo de pesquisa visa estudar várias técnicas proposta para essa nova arquietura e através de experimentação validá-las e propor alternativas. Assuntos como, protocolo IPv6, novos protocolos de roteamento, comutação de pacotes em altas velocidades, computação em núvens, Internet nas coisas (Internet of Things), aplicações baseadas em conteúdo, aplicações móveis, segurança, dentre outros. A principal meta é manter a sincronia da pesquisa realizada aqui com a pesquisa realizada nos grandes países para direcionar o desenvolvimento futuro da Internet no Ceará e no Brasil. Esse grupo tem interação com outros grupos de pesquisa na UECE que demandam grande capacidade de processamento e transmissão de dados como bioinformática e meteorologia.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="SILVA, Jorge Luiz de Castro e;SILVA, JORGE LUIZ DE CASTRO E"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6140115232418895"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Jorge Luiz de Castro e Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Protocolos e Algoritmos de Redes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes Óticas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem Analítica e de Simulação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Computadores e Sistemas Distribuídos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FERNANDEZ, M. P.;FERNANDEZ, MARCIAL P.;FERNANDEZ, MARCIAL PORTO;FERNANDEZ, MARCIAL"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7708021019524305"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcial Porto Fernandez">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Segurança em Redes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Protocolos e Algoritmos de Redes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gerenciamento de Redes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Dispositivos Lógicos Programáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes Óticas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Comunicações Móveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Telecomunicações</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teleinformática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="OLIVEIRA, T. Q.;de Oliveira, Thiago Q.;OLIVEIRA, THIAGO QUEIROZ DE"
+                   TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5011182604810122"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Thiago Queiroz de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gerenciamento de Redes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CELESTINO JÚNIOR, J.;Celestino Júnior, Joaquim;Joaquim Celestino Júnior;Celestino Junior;Celestino Jr;J Celestino;J Celestino Jr;Júnior, Joaquim Celestino;Júnior, JoaquimCelestino;J. Celestino Jr.;J.C.Junior;Celestino Jr, Joaquim;CELESTINO, JOAQUIM;CELESTINO JUNIOR, JOAQUIM;JUNIOR, JOAQUIM CELESTINO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2855716620920623"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Joaquim Celestino Júnior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Protocolos e Algoritmos de Redes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gerenciamento de Redes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Redes Óticas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Comunicações Móveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teleinformática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANTOS, A. L. M.;Dos Santos, Andre Luiz Moura;DOS SANTOS, André Luiz Moura;DOS SANTOS, Andre"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0486779090155155"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Andre Luiz Moura dos Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Segurança em Redes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Protocolos e Algoritmos de Redes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Criptografia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>SEGURANÇA DA INFORMAÇÃO</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="BATISTA, B. L. A.;BATISTA, BRUNO LOPES ALCANTARA;LOPES ALCANTARA BATISTA, BRUNO"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCIAL PORTO FERNANDEZ"
+                 NRO-ID-CNPQ-ORIENTADOR="7708021019524305"
+                 SEQUENCIA-ESTUDANTE="3528549"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8428282527975667"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruno Lopes Alcantara Batista">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Protocolos e Algoritmos de Redes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Computadores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Operacionais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CARDOSO JUNIOR, F. N." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCIAL PORTO FERNANDEZ"
+                 NRO-ID-CNPQ-ORIENTADOR="7708021019524305"
+                 SEQUENCIA-ESTUDANTE="5699537"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4553596712618367"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Francisco Nash Cardoso Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Protocolos e Algoritmos de Redes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PRAXEDES FILHO, W. L. L." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCIAL PORTO FERNANDEZ"
+                 NRO-ID-CNPQ-ORIENTADOR="7708021019524305"
+                 SEQUENCIA-ESTUDANTE="5630067"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6898307115322782"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Washington Luiz de Lima Praxedes Filho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BARROS, D. G." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCIAL PORTO FERNANDEZ"
+                 NRO-ID-CNPQ-ORIENTADOR="7708021019524305"
+                 SEQUENCIA-ESTUDANTE="3744403"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2607036192051057"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Diego Guimaraes de Barros">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Protocolos e Algoritmos de Redes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LIMA, N. A. S." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCIAL PORTO FERNANDEZ"
+                 NRO-ID-CNPQ-ORIENTADOR="7708021019524305"
+                 SEQUENCIA-ESTUDANTE="3746145"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5630189616182529"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Nelson Alex Silva Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Comunicações Móveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Trajano, Alex F R;Trajano, A. F. R.;TRAJANO, ALEX F.R.;TRAJANO, ALEX F. R."
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCIAL PORTO FERNANDEZ"
+                 NRO-ID-CNPQ-ORIENTADOR="7708021019524305"
+                 SEQUENCIA-ESTUDANTE="4669964"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9347392389583733"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alex Ferreira Ramires Trajano">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7085379428677485"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="O Gerenciamento de Redes envolve o estudo de arquitetura de sistemas controle de qualquer recursos físicos e lógicos em uma rede de comunicação de dados passível de ser monitorado, que podem estar alocados em diversos ambientes geograficamente distribuídos. O gerenciamento de uma rede de comunicações tem como objetivo principal garantir o seu funcionamento contínuo para assegurar um elevado grau de qualidade dos serviços prestados."
+                         NOME-DA-LINHA-DE-PESQUISA="Gerenciamento de Redes"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Redes de Comunicação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Operação de Redes</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7708021019524305" NOME-COMPLETO="Marcial Porto Fernandez"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="157451"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5011182604810122" NOME-COMPLETO="Thiago Queiroz de Oliveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2296623"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2855716620920623" NOME-COMPLETO="Joaquim Celestino Júnior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="13844"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304045" CODIGO-ESPECIALIDADE="10304045"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Teleinformática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="66"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0177451763615412"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="O principal tema de pesquisa consiste em resolver os problemas da transmissão sem fio, mais sucetível a ruidos e perdas de pacotes, degradando a comunicação. Vários tipos de redes são estudados: Redes Ad Hoc, Redes Sensores e Redes Mesh."
+                         NOME-DA-LINHA-DE-PESQUISA="Comunicações Móveis"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Redes de Comunicação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7708021019524305" NOME-COMPLETO="Marcial Porto Fernandez"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="157451"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2855716620920623" NOME-COMPLETO="Joaquim Celestino Júnior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="13844"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5630189616182529" NOME-COMPLETO="Nelson Alex Silva Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3746145"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304045" CODIGO-ESPECIALIDADE="10304045"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Teleinformática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="66"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8706446527819870"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="A origem da Internet foi no meio acadêmico, onde todos os participantes tinham confiança mútua, coisa inexistente na Internet atual. O grande desafio é saber como garantir a segurança da informação em sistemas onde o físico e o virtual se mesclam apoiados numa rede que não para de crescer."
+                         NOME-DA-LINHA-DE-PESQUISA="Segurança em Redes"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Redes de Comunicação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Segurança</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7708021019524305" NOME-COMPLETO="Marcial Porto Fernandez"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="157451"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0486779090155155" NOME-COMPLETO="Andre Luiz Moura dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="42417"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304045" CODIGO-ESPECIALIDADE="10304045"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Teleinformática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="66"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4067738137767482"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Essa linha de pesquisa visa estudar, avaliar e propor novos protocolos e algoritmos de roteamento e encaminhamento de pacotes qua garantam confiabilidade e que sejam adequados às velocidades atuais."
+                         NOME-DA-LINHA-DE-PESQUISA="Protocolos e Algoritmos de Redes"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Redes de Comunicação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Internet</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6140115232418895" NOME-COMPLETO="Jorge Luiz de Castro e Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="156006"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7708021019524305" NOME-COMPLETO="Marcial Porto Fernandez"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="157451"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2855716620920623" NOME-COMPLETO="Joaquim Celestino Júnior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="13844"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0486779090155155" NOME-COMPLETO="Andre Luiz Moura dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="42417"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8428282527975667" NOME-COMPLETO="Bruno Lopes Alcantara Batista"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3528549"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4553596712618367" NOME-COMPLETO="Francisco Nash Cardoso Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5699537"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2607036192051057" NOME-COMPLETO="Diego Guimaraes de Barros"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3744403"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304045" CODIGO-ESPECIALIDADE="10304045"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Teleinformática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="66"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0515121079585070"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Essa linha de pesquisa visa estudar e propor novas arquiteturas e serviços envolvendo disponibilidade, localização, distribuição, balanceamento de carga e segurança em computação em nuvens."
+                         NOME-DA-LINHA-DE-PESQUISA="Computação em Nuvens"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Redes de Comunicação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Datacenter</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6140115232418895" NOME-COMPLETO="Jorge Luiz de Castro e Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="156006"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7708021019524305" NOME-COMPLETO="Marcial Porto Fernandez"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="157451"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5011182604810122" NOME-COMPLETO="Thiago Queiroz de Oliveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2296623"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0486779090155155" NOME-COMPLETO="Andre Luiz Moura dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="42417"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8428282527975667" NOME-COMPLETO="Bruno Lopes Alcantara Batista"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3528549"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4553596712618367" NOME-COMPLETO="Francisco Nash Cardoso Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5699537"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6898307115322782"
+                             NOME-COMPLETO="Washington Luiz de Lima Praxedes Filho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5630067"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2607036192051057" NOME-COMPLETO="Diego Guimaraes de Barros"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3744403"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9347392389583733" NOME-COMPLETO="Alex Ferreira Ramires Trajano"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4669964"
+                             SEQUENCIA-ESTUDANTE="5"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304045" CODIGO-ESPECIALIDADE="10304045"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Teleinformática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="66"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9634323040873606"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Essa linha de pesquisa concentra-se em implementar circuitos de comutação, classificação e filtragem de mensagens e protocolos de alta velocidade utilizando lógica programável."
+                         NOME-DA-LINHA-DE-PESQUISA="Dispositivos Lógicos Programáveis"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Componentes eletrônicos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7708021019524305" NOME-COMPLETO="Marcial Porto Fernandez"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="157451"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304045" CODIGO-ESPECIALIDADE="10304045"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Teleinformática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="66"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30403030" CODIGO-ESPECIALIDADE="30403030"
+                                  CODIGO-SUB-AREA="30403006"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Circuitos Eletrônicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Circuitos Elétricos, Magnéticos e Eletrônicos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="432"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2882400380257528"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Essa linha concnetra-se em estudar novos sistemas de controle e gerenciamento capaz de lidar dom altas taxas de transmissão e manter a qualidade e confiabilidade da rede."
+                         NOME-DA-LINHA-DE-PESQUISA="Redes Óticas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Redes de Comunicação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6140115232418895" NOME-COMPLETO="Jorge Luiz de Castro e Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="156006"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7708021019524305" NOME-COMPLETO="Marcial Porto Fernandez"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="157451"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2855716620920623" NOME-COMPLETO="Joaquim Celestino Júnior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="13844"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304045" CODIGO-ESPECIALIDADE="10304045"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Teleinformática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="66"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30406030" CODIGO-ESPECIALIDADE="30406030"
+                                  CODIGO-SUB-AREA="30406005"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas de Telecomunicações"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Telecomunicações"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="448"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26"
+                                SUBSETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="1913482414674268"
+               RAZAO-SOCIAL-DA-EMPRESA="AsGa Sistemas Ltda."
+               NATUREZA-JURIDICA="Sociedade Empresária Limitada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="05287902000174"
+               LOCALIDADE="Paulínia"
+               CIDADE="Paulínia"
+               UF="SP"
+               SIGLA-DA-EMPRESA="ASGA"
+               NOME-DA-EMPRESA="AsGa Sistemas"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="G.46.5"
+                                          SUBSETOR="Comércio atacadista de equipamentos e produtos de tecnologias de informação e comunicação"
+                                          SETOR="Comércio por atacado, exceto veículos automotores e motocicletas"
+                                          GRANDE-SETOR="Comércio; reparação de veículos automotores e motocicletas"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                          SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                          SETOR="Atividades dos serviços de tecnologia da informação"
+                                          GRANDE-SETOR="Informação e comunicação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="1"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="N.82.9"
+                                          SUBSETOR="Outras atividades de serviços prestados principalmente às empresas"
+                                          SETOR="Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas"
+                                          GRANDE-SETOR="Atividades administrativas e serviços complementares"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="2"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="15">Desenvolvimento de software para o parceiro pelo grupo</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="10">Transferência de recursos financeiros do parceiro para o grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="14">Transferência de insumos materiais para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="6479057990344001"
+               RAZAO-SOCIAL-DA-EMPRESA="Padtec - Optical Components and Systems S/A"
+               NATUREZA-JURIDICA="Sociedade Anônima Fechada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="03549807000176"
+               LOCALIDADE="Campinas"
+               CIDADE="Campinas"
+               UF="SP"
+               SIGLA-DA-EMPRESA="PADTEC"
+               NOME-DA-EMPRESA="Padtec - Optical Components and Systems"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.26.3"
+                                          SUBSETOR="Fabricação de equipamentos de comunicação"
+                                          SETOR="Fabricação de equipamentos de informática, produtos eletrônicos e ópticos"
+                                          GRANDE-SETOR="Indústrias de transformação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="15">Desenvolvimento de software para o parceiro pelo grupo</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="10">Transferência de recursos financeiros do parceiro para o grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="6548668150805288"
+               RAZAO-SOCIAL-DA-EMPRESA="Furukawa Industrial S/A Produtos Eletricos"
+               NATUREZA-JURIDICA="Sociedade Anônima Fechada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="51775690000191"
+               LOCALIDADE="Curitiba"
+               CIDADE="Curitiba"
+               UF="PR"
+               SIGLA-DA-EMPRESA="FURUKAWA"
+               NOME-DA-EMPRESA="Furukawa Industrial Produtos Eletricos"
+               SEQUENCIA-EMPRESA="2">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.27.33-3/00"
+                                          SUBSETOR="Fabricação de equipamentos para distribuição e controle de energia elétrica"
+                                          SETOR="Fabricação de máquinas, aparelhos e materiais elétricos"
+                                          GRANDE-SETOR="Indústrias de transformação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="15">Desenvolvimento de software para o parceiro pelo grupo</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="10">Transferência de recursos financeiros do parceiro para o grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="14">Transferência de insumos materiais para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

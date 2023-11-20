@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="8395327740832274"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="061315"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="14102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="3671827318505873" CODIGO-AREA-PREDOMINANTE="10500006"
+                           NOME-DA-UNIDADE="Centro Brasileiro de Pesquisas Físicas"
+                           NOME-DO-ORGAO="Centro Brasileiro de Pesquisas Físicas"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="RJ"
+                           SIGLA-DA-INSTITUICAO="CBPF"
+                           NOME-DA-INSTITUICAO="Centro Brasileiro de Pesquisas Físicas"
+                           AREA-PREDOMINANTE="Física"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2002"
+                           NOME-DO-GRUPO="GRUPO DE INFORMAÇÃO QUÂNTICA ">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="4615763566978537" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Ivan dos Santos Oliveira Júnior"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="9086942443411513" PAIS-DE-NASCIMENTO="EUA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Alfredo Miguel Ozorio de Almeida"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3304557" DDDFAX="21"
+                                       LONGITUDE="-43.173781599999984"
+                                       LATITUDE="-22.9546184"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Rio de Janeiro"
+                                       NUMERO="150"
+                                       COMPLEMENTO="CBPF"
+                                       LOGRADOURO="Rua Doutor Xavier Sigaud"
+                                       HOME-PAGE="http://www.cbpf.br/~qig/"
+                                       E-MAIL="ivan@cbpf.br"
+                                       FAX="2141-7400"
+                                       RAMAL=""
+                                       TELEFONE="2141-7395"
+                                       DDD="21"
+                                       CEP="22290180"
+                                       CIDADE="Rio de Janeiro"
+                                       UF="RJ"
+                                       BAIRRO="Urca"/>
+      <REPERCUSSOES>O Grupo de Informação Quântica do CBPF estuda processos quânticos fundamentais para a implementação de protocolos quânticos. Aspectos teóricos estudados incluem descoerência de estados quânticos, e o processamento da informação quântica no espaço de fases. No seu lado experimental, o grupo estuda a implementação de protocolos quânticos através da técnica de Ressonância Magnética Nuclear (RMN), incluindo termodinâmica quântica, simulações de sitemas quânticos e sistemas escalonáveis onde a computação quântica por RMN. </REPERCUSSOES>
+      <REDES-DE-PESQUISA>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="INCT-IQ"
+                           URL-DA-REDE-DE-PESQUISA="http://www.ifi.unicamp.br/inctiq/"
+                           NOME-DA-REDE-DE-PESQUISA="INCT INFORMAÇÃO QUÂNTICA"/>
+      </REDES-DE-PESQUISA>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="OLIVEIRA, I S;OLIVEIRA JÚNIOR, I. S.;Oliveira, I.S.;Soares-Pinto, D. O.;Crokidakis, N.;Oliveira, I.;OLIVEIRA, I. S.;OLIVEIRA IS;OLIVEIRA I.S;OLIVEIRA, I.S;OLIVEIRA, IS;Oliveira, IS;Oliveira, Ivan S;OLIVEIRA, IVAN S.;OLIVEIRA, I.'S."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4615763566978537"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ivan dos Santos Oliveira Júnior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da descoerência de estados quânticos por RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Implementação da Computação Quântica por RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulações de sistemas quânticos por RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Termodinâmica Quântica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo das propriedades de estados pseudo-emaranhados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento da informação quântica no espaço de fases: uma abordagem pela RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Quântica por RMN</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Divulgação Científica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação para RMN</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Materiais Magnéticos e Propriedades Magnéticas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ressonância Mag. e Relax. na Mat. Condens; Efeitos Mosbauer; Corr. Ang. Pertubada</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="OZORIO DE ALMEIDA, A. M.;Ozorio de Almeida, A M;Ozorio de Almeida, Alfredo M;Ozorio de Almeida, A.M.;de Almeida, Alfredo M Ozorio;de Almeida, A M Ozorio;Alfredo M. Ozorio de Almeida;Ozorio de Almeida, Alfredo M.;A. M. Ozorio de Almeida;OZORIO DE ALMEIDA, ALFREDO M."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9086942443411513"
+                   PAIS-DE-NASCIMENTO="USA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Alfredo Miguel Ozorio de Almeida">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Equacoes mestras markovianas com acoplamentos nao-lineares"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria semiclassica da equação de Lindblad"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Emaranhamento de mapas quânticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Propagacao nao-linear de pacotes gaussianos em ambientes difusivos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria semiclassica de sistemas quanticos abertos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Geral</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="R. S. Sarthour;Sarthour, R. S.;Sarthour, R S;Sarthour, R.;SARTHOUR, R.S.;SARTHOUR, ROBERTO S.;SARTHOUR, R.'S.;SARTHOUR, ROBERTO S"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1417657874331629"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Roberto Silva Sarthour Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da descoerência de estados quânticos por RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Implementação da Computação Quântica por RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulações de sistemas quânticos por RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Termodinâmica Quântica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo das propriedades de estados pseudo-emaranhados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento da informação quântica no espaço de fases: uma abordagem pela RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Equação de Estado, Equilíbrio de Fases e Transições de Fase</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informação Quântica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informação Quântica e Computação Quântica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Materiais Magnéticos e Propriedades Magnéticas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Prop. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part.</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ressonância Mag. e Relax. na Mat. Condens; Efeitos Mosbauer; Corr. Ang. Pertubada</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="VALLEJOS, Raúl Oscar;Vallejos, Raúl O.;Vallejos, Raúl;Vallejos, R O;VALLEJOS, RAÚL O"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9142251320645916"
+                   PAIS-DE-NASCIMENTO="ARG"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Raúl Oscar Vallejos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Equacoes mestras markovianas com acoplamentos nao-lineares"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria semiclassica da equação de Lindblad"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Emaranhamento de mapas quânticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Propagacao nao-linear de pacotes gaussianos em ambientes difusivos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria semiclassica de sistemas quanticos abertos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Clássica e Física Quântica; Mecânica e Campos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física da Matéria Condensada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Estatística e Termodinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Geral</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="de MELO, F.;de Melo, Fernando;Melo, Fernando;MELO, FERNANDO DE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6998899580853674"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fernando da Rocha Vaz Bandeira de Melo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da descoerência de estados quânticos por RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Implementação da Computação Quântica por RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Emaranhamento de mapas quânticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria semiclassica de sistemas quanticos abertos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento da informação quântica no espaço de fases: uma abordagem pela RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informação e computação quântica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Óptica Quântica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="RODITI, I.;Roditi, Itzhak;Roditi, I;I. Roditi"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5770042763694895"
+                   PAIS-DE-NASCIMENTO="ISR"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Itzhak Roditi">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Implementação da Computação Quântica por RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulações de sistemas quânticos por RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estudos de Átomos e Moléculas Especiais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Estatística e Termodinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Matemáticos da Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reações Específicas e Fenomiologia de Partículas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria Geral de Partículas e Campos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SOUZA, A. M.;Souza, A. M.;Souza, A.;Souza, A M;Souza, Alexandre;Souza, Alexandre M.;SOUZA, A.M.;SOUZA, A.'M."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5062261603815797"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Alexandre Martins de Souza">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da descoerência de estados quânticos por RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Implementação da Computação Quântica por RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulações de sistemas quânticos por RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Termodinâmica Quântica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo das propriedades de estados pseudo-emaranhados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento da informação quântica no espaço de fases: uma abordagem pela RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fundamentos de Mecânica Quântica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informação e Computação Quântica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ressonância Magnética Nuclear</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="CORREIA, P. S." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FERNANDO DA ROCHA VAZ BANDEIRA DE MELO"
+                 NRO-ID-CNPQ-ORIENTADOR="6998899580853674"
+                 SEQUENCIA-ESTUDANTE="4437032"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4869908404554149"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Pedro Silva Correia">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Emaranhamento de mapas quânticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CARVALHO, G. D.;CARVALHO, GABRIEL D."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FERNANDO DA ROCHA VAZ BANDEIRA DE MELO"
+                 NRO-ID-CNPQ-ORIENTADOR="6998899580853674"
+                 SEQUENCIA-ESTUDANTE="3184245"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3395894611632240"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gabriel Dias Carvalho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Termodinâmica Quântica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informação Quântica e Computação Quântica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Fluídos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Pumar-Freitas, C.;Pumar, C.;PUMAR, C." NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Mestrado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE MARTINS DE SOUZA"
+                 NRO-ID-CNPQ-ORIENTADOR="5062261603815797"
+                 SEQUENCIA-ESTUDANTE="4976377"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7672464170601328"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Caio Pumar Freitas">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulações de sistemas quânticos por RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aglomerados de Galáxias</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NICOTINA, A.;NICOTINA, AMANDA" NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ROBERTO SILVA SARTHOUR JUNIOR"
+                 NRO-ID-CNPQ-ORIENTADOR="1417657874331629"
+                 SEQUENCIA-ESTUDANTE="4791681"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7174240598174902"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Amanda Nicotina Pereira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Implementação da Computação Quântica por RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COSTA, P. C. S." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ROBERTO SILVA SARTHOUR JUNIOR"
+                 NRO-ID-CNPQ-ORIENTADOR="1417657874331629"
+                 SEQUENCIA-ESTUDANTE="3810922"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4534042443420625"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Pedro Contino da Silva Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da descoerência de estados quânticos por RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LANDO, G. M." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALFREDO MIGUEL OZORIO DE ALMEIDA"
+                 NRO-ID-CNPQ-ORIENTADOR="9086942443411513"
+                 SEQUENCIA-ESTUDANTE="3237394"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2668075278836752"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gabriel Mousinho Lando">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Emaranhamento de mapas quânticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento da informação quântica no espaço de fases: uma abordagem pela RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Clássica e Física Quântica; Mecânica e Campos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Matemáticos da Física</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="John P. S. Peterson;PETERSON, J. P. S."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ROBERTO SILVA SARTHOUR JUNIOR"
+                 NRO-ID-CNPQ-ORIENTADOR="1417657874331629"
+                 SEQUENCIA-ESTUDANTE="3954280"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4175538644290927"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="John Peterson Pinheiro da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Implementação da Computação Quântica por RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTANA, C. V. H. B." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE MARTINS DE SOUZA"
+                 NRO-ID-CNPQ-ORIENTADOR="5062261603815797"
+                 SEQUENCIA-ESTUDANTE="2910856"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4268185637456946"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Cyntia Vanessa Henrique Bezerra de Santana">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Implementação da Computação Quântica por RMN"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3728411999984286"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Realizamos simulações numéricas de espectros de RMN associados à implementações de chaves e algoritmos quânticos. Após as simulações, experimentos são realizados junto ao grupo de RMN da USP/São Carlos, no Instituto de Química, USP/Ribeirão Preto, e no LNLS."
+                         NOME-DA-LINHA-DE-PESQUISA="Implementação da Computação Quântica por RMN"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Computação Quântica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Descoerência</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Emaranhamento</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Ressonância Magnética Nuclear</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Espaço de fases</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4615763566978537" NOME-COMPLETO="Ivan dos Santos Oliveira Júnior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="13672"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1417657874331629" NOME-COMPLETO="Roberto Silva Sarthour Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100752"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6998899580853674"
+                               NOME-COMPLETO="Fernando da Rocha Vaz Bandeira de Melo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="265734"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5770042763694895" NOME-COMPLETO="Itzhak Roditi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="20338"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5062261603815797" NOME-COMPLETO="Alexandre Martins de Souza"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="202160"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7174240598174902" NOME-COMPLETO="Amanda Nicotina Pereira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4791681"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4175538644290927" NOME-COMPLETO="John Peterson Pinheiro da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3954280"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4268185637456946"
+                             NOME-COMPLETO="Cyntia Vanessa Henrique Bezerra de Santana"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2910856"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10507140" CODIGO-ESPECIALIDADE="10507140"
+                                  CODIGO-SUB-AREA="10507000"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Ressonância Mag. e Relax. na Mat. Condens; Efeitos Mosbauer; Corr. Ang. Pertubada"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física da Matéria Condensada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="140"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2128309143021989"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Este projeto visa aprofundar os conhecimentos atingidos nas últimas décadas sobre o caos e suas manifestações na mecânica quântica de sistemas abertos. Tal esforço tem por objetivo compreender os efeitos de caos em sistemas de poucos graus (relevantes) de liberdade, em particular, como a dinâmica irregular interage com os mecanismos de descoerência em sistemas abertos."
+                         NOME-DA-LINHA-DE-PESQUISA="Teoria semiclassica de sistemas quanticos abertos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Descoerência</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Espaço de fases</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Caos quântico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Teorias semiclássicas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Mapas quânticos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Funções de Wigner</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9086942443411513" NOME-COMPLETO="Alfredo Miguel Ozorio de Almeida"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="23556"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9142251320645916" NOME-COMPLETO="Raúl Oscar Vallejos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="124406"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6998899580853674"
+                               NOME-COMPLETO="Fernando da Rocha Vaz Bandeira de Melo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="265734"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10501045" CODIGO-ESPECIALIDADE="10501045"
+                                  CODIGO-SUB-AREA="10501002"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Física Estatística e Termodinâmica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Geral"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="94"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P" SUBSETOR="" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4245958843576956" OBJETIVO-DA-LINHA-DE-PESQUISA="a"
+                         NOME-DA-LINHA-DE-PESQUISA="Estudo das propriedades de estados pseudo-emaranhados"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">RMN, emaranhamento</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4615763566978537" NOME-COMPLETO="Ivan dos Santos Oliveira Júnior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="13672"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1417657874331629" NOME-COMPLETO="Roberto Silva Sarthour Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100752"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5062261603815797" NOME-COMPLETO="Alexandre Martins de Souza"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="202160"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10500006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Ressonância Magnética Nuclear"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="89"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4801435118045145" OBJETIVO-DA-LINHA-DE-PESQUISA="a"
+                         NOME-DA-LINHA-DE-PESQUISA="Simulações de sistemas quânticos por RMN"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">simulações quânticas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4615763566978537" NOME-COMPLETO="Ivan dos Santos Oliveira Júnior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="13672"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1417657874331629" NOME-COMPLETO="Roberto Silva Sarthour Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100752"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5770042763694895" NOME-COMPLETO="Itzhak Roditi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="20338"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5062261603815797" NOME-COMPLETO="Alexandre Martins de Souza"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="202160"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7672464170601328" NOME-COMPLETO="Caio Pumar Freitas"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4976377"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10500006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Ressonância Magnética Nuclear"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="89"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1474737979373672" OBJETIVO-DA-LINHA-DE-PESQUISA="a"
+                         NOME-DA-LINHA-DE-PESQUISA="Processamento da informação quântica no espaço de fases: uma abordagem pela RMN"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">RMN, espaço de fases</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4615763566978537" NOME-COMPLETO="Ivan dos Santos Oliveira Júnior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="13672"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1417657874331629" NOME-COMPLETO="Roberto Silva Sarthour Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100752"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6998899580853674"
+                               NOME-COMPLETO="Fernando da Rocha Vaz Bandeira de Melo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="265734"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5062261603815797" NOME-COMPLETO="Alexandre Martins de Souza"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="202160"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2668075278836752" NOME-COMPLETO="Gabriel Mousinho Lando"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3237394"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10500006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Ressonância Magnética Nuclear"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="89"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2184446492556291" OBJETIVO-DA-LINHA-DE-PESQUISA="a"
+                         NOME-DA-LINHA-DE-PESQUISA="Estudo da descoerência de estados quânticos por RMN"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Descoerência quântica, relaxação, RMN</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4615763566978537" NOME-COMPLETO="Ivan dos Santos Oliveira Júnior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="13672"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1417657874331629" NOME-COMPLETO="Roberto Silva Sarthour Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100752"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6998899580853674"
+                               NOME-COMPLETO="Fernando da Rocha Vaz Bandeira de Melo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="265734"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5062261603815797" NOME-COMPLETO="Alexandre Martins de Souza"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="202160"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4534042443420625" NOME-COMPLETO="Pedro Contino da Silva Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3810922"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10500006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Ressonância Magnética Nuclear"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="89"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5655820162106155" OBJETIVO-DA-LINHA-DE-PESQUISA="a"
+                         NOME-DA-LINHA-DE-PESQUISA="Equacoes mestras markovianas com acoplamentos nao-lineares"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Equações mestras</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9086942443411513" NOME-COMPLETO="Alfredo Miguel Ozorio de Almeida"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="23556"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9142251320645916" NOME-COMPLETO="Raúl Oscar Vallejos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="124406"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10500006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Teórica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="89"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1265047916608304" OBJETIVO-DA-LINHA-DE-PESQUISA="a"
+                         NOME-DA-LINHA-DE-PESQUISA="Propagacao nao-linear de pacotes gaussianos em ambientes difusivos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="8">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Difusão, pacotes de onda</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9086942443411513" NOME-COMPLETO="Alfredo Miguel Ozorio de Almeida"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="23556"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9142251320645916" NOME-COMPLETO="Raúl Oscar Vallejos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="124406"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10500006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Teórica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="89"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6954705580674651" OBJETIVO-DA-LINHA-DE-PESQUISA="a"
+                         NOME-DA-LINHA-DE-PESQUISA="Teoria semiclassica da equação de Lindblad"
+                         SEQUENCIA-LINHA-DE-PESQUISA="9">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Teoria semiclássica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9086942443411513" NOME-COMPLETO="Alfredo Miguel Ozorio de Almeida"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="23556"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9142251320645916" NOME-COMPLETO="Raúl Oscar Vallejos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="124406"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10500006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Teórica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="89"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6816603691767907" OBJETIVO-DA-LINHA-DE-PESQUISA=""
+                         NOME-DA-LINHA-DE-PESQUISA="Emaranhamento de mapas quânticos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="10">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Emaranhamento, mapas quânticos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9086942443411513" NOME-COMPLETO="Alfredo Miguel Ozorio de Almeida"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="23556"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9142251320645916" NOME-COMPLETO="Raúl Oscar Vallejos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="124406"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6998899580853674"
+                               NOME-COMPLETO="Fernando da Rocha Vaz Bandeira de Melo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="265734"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4869908404554149" NOME-COMPLETO="Pedro Silva Correia"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4437032"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2668075278836752" NOME-COMPLETO="Gabriel Mousinho Lando"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3237394"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10500006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Teórica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="89"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8659740694848088"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo de processos termodinâmicos fundamentais através da implementação de protocolos quânticos por RMN em sistemas com escala reduzida."
+                         NOME-DA-LINHA-DE-PESQUISA="Termodinâmica Quântica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="11">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Termodinâmica quântica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Termodinamica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4615763566978537" NOME-COMPLETO="Ivan dos Santos Oliveira Júnior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="13672"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1417657874331629" NOME-COMPLETO="Roberto Silva Sarthour Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100752"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5062261603815797" NOME-COMPLETO="Alexandre Martins de Souza"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="202160"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3395894611632240" NOME-COMPLETO="Gabriel Dias Carvalho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3184245"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10507140" CODIGO-ESPECIALIDADE="10507140"
+                                  CODIGO-SUB-AREA="10507000"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Ressonância Mag. e Relax. na Mat. Condens; Efeitos Mosbauer; Corr. Ang. Pertubada"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física da Matéria Condensada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="140"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J" SUBSETOR=""
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="1960614965467213"
+               RAZAO-SOCIAL-DA-EMPRESA="Instituto de Física"
+               NATUREZA-JURIDICA="Autarquia Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="63025530000104"
+               LOCALIDADE="São Paulo"
+               CIDADE="São Paulo"
+               UF="SP"
+               SIGLA-DA-EMPRESA="USP/IF"
+               NOME-DA-EMPRESA="Instituto de Física"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="0611541063447925" RAZAO-SOCIAL-DA-EMPRESA=""
+               NATUREZA-JURIDICA="Autarquia Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="28523215000106"
+               LOCALIDADE="Niterói"
+               CIDADE="Niterói"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="UFF"
+               NOME-DA-EMPRESA="Centro Tecnológico"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="4895080416085004"
+               RAZAO-SOCIAL-DA-EMPRESA="Centro de Ciências Naturais e Humanas"
+               NATUREZA-JURIDICA="Fundação Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="07722779000106"
+               LOCALIDADE="Santo André"
+               CIDADE="Santo André"
+               UF="SP"
+               SIGLA-DA-EMPRESA="CCNH"
+               NOME-DA-EMPRESA="Centro de Ciências Naturais e Humanas"
+               SEQUENCIA-EMPRESA="2">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

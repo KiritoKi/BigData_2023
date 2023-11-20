@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="0285560858684900"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="182108"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="20102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="6545004336465779" CODIGO-AREA-PREDOMINANTE="30500001"
+                           NOME-DA-UNIDADE=""
+                           NOME-DO-ORGAO="Laboratório Nacional de Computação Científica"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="RJ"
+                           SIGLA-DA-INSTITUICAO="LNCC"
+                           NOME-DA-INSTITUICAO="Laboratório Nacional de Computação Científica"
+                           AREA-PREDOMINANTE="Engenharia Mecânica"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="1999"
+                           NOME-DO-GRUPO="Reologia Computacional">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="7200733421420566" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="José Karam Filho"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3303906" DDDFAX="24"
+                                       LONGITUDE="-43.21586819999999"
+                                       LATITUDE="-22.5236847"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Petrópolis"
+                                       NUMERO="333"
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="Av. Getúlio Vargas 333"
+                                       HOME-PAGE="http://www.lncc.br"
+                                       E-MAIL="jkfi@lncc.br"
+                                       FAX="22336165"
+                                       RAMAL=""
+                                       TELEFONE="22336158"
+                                       DDD="24"
+                                       CEP="25651070"
+                                       CIDADE="Petrópolis"
+                                       UF="RJ"
+                                       BAIRRO="Quitandinha"/>
+      <REPERCUSSOES>Muitos materiais de interesse nas áreas industriais, ciências da saúde, e outras, fogem dos modelos constitutivos lineares. Historicamente, a área de pesquisa para esses materiais, reologia, que para fluidos se relaciona com não newtonianos, ocupou-se em abordagens experimentais e teóricas. Recentemente, com a complexidade das aplicações e modernos equipamentos, métodos e matemática computacional, vem-se reconhecendo a grande contribuição que a nova área, Reologia Computacional, pode dar a aperfeiçoamentos e entendimentos dos materiais não newtonianos. O grupo reconheceu-se como tal a partir de 1999, aliando contribuições que já dispunham em áreas complementares em fluidos não newtonianos e métodos computacionais, integrando-se, naturalmente, às atividades de pesquisa e formação de recursos humanos do Curso de Pós-Graduação em Modelagem Computacional do LNCC (início 03/2000). Assim, o grupo atua e continua suas contribuições nas áreas  de pseudoplasticidade onde diversos tipos de não linearidades estão presentes, exigindo aperfeiçoamento e criação de novos métodos numéricos para modelagem e simulação computacional. Isso complica-se ainda mais em casos em que tanto a difusão viscosa como a convecção estão presentes gerando não linearidades de qualidades matemáticas diferentes. Esse fenômeno ocorre em diversas aplicações tanto da indústria de plástico e metalúrgica como em fluidos biológicos em geral e, especificamente, sangue. Complicantes devidos à viscoelasticidade também vêm tendo atenção do grupo e modelos de Oldroyd são abordados com análise matemática e modelagem computacional, para contribuir com aplicações em emulsões em capilares, pinturas e revestimentos e fluidos biológicos. O grupo também vem atuando na consideração dos efeitos térmicos muitas vezes cruciais nos processos que envolvem fluidos newtonianos. A computação de alto desempenho é de importância fundamental para a eficiência e capacidade de resolução das abordagens numéricas aqui desenvolvidas.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="ZHU, J.;ZHU, JIANG" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3336105307698769"
+                   PAIS-DE-NASCIMENTO="CHN"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Jiang Zhu">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamentos com Dependência Térmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Equações Diferenciais Parciais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Fluídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transferência de Calor</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LOULA, A. F. D.;LOULA, A.F.D.;LOULA, ABIMAEL F. D.;LOULA, ABIMAEL F.D.;LOULA, ABIMAEL;Abimael F.D. Loula;Abimael F. D. Loula;A.F. Loula;Abimael Dourado Loula;ABIMAEL F. D. LOULA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7315592936477868"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Abimael Fernando Dourado Loula">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamentos com Dependência Térmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Problemas Conjugados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamentos de Fluidos Pseudoplásticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Tensões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Estruturas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Corpos Sólidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Sólidos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas dos Solos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BORTOLOTI, M. A. A.;DE ANDRADE BORTOLOTI, MARCIO ANTÔNIO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4532335959404787"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcio Antonio de Andrade Bortoloti">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reologia Sanguínea"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamentos de Fluidos Pseudoplásticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Elementos Finitos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica de Fluidos Não Newtonianos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reologia Numérica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FARIA, Cristiane Oliveira;FARIA, C. O.;FARIA, C.O."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="F"
+                   NRO-ID-CNPQ="1183201737914250"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Cristiane Oliveira de Faria">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Viscoplasticidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamentos com Dependência Térmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica dos Fluídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica, Elasticidade e Reologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FRIAS, D.;Frias, D.;Frias, Diego G.;FRIAS, DIEGO;FRÍAS, D.;D. Frias;D. Frías;FR''AS, DIEGO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1377022547816780"
+                   PAIS-DE-NASCIMENTO="CUB"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Diego Gervasio Frías Suárez">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reologia Sanguínea"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MALTA, S. M. C.;SANDRA M.C. MALTA;S.M.C. MALTA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="F"
+                   NRO-ID-CNPQ="2317714197108593"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Sandra Mara Cardoso Malta">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fenômenos de Transporte</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Fluídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GUERREIRO, J. N. C.;GUERREIRO, J" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3423133876430218"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="João Nisan Correia Guerreiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamentos com Dependência Térmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Problemas Conjugados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reologia Sanguínea"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamentos de Fluidos Pseudoplásticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Tensões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Escoamentos Não Newtonianos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Escomaentos Em Meios Porosos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Corpos Sólidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SILVA, R. S.;Silva, R.S.;Silva, Renato S.;Renato S. Silva"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4587299173539062"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Renato Simões Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação de Alto Desempenho"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Paralela</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Fluídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodos Adaptativos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transferência de Calor</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ALMEIDA, R. C.;Almeida, R. C.;Almeida, Regina C.;R.C. ALMEIDA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="F"
+                   NRO-ID-CNPQ="6688041530466410"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Regina Célia Cerqueira de Almeida">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação de Alto Desempenho"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reologia Sanguínea"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamentos de Fluidos Pseudoplásticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica dos Gases</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ecologia Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Fluídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="KARAM FILHO, J.;Karam F., J.;KARAM-FILHO, J.;KARAM-FILHO, JOSÉ;KARAM FILHO, JOSE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7200733421420566"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="José Karam Filho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamentos com Dependência Térmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Viscoplasticidade"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Problemas Conjugados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reologia Sanguínea"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamentos de Fluidos Pseudoplásticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Mecânica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Fluídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transferência de Calor</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="BARREIRO, D. S." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOSE KARAM FILHO"
+                 NRO-ID-CNPQ-ORIENTADOR="7200733421420566"
+                 SEQUENCIA-ESTUDANTE="3668970"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1309058279089528"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Daiana Soares Barreiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise Numérica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Mecânica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fenômenos de Transporte</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, J. A.;DE ANDRADE SILVA, JANAÍNA"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOSE KARAM FILHO"
+                 NRO-ID-CNPQ-ORIENTADOR="7200733421420566"
+                 SEQUENCIA-ESTUDANTE="3126909"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6166573341085441"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Janaina de Andrade Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reologia Sanguínea"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamentos de Fluidos Pseudoplásticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fluidodinâmica computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem Computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>SISTEMAS DE INFORMAÇÃO</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7590753326965245"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Muitos fluidos não newtonianos apresentam efeitos pseudoplásticos em que modelos constitutivos envolvem equações puramente não lineares ou que contenham um termo não linear, oferecendo dificuldades na abordagem numérica. Formulações numéricas adequadas continuam sendo desenvolvidas pelo grupo"
+                         NOME-DA-LINHA-DE-PESQUISA="Escoamentos de Fluidos Pseudoplásticos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Stokes e Navier-Stokes Generalizado</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">fluidos não newtonianos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">polímeros</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">fluidos biológicos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">metais líquidos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">equações constitutivas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7315592936477868" NOME-COMPLETO="Abimael Fernando Dourado Loula"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="9784"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4532335959404787"
+                               NOME-COMPLETO="Marcio Antonio de Andrade Bortoloti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="538969"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3423133876430218" NOME-COMPLETO="João Nisan Correia Guerreiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="42432"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6688041530466410"
+                               NOME-COMPLETO="Regina Célia Cerqueira de Almeida"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="12490"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7200733421420566" NOME-COMPLETO="José Karam Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="74288"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6166573341085441" NOME-COMPLETO="Janaina de Andrade Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3126909"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501024" CODIGO-ESPECIALIDADE="30501024"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Fluídos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="452"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501040" CODIGO-ESPECIALIDADE="30501040"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Princípios Variacionais e Métodos Numéricos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="454"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.22"
+                                SUBSETOR="Fabricação de produtos de borracha e de material plástico"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.5"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4107604520465006"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="A complexidade de constituição e fluxo do sangue é motivo de pesquisa na biomecânica e demanda crescente na medicina. Essa complexidade inspirou diversos modelos, nenhum válido como modelo geral. Estudo de modelos constitutivos e formulações adequadas para o sangue são objeto de pesquisa do grupo"
+                         NOME-DA-LINHA-DE-PESQUISA="Reologia Sanguínea"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">equações constitutivas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Hemoreologia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Hemodinâmica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">modelagem</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Fluidos newtonianos e não newtonianos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">biomecânica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4532335959404787"
+                               NOME-COMPLETO="Marcio Antonio de Andrade Bortoloti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="538969"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1377022547816780" NOME-COMPLETO="Diego Gervasio Frías Suárez"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="192024"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3423133876430218" NOME-COMPLETO="João Nisan Correia Guerreiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="42432"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6688041530466410"
+                               NOME-COMPLETO="Regina Célia Cerqueira de Almeida"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="12490"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7200733421420566" NOME-COMPLETO="José Karam Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="74288"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6166573341085441" NOME-COMPLETO="Janaina de Andrade Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3126909"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10502050" CODIGO-ESPECIALIDADE="10502050"
+                                  CODIGO-SUB-AREA="10502009"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica, Elasticidade e Reologia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Áreas Clássicas de Fenomenologia e suas Aplicações"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="102"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501024" CODIGO-ESPECIALIDADE="30501024"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Fluídos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="452"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501040" CODIGO-ESPECIALIDADE="30501040"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Princípios Variacionais e Métodos Numéricos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="454"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.21.2"
+                                SUBSETOR="Fabricação de produtos farmoquímicos e farmacêuticos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0888101457356822"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Problemas de escoamento de fluidos não newtonianos com acoplamento térmico, presentes tanto na indústria de plástico como na metalúrgica, vêm sendo abordados pelo grupo através de novas formulações e algoritmos capazes de lidar com acoplamento e não linearidades constitutivas."
+                         NOME-DA-LINHA-DE-PESQUISA="Escoamentos com Dependência Térmica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">problemas acoplados</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3336105307698769" NOME-COMPLETO="Jiang Zhu"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="427270"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7315592936477868" NOME-COMPLETO="Abimael Fernando Dourado Loula"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="9784"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1183201737914250" NOME-COMPLETO="Cristiane Oliveira de Faria"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="397419"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3423133876430218" NOME-COMPLETO="João Nisan Correia Guerreiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="42432"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7200733421420566" NOME-COMPLETO="José Karam Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="74288"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10502050" CODIGO-ESPECIALIDADE="10502050"
+                                  CODIGO-SUB-AREA="10502009"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica, Elasticidade e Reologia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Áreas Clássicas de Fenomenologia e suas Aplicações"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="102"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501024" CODIGO-ESPECIALIDADE="30501024"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Fluídos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="452"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501040" CODIGO-ESPECIALIDADE="30501040"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Princípios Variacionais e Métodos Numéricos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="454"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.22"
+                                SUBSETOR="Fabricação de produtos de borracha e de material plástico"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.5"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9773308589609716"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Vários problemas de processos de fabricação apresentam não só acoplamento térmico como desconhecimento prévio de condições de interface.Tais problemas têm sido abordados pelo grupo através de formulações e algoritmos eficientes que comportam também as não linearidades dos fluidos não newtonianos."
+                         NOME-DA-LINHA-DE-PESQUISA="Problemas Conjugados"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">rugosidade</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7315592936477868" NOME-COMPLETO="Abimael Fernando Dourado Loula"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="9784"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3423133876430218" NOME-COMPLETO="João Nisan Correia Guerreiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="42432"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7200733421420566" NOME-COMPLETO="José Karam Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="74288"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501024" CODIGO-ESPECIALIDADE="30501024"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Fluídos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="452"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501040" CODIGO-ESPECIALIDADE="30501040"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Princípios Variacionais e Métodos Numéricos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="454"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.24.5" SUBSETOR="Metalurgia"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.22"
+                                SUBSETOR="Fabricação de produtos de borracha e de material plástico"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7139373086301577" OBJETIVO-DA-LINHA-DE-PESQUISA="a"
+                         NOME-DA-LINHA-DE-PESQUISA="Computação de Alto Desempenho"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">paralelização</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">cluster de pc?s</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">decomposição de domínios</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">métodos adaptativos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">solvers</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4587299173539062" NOME-COMPLETO="Renato Simões Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="12487"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6688041530466410"
+                               NOME-COMPLETO="Regina Célia Cerqueira de Almeida"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="12490"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10302026" CODIGO-ESPECIALIDADE="10302026"
+                                  CODIGO-SUB-AREA="10302000"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Modelos Analíticos e de Simulação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="55"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501040" CODIGO-ESPECIALIDADE="30501040"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Princípios Variacionais e Métodos Numéricos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="454"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.22"
+                                SUBSETOR="Fabricação de produtos de borracha e de material plástico"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.24" SUBSETOR="Metalurgia"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6816386070455021"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Modelagem e simulação de escoamentos com tensão limite através de regularização."
+                         NOME-DA-LINHA-DE-PESQUISA="Viscoplasticidade"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">viscoplasticidade</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1183201737914250" NOME-COMPLETO="Cristiane Oliveira de Faria"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="397419"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7200733421420566" NOME-COMPLETO="José Karam Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="74288"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501024" CODIGO-ESPECIALIDADE="30501024"
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânica dos Fluídos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="452"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.23"
+                                SUBSETOR="Fabricação de produtos de minerais não-metálicos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0708819723032527"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Analisar matematicamente propriedades de aproximação."
+                         NOME-DA-LINHA-DE-PESQUISA="Análise Numérica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">métodos numéricos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">análise matemática</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7315592936477868" NOME-COMPLETO="Abimael Fernando Dourado Loula"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="9784"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4532335959404787"
+                               NOME-COMPLETO="Marcio Antonio de Andrade Bortoloti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="538969"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1183201737914250" NOME-COMPLETO="Cristiane Oliveira de Faria"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="397419"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2317714197108593" NOME-COMPLETO="Sandra Mara Cardoso Malta"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="12492"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7200733421420566" NOME-COMPLETO="José Karam Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="74288"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1309058279089528" NOME-COMPLETO="Daiana Soares Barreiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3668970"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10104003" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10104003"
+                                  CODIGO-AREA="10100008"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática Aplicada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Matemática"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="25"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.22.1"
+                                SUBSETOR="Fabricação de produtos de borracha e de material plástico"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="8246793424516429"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidade Estadual de Santa Cruz"
+               NATUREZA-JURIDICA="Autarquia Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="40738999000195"
+               LOCALIDADE="Ilhéus"
+               CIDADE="Ilhéus"
+               UF="BA"
+               SIGLA-DA-EMPRESA="UESC"
+               NOME-DA-EMPRESA="Universidade Estadual de Santa Cruz"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que não se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="3293983796372621" RAZAO-SOCIAL-DA-EMPRESA=""
+               NATUREZA-JURIDICA="Fundação Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="33540014000157"
+               LOCALIDADE="Rio de Janeiro"
+               CIDADE="Rio de Janeiro"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="UERJ/CTC"
+               NOME-DA-EMPRESA="Centro de Tecnologia e Ciências"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="6033380403784074"
+               RAZAO-SOCIAL-DA-EMPRESA="Autarquia Universidade do Sudoeste"
+               NATUREZA-JURIDICA="Autarquia Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="13069489000108"
+               LOCALIDADE="Vitória da Conquista"
+               CIDADE="Vitória da Conquista"
+               UF="BA"
+               SIGLA-DA-EMPRESA="UESB"
+               NOME-DA-EMPRESA="Universidade Estadual do Sudoeste da Bahia"
+               SEQUENCIA-EMPRESA="2">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="19">Fornecimento, pelo parceiro, de insumos materiais para as atividades de pesquisa do grupo sem vinculação a um projeto específico de interesse mútuo</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que não se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

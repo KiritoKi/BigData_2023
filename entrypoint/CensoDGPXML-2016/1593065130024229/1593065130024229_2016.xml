@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="1593065130024229"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="121047"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="22062016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="3664254792794736" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE=""
+                           NOME-DO-ORGAO="Pontifícia Universidade Católica do Rio Grande do Sul"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="RS"
+                           SIGLA-DA-INSTITUICAO="PUCRS"
+                           NOME-DA-INSTITUICAO="Pontifícia Universidade Católica do Rio Grande do Sul"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2007"
+                           NOME-DO-GRUPO="GMAP - Grupo de Modelagem de Aplicações Paralelas">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="5979862734558983" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Luiz Gustavo Leão Fernandes"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="4314902" DDDFAX="51"
+                                       LONGITUDE="-51.17553250000003"
+                                       LATITUDE="-30.0604719"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Porto Alegre"
+                                       NUMERO="6681"
+                                       COMPLEMENTO=" Prédio 32 -sala 601"
+                                       LOGRADOURO="Av. Ipiranga"
+                                       HOME-PAGE="http://www.inf.pucrs.br/gmap"
+                                       E-MAIL="luiz.fernandes@pucrs.br"
+                                       FAX="33203621"
+                                       RAMAL=""
+                                       TELEFONE="33203611"
+                                       DDD="51"
+                                       CEP="90619900"
+                                       CIDADE="Porto Alegre"
+                                       UF="RS"
+                                       BAIRRO="Partenon"/>
+      <REPERCUSSOES>O principal foco de pesquisa do Grupo de Modelagem de Aplicações Paralelas é estudo de soluções de alto desempenho para problemas e aplicações oriundas de outras áreas do conhecimento (Biologia, Geologia, Física, Medicina, etc). A elaboração de soluções de alto desempenho para problemas reais exige o domínio de conhecimento especializado em diferentes níveis. Além de uma análise da complexidade algorítmica do problema a ser paralelizado, são necessários conhecimentos sobre ambientes de desenvolvimento e testes de programas, técnicas de programação paralela, avaliação de desempenho e arquiteturas de alto desempenho. Nesse contexto, o grupo pretende contribuir com a geração de conhecimento compatível com o estado-da-arte na construção de soluções de alto desempenho para aplicações reais.Nos últimos anos, os participantes do grupo têm mantido uma boa produção em conferencias e periódicos internacionais. Além disso, financimentos para projetos e bolsas têm sido obtidos tanto de fontes governamentais (CAPES, CNPq, FINEP, etc) como privadas (HP). O grupo mantém colaborações científicas com pesquisadoes tanto de grupos nacionais (USP, UFCG) como internacionais (INPG - França, Universidade de Karlruhe - Alemanha).</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="WEBBER, T.;WEBBER, THAIS" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3062669390076623"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Thais Christina Webber dos Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Aplicações Paralelas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Avaliação de Desempenho de Sistemas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="KOLBERG, M.;KOLBERG, M. L.;Kolberg, Mariana Luderitz;Lüderitz Kolberg, Mariana;KOLBERG, MARIANA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="F"
+                   NRO-ID-CNPQ="7133274936570173"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Mariana Luderitz Kolberg">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interfaces de Programação Paralela"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Eficiência Energética em Ambientes de Alto Desempenho"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação de Alto Desempenho</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Verificada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica Intervalar</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FERNANDES, L. G.;FERNANDES, L. G. L.;Fernandes, Luiz Gustavo;Fenandes, Luiz Gustavo L.;Fernandes, Luiz Gustavo Leão;FERNANDES, Luiz Gustavo;GUSTAVO FERNANDES, LUIZ"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5979862734558983"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Luiz Gustavo Leão Fernandes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Aplicações Paralelas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interfaces de Programação Paralela"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Eficiência Energética em Ambientes de Alto Desempenho"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aplicações de Alto Desempenho</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Avaliação de Desempenho de Sistemas Paralelos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Paralelo e Distribuído</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FERNANDES, P.;FERNANDES, Paulo;FERNANDES, Paulo Henrique Lemelle;FERNANDES, P. H. L.;Fernandes, P."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1006840153853655"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Paulo Henrique Lemelle Fernandes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Aplicações Paralelas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagem Formais e Autômatos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="De Rose, C. A. F.;De Rose, César A. F.;De Rose, CAF.;De Rose , C.;De Rose, Cesar A. F.;DE ROSE, C.A.F.;ROSE, CESAR AUGUSTO FONTICIELHA DE;De Rose, Cesar;ROSE, CESAR A.F. DE;DE ROSE, CESAR A.F.;DE ROSE, CÉSAR A.F.;ROSE, CÉSAR A.F. DE;DE ROSE, CESAR A.;DE ROSE, C;DE ROSE, CÉSAR A. F."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6703453792017497"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Cesar Augusto Fonticielha De Rose">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interfaces de Programação Paralela"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gerência de Recursos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia e Técnicas da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>PROCESSAMENTO PARALELO E DISTRIBUÍDO (PPD)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GRIEBLER, D. J.;GRIEBLER, D.;GRIEBLER, DALVAN"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1989039890812573"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Dalvan Jair Griebler">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Aplicações Paralelas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interfaces de Programação Paralela"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Paralela</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Computadores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Distribuídos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="CARMO, A. B.;do CARMO, A. B.;CARMO, ANDRIELE;DO CARMO, ANDRIELE BUSATTO"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ GUSTAVO LEAO FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="5979862734558983"
+                 SEQUENCIA-ESTUDANTE="717872"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8046646774021391"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Andriele Busatto do Carmo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Aplicações Paralelas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Eficiência Energética em Ambientes de Alto Desempenho"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Científica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gerência de Recursos Computacionais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Paralelo e Distribuído (PPD)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="TEODORO, S.;TEODORO, SILVANA" NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ GUSTAVO LEAO FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="5979862734558983"
+                 SEQUENCIA-ESTUDANTE="3740519"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6694524491895815"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Silvana Teodoro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Aplicações Paralelas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Eficiência Energética em Ambientes de Alto Desempenho"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Paralelo e Distribuído</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Carlos A. F. Maron" NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ GUSTAVO LEAO FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="5979862734558983"
+                 SEQUENCIA-ESTUDANTE="5740401"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5571057575768949"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Carlos Alberto Franco Maron">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interfaces de Programação Paralela"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>.</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Computadores</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BAIRROS, G." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ GUSTAVO LEAO FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="5979862734558983"
+                 SEQUENCIA-ESTUDANTE="2432168"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7871603518792758"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gildomiro Bairros">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interfaces de Programação Paralela"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Business Intelligence</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Data Warehouse / Data Mart</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Distribuídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Operacionais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="VOGEL, A. J.;VOGEL, A.;VOGEL, ADRIANO" NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ GUSTAVO LEAO FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="5979862734558983"
+                 SEQUENCIA-ESTUDANTE="4964999"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7712749194766770"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Adriano José Vogel">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interfaces de Programação Paralela"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LANGE, T. A. P.;LANGE, TIMOTEO" NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ GUSTAVO LEAO FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="5979862734558983"
+                 SEQUENCIA-ESTUDANTE="809278"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8832626300781561"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Timoteo Alberto Peters Lange">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Aplicações Paralelas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interfaces de Programação Paralela"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Paralelo e Distribuído (Computação de Alto Desempenho)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Computadores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Virtualização e Cloud computing</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LEDUR, C. L.;LEDUR, C." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ GUSTAVO LEAO FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="5979862734558983"
+                 SEQUENCIA-ESTUDANTE="5130787"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7126834328194334"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Cleverson Lopes Ledur">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Aplicações Paralelas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interfaces de Programação Paralela"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ADORNES, D. C.;ADORNES, DANIEL" NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ GUSTAVO LEAO FERNANDES"
+                 NRO-ID-CNPQ-ORIENTADOR="5979862734558983"
+                 SEQUENCIA-ESTUDANTE="4705873"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4807724639674953"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Daniel Couto Adornes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interfaces de Programação Paralela"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7278404225983656"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="A linha de pesquisa &#34;Interfaces de Programação Paralela&#34;, tem como objetivo a criação de interfaces de programação ao usuário/programador que não é experiente em lidar com o paradigma de paralelismo. A ideia é oferecer um nível mais alto de abstração, onde o desempenho das aplicações de alto desempenho não seja comprometido. As interfaces desenvolvidas nesta linha de pesquisa caminham em direção a domínios específicos para que depois possam ser estendidos a outros domínios."
+                         NOME-DA-LINHA-DE-PESQUISA="Interfaces de Programação Paralela"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">máquinas agregadas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">grades computacionais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">máquinas NUMA</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">aplicações interdisciplinares</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7133274936570173" NOME-COMPLETO="Mariana Luderitz Kolberg"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="177119"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5979862734558983" NOME-COMPLETO="Luiz Gustavo Leão Fernandes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="88872"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6703453792017497"
+                               NOME-COMPLETO="Cesar Augusto Fonticielha De Rose"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="97321"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1989039890812573" NOME-COMPLETO="Dalvan Jair Griebler"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="3054551"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5571057575768949" NOME-COMPLETO="Carlos Alberto Franco Maron"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5740401"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7871603518792758" NOME-COMPLETO="Gildomiro Bairros"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2432168"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7712749194766770" NOME-COMPLETO="Adriano José Vogel"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4964999"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8832626300781561" NOME-COMPLETO="Timoteo Alberto Peters Lange"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="809278"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7126834328194334" NOME-COMPLETO="Cleverson Lopes Ledur"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5130787"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4807724639674953" NOME-COMPLETO="Daniel Couto Adornes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4705873"
+                             SEQUENCIA-ESTUDANTE="6"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento Paralelo"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9911658541755301"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Nesta linha, são pesquisados os seguintes temas: (i) algoritmos de escalonamento e alocação de recursos, (ii) metodologias de testes estruturais para programas paralelos, (iii) modelagem analítica de programas paralelos usando Redes de Autômatos Estocásticos."
+                         NOME-DA-LINHA-DE-PESQUISA="Modelagem de Aplicações Paralelas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">algoritmos paralelos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">escalonamento</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">modelagem analítica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3062669390076623"
+                               NOME-COMPLETO="Thais Christina Webber dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="171539"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5979862734558983" NOME-COMPLETO="Luiz Gustavo Leão Fernandes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="88872"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1006840153853655" NOME-COMPLETO="Paulo Henrique Lemelle Fernandes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="23547"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1989039890812573" NOME-COMPLETO="Dalvan Jair Griebler"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="3054551"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8046646774021391" NOME-COMPLETO="Andriele Busatto do Carmo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="717872"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6694524491895815" NOME-COMPLETO="Silvana Teodoro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3740519"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8832626300781561" NOME-COMPLETO="Timoteo Alberto Peters Lange"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="809278"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7126834328194334" NOME-COMPLETO="Cleverson Lopes Ledur"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5130787"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10302026" CODIGO-ESPECIALIDADE="10302026"
+                                  CODIGO-SUB-AREA="10302000"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Modelos Analíticos e de Simulação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="55"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Algoritmos Paralelos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.63"
+                                SUBSETOR="Atividades de prestação de serviços de informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4564776598004058"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha de pesquisa tem como objetivo estudar e propor soluções de software para reduzir o consumo de energia em ambientes de alto desempenho. São ambientes alvo das pesquisas desenvolvidas nessa linha: clusters, grades computacionais e clouds. Como exemplos de soluções propostas pode-se destacar a criação de políticas de escalonamento, bem como o uso de técnicas de hardware, direcionadas para a redução do consumo de energia na execução de aplicações de grande porte."
+                         NOME-DA-LINHA-DE-PESQUISA="Eficiência Energética em Ambientes de Alto Desempenho"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Computação Verificada</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Aritmética Intervalar</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Sistemas de Equações Lineares</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Algortimos Paralelos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7133274936570173" NOME-COMPLETO="Mariana Luderitz Kolberg"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="177119"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5979862734558983" NOME-COMPLETO="Luiz Gustavo Leão Fernandes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="88872"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8046646774021391" NOME-COMPLETO="Andriele Busatto do Carmo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="717872"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6694524491895815" NOME-COMPLETO="Silvana Teodoro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3740519"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10302000" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10302000"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Computação Verificada"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="53"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Modelagem de Algoritmos Paralelos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="62"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.63"
+                                SUBSETOR="Atividades de prestação de serviços de informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="1554213867338831"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidade Federal do Rio Grande do Sul"
+               NATUREZA-JURIDICA="Autarquia Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="92969856000198"
+               LOCALIDADE="Porto Alegre"
+               CIDADE="Porto Alegre"
+               UF="RS"
+               SIGLA-DA-EMPRESA="UFRGS"
+               NOME-DA-EMPRESA="Universidade Federal do Rio Grande do Sul"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="14062016" DATA-ENTRADA="09082012"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1989039890812573"
+               NOME-DO-EGRESSO="Dalvan Jair Griebler"/>
+      <EGRESSO DATA-SAIDA="14062016" DATA-ENTRADA="08122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1989039890812573"
+               NOME-DO-EGRESSO="Dalvan Jair Griebler"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

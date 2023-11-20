@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="8151388378321934"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="095249"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="11102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="5086811331322199" CODIGO-AREA-PREDOMINANTE="31300006"
+                           NOME-DA-UNIDADE="Departamento de Clínica Médica"
+                           NOME-DO-ORGAO="Departamento de Clínica Médica"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SP"
+                           SIGLA-DA-INSTITUICAO="USP"
+                           NOME-DA-INSTITUICAO="Universidade de São Paulo"
+                           AREA-PREDOMINANTE="Engenharia Biomédica"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="1997"
+                           NOME-DO-GRUPO="Grupo de Pesquisa em Diagnóstico Auxiliado por Computador e Radiômica (CadOmics)">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="7119886675051877" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Paulo Mazzoncini de Azevedo Marques"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="0148129585003103" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Marcello Henrique Nogueira Barbosa"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3543402" DDDFAX="16"
+                                       LONGITUDE="-47.83311930000002"
+                                       LATITUDE="-21.1619734"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Ribeirão Preto"
+                                       NUMERO="6"
+                                       COMPLEMENTO="Centro de Ciências das Imagens e Física Médica - Depto de Clínica Médica"
+                                       LOGRADOURO="Faculdade de Medicina de Ribeirão Preto - USP"
+                                       HOME-PAGE="http://www.fmrp.usp.br"
+                                       E-MAIL="pmarques@fmrp.usp.br"
+                                       FAX="3602-2648"
+                                       RAMAL=""
+                                       TELEFONE="3602-2647"
+                                       DDD="16"
+                                       CEP="14049900"
+                                       CIDADE="Ribeirão Preto"
+                                       UF="SP"
+                                       BAIRRO="Vila Monte Alegre"/>
+      <REPERCUSSOES>A criação do Grupo de Pesquisa em Auxílio ao Diagnóstico por Imagem (GPADI) possibilitou, além da nucleação de um grupo de pesquisa em processamento de imagens médicas junto à FMRP/USP, a estruturação do LaPIR (Laboratório de Processamento de Imagens e Informática Radiológica) junto ao Centro de Ciências das Imagens e Física Médica (CCIFM). O LaPIR é um laboratório voltado para o desenvolvimento de pesquisas em Informática em Saúde, com foco no reconhecimento de padrões em imagens médicas e informações clínicas, estando localizado no segundo andar do Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto (HCFMRP). O GPADI, desenvolve pesquisas em auxílio ao diagnóstico nas áreas de mamografia, pneumologia, dermatologia e em doenças do sistema musculoesquelético. A partir de 2016 o GPADI passou a se chamar Grupo de Pesquisa em Diagnóstico Auxiliado por Computador e Radiômica (CadOmics),  passando a desenvolver pesquisas também nessa nova área de fronteira do conhecimento.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="Azevedo-Marques, PM;Azevedo Marques, Paulo Mazzoncini de;Marques, PMA.;Azevedo-Marques, Paulo M.;Marques, Paulo M.A.;de Azevedo-Marques, Paulo Mazzoncini;de Azevedo Marques PM;DE AZEVEDO MARQUES, P.;MARQUES, PAULO MAZZONCINI DE AZEVEDO;AZEVEDO-MARQUES, PAULO MAZZONCINI DE;AZEVEDO-MARQUES, P. M.;Paulo M. Azevedo-Marques;AZEVEDO-MARQUES, PAULO;P. M. A. Marques;P.M.A. Marques;Azevedo-Marques, Paulo Mazzoncini de;Paulo Mazzoncini de Azevedo-Marques;AZEVEDO-MARQUES, PAULO MAZZONCINI;Paulo Mazzoncini A Marques;AZEVEDO-MARQUES, P M"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7119886675051877"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Paulo Mazzoncini de Azevedo Marques">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Radiômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informática de Imagens Médicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indexação e Recuperação de Imagens a partir de Conteúdo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens Médicas para Auxílio ao Diagnóstico."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informática em Saúde"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Avaliação de Tecnologias em Saúde</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Diagnóstico Auxiliado Por Computador</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informática Em Saúde</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens Médicas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Arquivamento e Comunicação de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação Em Saúde</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="TRAINA, A. J. M.;Traina, Agma Juci Machado;Traina, Agma J. M.;TRAINA, AGMA J.M.;TRAINA, AGMA JM;TRAINAX, Agma J M;TRAINAX, AGMA J. M.;TRAINA, A.J.M."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="F"
+                   NRO-ID-CNPQ="5136155977351408"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Agma Juci Machado Traina">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informática de Imagens Médicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indexação e Recuperação de Imagens a partir de Conteúdo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens Médicas para Auxílio ao Diagnóstico."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informática em Saúde"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Traina Jr., C..;Traina, C.;Traina Jr., Caetano;Traina Jr, Caetano;Jr., Caetano Traina;TRAINA, CAETANO;JR, CAETANO TRAINA;JUNIOR, CAETANO TRAINA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5118629875846648"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Caetano Traina Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informática de Imagens Médicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indexação e Recuperação de Imagens a partir de Conteúdo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informática em Saúde"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia e Técnicas da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="OLIVEIRA, M. C.;Oliveira, Marcelo Costa"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9562890319093965"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcelo Costa Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indexação e Recuperação de Imagens a partir de Conteúdo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Gráfica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Diagnóstico Auxiliado por Computador</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Grids Computacionais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Indexação e Recuperação de Imagens a partir de Conteúdo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informática em Saúde</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="KINOSHITA, S. K.;Kinoshita, Sérgio Koodi;Kinoshita SK;Sérgio Kodi Kinoshita;Kinoshita, Sérgio Kodi"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3029555622456842"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Sergio Koodi Kinoshita">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informática de Imagens Médicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indexação e Recuperação de Imagens a partir de Conteúdo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Enfermagem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>engenharia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Biomédica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Médica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informática em Saúde</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medicina</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Nogueira-Barbosa, Marcello Henrique;Nogueira-Barbosa, M.H.;Nogueira-Barbosa, Marcello H.;Nogueira-Barbosa, M. H.;NOGUEIRA-BARBOSA, MARCELLO H;Nogueira-Barbosa, Marcello;Marcello Henrique Nogueira-Barbosa;NOGUEIRA-BARBOSA, MH"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0148129585003103"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcello Henrique Nogueira Barbosa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informática de Imagens Médicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indexação e Recuperação de Imagens a partir de Conteúdo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens Médicas para Auxílio ao Diagnóstico."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Radiologia Médica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="WICHERT-ANA, L.;Wichert-Ana, Lauro;ANA, LAURO WICHERT;WICHERT ANA, LAURO;WICHERT-ANA, LAURO;LAURO WICHERT-ANA;LAURO WICHERT ANA;Lauro Wichert-Ana;Lauro Wichert Ana;Lauro Wichert-Anna"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4356262285996810"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Lauro Wichert Ana">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens Médicas para Auxílio ao Diagnóstico."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Avaliação de Tecnologias em Saúde"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medicina Nuclear</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neurociências</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neurologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Radiologia Médica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SOUZA, J. P.;SOUZA-ZINADER, J. P.;DE SOUZA, JULIANA PEREIRA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0747426563451969"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Juliana Pereira de Souza Zinader">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Avaliação de Tecnologias em Saúde"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informática em Saúde"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Avaliação de Tecnologias em Saúde - ATS</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neuroimagem</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Qualidade de Software Médico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Recuperação de Imagens Baseada em Conteúdo - CBIR</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Registro Eletrônico em Saúde</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SUZUKI, K.  M. F.;SUZUKI, Kátia Mitiko Firmino"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0884336851721516"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Kátia Mitiko Firmino Suzuki Cozin">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informática de Imagens Médicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informática em Saúde"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Koenigkam-Santos, M.;Santos, M. K.;Koenigkam-Santos, Marcel;Santos, Marcel Koenigkam;Koenigkam Santos, M."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1316149084160509"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcel Koenigkam Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Radiômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Radiologia em Medicina Interna</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Radiologia Médica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Radiologia Torácica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ressonância Magnética</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="CÉSAR, H. V.;CESAR, HILTON;CÉSAR, HILTON VICENTE"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="PAULO MAZZONCINI DE AZEVEDO MARQUES"
+                 NRO-ID-CNPQ-ORIENTADOR="7119886675051877"
+                 SEQUENCIA-ESTUDANTE="632147"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1076000048634663"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Hilton Vicente César">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informática em Saúde"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teleinformática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FALEIROS, M. C." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="PAULO MAZZONCINI DE AZEVEDO MARQUES"
+                 NRO-ID-CNPQ-ORIENTADOR="7119886675051877"
+                 SEQUENCIA-ESTUDANTE="4941086"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5860967148505851"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Matheus Calil Faleiros">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Radiômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens Médicas para Auxílio ao Diagnóstico."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FERREIRA JUNIOR, J. R.;Ferreira Junior, José Raniery;Ferreira, José Raniery;FERREIRA, JOSE RANIERY;JUNIOR, JOSE RANIERY FERREIRA;Raniery, J"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="PAULO MAZZONCINI DE AZEVEDO MARQUES"
+                 NRO-ID-CNPQ-ORIENTADOR="7119886675051877"
+                 SEQUENCIA-ESTUDANTE="3051100"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3310713149803429"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="José Raniery Ferreira Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Radiômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Indexação e Recuperação de Imagens a partir de Conteúdo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens Médicas para Auxílio ao Diagnóstico."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informática Médica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Visão Computacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MIYOSHI, NEWTON SHYDEO;MIYOSHI, N. S. B."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="PAULO MAZZONCINI DE AZEVEDO MARQUES"
+                 NRO-ID-CNPQ-ORIENTADOR="7119886675051877"
+                 SEQUENCIA-ESTUDANTE="2582264"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9625152574346919"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Newton Shydeo Brandão Miyoshi">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Informática em Saúde"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informática Biomédica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MIOTO, M. A." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="PAULO MAZZONCINI DE AZEVEDO MARQUES"
+                 NRO-ID-CNPQ-ORIENTADOR="7119886675051877"
+                 SEQUENCIA-ESTUDANTE="4657034"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6078674903287443"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Mariana Araujo Mioto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens Médicas para Auxílio ao Diagnóstico."
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens Médicas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Saúde Coletiva</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS>
+      <COLABORADOR-ESTRANGEIRO NOME-CITACOES="RANGAYYAN, R. M." SEXO="M" NRO-ID-CNPQ="8016562990407902"
+                               PAIS-DE-NASCIMENTO="IND"
+                               NACIONALIDADE="E"
+                               NOME-COMPLETO="Rangaraj Mandayam Rangayyan"
+                               TITULACAO-MAXIMA="Doutorado"
+                               SEQUENCIA-COLABORADOR="1">
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </COLABORADOR-ESTRANGEIRO>
+   </COLABORADORES-ESTRANGEIROS>
+   <TECNICOS>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="ANALISTAS DE TECNOLOGIA DA INFORMAÇÃO"
+               TITULO-OCUPACAO="Analista de suporte computacional"
+               CODIGO-CBO="2124-20"
+               NIVEL-DE-TREINAMENTO=""
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="M"
+               NOME-CITACOES="CORREIA, R. D.;CORREIA, RODOLFO DIAS"
+               NRO-ID-CNPQ="7238756755189513"
+               GRAU-DE-ESCOLARIDADE="Mestrado"
+               ATIVIDADE-NO-GRUPO="Analista de suporte computacional"
+               NOME-COMPLETO="Rodolfo Dias Correia"
+               SEQUENCIA-TECNICO="4703572"/>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="ANALISTAS DE TECNOLOGIA DA INFORMAÇÃO"
+               TITULO-OCUPACAO="Analista de suporte computacional"
+               CODIGO-CBO="2124-20"
+               NIVEL-DE-TREINAMENTO=""
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="M"
+               NOME-CITACOES="RODRIGUES, H. C. P."
+               NRO-ID-CNPQ="5173433585734204"
+               GRAU-DE-ESCOLARIDADE="Especialização"
+               ATIVIDADE-NO-GRUPO="Analista de suporte computacional"
+               NOME-COMPLETO="Hugo Cesar Peloggia Rodrigues"
+               SEQUENCIA-TECNICO="3327805"/>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="ANALISTAS DE TECNOLOGIA DA INFORMAÇÃO"
+               TITULO-OCUPACAO="Analista de suporte computacional"
+               CODIGO-CBO="2124-20"
+               NIVEL-DE-TREINAMENTO="Mestrado Profissional"
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="M"
+               NOME-CITACOES="CORDEIRO, S. S."
+               NRO-ID-CNPQ="2990289955210803"
+               GRAU-DE-ESCOLARIDADE="Graduação"
+               ATIVIDADE-NO-GRUPO="Analista de suporte computacional"
+               NOME-COMPLETO="Saulo da Silva Cordeiro"
+               SEQUENCIA-TECNICO="3328340"/>
+   </TECNICOS>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0550434773511164"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de sistemas para auxiliar a detecção e classificação automatizadas de padrões em imagens radiológicas"
+                         NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens Médicas para Auxílio ao Diagnóstico."
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Apoio ao Diagnóstico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Aquisição, Armazenamento e Transmissão de Imagens</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Controle de Qualidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Processamento de Imagens Médicas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Reconhecimento de Padrões</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Visão Computacional</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="7">Inteligência Artificial</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7119886675051877"
+                               NOME-COMPLETO="Paulo Mazzoncini de Azevedo Marques"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="394414"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5136155977351408" NOME-COMPLETO="Agma Juci Machado Traina"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="348962"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0148129585003103"
+                               NOME-COMPLETO="Marcello Henrique Nogueira Barbosa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="90695"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4356262285996810" NOME-COMPLETO="Lauro Wichert Ana"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="265023"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5860967148505851" NOME-COMPLETO="Matheus Calil Faleiros"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4941086"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3310713149803429" NOME-COMPLETO="José Raniery Ferreira Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3051100"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6078674903287443" NOME-COMPLETO="Mariana Araujo Mioto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4657034"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40106004" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="40106004"
+                                  CODIGO-AREA="40100006"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Informática Médica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Radiologia Médica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="695"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7187900356289531"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de sistemas e interfaces para indexação e recuperação de imagens a partir de conteúdo pictórico para serem integrados a sistemas PACS. Definição de atributos para indexação e recuperação de imagens médicas a partir de conteúdo.Implementação de um sistema de de arquivamento e comunicação de imagens com função de recuperação baseada em conteúdo - cbPACS (Content-based PACS)."
+                         NOME-DA-LINHA-DE-PESQUISA="Indexação e Recuperação de Imagens a partir de Conteúdo"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Reconhecimento de Padrões</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Content-based Image retrieval (CBIR)</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Recuperação de imagens a partir de conteúdo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Bancos de dados e Imagens</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Caracterização automatizada de imagens médicas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7119886675051877"
+                               NOME-COMPLETO="Paulo Mazzoncini de Azevedo Marques"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="394414"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5136155977351408" NOME-COMPLETO="Agma Juci Machado Traina"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="348962"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5118629875846648" NOME-COMPLETO="Caetano Traina Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="12743"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9562890319093965" NOME-COMPLETO="Marcelo Costa Oliveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="433360"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3029555622456842" NOME-COMPLETO="Sergio Koodi Kinoshita"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="258138"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0148129585003103"
+                               NOME-COMPLETO="Marcello Henrique Nogueira Barbosa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="90695"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3310713149803429" NOME-COMPLETO="José Raniery Ferreira Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3051100"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40106004" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="40106004"
+                                  CODIGO-AREA="40100006"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Informática Médica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Radiologia Médica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="695"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.4"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4199766941014865"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Aplicação da tecnologia da informação no estudo e implementação de modelos de sistemas de registro eletrônico em saúde (S-RES) com base em protocolos e padrões de comunicação para interoperabilidade e segurança da informação. "
+                         NOME-DA-LINHA-DE-PESQUISA="Informática em Saúde"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Sistemas de Informação em Saúde</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Sistemas de Registro Eletrônico em Saúde</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Padrões para Interoperabilidade de S-RES</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Modelo SBIS-CFM de Certificação de S-RES</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7119886675051877"
+                               NOME-COMPLETO="Paulo Mazzoncini de Azevedo Marques"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="394414"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5136155977351408" NOME-COMPLETO="Agma Juci Machado Traina"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="348962"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5118629875846648" NOME-COMPLETO="Caetano Traina Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="12743"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0747426563451969" NOME-COMPLETO="Juliana Pereira de Souza Zinader"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2177089"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0884336851721516"
+                               NOME-COMPLETO="Kátia Mitiko Firmino Suzuki Cozin"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="573295"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1076000048634663" NOME-COMPLETO="Hilton Vicente César"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="632147"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9625152574346919" NOME-COMPLETO="Newton Shydeo Brandão Miyoshi"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2582264"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10300007" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="47"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40100006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="40100006"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="657"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40600009" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="40600009"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Saúde Coletiva"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="725"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2884225379439673"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Pesquisa e desenvolvimento de soluçôes voltadas para a área de Informática em Imagens Médicas, abrangendo processamento e gerenciamento de informação."
+                         NOME-DA-LINHA-DE-PESQUISA="Informática de Imagens Médicas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Informática em Imagens Médicas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7119886675051877"
+                               NOME-COMPLETO="Paulo Mazzoncini de Azevedo Marques"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="394414"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5136155977351408" NOME-COMPLETO="Agma Juci Machado Traina"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="348962"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5118629875846648" NOME-COMPLETO="Caetano Traina Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="12743"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3029555622456842" NOME-COMPLETO="Sergio Koodi Kinoshita"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="258138"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0148129585003103"
+                               NOME-COMPLETO="Marcello Henrique Nogueira Barbosa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="90695"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0884336851721516"
+                               NOME-COMPLETO="Kátia Mitiko Firmino Suzuki Cozin"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="573295"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40106004" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="40106004"
+                                  CODIGO-AREA="40100006"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Informática Médica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Radiologia Médica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="695"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.4"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0783689308894533"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Avaliação de tecnologias em saúde, com ênfase em equipamentos, programas de computador e protocolos clínicos aplicados à área de diagnóstico por imagem. "
+                         NOME-DA-LINHA-DE-PESQUISA="Avaliação de Tecnologias em Saúde"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Tecnlogias em Saúde</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Avaliação de Tecnologias em Saúde</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4356262285996810" NOME-COMPLETO="Lauro Wichert Ana"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="265023"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0747426563451969" NOME-COMPLETO="Juliana Pereira de Souza Zinader"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2177089"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31300006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="31300006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Diagnóstico por Imagem"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Biomédica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="646"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.6"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9349125841956572"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="O termo radiômica (do Inglês radiomics) pode ser entendido como a extração de dados quantitativos de imagens médicas em comparação com dados genômicos (exoma, transcriptoma, etc.) e de proteoma para melhorar o monitoramento e a conduta terapêutica. Atributos quantitativos baseados em intensidade de níveis de cinza, forma, textura, tamanho e volume extraídos das imagens podem fornecer informações sobre o fenótipo e o microambiente de um tumor, possibilitando uma medicina personalizada. "
+                         NOME-DA-LINHA-DE-PESQUISA="Radiômica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Radiômica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Radiomics</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7119886675051877"
+                               NOME-COMPLETO="Paulo Mazzoncini de Azevedo Marques"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="394414"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1316149084160509" NOME-COMPLETO="Marcel Koenigkam Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="196001"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5860967148505851" NOME-COMPLETO="Matheus Calil Faleiros"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4941086"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3310713149803429" NOME-COMPLETO="José Raniery Ferreira Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3051100"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40106004" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="40106004"
+                                  CODIGO-AREA="40100006"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Radiologia Médica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="695"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="3991462456626878"
+               RAZAO-SOCIAL-DA-EMPRESA="Fundação de Apoio ao Ensino, Pesquisa e Assistência do HCFMRP"
+               NATUREZA-JURIDICA="Fundação Privada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="57722118000140"
+               LOCALIDADE="Ribeirão Preto"
+               CIDADE="Ribeirão Preto"
+               UF="SP"
+               SIGLA-DA-EMPRESA="FAEPA/SP"
+               NOME-DA-EMPRESA="Fundação de Apoio ao Ensino, Pesquisa e Assistência do HCFMRP"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.1"
+                                          SUBSETOR="Atividades de atendimento hospitalar"
+                                          SETOR="Atividades de atenção à saúde humana"
+                                          GRANDE-SETOR="Saúde humana e serviços sociais"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="6441851026719385"
+               RAZAO-SOCIAL-DA-EMPRESA="Innolution - Sistemas de Informática Ltda"
+               NATUREZA-JURIDICA="Sociedade Empresária Limitada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="07603687000107"
+               LOCALIDADE="Ribeirão Preto"
+               CIDADE="Ribeirão Preto"
+               UF="SP"
+               SIGLA-DA-EMPRESA="Innolution"
+               NOME-DA-EMPRESA="Innolution - Sistemas de Informática Ltda"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="16">Transferência física temporária de recursos humanos do parceiro para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="3216091020507150"
+               RAZAO-SOCIAL-DA-EMPRESA="Kidopi Soluções em Informática Ltda"
+               NATUREZA-JURIDICA="Sociedade Empresária Limitada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="10764558000105"
+               LOCALIDADE="Ribeirão Preto"
+               CIDADE="Ribeirão Preto"
+               UF="SP"
+               SIGLA-DA-EMPRESA="KIDOPI"
+               NOME-DA-EMPRESA="Kidopi - Soluções em Informática Médica"
+               SEQUENCIA-EMPRESA="2">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                          SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                          SETOR="Atividades dos serviços de tecnologia da informação"
+                                          GRANDE-SETOR="Informação e comunicação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="20112014" DATA-ENTRADA="03022012"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0747426563451969"
+               NOME-DO-EGRESSO="Juliana Pereira de Souza Zinader"/>
+      <EGRESSO DATA-SAIDA="20112014" DATA-ENTRADA="03022012"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0884336851721516"
+               NOME-DO-EGRESSO="Kátia Mitiko Firmino Suzuki Cozin"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

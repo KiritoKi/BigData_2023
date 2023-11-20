@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="8448715115936428"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="112453"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="02112016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="2297500881986700" CODIGO-AREA-PREDOMINANTE="30600006"
+                           NOME-DA-UNIDADE="Escola de Engenharia"
+                           NOME-DO-ORGAO="Escola de Engenharia"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="RJ"
+                           SIGLA-DA-INSTITUICAO="UFF"
+                           NOME-DA-INSTITUICAO="Universidade Federal Fluminense"
+                           AREA-PREDOMINANTE="Engenharia Química"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="2014"
+                           NOME-DO-GRUPO="GEDiF - Grupo de Estudos em Dinâmica de Fluidos">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="6770940353518231" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="João Felipe Mitre de Araujo"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="2805938218973544" PAIS-DE-NASCIMENTO="PER" NACIONALIDADE="E"
+                        NOME-COMPLETO="Víctor Rolando Ruiz Ahón"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3303302" DDDFAX="21"
+                                       LONGITUDE="-43.1307999"
+                                       LATITUDE="-22.902002"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Niterói"
+                                       NUMERO="156"
+                                       COMPLEMENTO="Bloco E, sala 240"
+                                       LOGRADOURO="Rua Passo da Pátria"
+                                       HOME-PAGE="http://www.gedif.uff.br"
+                                       E-MAIL="jf_mitre@id.uff.br"
+                                       FAX=""
+                                       RAMAL=""
+                                       TELEFONE="26295559"
+                                       DDD="21"
+                                       CEP="24210240"
+                                       CIDADE="Niterói"
+                                       UF="RJ"
+                                       BAIRRO="São Domingos"/>
+      <REPERCUSSOES>Esse grupo de estudos tem como visão a aplicação dos conhecimentos de fenômenos de transporte, a saber, mecânica dos fluidos, transferência de calor e transferência de massa, para resolver problemas de interesse científico e tecnológico.Utiliza-se a recursos computacionais para resolver problemas típicos da indústria química e petroquímica, tais como escoamentos monofásicos turbulentos, escoamentos multifásicos, escoamentos em meios porosos, escoamentos com transferência de calor, escoamentos com reações químicas, etc.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="COUTINHO, Ana Carla da Silveira Lomba Sant?ana;Coutinho, Ana C. S. L. S.;Coutinho, Ana C.S.L.S.;Araujo, Antonio S."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="F"
+                   NRO-ID-CNPQ="6644656445491585"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ana Carla da Silveira Lomba Sant?Ana Coutinho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fluidodinâmica Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cinética Química e Catálise</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Físico Química Inorgânica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Petróleo e Petroquímica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Síntese e Caracterização de Catalisadores e Adsorventes</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MITRE, J. F.;MITRE, JOÃO F.;ARAUJO, J. F. M."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6770940353518231"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="João Felipe Mitre de Araujo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fluidodinâmica Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamento de Fluidos em Meios Porosos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem, Simulação, Otimização e Segurança de Processos Industriais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Matemática Aplicada à Engenharia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamento Multifásico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Termodinâmica Aplicada à Engenharia Química e de Petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Produção e Exploração de Petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Balanços Globais de Matéria e Energia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Petróleo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fenômenos de Transporte</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Operações Industriais e Equipamentos para Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Petróleo e Petroquímica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SILVA, L. F. L. R.;Silva, L.F.L.R.;SILVA, LUIZ FERNANDO L.R."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4036968817705651"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Luiz Fernando Lopes Rodrigues Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fluidodinâmica Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamento Multifásico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Matemática Aplicada à Engenharia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fenômenos de Transporte</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fluidodinâmica Computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Numéricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos Multifásicos Polidispersos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LACERDA, R. F.;Lacerda, Rogerio;FERNANDES LACERDA, ROGERIO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6122361176823712"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rogério Fernandes de Lacerda">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fluidodinâmica Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamento de Fluidos em Meios Porosos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamento Multifásico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Termodinâmica Aplicada à Engenharia Química e de Petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Produção e Exploração de Petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Operações de Separação e Mistura</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Petróleo e Petroquímica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos Orgânicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Tecnologia Educacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Termodinâmica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="AHÓN, V. R. R.;Ahón, Victor R.R.;AHÓN, VICTOR R. R.;AHÓN, VICTOR ROLANDO RUIZ;RUIZ AHÓN, VICTOR ROLANDO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2805938218973544"
+                   PAIS-DE-NASCIMENTO="PER"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Víctor Rolando Ruiz Ahón">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fluidodinâmica Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamento de Fluidos em Meios Porosos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem, Simulação, Otimização e Segurança de Processos Industriais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Matemática Aplicada à Engenharia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamento Multifásico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Termodinâmica Aplicada à Engenharia Química e de Petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Produção e Exploração de Petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Operações de Separação e Mistura</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Petróleo e Petroquímica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Residuos Sólidos, Domésticos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Termodinâmica Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="BANDEIRA, M. R." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="VICTOR ROLANDO RUIZ AHON"
+                 NRO-ID-CNPQ-ORIENTADOR="2805938218973544"
+                 SEQUENCIA-ESTUDANTE="6293666"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4849135549743985"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marina Ribeiro Bandeira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Produção e Exploração de Petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Petróleo e Petroquímica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="YOUNG, A. F.;YOUNG, ANDRÉ F." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="VICTOR ROLANDO RUIZ AHON"
+                 NRO-ID-CNPQ-ORIENTADOR="2805938218973544"
+                 SEQUENCIA-ESTUDANTE="4243223"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8711373251716675"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="André Ferreira Young">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Termodinâmica Aplicada à Engenharia Química e de Petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOUZA, K. M. F." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOAO FELIPE MITRE DE ARAUJO"
+                 NRO-ID-CNPQ-ORIENTADOR="6770940353518231"
+                 SEQUENCIA-ESTUDANTE="6902274"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1120939327098158"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Kaio Magno Ferreira de Souza">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Termodinâmica Aplicada à Engenharia Química e de Petróleo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MARTINS, F. T. M." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOAO FELIPE MITRE DE ARAUJO"
+                 NRO-ID-CNPQ-ORIENTADOR="6770940353518231"
+                 SEQUENCIA-ESTUDANTE="3435013"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3895344817346670"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Fernanda Tardin Moreno Martins">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem, Simulação, Otimização e Segurança de Processos Industriais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MORAES, L. F." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOAO FELIPE MITRE DE ARAUJO"
+                 NRO-ID-CNPQ-ORIENTADOR="6770940353518231"
+                 SEQUENCIA-ESTUDANTE="6206607"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3478273090436921"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Laura de Freitas Moraes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamento de Fluidos em Meios Porosos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Petróleo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Petróleo e Petroquímica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CABRAL, F. N." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOAO FELIPE MITRE DE ARAUJO"
+                 NRO-ID-CNPQ-ORIENTADOR="6770940353518231"
+                 SEQUENCIA-ESTUDANTE="6309776"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4323877470721218"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Frederico do Nascimento Cabral">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fluidodinâmica Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ARAUJO, D. N. P." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOAO FELIPE MITRE DE ARAUJO"
+                 NRO-ID-CNPQ-ORIENTADOR="6770940353518231"
+                 SEQUENCIA-ESTUDANTE="6309397"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0311443169936125"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Daniel Nunes Picado de Araujo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fluidodinâmica Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BRAGANCA, LUCAS B. F." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOAO FELIPE MITRE DE ARAUJO"
+                 NRO-ID-CNPQ-ORIENTADOR="6770940353518231"
+                 SEQUENCIA-ESTUDANTE="4980850"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4787562758415067"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lucas Bragança Fernandes Lopes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fluidodinâmica Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Mecânica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="RIBEIRO, B. L. R." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOAO FELIPE MITRE DE ARAUJO"
+                 NRO-ID-CNPQ-ORIENTADOR="6770940353518231"
+                 SEQUENCIA-ESTUDANTE="4235671"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5525554800036510"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bernardo Luiz Rocha Ribeiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fluidodinâmica Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Mecânica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ALMEIDA, D. M." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOAO FELIPE MITRE DE ARAUJO"
+                 NRO-ID-CNPQ-ORIENTADOR="6770940353518231"
+                 SEQUENCIA-ESTUDANTE="4328238"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8909242048364500"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Daniel Madeira de Almeida">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fluidodinâmica Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Mecânica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MARINO, M. P." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOAO FELIPE MITRE DE ARAUJO"
+                 NRO-ID-CNPQ-ORIENTADOR="6770940353518231"
+                 SEQUENCIA-ESTUDANTE="5239700"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1322840834303184"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Matheus Pareto Marino">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamento de Fluidos em Meios Porosos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="VIEIRA, C. P." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOAO FELIPE MITRE DE ARAUJO"
+                 NRO-ID-CNPQ-ORIENTADOR="6770940353518231"
+                 SEQUENCIA-ESTUDANTE="4980582"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1495216245580905"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Clarissa Pires Vieira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fluidodinâmica Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Escoamento Multifásico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Mecânica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8269574683985529"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Linhas associada a metodologias matemáticas para efetuar soluções numéricas ou analíticas de problemas de fenômenos de transporte e para efetuar tratamento estatístico em modelos constitutivos desses mesmos problemas."
+                         NOME-DA-LINHA-DE-PESQUISA="Matemática Aplicada à Engenharia"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">modelagem matemática</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">métodos de otimização</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">estimação de parâmetros</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6770940353518231" NOME-COMPLETO="João Felipe Mitre de Araujo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="210715"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4036968817705651"
+                               NOME-COMPLETO="Luiz Fernando Lopes Rodrigues Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="216141"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2805938218973544" NOME-COMPLETO="Víctor Rolando Ruiz Ahón"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="334960"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10104003" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10104003"
+                                  CODIGO-AREA="10100008"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática Aplicada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Matemática"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="25"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="450"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30600006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="479"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6224232725316481"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudar o comportamento de fluidos em meios porosos com ênfase em reservatórios de óleo e gás. Essa linha contempla os fundamentos básicos desse tipo de escoamento e também as aplicações práticas associadas aos reservatórios de petróleo e aquíferos"
+                         NOME-DA-LINHA-DE-PESQUISA="Escoamento de Fluidos em Meios Porosos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">escoamento em meio poroso</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">escoamento multifásico em meio poroso</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">engenharia de reservatórios</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">transferência de calor</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">transferência de massa</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6770940353518231" NOME-COMPLETO="João Felipe Mitre de Araujo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="210715"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6122361176823712" NOME-COMPLETO="Rogério Fernandes de Lacerda"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="222941"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2805938218973544" NOME-COMPLETO="Víctor Rolando Ruiz Ahón"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="334960"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3478273090436921" NOME-COMPLETO="Laura de Freitas Moraes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6206607"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1322840834303184" NOME-COMPLETO="Matheus Pareto Marino"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5239700"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="450"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30603013" CODIGO-ESPECIALIDADE="30603013"
+                                  CODIGO-SUB-AREA="30603005"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Balanços Globais de Matéria e Energia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Tecnologia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="489"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30603161" CODIGO-ESPECIALIDADE="30603161"
+                                  CODIGO-SUB-AREA="30603005"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Petróleo e Petroquímica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Tecnologia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="504"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06.0"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.20"
+                                SUBSETOR="Fabricação de produtos químicos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5518797177939385"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Modelar o escoamento de fluidos na indústria de produção e exploração de petróleo, propondo melhorias para melhor avaliação dos sistemas. Essa linha de pesquisa inclui o desenvolvimento de algoritmos para análise, simulação, previsão do comportamento de reservatórios de petróleo tradicionais e não-convencionais e assuntos correlatos a produção contínua do reservatório. "
+                         NOME-DA-LINHA-DE-PESQUISA="Produção e Exploração de Petróleo"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">engenharia de reservatórios</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">escoamento multifásico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">escoamento em meios porosos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">garantia de escoamento</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6770940353518231" NOME-COMPLETO="João Felipe Mitre de Araujo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="210715"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6122361176823712" NOME-COMPLETO="Rogério Fernandes de Lacerda"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="222941"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2805938218973544" NOME-COMPLETO="Víctor Rolando Ruiz Ahón"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="334960"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4849135549743985" NOME-COMPLETO="Marina Ribeiro Bandeira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6293666"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="450"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30601002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30601002"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Processos Industriais de Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="480"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30603161" CODIGO-ESPECIALIDADE="30603161"
+                                  CODIGO-SUB-AREA="30603005"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Petróleo e Petroquímica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Tecnologia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="504"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06.0"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7182180126377476"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Essa linha de pesquisa contempla o estudo do escoamento multifásico em tubulações e equipamentos da indústria química. Sua caracterização e modelagem com o objetivo de melhor compreender os fenômenos."
+                         NOME-DA-LINHA-DE-PESQUISA="Escoamento Multifásico"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">escoamento multifásico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">transferência de calor</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">transferência de massa</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">turbulência</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6770940353518231" NOME-COMPLETO="João Felipe Mitre de Araujo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="210715"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4036968817705651"
+                               NOME-COMPLETO="Luiz Fernando Lopes Rodrigues Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="216141"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6122361176823712" NOME-COMPLETO="Rogério Fernandes de Lacerda"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="222941"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2805938218973544" NOME-COMPLETO="Víctor Rolando Ruiz Ahón"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="334960"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1495216245580905" NOME-COMPLETO="Clarissa Pires Vieira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4980582"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="450"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30603161" CODIGO-ESPECIALIDADE="30603161"
+                                  CODIGO-SUB-AREA="30603005"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Petróleo e Petroquímica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Tecnologia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="504"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.20"
+                                SUBSETOR="Fabricação de produtos químicos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2374441735892113"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Modelar e simular processos industriais utilizando as técnicas mais indicadas para cada problema, com objetivo de otimizar o processo, aumentando o aproveitamento energético, a taxa de conversão das reações químicas com alta seletividade, o aproveitamento da matéria-prima, diminuindo os custos e os riscos operacionais e, como um todo, aumentando a segurança dos processos industriais. "
+                         NOME-DA-LINHA-DE-PESQUISA="Modelagem, Simulação, Otimização e Segurança de Processos Industriais"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">modelagem e simulação de processos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">segurança de processos industriais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">otimização de processos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6770940353518231" NOME-COMPLETO="João Felipe Mitre de Araujo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="210715"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2805938218973544" NOME-COMPLETO="Víctor Rolando Ruiz Ahón"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="334960"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3895344817346670" NOME-COMPLETO="Fernanda Tardin Moreno Martins"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3435013"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30601002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30601002"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Processos Industriais de Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="480"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.20"
+                                SUBSETOR="Fabricação de produtos químicos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2657921742603471"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Linha de pesquisa que visa desenvolver métodos de cálculo de equilíbrio de fases de misturas complexas; análise do comportamento termodinâmico de uma mistura multifásica no sistema de produção; com o objetivo de modelar, simular e otimizar  processos de separação de misturas de óleo e gás e a simular o escoamento multifásico de petróleo."
+                         NOME-DA-LINHA-DE-PESQUISA="Termodinâmica Aplicada à Engenharia Química e de Petróleo"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Termodinâmica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Misturas Complexas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Caracterização do petróleo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Processos de Separação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6770940353518231" NOME-COMPLETO="João Felipe Mitre de Araujo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="210715"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6122361176823712" NOME-COMPLETO="Rogério Fernandes de Lacerda"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="222941"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2805938218973544" NOME-COMPLETO="Víctor Rolando Ruiz Ahón"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="334960"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8711373251716675" NOME-COMPLETO="André Ferreira Young"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4243223"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1120939327098158" NOME-COMPLETO="Kaio Magno Ferreira de Souza"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6902274"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10603085" CODIGO-ESPECIALIDADE="10603085"
+                                  CODIGO-SUB-AREA="10603000"
+                                  CODIGO-AREA="10600000"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Termodinâmica Química"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Físico-Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="169"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602033" CODIGO-ESPECIALIDADE="30602033"
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Operações de Separação e Mistura"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="487"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5889405114972467"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Essa linha de pesquisa concentra os estudos associados a solução numérica e análise de escoamentos de fluidos. Sejam esses escoamentos turbulentos ou laminares, newtonianos ou não-newtonianos, com ou sem transferência de calor, com ou sem transferência de massa.Os estudos utilizam programas tais como o OpenFOAM, Ansys CFX, COMSOL Multiphysics, além de códigos próprios."
+                         NOME-DA-LINHA-DE-PESQUISA="Fluidodinâmica Computacional"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">turbulência</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">mecânica dos fluidos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">CFD</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">transferência de calor</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">transferência de massa</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6644656445491585"
+                               NOME-COMPLETO="Ana Carla da Silveira Lomba Sant?Ana Coutinho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="639945"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6770940353518231" NOME-COMPLETO="João Felipe Mitre de Araujo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="210715"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4036968817705651"
+                               NOME-COMPLETO="Luiz Fernando Lopes Rodrigues Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="216141"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6122361176823712" NOME-COMPLETO="Rogério Fernandes de Lacerda"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="222941"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2805938218973544" NOME-COMPLETO="Víctor Rolando Ruiz Ahón"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="334960"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4323877470721218" NOME-COMPLETO="Frederico do Nascimento Cabral"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6309776"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0311443169936125" NOME-COMPLETO="Daniel Nunes Picado de Araujo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6309397"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4787562758415067" NOME-COMPLETO="Lucas Bragança Fernandes Lopes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4980850"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5525554800036510" NOME-COMPLETO="Bernardo Luiz Rocha Ribeiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4235671"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8909242048364500" NOME-COMPLETO="Daniel Madeira de Almeida"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4328238"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1495216245580905" NOME-COMPLETO="Clarissa Pires Vieira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4980582"
+                             SEQUENCIA-ESTUDANTE="6"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30501008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30501008"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Fenômenos de Transporte"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="450"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.20"
+                                SUBSETOR="Fabricação de produtos químicos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="2338471481898266"
+               RAZAO-SOCIAL-DA-EMPRESA="Wikki Brasil Consultoria em Engenharia Ltda"
+               NATUREZA-JURIDICA="Sociedade Empresária Limitada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="15522982000159"
+               LOCALIDADE="Rio de Janeiro"
+               CIDADE="Rio de Janeiro"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="WBr"
+               NOME-DA-EMPRESA="Wikki Brasil Consultoria em Engenharia"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                          SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                          SETOR="Atividades dos serviços de tecnologia da informação"
+                                          GRANDE-SETOR="Informação e comunicação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.71.1"
+                                          SUBSETOR="Serviços de arquitetura e engenharia e atividades técnicas relacionadas"
+                                          SETOR="Serviços de arquitetura e engenharia; testes e análises técnicas"
+                                          GRANDE-SETOR="Atividades profissionais, científicas e técnicas"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="1"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="G.47.5"
+                                          SUBSETOR="Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico"
+                                          SETOR="Comércio varejista"
+                                          GRANDE-SETOR="Comércio; reparação de veículos automotores e motocicletas"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="2"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="22">Treinamento de pessoal do grupo pelo parceiro, incluindo cursos e treinamento "em serviço"</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="18">Parceria com transfêrencia de recursos de qualquer espécie nos dois sentidos</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

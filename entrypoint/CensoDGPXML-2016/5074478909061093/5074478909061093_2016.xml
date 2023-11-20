@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="5074478909061093"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="140001"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="19102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="4644739255776557" CODIGO-AREA-PREDOMINANTE="31200001"
+                           NOME-DA-UNIDADE="Divisão de Mecânica Espacial e Controle"
+                           NOME-DO-ORGAO="Divisão de Mecânica Espacial e Controle"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SP"
+                           SIGLA-DA-INSTITUICAO="INPE"
+                           NOME-DA-INSTITUICAO="Instituto Nacional de Pesquisas Espaciais"
+                           AREA-PREDOMINANTE="Engenharia Aeroespacial"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="1989"
+                           NOME-DO-GRUPO="Trajetórias Espaciais">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="7340081273816424" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Antonio Fernando Bertachini de Almeida Prado"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="6880903376164690" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Vivian Martins Gomes"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3549904" DDDFAX="01"
+                                       LONGITUDE="-45.85963749999996"
+                                       LATITUDE="-23.2065097"
+                                       CAIXA-POSTAL="212"
+                                       LOCALIDADE="São José dos Campos"
+                                       NUMERO="1758"
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="Avenida dos Astronautas - de 1372/1373 ao fim"
+                                       HOME-PAGE="www.inpe.br"
+                                       E-MAIL="antonio.prado@inpe.br"
+                                       FAX="39456226"
+                                       RAMAL=""
+                                       TELEFONE="39456201"
+                                       DDD="01"
+                                       CEP="12227010"
+                                       CIDADE="São José dos Campos"
+                                       UF="SP"
+                                       BAIRRO="Jardim da Granja"/>
+      <REPERCUSSOES>O objetivo deste trabalho é o estudo dos modelos e métodos mais usados para o cálculo de trajetórias espaciais ótimas, do ponto de vista de menor consumo de combustível, para uma transferência de um veículo espacial entre duas órbitas dadas. Estão sendo estudadas várias opções para a modelagem da dinâmica, da ação dos atuadores e dos métodos de otimização. Métodos clássicos (transferência de Hohmann, bi-elíptica, etc) e modernos (envolvendo captura gravitacional e manobras assistidas por gravidade) são pesquisados. Diversos resultados foram obtidos até o momento tais como: comparações entre manobras impulsivas e continuas, consideração de erros nos propulsores do veículo espacial, efeitos de passagem pela atmosfera e encontros com outros corpos celestes, manobras envolvendo órbitas do tipo Halo, manobras para corrigir perturbações de terceiro corpo, manobras envolvendo captura gravitacional, manobras de um corpo de volta ao mesmo corpo, controle orbital utilizando a gravidade da Lua, etc.  A repercursão dos trabalhos efetuados nessa linha de pesquisa podem ser medidos pelo número de teses e dissertações defendidas pelos orientadores, pelo bom número de alunos atuais e pelo desempenho em publicações em periódicos nacionais e internacionais bem como apresentações de trabalhos em congressos nacionais e internacionais.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="GOMES, V. M.;Gomes, Vivian M.;Gomes, Vivian Martins;GOMES, V M"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="F"
+                   NRO-ID-CNPQ="6880903376164690"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Vivian Martins Gomes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ERROS EM MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DAS MANOBRAS GRAVITACIONALMENTE ASSISTIDAS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica de Vôo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Aeroespacial</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANTOS, D. P. S.;SOUZA, Denilson Paulo dos Santos;SANTOS, Denilson Paulo Souza dos,;Santos, Denilson Paulo Souza dos;Souza dos Santos, Debnilson Paulo;DOS SANTOS, DENILSON PAULO SOUZA;SANTOS, DENÍLSON PAULO SOUZA DOS;SOUZA DOS SANTOS, DENILSON PAULO;DOS SANTOS, DENILSON P. S."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5351862393409206"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Denilson Paulo Souza dos Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS COM CONSTELAÇÕES DE SATÉLITES"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ERROS EM MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DAS MANOBRAS GRAVITACIONALMENTE ASSISTIDAS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="CAPTURA GRAVITACIONAL"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Manobras Orbitais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Dinâmicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Swing By</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Trajetórias e Órbitas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="STUCHI, T. J.;Stuchi, Teresinha J.;Stuchi, T J;STUCHI, T"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="F"
+                   NRO-ID-CNPQ="4984306916578130"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Teresinha de Jesus Stuchi">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="CAPTURA GRAVITACIONAL"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia Dinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica de Vôo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Aeroespacial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Geral</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Matemáticos da Física</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="DOMINGOS, R. C.;R. C. Domingos;DE CÁSSIA DOMINGOS, RITA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="F"
+                   NRO-ID-CNPQ="6652169083464327"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rita de Cássia Domingos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DA PERTURBAÇÃO DE UM TERCEIRO CORPO"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia de Posição e Mecânica Celeste</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia Dinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia Fundamental</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Aeroespacial</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="De Moraes, R. Vilhena;Moraes R. V.;R. Vilhena de Moraes;ou, Vilhena de Moraes, R.;de Moraes, Rodolpho Vilhena;de Moraes, R. Vilhena;Vilhena de Moraes, Rodolpho;Moraes, R. Vilhena;Vilhena de Moraes, R.;Moraes, R. Vilhena De;Rodolpho Vilhena de Moraes;De Moraes, R.;De Moraes, R. V,;DE MORAES, R VILHENA;DE MORAES, R V;MORAES, R V;R. V.  de Moraes;R.Vilhenade Moraes;MORAES, RODOLPHO VILHENA DE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7740917144757410"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rodolpho Vilhena de Moraes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DAS MANOBRAS GRAVITACIONALMENTE ASSISTIDAS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DA PERTURBAÇÃO DE UM TERCEIRO CORPO"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia Dinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Trajetórias e Órbitas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PRADO, AFBA;PRADO, AFBD;PRADO, AFBDA;De Almeida Prado, A. F. Bertachini;PRADO, A;Prado, A. F. B. A.;de Almeida Prado, Antônio Fernando Bertachini;Prado, Antonio F. Bertachini A.;Prado, A. F. B.;Prado, A.F.B.A.;Almeida Prado, Antônio Fernando Bertachini;Prado, Antonio F B A;Prado, Antonio F. B. A.;Prado, Antonio Fernando;A. PRADO, A. F. B.;PRADO, A. F. BERTACHINI DE ALMEIDA;Prado, Antonio B A;PRADO, A F B A;DE ALMEIDA PRADO, ANTÔNIO F BERTACHINI;DE ALMEIDA PRADO, A F BERTACHINI;ALMEIDA PRADO, ANTONIO FERNANDO BERTACHINI DE;Prado, Antonio F.;PRADO, ANTONIO F.B.A.;PRADO, ANTONIO FERNANDO BERTACHINI ALMEIDA;DE ALMEIDA PRADO, A F B;DE ALMEIDA PRADO, A. F. B.;BERTACHINI DE ALMEIDA PRADO, ANTONIO F.;Prado, Antonio Bertachini de A;PRADO, ANTONIO BERTACHINI DE A.;PRADO, ANTONIO FERNANDO BERTACHINI DE ALME;Prado, A.F.B.D.A.;Prado, A. F. B. D. A,;Antonio Fernando Bertachini de Almeida Prado;DE ALMEIDA PRADO, ANTONIO FERNANDO BERTACHINI"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7340081273816424"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Antonio Fernando Bertachini de Almeida Prado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DE DETRITOS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ASTRODINÂMICA DE CORPOS NÃO-ESFÉRICOS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS COM CONSTELAÇÕES DE SATÉLITES"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ERROS EM MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DAS MANOBRAS GRAVITACIONALMENTE ASSISTIDAS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DA PERTURBAÇÃO DE UM TERCEIRO CORPO"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="CAPTURA GRAVITACIONAL"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="8"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia Dinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Aeroespacial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estabilidade e Controle</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Satélites e Outros Dispositivos Aeroespaciais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Trajetórias e Órbitas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CELESTINO, C. C.;Celestino, Claudia C.;CELESTINO, CLÁUDIA CELESTE;CELESTINO, C C"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0009886992977886"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Claudia Celeste Celestino">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DE DETRITOS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Aeroespacial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Trajetórias e Órbitas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CARVALHO, J. P. S.;Carvalho, J.P.S.;CARVALHO, J P S;Carvalho, J. P. S.;CARVALHO, JEAN PAULO S.;J. P. S. Carvalho;CARVALHO, JEAN PAULO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1104942016215240"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Jean Paulo dos Santos Carvalho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DA PERTURBAÇÃO DE UM TERCEIRO CORPO"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia de Posição e Mecânica Celeste</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica Orbital</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Aeroespacial</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FORMIGA, J. K. S.;Formiga, Jorge Kennety;KENNETY, J.;FORMIGA, J K S;Formiga, J.K;DA SILVA FORMIGA, JORGE KENNETY;FORMIGA, JORGE KENNETY S.;FORMIGA, JORGE K. S."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3638759062433933"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Jorge Kennety Silva Formiga">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DAS MANOBRAS GRAVITACIONALMENTE ASSISTIDAS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica Orbital</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estabilidade e Controle</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SOLÓRZANO, C. R. H.;Solórzano, Carlos Renato Huaura"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6263045447941454"
+                   PAIS-DE-NASCIMENTO="PER"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Carlos Renato Huaura Solórzano">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DA PERTURBAÇÃO DE UM TERCEIRO CORPO"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="CAPTURA GRAVITACIONAL"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia Dinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Trajetórias e Órbitas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Venditti, F. C. F.;Benedito, F. C. F.;Faria Venditti, Flaviane Cristine;VENDITTI, F C F"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="F"
+                   NRO-ID-CNPQ="8615509732444363"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Flaviane Cristine Faria Venditti">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ASTRODINÂMICA DE CORPOS NÃO-ESFÉRICOS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica Orbital</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Aeroespacial</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="WINTER, O. C.;Winter, O. C.;Winter, Othon C.;Winter, Othon C;WINTER, O.C.;WINTER, O C;WINTER, OTHON CABO;Winter, O.C.;Lazzaro, D.;GiuliattiWinter, S."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="11"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0960024575647258"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Othon Cabo Winter">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DE DETRITOS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ASTRODINÂMICA DE CORPOS NÃO-ESFÉRICOS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="CAPTURA GRAVITACIONAL"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Aeroespacial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>História das Ciências</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="RIOS NETO, A." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="12"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2692431039506529"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Atair Rios Neto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Aeroespacial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia e Técnicas da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Aeroespaciais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANCHEZ, D. M.;Merguizo Sanchez, Diogo;SANCHEZ, DIOGO;SANCHEZ, DIOGO M.;SANCHEZ, DIOGO MERGUIZO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="13"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0303955454425548"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Diogo Merguizo Sanchez">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ASTRODINÂMICA DE CORPOS NÃO-ESFÉRICOS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia Dinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino de Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Satélites e Outros Dispositivos Aeroespaciais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Trajetórias e Órbitas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BRASIL, P. I. O.;Brasil, Pedro Ivo de Oliveira;de Oliveira Brasil, Pedro Ivo;BRASIL, P.I.O."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="14"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2266269802323856"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Pedro Ivo de Oliveira Brasil">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="CAPTURA GRAVITACIONAL"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia de Posição e Mecânica Celeste</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia Dinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Divulgação Científica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino de Física, Matemática e Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="OLIVEIRA, T. C.;OLIVEIRA, THAIS CARNEIRO;OLIVEIRA, T C;OLIVEIRA, THAIS C."
+                   TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="15"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0431896227671743"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Thais Carneiro Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ASTRODINÂMICA DE CORPOS NÃO-ESFÉRICOS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SUKHANOV, Alexander;SUKHANOV, A.;SUKHANOV, A. A.;SUHKANOV, Alexander"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="16"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3723081272633405"
+                   PAIS-DE-NASCIMENTO="RUS"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Alexander Sukhanov">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DAS MANOBRAS GRAVITACIONALMENTE ASSISTIDAS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Orbit Determination and Accuracy Estimation</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planning And Support Of Scientific Experiments In Space</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Space Flight Dynamics</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Trajectory Design</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="DEIENNO, R.;Deienno, R.;DEIENNO, ROGERIO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="17"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9947781822423028"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rogerio Deienno">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DA PERTURBAÇÃO DE UM TERCEIRO CORPO"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="CAPTURA GRAVITACIONAL"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia de Posição e Mecânica Celeste</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia Dinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica Orbital</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Aeroespacial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Trajetórias e Órbitas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SARLI, B. V." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="18"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4018426795100782"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Bruno Victorino Sarli">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ASTRODINÂMICA DE CORPOS NÃO-ESFÉRICOS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aerodinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica de Vôo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Aeroespacial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estabilidade e Controle</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Satélites e Outros Dispositivos Aeroespaciais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Trajetórias e Órbitas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="CAVALCA, M. P. O." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JORGE KENNETY SILVA FORMIGA"
+                 NRO-ID-CNPQ-ORIENTADOR="3638759062433933"
+                 SEQUENCIA-ESTUDANTE="6871017"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1314532963757594"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marina Pires de Oliveira Cavalca">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ASTRODINÂMICA DE CORPOS NÃO-ESFÉRICOS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Trajetórias e Órbitas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, A. F.;A. F. SILVA;Alessandra F. Silva;FERREIRA, A. F. S.;A. F. S. FERREIRA;Alessandra F. S. Ferreira;FERRAZ, ALESSANDRA;SILVA, A F;Alessandra Ferreira;Ferreira, A;da Silva Ferreira, Alessandra Ferraz;FERREIRA, A F S;Ferreira, Alessandra;Ferreira, Alessandra Ferraz"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO FERNANDO BERTACHINI DE ALMEIDA PRADO"
+                 NRO-ID-CNPQ-ORIENTADOR="7340081273816424"
+                 SEQUENCIA-ESTUDANTE="3180298"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9383044566813967"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alessandra Ferraz da Silva Ferreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DAS MANOBRAS GRAVITACIONALMENTE ASSISTIDAS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia de Posição e Mecânica Celeste</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MASAGO, B." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO FERNANDO BERTACHINI DE ALMEIDA PRADO"
+                 NRO-ID-CNPQ-ORIENTADOR="7340081273816424"
+                 SEQUENCIA-ESTUDANTE="2578812"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9339017351596924"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruna Yukiko Pinheiro Lopes Masago">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DAS MANOBRAS GRAVITACIONALMENTE ASSISTIDAS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SIQUELI, G. A.;SIQUELI, GUILHERME A."
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO FERNANDO BERTACHINI DE ALMEIDA PRADO"
+                 NRO-ID-CNPQ-ORIENTADOR="7340081273816424"
+                 SEQUENCIA-ESTUDANTE="3022806"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6445355156602228"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Guilherme Afonso Siqueli">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="CAPTURA GRAVITACIONAL"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, G. M. C." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="DIOGO MERGUIZO SANCHEZ"
+                 NRO-ID-CNPQ-ORIENTADOR="0303955454425548"
+                 SEQUENCIA-ESTUDANTE="307120"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9577967923659176"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Geraldo Magela Couto Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ERROS EM MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem Computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neurociências</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Trajetórias e Órbitas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MARCHI, L. O.;MARCHI, LUÍS OTÁVIO"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO FERNANDO BERTACHINI DE ALMEIDA PRADO"
+                 NRO-ID-CNPQ-ORIENTADOR="7340081273816424"
+                 SEQUENCIA-ESTUDANTE="4605785"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1153243947768055"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luís Otávio Marchi">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ERROS EM MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Aeroespacial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Trajetórias Espaciais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NETO, J. B. S.;SILVA NETO, J. B."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO FERNANDO BERTACHINI DE ALMEIDA PRADO"
+                 NRO-ID-CNPQ-ORIENTADOR="7340081273816424"
+                 SEQUENCIA-ESTUDANTE="3541027"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3407366855819403"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="José Batista da Silva Neto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ASTRODINÂMICA DE CORPOS NÃO-ESFÉRICOS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ERROS EM MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NEGRI, R. B." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO FERNANDO BERTACHINI DE ALMEIDA PRADO"
+                 NRO-ID-CNPQ-ORIENTADOR="7340081273816424"
+                 SEQUENCIA-ESTUDANTE="4285756"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0636218258038334"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rodolfo Batista Negri">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ERROS EM MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DAS MANOBRAS GRAVITACIONALMENTE ASSISTIDAS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Manobras Orbitais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica Orbital</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização de Órbitas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transferência Orbital</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ALMEIDA JUNIOR, A. K.;DE ALMEIDA JR., A.K."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO FERNANDO BERTACHINI DE ALMEIDA PRADO"
+                 NRO-ID-CNPQ-ORIENTADOR="7340081273816424"
+                 SEQUENCIA-ESTUDANTE="4302911"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3206403860767848"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Allan Kardec de Almeida Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ASTRODINÂMICA DE CORPOS NÃO-ESFÉRICOS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ESTUDO DA PERTURBAÇÃO DE UM TERCEIRO CORPO"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS, L. B. T." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO FERNANDO BERTACHINI DE ALMEIDA PRADO"
+                 NRO-ID-CNPQ-ORIENTADOR="7340081273816424"
+                 SEQUENCIA-ESTUDANTE="3643496"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2800034267415426"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Leonardo Barbosa Torres dos Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ASTRODINÂMICA DE CORPOS NÃO-ESFÉRICOS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia de Posição e Mecânica Celeste</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CONDELES JR, R. A." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="DIOGO MERGUIZO SANCHEZ"
+                 NRO-ID-CNPQ-ORIENTADOR="0303955454425548"
+                 SEQUENCIA-ESTUDANTE="215027"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6040897764008799"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rubens Antonio Condeles Júnior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ASTRODINÂMICA DE CORPOS NÃO-ESFÉRICOS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia Dinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biofísica de Processos e Sistemas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Matemáticos da Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neurociência Computacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6723760110995950"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Aplicação da teoria de controle ótimo ao problema de erros em manobras orbitais. Diversos modelos para a dinamica e ação dos atuadores são considerados."
+                         NOME-DA-LINHA-DE-PESQUISA="ERROS EM MANOBRAS ORBITAIS"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Astrodinâmica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Controle Ótimo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Desalinhamentos dos Propulsores</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Manobras Orbitais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6880903376164690" NOME-COMPLETO="Vivian Martins Gomes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="187231"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5351862393409206" NOME-COMPLETO="Denilson Paulo Souza dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="773007"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7340081273816424"
+                               NOME-COMPLETO="Antonio Fernando Bertachini de Almeida Prado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="9063"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9577967923659176" NOME-COMPLETO="Geraldo Magela Couto Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="307120"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1153243947768055" NOME-COMPLETO="Luís Otávio Marchi"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4605785"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3407366855819403" NOME-COMPLETO="José Batista da Silva Neto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3541027"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0636218258038334" NOME-COMPLETO="Rodolfo Batista Negri"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4285756"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31202012" CODIGO-ESPECIALIDADE="31202012"
+                                  CODIGO-SUB-AREA="31202004"
+                                  CODIGO-AREA="31200001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Trajetórias e Órbitas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Dinâmica de Vôo"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Aeroespacial"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="626"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.61.3" SUBSETOR="Telecomunicações"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6697231493979166"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Pesquisa e desenvolvimento de métodos para o calculo de manobras orbitais de veículos espaciais. Diversos modelos para a dinamica são considerados."
+                         NOME-DA-LINHA-DE-PESQUISA="MANOBRAS ORBITAIS"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Astrodinâmica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Controle Ótimo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Manobras Orbitais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6880903376164690" NOME-COMPLETO="Vivian Martins Gomes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="187231"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5351862393409206" NOME-COMPLETO="Denilson Paulo Souza dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="773007"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4984306916578130" NOME-COMPLETO="Teresinha de Jesus Stuchi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="46611"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6652169083464327" NOME-COMPLETO="Rita de Cássia Domingos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="399789"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7740917144757410" NOME-COMPLETO="Rodolpho Vilhena de Moraes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="103510"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7340081273816424"
+                               NOME-COMPLETO="Antonio Fernando Bertachini de Almeida Prado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="9063"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0009886992977886" NOME-COMPLETO="Claudia Celeste Celestino"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="274392"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1104942016215240" NOME-COMPLETO="Jean Paulo dos Santos Carvalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="855558"
+                               SEQUENCIA-PESQUISADOR="8"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3638759062433933" NOME-COMPLETO="Jorge Kennety Silva Formiga"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="803703"
+                               SEQUENCIA-PESQUISADOR="9"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8615509732444363" NOME-COMPLETO="Flaviane Cristine Faria Venditti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="642064"
+                               SEQUENCIA-PESQUISADOR="10"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2692431039506529" NOME-COMPLETO="Atair Rios Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="103729"
+                               SEQUENCIA-PESQUISADOR="11"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0303955454425548" NOME-COMPLETO="Diogo Merguizo Sanchez"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="832300"
+                               SEQUENCIA-PESQUISADOR="12"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0431896227671743" NOME-COMPLETO="Thais Carneiro Oliveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2500689"
+                               SEQUENCIA-PESQUISADOR="13"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3723081272633405" NOME-COMPLETO="Alexander Sukhanov"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="275535"
+                               SEQUENCIA-PESQUISADOR="14"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9947781822423028" NOME-COMPLETO="Rogerio Deienno"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2076078"
+                               SEQUENCIA-PESQUISADOR="15"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4018426795100782" NOME-COMPLETO="Bruno Victorino Sarli"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="3786639"
+                               SEQUENCIA-PESQUISADOR="16"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1314532963757594" NOME-COMPLETO="Marina Pires de Oliveira Cavalca"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6871017"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9383044566813967"
+                             NOME-COMPLETO="Alessandra Ferraz da Silva Ferreira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3180298"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9339017351596924"
+                             NOME-COMPLETO="Bruna Yukiko Pinheiro Lopes Masago"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2578812"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6445355156602228" NOME-COMPLETO="Guilherme Afonso Siqueli"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3022806"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9577967923659176" NOME-COMPLETO="Geraldo Magela Couto Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="307120"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1153243947768055" NOME-COMPLETO="Luís Otávio Marchi"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4605785"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3407366855819403" NOME-COMPLETO="José Batista da Silva Neto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3541027"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0636218258038334" NOME-COMPLETO="Rodolfo Batista Negri"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4285756"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3206403860767848" NOME-COMPLETO="Allan Kardec de Almeida Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4302911"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2800034267415426"
+                             NOME-COMPLETO="Leonardo Barbosa Torres dos Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3643496"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6040897764008799" NOME-COMPLETO="Rubens Antonio Condeles Júnior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="215027"
+                             SEQUENCIA-ESTUDANTE="11"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31202012" CODIGO-ESPECIALIDADE="31202012"
+                                  CODIGO-SUB-AREA="31202004"
+                                  CODIGO-AREA="31200001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Trajetórias e Órbitas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Dinâmica de Vôo"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Aeroespacial"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="626"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.61.3" SUBSETOR="Telecomunicações"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3995286536323398"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo analítico aproximado da captura gravitacional.Estudo numérico da captura gravitacional."
+                         NOME-DA-LINHA-DE-PESQUISA="CAPTURA GRAVITACIONAL"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Astrodinâmica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Manobras Orbitais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5351862393409206" NOME-COMPLETO="Denilson Paulo Souza dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="773007"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4984306916578130" NOME-COMPLETO="Teresinha de Jesus Stuchi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="46611"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7340081273816424"
+                               NOME-COMPLETO="Antonio Fernando Bertachini de Almeida Prado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="9063"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6263045447941454" NOME-COMPLETO="Carlos Renato Huaura Solórzano"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="274394"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0960024575647258" NOME-COMPLETO="Othon Cabo Winter"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="26755"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2266269802323856" NOME-COMPLETO="Pedro Ivo de Oliveira Brasil"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2078714"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9947781822423028" NOME-COMPLETO="Rogerio Deienno"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2076078"
+                               SEQUENCIA-PESQUISADOR="7"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6445355156602228" NOME-COMPLETO="Guilherme Afonso Siqueli"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3022806"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31200001" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="31200001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Aeroespacial"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="621"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.61.3" SUBSETOR="Telecomunicações"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1041137897329410"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo de uma manobra gravitacionalmente assistida em duas e três dimensões.Estudo, feito com a utilização de métodos numéricos, para obter resultados no problema de determinar o efeito de uma passagem próxima de um corpo celeste, analisada no universo de duas e três dimensões."
+                         NOME-DA-LINHA-DE-PESQUISA="ESTUDO DAS MANOBRAS GRAVITACIONALMENTE ASSISTIDAS"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Astrodinâmica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Manobras Orbitais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">captura gravitacional</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6880903376164690" NOME-COMPLETO="Vivian Martins Gomes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="187231"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5351862393409206" NOME-COMPLETO="Denilson Paulo Souza dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="773007"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7740917144757410" NOME-COMPLETO="Rodolpho Vilhena de Moraes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="103510"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7340081273816424"
+                               NOME-COMPLETO="Antonio Fernando Bertachini de Almeida Prado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="9063"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3638759062433933" NOME-COMPLETO="Jorge Kennety Silva Formiga"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="803703"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3723081272633405" NOME-COMPLETO="Alexander Sukhanov"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="275535"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9383044566813967"
+                             NOME-COMPLETO="Alessandra Ferraz da Silva Ferreira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3180298"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9339017351596924"
+                             NOME-COMPLETO="Bruna Yukiko Pinheiro Lopes Masago"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2578812"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0636218258038334" NOME-COMPLETO="Rodolfo Batista Negri"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4285756"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31200001" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="31200001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Aeroespacial"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="621"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.61.3" SUBSETOR="Telecomunicações"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3983241327348481"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo da perturbação de um terceiro corpo na trajetória de um veículo espacial.Estudo da influência de singularides nas equações de movimento no movimento de veículos espaciais."
+                         NOME-DA-LINHA-DE-PESQUISA="ESTUDO DA PERTURBAÇÃO DE UM TERCEIRO CORPO"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Astrodinâmica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">problema restrito de tres corpos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6652169083464327" NOME-COMPLETO="Rita de Cássia Domingos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="399789"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7740917144757410" NOME-COMPLETO="Rodolpho Vilhena de Moraes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="103510"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7340081273816424"
+                               NOME-COMPLETO="Antonio Fernando Bertachini de Almeida Prado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="9063"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1104942016215240" NOME-COMPLETO="Jean Paulo dos Santos Carvalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="855558"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6263045447941454" NOME-COMPLETO="Carlos Renato Huaura Solórzano"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="274394"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9947781822423028" NOME-COMPLETO="Rogerio Deienno"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2076078"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3206403860767848" NOME-COMPLETO="Allan Kardec de Almeida Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4302911"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31200001" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="31200001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Aeroespacial"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="621"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.61.3" SUBSETOR="Telecomunicações"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8953631162522568"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo astrodinâmico de restos obitais (Space debris)."
+                         NOME-DA-LINHA-DE-PESQUISA="ESTUDO DE DETRITOS ORBITAIS"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Astrodinâmica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">lixo espacial</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7340081273816424"
+                               NOME-COMPLETO="Antonio Fernando Bertachini de Almeida Prado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="9063"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0009886992977886" NOME-COMPLETO="Claudia Celeste Celestino"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="274392"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0960024575647258" NOME-COMPLETO="Othon Cabo Winter"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="26755"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31200001" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="31200001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Aeroespacial"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="621"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.61.3" SUBSETOR="Telecomunicações"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1288194536122053"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo de manobras requeridas para a manutenção de uma constelação de satélites."
+                         NOME-DA-LINHA-DE-PESQUISA="MANOBRAS COM CONSTELAÇÕES DE SATÉLITES"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Astrodinâmica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Controle Ótimo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Manobras Orbitais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5351862393409206" NOME-COMPLETO="Denilson Paulo Souza dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="773007"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7340081273816424"
+                               NOME-COMPLETO="Antonio Fernando Bertachini de Almeida Prado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="9063"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31200001" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="31200001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Aeroespacial"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="621"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.61.3" SUBSETOR="Telecomunicações"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0631906208628449"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo da astrodinâmica básica em torno de corpos não-esféricos. Determinação de órbitas e manobras orbitais em torno desses corpos."
+                         NOME-DA-LINHA-DE-PESQUISA="ASTRODINÂMICA DE CORPOS NÃO-ESFÉRICOS"
+                         SEQUENCIA-LINHA-DE-PESQUISA="8">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Astrodinâmica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Manobras Orbitais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7340081273816424"
+                               NOME-COMPLETO="Antonio Fernando Bertachini de Almeida Prado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="9063"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8615509732444363" NOME-COMPLETO="Flaviane Cristine Faria Venditti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="642064"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0960024575647258" NOME-COMPLETO="Othon Cabo Winter"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="26755"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0303955454425548" NOME-COMPLETO="Diogo Merguizo Sanchez"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="832300"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0431896227671743" NOME-COMPLETO="Thais Carneiro Oliveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2500689"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4018426795100782" NOME-COMPLETO="Bruno Victorino Sarli"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="3786639"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1314532963757594" NOME-COMPLETO="Marina Pires de Oliveira Cavalca"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6871017"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3407366855819403" NOME-COMPLETO="José Batista da Silva Neto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3541027"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3206403860767848" NOME-COMPLETO="Allan Kardec de Almeida Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4302911"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2800034267415426"
+                             NOME-COMPLETO="Leonardo Barbosa Torres dos Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3643496"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6040897764008799" NOME-COMPLETO="Rubens Antonio Condeles Júnior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="215027"
+                             SEQUENCIA-ESTUDANTE="5"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31200001" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="31200001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Aeroespacial"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="621"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.61.3" SUBSETOR="Telecomunicações"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="1293959000886198"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidade Federal do Triângulo Mineiro"
+               NATUREZA-JURIDICA="Autarquia Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="25437484000161"
+               LOCALIDADE="Uberaba"
+               CIDADE="Uberaba"
+               UF="MG"
+               SIGLA-DA-EMPRESA="UFTM"
+               NOME-DA-EMPRESA="Universidade Federal do Triângulo Mineiro"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="7714943670247069"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidade Estadual Paulista Júlio de Mesquita Filho"
+               NATUREZA-JURIDICA="Autarquia Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="48031918000124"
+               LOCALIDADE="Guaratinguetá"
+               CIDADE="Guaratinguetá"
+               UF="SP"
+               SIGLA-DA-EMPRESA="FEG/UNESP/Guarat"
+               NOME-DA-EMPRESA="Faculdade de Engenharia de Guaratinguetá"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="5511876275391183"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidade da Beira Interior"
+               NATUREZA-JURIDICA=""
+               SEGMENTO-ECONOMICO=""
+               CNPJ="EX36406831"
+               LOCALIDADE="Covilhã"
+               CIDADE="Covilhã"
+               UF=""
+               SIGLA-DA-EMPRESA="UBI"
+               NOME-DA-EMPRESA="Universidade da Beira Interior"
+               SEQUENCIA-EMPRESA="2">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="4065804290235013"
+               RAZAO-SOCIAL-DA-EMPRESA="Purdue University"
+               NATUREZA-JURIDICA=""
+               SEGMENTO-ECONOMICO=""
+               CNPJ="EX36453662"
+               LOCALIDADE="West Lafayette"
+               CIDADE="West Lafayette"
+               UF=""
+               SIGLA-DA-EMPRESA="PURDUE"
+               NOME-DA-EMPRESA="Purdue University"
+               SEQUENCIA-EMPRESA="3">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="2549929750764049"
+               RAZAO-SOCIAL-DA-EMPRESA="Technische Universiteit Delft - Technical University of Delft"
+               NATUREZA-JURIDICA=""
+               SEGMENTO-ECONOMICO=""
+               CNPJ="EX36459881"
+               LOCALIDADE="Delft"
+               CIDADE="Delft"
+               UF=""
+               SIGLA-DA-EMPRESA="TU DELFT"
+               NOME-DA-EMPRESA="Delft University of Technology"
+               SEQUENCIA-EMPRESA="4">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="6100410604378084"
+               RAZAO-SOCIAL-DA-EMPRESA="Centro Federal de Educação Tecnológica de Minas Gerais"
+               NATUREZA-JURIDICA="Autarquia Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="17220203000196"
+               LOCALIDADE="Belo Horizonte"
+               CIDADE="Belo Horizonte"
+               UF="MG"
+               SIGLA-DA-EMPRESA="CEFET/MG"
+               NOME-DA-EMPRESA="Centro Federal de Educação Tecnológica de Minas Gerais"
+               SEQUENCIA-EMPRESA="5">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="3174201013122191"
+               RAZAO-SOCIAL-DA-EMPRESA="Université McGill"
+               NATUREZA-JURIDICA=""
+               SEGMENTO-ECONOMICO=""
+               CNPJ="EX36453689"
+               LOCALIDADE="Montreal"
+               CIDADE="Montreal"
+               UF=""
+               SIGLA-DA-EMPRESA="MCGILL "
+               NOME-DA-EMPRESA="McGill University"
+               SEQUENCIA-EMPRESA="6">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="8047107216777263" RAZAO-SOCIAL-DA-EMPRESA=""
+               NATUREZA-JURIDICA="Autarquia Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="48031918000124"
+               LOCALIDADE="Rio Claro"
+               CIDADE="Rio Claro"
+               UF="SP"
+               SIGLA-DA-EMPRESA="UNESP/RIO CLARO"
+               NOME-DA-EMPRESA="Instituto de Geociências e Ciências Exatas de Rio Claro"
+               SEQUENCIA-EMPRESA="7">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="9165685631066343"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidade do Minho"
+               NATUREZA-JURIDICA=""
+               SEGMENTO-ECONOMICO=""
+               CNPJ="EX36456580"
+               LOCALIDADE="Braga"
+               CIDADE="Braga"
+               UF=""
+               SIGLA-DA-EMPRESA="UMINHO"
+               NOME-DA-EMPRESA="Universidade do Minho"
+               SEQUENCIA-EMPRESA="8">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="11032016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2266269802323856"
+               NOME-DO-EGRESSO="Pedro Ivo de Oliveira Brasil"/>
+      <EGRESSO DATA-SAIDA="11032016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0303955454425548"
+               NOME-DO-EGRESSO="Diogo Merguizo Sanchez"/>
+      <EGRESSO DATA-SAIDA="19092016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0431896227671743"
+               NOME-DO-EGRESSO="Thais Carneiro Oliveira"/>
+      <EGRESSO DATA-SAIDA="11032016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0303955454425548"
+               NOME-DO-EGRESSO="Diogo Merguizo Sanchez"/>
+      <EGRESSO DATA-SAIDA="11032016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2266269802323856"
+               NOME-DO-EGRESSO="Pedro Ivo de Oliveira Brasil"/>
+      <EGRESSO DATA-SAIDA="19092016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0431896227671743"
+               NOME-DO-EGRESSO="Thais Carneiro Oliveira"/>
+      <EGRESSO DATA-SAIDA="19092016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0431896227671743"
+               NOME-DO-EGRESSO="Thais Carneiro Oliveira"/>
+      <EGRESSO DATA-SAIDA="11032016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2266269802323856"
+               NOME-DO-EGRESSO="Pedro Ivo de Oliveira Brasil"/>
+      <EGRESSO DATA-SAIDA="11032016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0303955454425548"
+               NOME-DO-EGRESSO="Diogo Merguizo Sanchez"/>
+      <EGRESSO DATA-SAIDA="19092016" DATA-ENTRADA="18112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0431896227671743"
+               NOME-DO-EGRESSO="Thais Carneiro Oliveira"/>
+      <EGRESSO DATA-SAIDA="11032016" DATA-ENTRADA="18112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0303955454425548"
+               NOME-DO-EGRESSO="Diogo Merguizo Sanchez"/>
+      <EGRESSO DATA-SAIDA="11032016" DATA-ENTRADA="18112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2266269802323856"
+               NOME-DO-EGRESSO="Pedro Ivo de Oliveira Brasil"/>
+      <EGRESSO DATA-SAIDA="19092016" DATA-ENTRADA="11032016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0431896227671743"
+               NOME-DO-EGRESSO="Thais Carneiro Oliveira"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="3760391085157717"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="210519"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="26102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="7968586390788673" CODIGO-AREA-PREDOMINANTE="10500006"
+                           NOME-DA-UNIDADE="Departamento de Eletrônica Quântica"
+                           NOME-DO-ORGAO="Departamento de Eletrônica Quântica"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SP"
+                           SIGLA-DA-INSTITUICAO="UNICAMP"
+                           NOME-DA-INSTITUICAO="Universidade Estadual de Campinas"
+                           AREA-PREDOMINANTE="Física"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="1973"
+                           NOME-DO-GRUPO="Grupo de Óptica Quântica">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="2126904917825415" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Jose Antonio Roversi"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="5572050278838550" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Antonio Vidiella Barranco"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3509502" DDDFAX="19"
+                                       LONGITUDE="-47.06822009999996"
+                                       LATITUDE="-22.8171061"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Campinas"
+                                       NUMERO="777"
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="Cidade Universitaria"
+                                       HOME-PAGE="http://www.ifi.unicamp.br/goq"
+                                       E-MAIL="roversi@ifi.unicamp.br"
+                                       FAX="35215427"
+                                       RAMAL=""
+                                       TELEFONE="35215440"
+                                       DDD="19"
+                                       CEP="13083859"
+                                       CIDADE="Campinas"
+                                       UF="SP"
+                                       BAIRRO="Barão Geraldo"/>
+      <REPERCUSSOES>Eletrodinâmica Quântica de Cavidades e sistemas acoplados: Apresentamos propostas e métodos de geração de novos tipos de estados não clássicos da luz baseados em estados coerentes (do tipo "cluster"), que poderiam ser usados em esquemas de processamento quântico de informação. Trabalhamos em redes de cavidades acopladas contendo átomos e íons aprisionados, sistemas optomecânicos, assim como em anéis ressonadores, focando na transferência de estados quânticos e no emaranhamento. Investigamos o papel de instabilidades nas correlações assim como o papel do ruído térmico (efeito da temperatura) no emaranhamento em sistemas simples acoplados. Distribuição quântica de chaves para criptografia: Temos trabalhado em protocolos baseados em estados não-Gaussianos, e provamos ser possível a geração de uma chave criptográfica para distâncias maiores do que seria possível com estados coerentes.</REPERCUSSOES>
+      <REDES-DE-PESQUISA>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="INCT-IQ"
+                           URL-DA-REDE-DE-PESQUISA="http://www.ifi.unicamp.br/inctiq/"
+                           NOME-DA-REDE-DE-PESQUISA="INCT INFORMAÇÃO QUÂNTICA"/>
+      </REDES-DE-PESQUISA>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="Vidiella-Barranco A;VidiellaBarranco A;Barranco AV"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5572050278838550"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Antonio Vidiella Barranco">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Quântica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria  da informação quântica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Dinâmica  de íons aprisionados interagindo com lasers"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas optomecânicos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estados não clássicos da luz e sua interação com a matéria"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconstrução de Estados  Quânticos da Luz  e Íons Aprisionados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Perda de coerência e dissipação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Atômica e Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informação quântica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Óptica quântica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ROVERSI, J. A.;Roversi, J. A." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2126904917825415"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Jose Antonio Roversi">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Quântica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Dinâmica  de íons aprisionados interagindo com lasers"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria  da informação quântica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Criptografia Quântica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cavidades em anel"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estados não clássicos da luz e sua interação com a matéria"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Reconstrução de Estados  Quânticos da Luz  e Íons Aprisionados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Perda de coerência e dissipação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="8"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física da Matéria Condensada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ótica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Prop. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part.</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="NOHAMA, F. K.;Nohama, F K" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2977110651420311"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fabiano Kenji Nohama">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Dinâmica  de íons aprisionados interagindo com lasers"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Perda de coerência e dissipação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Caos em Sistemas Quânticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Clássica e Física Quântica; Mecânica e Campos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Óptica Quântica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SOUZA, Douglas D.;DELGADO DE SOUZA, DOUGLAS"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2913803245238691"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Douglas Delgado de Souza">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria  da informação quântica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Quantum Cryptography</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Quantum Information and Quantum Computation</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Quantum Optics</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="RODRIGUEZ, R. C." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOSE ANTONIO ROVERSI"
+                 NRO-ID-CNPQ-ORIENTADOR="2126904917825415"
+                 SEQUENCIA-ESTUDANTE="4643470"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0041562889353525"
+                 PAIS-DE-NASCIMENTO="COL"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Reember Cano Rodriguez">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Cavidades em anel"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Perda de coerência e dissipação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CORRÊA, C." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO VIDIELLA BARRANCO"
+                 NRO-ID-CNPQ-ORIENTADOR="5572050278838550"
+                 SEQUENCIA-ESTUDANTE="563546"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5772188406380416"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Clóvis Corrêa Júnior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas optomecânicos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informação Quântica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Óptica Quântica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Gonzalez .J.C;Gonzalez-Henao J.C.;GONZALEZ-HENAO, J. C.;HENAO, JULIO CESAR GONZALEZ;GONZALEZ HENAO, JULIO CESAR"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOSE ANTONIO ROVERSI"
+                 NRO-ID-CNPQ-ORIENTADOR="2126904917825415"
+                 SEQUENCIA-ESTUDANTE="3206554"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9557041144230942"
+                 PAIS-DE-NASCIMENTO="COL"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Julio César González Henao">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Dinâmica  de íons aprisionados interagindo com lasers"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dynamics systems</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física da Matéria Condensada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Open quantum system</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Quantum optics</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ROQUE, T. F.;ROQUE, T. FIGUEIREDO;FIGUEIREDO ROQUE, T."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO VIDIELLA BARRANCO"
+                 NRO-ID-CNPQ-ORIENTADOR="5572050278838550"
+                 SEQUENCIA-ESTUDANTE="2533048"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6448748987447170"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Thales Figueiredo Roque">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Perda de coerência e dissipação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="AGUIAR, L. S.;Aguiar, L.;Aguiar, L S"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOSE ANTONIO ROVERSI"
+                 NRO-ID-CNPQ-ORIENTADOR="2126904917825415"
+                 SEQUENCIA-ESTUDANTE="161148"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5279768181331155"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Leandro da Silva Aguiar">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Quântica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria  da informação quântica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Criptografia Quântica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Atômica e Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Optica Quantica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria de Informação Quântica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BORELLI, L. F. M." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO VIDIELLA BARRANCO"
+                 NRO-ID-CNPQ-ORIENTADOR="5572050278838550"
+                 SEQUENCIA-ESTUDANTE="448359"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4966886389062243"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luís Fernando Mollica Borelli">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria  da informação quântica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Criptografia Quântica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Clássica e Física Quântica; Mecânica e Campos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOUSA, E. H. S.;HENRIQUE,E. S. S."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOSE ANTONIO ROVERSI"
+                 NRO-ID-CNPQ-ORIENTADOR="2126904917825415"
+                 SEQUENCIA-ESTUDANTE="3861415"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8798262952163248"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Emilio Henrique dos Santos Sousa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Teoria  da informação quântica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física da Matéria Condensada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Optica Quântica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7469594342624027"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Ciência fundamental"
+                         NOME-DA-LINHA-DE-PESQUISA="Dinâmica  de íons aprisionados interagindo com lasers"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Propriedades não-clássicas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Íons aprisionados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">emaranhamento</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5572050278838550" NOME-COMPLETO="Antonio Vidiella Barranco"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="23957"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2126904917825415" NOME-COMPLETO="Jose Antonio Roversi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="22028"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2977110651420311" NOME-COMPLETO="Fabiano Kenji Nohama"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="434930"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9557041144230942" NOME-COMPLETO="Julio César González Henao"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3206554"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10507167" CODIGO-ESPECIALIDADE="10507167"
+                                  CODIGO-SUB-AREA="10507000"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Prop. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part."
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física da Matéria Condensada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="142"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8775868808374944"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Ciência Fundamental"
+                         NOME-DA-LINHA-DE-PESQUISA="Estados não clássicos da luz e sua interação com a matéria"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Óptica Quântica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Estados Comprimidos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Geração de Estados Quânticos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5572050278838550" NOME-COMPLETO="Antonio Vidiella Barranco"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="23957"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2126904917825415" NOME-COMPLETO="Jose Antonio Roversi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="22028"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10502025" CODIGO-ESPECIALIDADE="10502025"
+                                  CODIGO-SUB-AREA="10502009"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Ótica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Áreas Clássicas de Fenomenologia e suas Aplicações"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="99"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5948373501878925"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo do efeito de decoerências em protocolos de comunicação quântica."
+                         NOME-DA-LINHA-DE-PESQUISA="Reconstrução de Estados  Quânticos da Luz  e Íons Aprisionados"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Estados não-clássicos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Função de Wigner</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">íons aprisionados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">perda de coerência</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5572050278838550" NOME-COMPLETO="Antonio Vidiella Barranco"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="23957"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2126904917825415" NOME-COMPLETO="Jose Antonio Roversi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="22028"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10505067" CODIGO-ESPECIALIDADE="10505067"
+                                  CODIGO-SUB-AREA="10505008"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Estudos de Átomos e Moléculas Especiais"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Atômica e Molecular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="122"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10502025" CODIGO-ESPECIALIDADE="10502025"
+                                  CODIGO-SUB-AREA="10502009"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Ótica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Áreas Clássicas de Fenomenologia e suas Aplicações"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="99"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4158576876942798"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo de fenômemos  da física básica de sistemas microscópicos"
+                         NOME-DA-LINHA-DE-PESQUISA="Perda de coerência e dissipação"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Perda de coerência</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Dissipação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5572050278838550" NOME-COMPLETO="Antonio Vidiella Barranco"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="23957"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2126904917825415" NOME-COMPLETO="Jose Antonio Roversi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="22028"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2977110651420311" NOME-COMPLETO="Fabiano Kenji Nohama"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="434930"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0041562889353525" NOME-COMPLETO="Reember Cano Rodriguez"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4643470"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6448748987447170" NOME-COMPLETO="Thales Figueiredo Roque"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2533048"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10501029" CODIGO-ESPECIALIDADE="10501029"
+                                  CODIGO-SUB-AREA="10501002"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Física Clássica e Física Quântica; Mecânica e Campos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Geral"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="92"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10502025" CODIGO-ESPECIALIDADE="10502025"
+                                  CODIGO-SUB-AREA="10502009"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Ótica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Áreas Clássicas de Fenomenologia e suas Aplicações"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="99"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2542549197729844"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Ciência Básica com objetivos no desenvolviemnto de algoritmos lógicos quânticos para utilização prática em criptografia quântica."
+                         NOME-DA-LINHA-DE-PESQUISA="Teoria  da informação quântica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Teoria de Informação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Computação Quântica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Entropia Generalizada</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5572050278838550" NOME-COMPLETO="Antonio Vidiella Barranco"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="23957"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2126904917825415" NOME-COMPLETO="Jose Antonio Roversi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="22028"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2913803245238691" NOME-COMPLETO="Douglas Delgado de Souza"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2075128"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5279768181331155" NOME-COMPLETO="Leandro da Silva Aguiar"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="161148"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4966886389062243" NOME-COMPLETO="Luís Fernando Mollica Borelli"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="448359"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8798262952163248" NOME-COMPLETO="Emilio Henrique dos Santos Sousa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3861415"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10501029" CODIGO-ESPECIALIDADE="10501029"
+                                  CODIGO-SUB-AREA="10501002"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Física Clássica e Física Quântica; Mecânica e Campos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Geral"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="92"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10502025" CODIGO-ESPECIALIDADE="10502025"
+                                  CODIGO-SUB-AREA="10502009"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Ótica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Áreas Clássicas de Fenomenologia e suas Aplicações"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="99"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3663148543171659"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Ciência Básica com objetivos no desenvolviemnto de portas lógicas para utilização prática em computadores."
+                         NOME-DA-LINHA-DE-PESQUISA="Computação Quântica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">qubits</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">quantum logic gate</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5572050278838550" NOME-COMPLETO="Antonio Vidiella Barranco"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="23957"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2126904917825415" NOME-COMPLETO="Jose Antonio Roversi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="22028"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5279768181331155" NOME-COMPLETO="Leandro da Silva Aguiar"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="161148"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10507167" CODIGO-ESPECIALIDADE="10507167"
+                                  CODIGO-SUB-AREA="10507000"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Prop. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part."
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física da Matéria Condensada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="142"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2192802256545960"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento, tanto do ponto de vista teórico como experimental, de algorítmos de distribuição quânticas de chaves usando luzes coerentes."
+                         NOME-DA-LINHA-DE-PESQUISA="Criptografia Quântica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">chaves quânticas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">distribuição quânticas de chaves</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">criptografia quântica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2126904917825415" NOME-COMPLETO="Jose Antonio Roversi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="22028"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5279768181331155" NOME-COMPLETO="Leandro da Silva Aguiar"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="161148"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4966886389062243" NOME-COMPLETO="Luís Fernando Mollica Borelli"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="448359"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10507167" CODIGO-ESPECIALIDADE="10507167"
+                                  CODIGO-SUB-AREA="10507000"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Prop. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part."
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física da Matéria Condensada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="142"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.63"
+                                SUBSETOR="Atividades de prestação de serviços de informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0515513626638511"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Investigação de osciladores massivos no regime quântico (por exemplo, cavidade com uma parede móvel) acoplados ao campo eletromagnético quantizado."
+                         NOME-DA-LINHA-DE-PESQUISA="Sistemas optomecânicos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="8">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">pressão de radiação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">cavidades oscilantes</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">campo quantizado</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5572050278838550" NOME-COMPLETO="Antonio Vidiella Barranco"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="23957"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5772188406380416" NOME-COMPLETO="Clóvis Corrêa Júnior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="563546"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10501029" CODIGO-ESPECIALIDADE="10501029"
+                                  CODIGO-SUB-AREA="10501002"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Física Clássica e Física Quântica; Mecânica e Campos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Geral"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="92"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0419786102775438"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="emaranhamento de sistemas atômicos ligados a diferentes cavidades em anel."
+                         NOME-DA-LINHA-DE-PESQUISA="Cavidades em anel"
+                         SEQUENCIA-LINHA-DE-PESQUISA="9">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">cavidades ópticas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">anéis ressonadores</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2126904917825415" NOME-COMPLETO="Jose Antonio Roversi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="22028"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0041562889353525" NOME-COMPLETO="Reember Cano Rodriguez"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4643470"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10505008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10505008"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Otica quantica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Atômica e Molecular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="116"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="0602123609080555"
+               RAZAO-SOCIAL-DA-EMPRESA="Istituto Nazionale di Ottica"
+               NATUREZA-JURIDICA=""
+               SEGMENTO-ECONOMICO=""
+               CNPJ=""
+               LOCALIDADE="Florence"
+               CIDADE="Florence"
+               UF=""
+               SIGLA-DA-EMPRESA="INO"
+               NOME-DA-EMPRESA="Istituto Nazionale di Ottica"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="17">Transferência física temporária de recursos humanos do grupo para as atividades do parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="26102016" DATA-ENTRADA="19022013"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2913803245238691"
+               NOME-DO-EGRESSO="Douglas Delgado de Souza"/>
+      <EGRESSO DATA-SAIDA="26102016" DATA-ENTRADA="30102014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2913803245238691"
+               NOME-DO-EGRESSO="Douglas Delgado de Souza"/>
+      <EGRESSO DATA-SAIDA="26102016" DATA-ENTRADA="31102014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2913803245238691"
+               NOME-DO-EGRESSO="Douglas Delgado de Souza"/>
+      <EGRESSO DATA-SAIDA="26102016" DATA-ENTRADA="31102014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2913803245238691"
+               NOME-DO-EGRESSO="Douglas Delgado de Souza"/>
+      <EGRESSO DATA-SAIDA="26102016" DATA-ENTRADA="03112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2913803245238691"
+               NOME-DO-EGRESSO="Douglas Delgado de Souza"/>
+      <EGRESSO DATA-SAIDA="26102016" DATA-ENTRADA="04112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2913803245238691"
+               NOME-DO-EGRESSO="Douglas Delgado de Souza"/>
+      <EGRESSO DATA-SAIDA="26102016" DATA-ENTRADA="05112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2913803245238691"
+               NOME-DO-EGRESSO="Douglas Delgado de Souza"/>
+      <EGRESSO DATA-SAIDA="26102016" DATA-ENTRADA="08122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2913803245238691"
+               NOME-DO-EGRESSO="Douglas Delgado de Souza"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

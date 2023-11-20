@@ -1,0 +1,1768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="8654417088564460"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="225157"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="08102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="6335616297186751" CODIGO-AREA-PREDOMINANTE="30100003"
+                           NOME-DA-UNIDADE="Departamento de Engenharia Civil"
+                           NOME-DO-ORGAO="Departamento de Engenharia Civil"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="PE"
+                           SIGLA-DA-INSTITUICAO="UFPE"
+                           NOME-DA-INSTITUICAO="Universidade Federal de Pernambuco"
+                           AREA-PREDOMINANTE="Engenharia Civil"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="2003"
+                           NOME-DO-GRUPO="Laboratório de Métodos Computacionais em Geomecânica - LMCG">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="3821425977868488" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Leonardo José do Nascimento Guimarães"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="7454305406070791" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Igor Fernandes Gomes"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="2611606" DDDFAX="81"
+                                       LONGITUDE="-34.95436951518059"
+                                       LATITUDE="-8.053213848658439"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Recife"
+                                       NUMERO="DECIV"
+                                       COMPLEMENTO="Centro de Tecnologia e Geociencias - Laboratório de Solos"
+                                       LOGRADOURO="Av. Acadêmico Hélio Ramos, S/N"
+                                       HOME-PAGE="http://www.lmcg.ufpe.br/"
+                                       E-MAIL="leonardo@ufpe.br"
+                                       FAX="21268222"
+                                       RAMAL=""
+                                       TELEFONE="21268224"
+                                       DDD="81"
+                                       CEP="50740530"
+                                       CIDADE="Recife"
+                                       UF="PE"
+                                       BAIRRO="Cidade Universitária"/>
+      <REPERCUSSOES>O Laboratório de Métodos Computacionais em Geomecânica iniciou suas atividades em 2003 e tem sido referência em pesquisa e consultoria para empresas de engenharia, especificamente nas áreas de riscos ambientais na extração de recursos minerais, além da obtenção de financiamento por agências de formentos.Sua principal linha de pesquisa tem sido a modelagem numérica de fenômenos acoplados (multi-física) em meios porosos aplicada às Engenharias de Petróleo e de Meio Ambiente. O grupo desenvolve programas de elementos finitos capazes de resolver simultaneamente os problemas termo-hidro-mecânico e geoquímico, onde vários níveis de acoplamento são permitidos, inclusive o totalmente implícito via Newton-Raphson. O grupo tem grande experiência na modelagem constitutiva do comportamento tensão-deformação dos solos (saturados e não saturados) e rochas (salinas, frágeis e argilosas).</REPERCUSSOES>
+      <REDES-DE-PESQUISA>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="SIGER" URL-DA-REDE-DE-PESQUISA=""
+                           NOME-DA-REDE-DE-PESQUISA="SIMULAÇÃO E GERENCIAMENTO DE RESERVATÓRIOS - PETROBRAS"/>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="CARMOD" URL-DA-REDE-DE-PESQUISA=""
+                           NOME-DA-REDE-DE-PESQUISA="CARACTERIZAÇÃO E MODELAGEM DE RESERVATÓRIOS - PETROBRAS"/>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="CMG Foundation"
+                           URL-DA-REDE-DE-PESQUISA="http://www.foundationcmg.com/index.php/research/research-partners"
+                           NOME-DA-REDE-DE-PESQUISA="INDUSTRIAL CHAIRS ON RESERVOIR SIMULATION"/>
+      </REDES-DE-PESQUISA>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="GOMES, I. F." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7454305406070791"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Igor Fernandes Gomes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da Integridade Geomecânica e Geoquímica de Formações Geológicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formulações Especiais do Método dos Elementos Finitos para a Modelagem do Fraturamento Hidráulico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Geomecânica de Meios Naturalmente Fraturados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fundações e Escavações</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geotécnica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Materiais e Componentes de Construção</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas das Rochas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas dos Solos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GUIMARÃES, L. do N.;Guimarães, Leonardo José do Nascimento;Guimarães, L.;GUIMARÃES, LEONARDO J.N."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3821425977868488"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Leonardo José do Nascimento Guimarães">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da Integridade Geomecânica e Geoquímica de Formações Geológicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formulações Especiais do Método dos Elementos Finitos para a Modelagem do Fraturamento Hidráulico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo do Comportamento de Solos Colapsíveis e Expansivos: Efeitos Químicos e Fissuras por Dissecação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Geomecânica de Meios Naturalmente Fraturados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Acoplada Termo-Hidro-Mecânica e Geoquímica (THMG) em Meios Porosos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Comportamento de Solos Não Saturados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fraturamento Hidráulico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geomecânica Computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Solos e das Rochas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem Constitutiva de Solos e Rochas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="A., LIMA" TITULACAO-MAXIMA="Doutorado" SEQUENCIA-PESQUISADOR="2"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0361299056344154"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Analice França Lima Amorim">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da Integridade Geomecânica e Geoquímica de Formações Geológicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo do Comportamento de Solos Colapsíveis e Expansivos: Efeitos Químicos e Fissuras por Dissecação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Armazenamento geológico profundo de resíduos radiativos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensaios de laboratório em solos e rochas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geomecânica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geotécnica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas dos Solos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="HOROWITZ, B.;HOROWITZ, B;Horowitz, Bernardo;Bernardo Horowitz"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4821122371021903"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Bernardo Horowitz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estruturas de Concreto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estruturas Metálicas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FIRMO, Alessandra Lee Barbosa" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="F"
+                   NRO-ID-CNPQ="2847904182166714"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Alessandra Lee Barbosa Firmo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da Integridade Geomecânica e Geoquímica de Formações Geológicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geotécnica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gestão Ambiental</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Resíduos Sólidos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Técnicas Convencionais em Tratamento de Efluentes</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="COSTA, L. M.;LÍCIA MOUTA COSTA;LICIA MOUTA COSTA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="F"
+                   NRO-ID-CNPQ="5361457935042088"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Lícia Mouta da Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da Integridade Geomecânica e Geoquímica de Formações Geológicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo do Comportamento de Solos Colapsíveis e Expansivos: Efeitos Químicos e Fissuras por Dissecação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formulações Especiais do Método dos Elementos Finitos para a Modelagem do Fraturamento Hidráulico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fundações e Escavações</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas dos Solos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Numéricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Obras de Terra e Enrocamento</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Solos Não Saturados</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MANZOLI, O. L.;MANZOLI, O.;Manzoli, O.L.;MANZOLI, OSVALDO L."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7901652737291917"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Osvaldo Luís Manzoli">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formulações Especiais do Método dos Elementos Finitos para a Modelagem do Fraturamento Hidráulico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo do Comportamento de Solos Colapsíveis e Expansivos: Efeitos Químicos e Fissuras por Dissecação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Geomecânica de Meios Naturalmente Fraturados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Tensões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Estruturas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Corpos Sólidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MURAD, M.A.;Murad, Márcio A.;MURAD, MARCIO A.;murad m.a.;Márcio A. Murad;MÀRCIO A.  MURAD;MURAD, MARCIO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1392335366884977"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcio Arab Murad">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Geomecânica de Meios Naturalmente Fraturados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fenômenos de Transporte</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Corpos Sólidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Fluídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas das Rochas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas dos Solos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Princípios Variacionais e Métodos Numéricos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SEIXAS, M. G." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3730500288125594"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcela Gomes Seixas">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formulações Especiais do Método dos Elementos Finitos para a Modelagem do Fraturamento Hidráulico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Geomecânica de Meios Naturalmente Fraturados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ánalise e Simulação Numérica do comportamento dos solos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geotécnica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas dos Solos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem e Simulação Numérica de Reservatórios de Petróleo</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="TEIXEIRA, J. C.;Teixeira, J.C." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2372591257623213"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Jonathan da Cunha Teixeira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da Integridade Geomecânica e Geoquímica de Formações Geológicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Geomecânica de Meios Naturalmente Fraturados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geomecânica Computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem e Simulação Numérica de Reservatórios</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Petróleo e Petroquímica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Simulação e Controle de Processos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SILVA, I. J. M." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2691137733899844"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Inaldo José Minervino da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geomecânica de Poços de Petróleo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geotécnica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lavra de Mina Subterrânea</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LINS, C. M. M. S." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="11"
+                   SEXO="F"
+                   NRO-ID-CNPQ="4861195143983172"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Cecilia Maria Mota Silva Lins">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da Integridade Geomecânica e Geoquímica de Formações Geológicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo do Comportamento de Solos Colapsíveis e Expansivos: Efeitos Químicos e Fissuras por Dissecação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geotecnia Ambiental</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Interação Rocha-Fuido</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Solos e Rochas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Melhoramento de Solos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BESERRA, Leila Brunet de Sá;BESERRA, L. B .S.;BESERRA, LEILA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="12"
+                   SEXO="F"
+                   NRO-ID-CNPQ="7548008171354094"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Leila Brunet de Sá Beserra">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formulações Especiais do Método dos Elementos Finitos para a Modelagem do Fraturamento Hidráulico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Geomecânica de Meios Naturalmente Fraturados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geomecânica de Reservatórios de Petróleo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geotécnica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas das Rochas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas dos Solos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FERNANDES, J. P. V." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="13"
+                   SEXO="F"
+                   NRO-ID-CNPQ="7379344775155852"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Julliana de Paiva Valadares Fernandes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Geomecânica de Meios Naturalmente Fraturados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geotécnica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas das Rochas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas dos Solos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="SOUZA, J. A." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="IGOR FERNANDES GOMES"
+                 NRO-ID-CNPQ-ORIENTADOR="7454305406070791"
+                 SEQUENCIA-ESTUDANTE="2342178"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6261172382142959"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Jose Andro de Souza">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Produção</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Zuleta, A.M" NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="5943455"
+                 SEXO="F"
+                 NRO-ID-CNPQ="5787442651776502"
+                 PAIS-DE-NASCIMENTO="COL"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Aura María Zuleta Gómez">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Geomecânica de Meios Naturalmente Fraturados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Formation Damage</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Simulação e Gerenciamento de Reservatórios de Petróleo</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, L. V. M." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="4434578"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3239088236416834"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lucíolo Victor Magalhães e Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Concreto Colorido de Alto Desempenho</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Concreto Leve de Alto Desempenho</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Reservatórios de Petróleo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Estrutural</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Numéricos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, T. A." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="5592565"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1395921486235071"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Tarcisio Augusto da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formulações Especiais do Método dos Elementos Finitos para a Modelagem do Fraturamento Hidráulico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, J. P. S."
+                 NIVEL-DE-TREINAMENTO="Ensino Profissional de nível técnico"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="IGOR FERNANDES GOMES"
+                 NRO-ID-CNPQ-ORIENTADOR="7454305406070791"
+                 SEQUENCIA-ESTUDANTE="3773521"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6323713175660367"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Jefferson Pedro dos Santos Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Geomecânica de Meios Naturalmente Fraturados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVEIRA, N.R.S." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="2159289"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6936232716322659"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Nina Rosa dos Santos Silveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geotecnia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas das Rochas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas dos Solos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Petróleo e Petroquímica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, I. M. P." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="830472"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4207851429578248"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Isabel Mendes Pereira da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo do Comportamento de Solos Colapsíveis e Expansivos: Efeitos Químicos e Fissuras por Dissecação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MELO, D. A. F." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="5190646"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9068133975222089"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Daniel Araújo Farias de Melo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da Integridade Geomecânica e Geoquímica de Formações Geológicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Construção Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geotecnia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LIMA, M. P.;M.P.LIMA;PINHEIRO, M." NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="151139"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4773319915734878"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marinesio Pinheiro de Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lavra a Céu Aberto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lavra de Mina Subterrânea</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Rochas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="JUCÁ, M. C. C." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="5079378"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8123091456277487"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Maria Cecilia Cavalcanti Jucá">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da Integridade Geomecânica e Geoquímica de Formações Geológicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, A. D." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="3065651"
+                 SEXO="F"
+                 NRO-ID-CNPQ="5263303234554540"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Aline Dantas de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da Integridade Geomecânica e Geoquímica de Formações Geológicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Passos, K" NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="BERNARDO HOROWITZ"
+                 NRO-ID-CNPQ-ORIENTADOR="4821122371021903"
+                 SEQUENCIA-ESTUDANTE="6467207"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8988156762100375"
+                 PAIS-DE-NASCIMENTO="COL"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Kewin Passos Granados">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Caracterizaçao de fluidos de reservorios</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Produção de petréleo</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ALENCAR, M. L." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Mestrado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="IGOR FERNANDES GOMES"
+                 NRO-ID-CNPQ-ORIENTADOR="7454305406070791"
+                 SEQUENCIA-ESTUDANTE="4657407"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6754097944411890"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Márcio Lima Alencar">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Geomecânica de Meios Naturalmente Fraturados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estratigrafia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geologia Estrutural</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sedimentologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COSTA, I. K. A." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="IGOR FERNANDES GOMES"
+                 NRO-ID-CNPQ-ORIENTADOR="7454305406070791"
+                 SEQUENCIA-ESTUDANTE="5998474"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2039220388372513"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ially Kimberly de Arruda Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CISNEROS, O. S. M." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="5590923"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2708264864319695"
+                 PAIS-DE-NASCIMENTO="PER"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Oscar Simón Melgar Cisneros">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MACIEL, B. M. C. M." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="4179494"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0569755306236902"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruno Marcelo Canabarro Machado Maciel">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formulações Especiais do Método dos Elementos Finitos para a Modelagem do Fraturamento Hidráulico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Agrícola</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="VIEIRA, K. N." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="4083564"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6385089055531684"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Karinne do Nascimento Vieira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da Integridade Geomecânica e Geoquímica de Formações Geológicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Materiais e Metalúrgica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="JUSCAMAYTA, V.E.A" NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="IGOR FERNANDES GOMES"
+                 NRO-ID-CNPQ-ORIENTADOR="7454305406070791"
+                 SEQUENCIA-ESTUDANTE="4722198"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7152594360339982"
+                 PAIS-DE-NASCIMENTO="PER"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Victor Ernesto Alejo Juscamayta">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BERRIO, L. A.;Alvarez, L.L.;ALVAREZ, L. L.;Alvarez, Leidy Laura"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="6679857"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1505861193639494"
+                 PAIS-DE-NASCIMENTO="COL"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Leidy Laura Álvarez Berrío">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Geomecânica de Meios Naturalmente Fraturados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CIRILO, S. P. C." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="6287555"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4977490558308115"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Sajan Prya Correia Cirilo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Estruturas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ACIOLI, N. T. B." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="3801145"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9570402246716566"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Nayara Torres Belfort Acioli">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formulações Especiais do Método dos Elementos Finitos para a Modelagem do Fraturamento Hidráulico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="JOSEPH, J.B.J" NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="5338536"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0456933468707806"
+                 PAIS-DE-NASCIMENTO="HTI"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Jean Baptiste Joseph">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formulações Especiais do Método dos Elementos Finitos para a Modelagem do Fraturamento Hidráulico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Dinâmica das Estruturas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Reservatórios de Petróleo.</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Estrutural</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica das Estruturas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas das Rochas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Numéricos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS, R. F. V. C.;SANTOS, RAFAEL F.V.C."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="IGOR FERNANDES GOMES"
+                 NRO-ID-CNPQ-ORIENTADOR="7454305406070791"
+                 SEQUENCIA-ESTUDANTE="2554840"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9742846935030833"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rafael Fernandes Vieira Correia Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Geomecânica de Meios Naturalmente Fraturados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geotécnica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, R. W." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="3033566"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3478186514418475"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ricardo Wanderley de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formulações Especiais do Método dos Elementos Finitos para a Modelagem do Fraturamento Hidráulico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Construção Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Petróleo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estruturas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estruturas de Concreto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ARAÚJO, A. I. P." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="2746487"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0136570433047650"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ana Itamara Paz de Araújo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Geomecânica de Meios Naturalmente Fraturados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geodésia Geométrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geometria Diferencial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Lógica Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>SIMULAÇÃO E GERENCIAMENTO DE RESERVATÓRIOS DE PETRÓLEO</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GALINDO, K. B. T." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="3998987"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3478744823025762"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Katia Botelho Torres Galindo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da Integridade Geomecânica e Geoquímica de Formações Geológicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciências Ambientais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, S. M. F." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="245804"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9655421755370182"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Shirley Minnell Ferreira de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da Integridade Geomecânica e Geoquímica de Formações Geológicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Civil</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>gerência de pavimentos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Infra-Estrutura de Transportes</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pavimentos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Rodovias; Projeto e Construção</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Topografia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LEAL, D. A. A." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="5253554"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4709135671933110"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Darliane Andrade de Assis Leal">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Reservatórios de Petróleo</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, A. C." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="3942115"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2799810813117465"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Aldemir Cirilo da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem Geomecânica de Meios Naturalmente Fraturados"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="JESUS, L. L." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="3824505"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0659597573501572"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Laís Lopes de Jesus">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estudo da Integridade Geomecânica e Geoquímica de Formações Geológicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cromatografia gasosa</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Injeção de CO2</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Resíduos Solidos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Rochas carbonáticas sinteticas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Simulação em reservatório de petroleo</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="RIBEIRO, A. S.;RIBEIRO, A.S." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="2678061"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5625371113520159"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ayrton Soares Ribeiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Estatística e Termodinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geoquímica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Quantitativos em Economia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Simulação de Reservatório de Petróleo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Dinâmicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ASSIS, D. C. A." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="2058466"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4414897125388901"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Debora Cristina Almeida de Assis">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formulações Especiais do Método dos Elementos Finitos para a Modelagem do Fraturamento Hidráulico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Petróleo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geomecânica de reservatório de petróleo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gestão de Recursos Hídricos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânicas dos Solos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem de reservatório de petróleo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>SIMULAÇÃO DE RESERVATÓRIO DE PETRÓLEO</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MELO, S. M. F. S." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LICIA MOUTA DA COSTA"
+                 NRO-ID-CNPQ-ORIENTADOR="5361457935042088"
+                 SEQUENCIA-ESTUDANTE="4654402"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1403540832814289"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Sarita Maria de Figueiredo Souza Melo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GUEDES, R. P." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO JOSE DO NASCIMENTO GUIMARAES"
+                 NRO-ID-CNPQ-ORIENTADOR="3821425977868488"
+                 SEQUENCIA-ESTUDANTE="2539651"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7047511177688460"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ricardo Pereira Guedes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Formulações Especiais do Método dos Elementos Finitos para a Modelagem do Fraturamento Hidráulico"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Materiais e Metalúrgica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Petroleo e Gás</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Mecânica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Soldagem</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="AGENTES, ASSISTENTES E AUXILIARES ADMINISTRATIVOS"
+               TITULO-OCUPACAO="Assistente administrativo"
+               CODIGO-CBO="4110-10"
+               NIVEL-DE-TREINAMENTO="Graduação"
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="F"
+               NOME-CITACOES="SILVA, I. C. L."
+               NRO-ID-CNPQ="2361861639137183"
+               GRAU-DE-ESCOLARIDADE="Ensino Médio (2o grau)"
+               ATIVIDADE-NO-GRUPO="Assistente administrativo"
+               NOME-COMPLETO="Isabella Caline de Lima Silva"
+               SEQUENCIA-TECNICO="3904507"/>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="SECRETÁRIAS(OS) EXECUTIVAS(OS) E AFINS"
+               TITULO-OCUPACAO="Secretária(o) executiva(o)"
+               CODIGO-CBO="2523-05"
+               NIVEL-DE-TREINAMENTO=""
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="F"
+               NOME-CITACOES="NASCIMENTO, R. M. M."
+               NRO-ID-CNPQ="2902096622692887"
+               GRAU-DE-ESCOLARIDADE="Graduação"
+               ATIVIDADE-NO-GRUPO="Secretária(o) executiva(o)"
+               NOME-COMPLETO="Rose Mary Militão do Nascimento"
+               SEQUENCIA-TECNICO="2603836"/>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="SECRETÁRIAS(OS) EXECUTIVAS(OS) E AFINS"
+               TITULO-OCUPACAO="Secretária(o) executiva(o)"
+               CODIGO-CBO="2523-05"
+               NIVEL-DE-TREINAMENTO=""
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="F"
+               NOME-CITACOES="CORDEIRO, P. M. G."
+               NRO-ID-CNPQ="3263950811895556"
+               GRAU-DE-ESCOLARIDADE="Graduação"
+               ATIVIDADE-NO-GRUPO="Secretária(o) executiva(o)"
+               NOME-COMPLETO="Priscila Maria Gameiro Cordeiro"
+               SEQUENCIA-TECNICO="4977659"/>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="ADMINISTRADORES DE TECNOLOGIA DA INFORMAÇÃO"
+               TITULO-OCUPACAO="Administrador de sistemas operacionais"
+               CODIGO-CBO="2123-15"
+               NIVEL-DE-TREINAMENTO=""
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="M"
+               NOME-CITACOES="PAIVA, A. Z. M."
+               NRO-ID-CNPQ="6120532978242410"
+               GRAU-DE-ESCOLARIDADE="Graduação"
+               ATIVIDADE-NO-GRUPO="Administrador de sistemas operacionais"
+               NOME-COMPLETO="Andreas Zaia Miranda Paiva"
+               SEQUENCIA-TECNICO="4613580"/>
+   </TECNICOS>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8842553304756509"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Avaliar, através de experimentos e modelos numéricos, a integridade geoquímica e geomecânica das rochas reservatório e selantes visando o manejo otimizado da extração de petróleo e gás natural além da capacidade de armazenamento de CO2. Os dados obtidos experimentalmente serão utilizado para a calibração e validação de códigos numéricos assim como na implementação numérica de novos fenômenos para simulação de cenários em escala real da extração e injeção de fluidos em formações geológicas"
+                         NOME-DA-LINHA-DE-PESQUISA="Estudo da Integridade Geomecânica e Geoquímica de Formações Geológicas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Integridade Geomecânica e Geoquímica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Modelagem de Transporte Reativo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Compactação Química de Reservatórios</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Armazenamento de CO2</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Estimulação Ácida de Reservatórios de Petróleo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Fluxo Multifásico</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7454305406070791" NOME-COMPLETO="Igor Fernandes Gomes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2060807"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3821425977868488"
+                               NOME-COMPLETO="Leonardo José do Nascimento Guimarães"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="116451"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0361299056344154" NOME-COMPLETO="Analice França Lima Amorim"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="245805"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2847904182166714" NOME-COMPLETO="Alessandra Lee Barbosa Firmo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="687339"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5361457935042088" NOME-COMPLETO="Lícia Mouta da Costa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="133548"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2372591257623213" NOME-COMPLETO="Jonathan da Cunha Teixeira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="682780"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4861195143983172" NOME-COMPLETO="Cecilia Maria Mota Silva Lins"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="291604"
+                               SEQUENCIA-PESQUISADOR="7"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9068133975222089" NOME-COMPLETO="Daniel Araújo Farias de Melo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5190646"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8123091456277487" NOME-COMPLETO="Maria Cecilia Cavalcanti Jucá"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5079378"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5263303234554540" NOME-COMPLETO="Aline Dantas de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3065651"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6385089055531684" NOME-COMPLETO="Karinne do Nascimento Vieira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4083564"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3478744823025762" NOME-COMPLETO="Katia Botelho Torres Galindo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3998987"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9655421755370182"
+                             NOME-COMPLETO="Shirley Minnell Ferreira de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="245804"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0659597573501572" NOME-COMPLETO="Laís Lopes de Jesus"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3824505"
+                             SEQUENCIA-ESTUDANTE="7"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30103002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30103002"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Geotecnia Ambiental"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geotécnica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="361"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30103029" CODIGO-ESPECIALIDADE="30103029"
+                                  CODIGO-SUB-AREA="30103002"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânicas das Rochas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geotécnica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="363"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06.0"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9440003252545418"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Analisar o comportamento geotécnico dos solos não-saturados (colapsíveis e expansivos) através de modelos numéricos que utilizam leis constitutivas adequadas para o tipo de material em questão. Pretende-se nessa linha realizar ensaios de laboratório para validação de tais modelos constitutivos assim como reproduzir observações de laboratório, campo e obras reais envolvendo variação de volume, não saturação e ações químicas em solos colapsíveis e expansivos. "
+                         NOME-DA-LINHA-DE-PESQUISA="Estudo do Comportamento de Solos Colapsíveis e Expansivos: Efeitos Químicos e Fissuras por Dissecação"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Acoplamento Termo-Hidro-Mecânico e Químico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Solos Não-Saturados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Solos Colapsíveis e Expansivos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Fissuras por Dissecação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Fluxo Multifásico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Argilas Quimicamente Ativas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3821425977868488"
+                               NOME-COMPLETO="Leonardo José do Nascimento Guimarães"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="116451"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0361299056344154" NOME-COMPLETO="Analice França Lima Amorim"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="245805"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5361457935042088" NOME-COMPLETO="Lícia Mouta da Costa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="133548"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7901652737291917" NOME-COMPLETO="Osvaldo Luís Manzoli"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="62775"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4861195143983172" NOME-COMPLETO="Cecilia Maria Mota Silva Lins"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="291604"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4207851429578248" NOME-COMPLETO="Isabel Mendes Pereira da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="830472"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30103002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30103002"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Geotecnia Ambiental"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geotécnica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="361"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30103037" CODIGO-ESPECIALIDADE="30103037"
+                                  CODIGO-SUB-AREA="30103002"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânicas dos Solos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geotécnica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="364"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B" SUBSETOR="" SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2578393575347350"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver e aprimorar simuladores de reservatórios de petróleo sensíveis ao estado de tensões. Deseja-se avaliar as deformações na rocha reservatório e as modificações de porosidade e permeabilidade provocadas pela injeção e/ou extração de fluidos no reservatório. Nesta linha, duas estratégias serão seguidas: acoplar um programa de modelagem geomecânica (CODE_BRIGHT) a um simulador externo blackoil e implementar o problema de fluxo de óleo e gás no módulo hidráulico do CODE_BRIGHT."
+                         NOME-DA-LINHA-DE-PESQUISA="Modelagem de Fluxo de Fluidos em Reservatórios de Petróleo Deformáveis"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Modelagem Acoplada Hidro-Mecânica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Geomecânica de Reservatórios de Petróleo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Reativação de Falhas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Modelos Constitutivos Mecânicos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Quantificação de Incertezas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Otimização da Produção de Hidrocarbonetos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7454305406070791" NOME-COMPLETO="Igor Fernandes Gomes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2060807"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3821425977868488"
+                               NOME-COMPLETO="Leonardo José do Nascimento Guimarães"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="116451"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0361299056344154" NOME-COMPLETO="Analice França Lima Amorim"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="245805"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4821122371021903" NOME-COMPLETO="Bernardo Horowitz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="8214"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5361457935042088" NOME-COMPLETO="Lícia Mouta da Costa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="133548"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1392335366884977" NOME-COMPLETO="Marcio Arab Murad"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="12495"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3730500288125594" NOME-COMPLETO="Marcela Gomes Seixas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2064885"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2372591257623213" NOME-COMPLETO="Jonathan da Cunha Teixeira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="682780"
+                               SEQUENCIA-PESQUISADOR="8"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2691137733899844" NOME-COMPLETO="Inaldo José Minervino da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2662462"
+                               SEQUENCIA-PESQUISADOR="9"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4861195143983172" NOME-COMPLETO="Cecilia Maria Mota Silva Lins"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="291604"
+                               SEQUENCIA-PESQUISADOR="10"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7548008171354094" NOME-COMPLETO="Leila Brunet de Sá Beserra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="868599"
+                               SEQUENCIA-PESQUISADOR="11"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7379344775155852"
+                               NOME-COMPLETO="Julliana de Paiva Valadares Fernandes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2066247"
+                               SEQUENCIA-PESQUISADOR="12"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6261172382142959" NOME-COMPLETO="Jose Andro de Souza"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2342178"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3239088236416834" NOME-COMPLETO="Lucíolo Victor Magalhães e Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4434578"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6936232716322659" NOME-COMPLETO="Nina Rosa dos Santos Silveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2159289"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4773319915734878" NOME-COMPLETO="Marinesio Pinheiro de Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="151139"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8988156762100375" NOME-COMPLETO="Kewin Passos Granados"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6467207"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2039220388372513" NOME-COMPLETO="Ially Kimberly de Arruda Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5998474"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2708264864319695" NOME-COMPLETO="Oscar Simón Melgar Cisneros"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5590923"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7152594360339982" NOME-COMPLETO="Victor Ernesto Alejo Juscamayta"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4722198"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4977490558308115" NOME-COMPLETO="Sajan Prya Correia Cirilo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6287555"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4709135671933110" NOME-COMPLETO="Darliane Andrade de Assis Leal"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5253554"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5625371113520159" NOME-COMPLETO="Ayrton Soares Ribeiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2678061"
+                             SEQUENCIA-ESTUDANTE="11"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1403540832814289"
+                             NOME-COMPLETO="Sarita Maria de Figueiredo Souza Melo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4654402"
+                             SEQUENCIA-ESTUDANTE="12"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30103002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30103002"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Geomecânica Computacional"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geotécnica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="361"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30103029" CODIGO-ESPECIALIDADE="30103029"
+                                  CODIGO-SUB-AREA="30103002"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânicas das Rochas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geotécnica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="363"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30103037" CODIGO-ESPECIALIDADE="30103037"
+                                  CODIGO-SUB-AREA="30103002"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânicas dos Solos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geotécnica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="364"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06.0"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3628148840151344"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver ferramentas computacionais eficientes e robustas para simular de forma totalmente acoplada o problema de fraturamento hidráulico em formações rochosas pelo método dos elementos finitos. São usadas duas técnicas distintas, baseadas na aproximação contínua de descontinuidades fortes (ACDF), para representar o comportamento das descontinuidades em malhas de elementos finitos: a técnica de descontinuidade incorporadas e a de elementos finitos especiais de interface"
+                         NOME-DA-LINHA-DE-PESQUISA="Formulações Especiais do Método dos Elementos Finitos para a Modelagem do Fraturamento Hidráulico"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Fraturamento Hidráulico</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Propagação de Fraturas em Meios Porosos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Descontinuidades Fortes</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Elementos com Descontinuidades Incorporadas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Elementos Finitos Especiais de Interface</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Técnica de Fragmentação de Malhas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7454305406070791" NOME-COMPLETO="Igor Fernandes Gomes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2060807"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3821425977868488"
+                               NOME-COMPLETO="Leonardo José do Nascimento Guimarães"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="116451"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5361457935042088" NOME-COMPLETO="Lícia Mouta da Costa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="133548"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7901652737291917" NOME-COMPLETO="Osvaldo Luís Manzoli"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="62775"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3730500288125594" NOME-COMPLETO="Marcela Gomes Seixas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2064885"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7548008171354094" NOME-COMPLETO="Leila Brunet de Sá Beserra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="868599"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1395921486235071" NOME-COMPLETO="Tarcisio Augusto da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5592565"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0569755306236902"
+                             NOME-COMPLETO="Bruno Marcelo Canabarro Machado Maciel"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4179494"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9570402246716566" NOME-COMPLETO="Nayara Torres Belfort Acioli"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3801145"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0456933468707806" NOME-COMPLETO="Jean Baptiste Joseph"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5338536"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3478186514418475" NOME-COMPLETO="Ricardo Wanderley de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3033566"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4414897125388901" NOME-COMPLETO="Debora Cristina Almeida de Assis"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2058466"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7047511177688460" NOME-COMPLETO="Ricardo Pereira Guedes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2539651"
+                             SEQUENCIA-ESTUDANTE="7"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30103002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30103002"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Geomecânica Computacional"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geotécnica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="361"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30103029" CODIGO-ESPECIALIDADE="30103029"
+                                  CODIGO-SUB-AREA="30103002"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânicas das Rochas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geotécnica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="363"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06.0"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4767989780706936"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA=" O objetivo geral desta linha de pesquisa consiste em desenvolver e aperfeiçoar uma ferramenta computacional para simular numericamente, de maneira robusta, estável e eficiente, o problema acoplado de fluxo de fluido e deformação de meios geológicos com fraturas naturais"
+                         NOME-DA-LINHA-DE-PESQUISA="Modelagem Geomecânica de Meios Naturalmente Fraturados"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Modelagem de Reservatórios Naturalmente Fraturados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Acoplamento Hidromecânico em Meios Fraturados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Caracterização Geológica das Fraturas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Rede de Fraturas Naturais (DFN)</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Permeabilidade de Meios Fraturados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Dupla-porosidade e Dupla-permeabilidade</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7454305406070791" NOME-COMPLETO="Igor Fernandes Gomes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2060807"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3821425977868488"
+                               NOME-COMPLETO="Leonardo José do Nascimento Guimarães"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="116451"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7901652737291917" NOME-COMPLETO="Osvaldo Luís Manzoli"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="62775"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1392335366884977" NOME-COMPLETO="Marcio Arab Murad"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="12495"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3730500288125594" NOME-COMPLETO="Marcela Gomes Seixas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2064885"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2372591257623213" NOME-COMPLETO="Jonathan da Cunha Teixeira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="682780"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7548008171354094" NOME-COMPLETO="Leila Brunet de Sá Beserra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="868599"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7379344775155852"
+                               NOME-COMPLETO="Julliana de Paiva Valadares Fernandes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2066247"
+                               SEQUENCIA-PESQUISADOR="8"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5787442651776502" NOME-COMPLETO="Aura María Zuleta Gómez"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5943455"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6323713175660367" NOME-COMPLETO="Jefferson Pedro dos Santos Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3773521"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6754097944411890" NOME-COMPLETO="Márcio Lima Alencar"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4657407"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1505861193639494" NOME-COMPLETO="Leidy Laura Álvarez Berrío"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6679857"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9742846935030833"
+                             NOME-COMPLETO="Rafael Fernandes Vieira Correia Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2554840"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0136570433047650" NOME-COMPLETO="Ana Itamara Paz de Araújo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2746487"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2799810813117465" NOME-COMPLETO="Aldemir Cirilo da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3942115"
+                             SEQUENCIA-ESTUDANTE="7"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30103002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30103002"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Geomecânica Computacional"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geotécnica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="361"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30103029" CODIGO-ESPECIALIDADE="30103029"
+                                  CODIGO-SUB-AREA="30103002"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânicas das Rochas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geotécnica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="363"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30103037" CODIGO-ESPECIALIDADE="30103037"
+                                  CODIGO-SUB-AREA="30103002"
+                                  CODIGO-AREA="30100003"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Mecânicas dos Solos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Geotécnica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Civil"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="364"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06.0"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="21012014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2691137733899844"
+               NOME-DO-EGRESSO="Inaldo José Minervino da Silva"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="21012014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3730500288125594"
+               NOME-DO-EGRESSO="Marcela Gomes Seixas"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="21012014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2372591257623213"
+               NOME-DO-EGRESSO="Jonathan da Cunha Teixeira"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="21012014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7548008171354094"
+               NOME-DO-EGRESSO="Leila Brunet de Sá Beserra"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="21012014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4861195143983172"
+               NOME-DO-EGRESSO="Cecilia Maria Mota Silva Lins"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="19052014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2372591257623213"
+               NOME-DO-EGRESSO="Jonathan da Cunha Teixeira"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="19052014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2691137733899844"
+               NOME-DO-EGRESSO="Inaldo José Minervino da Silva"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="19052014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3730500288125594"
+               NOME-DO-EGRESSO="Marcela Gomes Seixas"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="19052014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7548008171354094"
+               NOME-DO-EGRESSO="Leila Brunet de Sá Beserra"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="19052014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4861195143983172"
+               NOME-DO-EGRESSO="Cecilia Maria Mota Silva Lins"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="26082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7548008171354094"
+               NOME-DO-EGRESSO="Leila Brunet de Sá Beserra"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="26082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2691137733899844"
+               NOME-DO-EGRESSO="Inaldo José Minervino da Silva"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="26082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2372591257623213"
+               NOME-DO-EGRESSO="Jonathan da Cunha Teixeira"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="26082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4861195143983172"
+               NOME-DO-EGRESSO="Cecilia Maria Mota Silva Lins"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="26082014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3730500288125594"
+               NOME-DO-EGRESSO="Marcela Gomes Seixas"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="05122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2372591257623213"
+               NOME-DO-EGRESSO="Jonathan da Cunha Teixeira"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="05122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7548008171354094"
+               NOME-DO-EGRESSO="Leila Brunet de Sá Beserra"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="05122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4861195143983172"
+               NOME-DO-EGRESSO="Cecilia Maria Mota Silva Lins"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="05122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2691137733899844"
+               NOME-DO-EGRESSO="Inaldo José Minervino da Silva"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="05122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3730500288125594"
+               NOME-DO-EGRESSO="Marcela Gomes Seixas"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="22012016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2372591257623213"
+               NOME-DO-EGRESSO="Jonathan da Cunha Teixeira"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="22012016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2691137733899844"
+               NOME-DO-EGRESSO="Inaldo José Minervino da Silva"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="22012016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7548008171354094"
+               NOME-DO-EGRESSO="Leila Brunet de Sá Beserra"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="22012016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4861195143983172"
+               NOME-DO-EGRESSO="Cecilia Maria Mota Silva Lins"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="22012016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3730500288125594"
+               NOME-DO-EGRESSO="Marcela Gomes Seixas"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="22012016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2691137733899844"
+               NOME-DO-EGRESSO="Inaldo José Minervino da Silva"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="22012016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2372591257623213"
+               NOME-DO-EGRESSO="Jonathan da Cunha Teixeira"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="22012016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7548008171354094"
+               NOME-DO-EGRESSO="Leila Brunet de Sá Beserra"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="22012016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3730500288125594"
+               NOME-DO-EGRESSO="Marcela Gomes Seixas"/>
+      <EGRESSO DATA-SAIDA="13072016" DATA-ENTRADA="22012016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4861195143983172"
+               NOME-DO-EGRESSO="Cecilia Maria Mota Silva Lins"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

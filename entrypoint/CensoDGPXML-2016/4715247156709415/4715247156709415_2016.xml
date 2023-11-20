@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="4715247156709415"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="083417"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="10102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="2305779826028425" CODIGO-AREA-PREDOMINANTE="30500001"
+                           NOME-DA-UNIDADE="Departamento de Engenharia Mecânica"
+                           NOME-DO-ORGAO="Departamento de Engenharia Mecânica"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SC"
+                           SIGLA-DA-INSTITUICAO="UFSC"
+                           NOME-DA-INSTITUICAO="Universidade Federal de Santa Catarina"
+                           AREA-PREDOMINANTE="Engenharia Mecânica"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="1994"
+                           NOME-DO-GRUPO="Robótica">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="0167966003029391" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Edson Roberto De Pieri"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="3216599549790744" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Daniel Martins"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="4205407" DDDFAX="04"
+                                       LONGITUDE="-48.52395100000001"
+                                       LATITUDE="-27.585779"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Florianópolis"
+                                       NUMERO="s/n"
+                                       COMPLEMENTO="Campus Trindade"
+                                       LOGRADOURO="AC Cidade Universitária"
+                                       HOME-PAGE="http://"
+                                       E-MAIL="edson@das.ufsc.br"
+                                       FAX="4837219934"
+                                       RAMAL=""
+                                       TELEFONE="37216338"
+                                       DDD="04"
+                                       CEP="88040970"
+                                       CIDADE="Florianópolis"
+                                       UF="SC"
+                                       BAIRRO="Trindade"/>
+      <REPERCUSSOES>A aplicação de robôs industriais ainda é restrita devido ao estágio atual da tecnologia existente. Os robôs de hoje ainda tem pequena precisão (muito influenciada pela carga), limites nas cargas (devido ao emprêgo de acionamentos elétricos), pequena velocidade (por dificuldades mecânicas e de controle), integração limitada com omeio ambiente e são difícieis de programar para tarefas complexas.Essa é uma forte razão pela qual aproximadamente 90% dos robôs industriais são empregados em tarefas relativamente simples (solda-ponto, movimentação de materiais, pintura e solda a arco).Para a próxima geração de robôs busca-se uma maior precisão e maior velocidade, uma maior integração com o meio ambiente e maior facilidade na programação de tarefas complexas. Além disso, deverão ser estudadas alternativas de acionamentos com vistas a aumentar sua capacidade de carga (utilizando atuadores hidráulicos, por exemplo) e reduzir seu custo (empregando atuadores pneumáticos). A principal repercussão pretendida por esse grupo de pesquisa é possibilitar que o Centro Tecnológico da UFSC participe do desenvolvimento de tecnologias necessárias à próxima geração de robôs industriais.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="PLENTZ, P. D. M.;Plentz, P.D.M." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="F"
+                   NRO-ID-CNPQ="8496058927371924"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Patricia Della Méa Plentz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="construção de robôs industriais para aplicações especiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica Móvel"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="programação fora de linha de robôs industriais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica Móvel</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Tempo Real</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Distribuídos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="DIAS, A.;Dias, A." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8415236508188054"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Altamir Dias">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="construção de robôs industriais para aplicações especiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="programação fora de linha de robôs industriais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Sistemas Mecânicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Elementos de Máquinas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fundamentos Gerais de Projetos das Máquinas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos de Síntese e Otimização Aplicados ao Projeto Mecânico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="VALDIERO, A. C.;ANTONIO, CARLOS VALDIERO;VALDIERO, ANTONIO CARLOS;VALDIERO, ANTONIO C.;Antônio Carlos Valdiero;VALDIERO, ANTÔNIO CARLOS;Valdiero,;Valdiero, Antônio Carlos"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3894445999140917"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Antonio Carlos Valdiero">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="controle de acionamentos hidráulicos e pneumáticos com aplicação em robôs manipuladores"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="construção de robôs hidráulicos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Sistemas Mecânicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento e Projeto de Máquinas Agrícolas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ergonomia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia de Projeto do Produto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica e Sistemas de Controle</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Dinâmicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="RAPOSO, E. P." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4177302857440817"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Emerson Pereira Raposo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="construção de robôs industriais para aplicações especiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Mecânica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica, Mecatrônica e Automação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="STEMMER, M. R.;Stemmer, Marcelo R.;Stemmer, Marcelo Ricardo;STEMMER, MARCELO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5285573488564448"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcelo Ricardo Stemmer">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="controle de força em robôs manipuladores"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="construção de robôs industriais para aplicações especiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Processos Eletrônicos, Retroalimentação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robotização</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SIMAS, H.;Simas, H.;SIMAS, HENRIQUE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9372295416729783"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Henrique Simas">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="construção de robôs industriais para aplicações especiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica Móvel"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="síntese e análise cinemática de robôs"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Sistemas Mecânicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robotização</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MARTINS, D.;Martins, D;Martins, Daniel;D. Martins;Daniel Martins;Martins, D."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3216599549790744"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Daniel Martins">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="construção de robôs industriais para aplicações especiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="síntese e análise cinemática de robôs"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cirurgia Cardiovascular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Sistemas Mecânicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fundamentos Gerais de Projetos das Máquinas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos de Síntese e Otimização Aplicados ao Projeto Mecânico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria dos Mecanismos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="WEIHMANN, L.;Weihmann, Lucas" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5613062218104041"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Lucas Weihmann">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="controle de força em robôs manipuladores"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="construção de robôs industriais para aplicações especiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="síntese e análise cinemática de robôs"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cinemática e estática de Robôs</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Robôs</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robôs Humanoides</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robôs Submarinos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MARTINS, N. A.;MARTINS, Nardenio A.;MARTINS, NARDÊNIO ALMEIDA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0483602747631661"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Nardênio Almeida Martins">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="construção de robôs industriais para aplicações especiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica Móvel"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="síntese e análise cinemática de robôs"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle Adaptativo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microcontroladores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robôs Manipuladores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robôs Móveis</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="DE PIERI, E. R.;De Pieri, Edson Roberto;Pieri, Edson Roberto;Pieri, Edson R.;De Pieri, E.;Edson Roberto De Pieri;E. R. De Pieri;Edson De Pieri;E. De Pieri;De Pieri, E. R.;PIERI, E. R. de;Pieri, Edson Roberto De;De Pieri, Edson;DE PIERI, EDSON R.;PIERI, EDSON R. DE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0167966003029391"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Edson Roberto De Pieri">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="controle de força em robôs manipuladores"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="construção de robôs industriais para aplicações especiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica Móvel"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="controle de acionamentos hidráulicos e pneumáticos com aplicação em robôs manipuladores"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="controle de robôs hidráulicos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="programação fora de linha de robôs industriais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="construção de robôs hidráulicos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Processos Eletrônicos, Retroalimentação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Sistemas Mecânicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SIMONI, R.;Simoni, Roberto" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0136325013477743"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Roberto Simoni">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="controle de força em robôs manipuladores"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="construção de robôs industriais para aplicações especiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="síntese e análise cinemática de robôs"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Álgebra</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geometria e Topologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Manipuladores paralelos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Projeto de Mecanismos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="DE NEGRI, V. J.;NEGRI, V. J. DE;DE NEGRI, VICTOR JULIANO;NEGRI, VICTOR J. DE;DE NEGRI, VICTOR J.;DE NEGRI, VICTOR"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="11"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2067627583462699"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Victor Juliano De Negri">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="controle de acionamentos hidráulicos e pneumáticos com aplicação em robôs manipuladores"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="controle de robôs hidráulicos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="construção de robôs hidráulicos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise e Projeto de Componentes e Sistemas Hidráulicos e Pneumáticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Industrial e Desenvolvimento de Sistemas Mecatrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos e Equipamentos para Automação Monitoração e Testes</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Hidráulicos e Pneumáticos para Controle e Automação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CASTELAN, Eugênio B.;Castelan, Eugênio B.;Castelan, E.B.;Castelan,;Castelan, Eugenio de B.;CASTELAN, EUGENIO B.;CASTELAN, E. B."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="12"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5680858790581538"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Eugenio de Bona Castelan Neto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="construção de robôs industriais para aplicações especiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="controle de acionamentos hidráulicos e pneumáticos com aplicação em robôs manipuladores"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Processos Eletrônicos, Retroalimentação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica, Mecatrônica e Automação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="VIEIRA, R. S.;Vieira, R. S." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="13"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6628587731270497"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rodrigo de Souza Vieira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="construção de robôs industriais para aplicações especiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="programação fora de linha de robôs industriais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="síntese e análise cinemática de robôs"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Tensões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Sistemas Mecânicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Elementos de Máquinas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mecânica dos Corpos Sólidos, Elásticos e Plásticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos de Síntese e Otimização Aplicados ao Projeto Mecânico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="CRUZ, F. B. C." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDSON ROBERTO DE PIERI"
+                 NRO-ID-CNPQ-ORIENTADOR="0167966003029391"
+                 SEQUENCIA-ESTUDANTE="182642"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8630348977498378"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Felipe Barreto Campelo Cruz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="controle de acionamentos hidráulicos e pneumáticos com aplicação em robôs manipuladores"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="síntese e análise cinemática de robôs"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem Matemática de Sistemas Mecânicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Síntese de Controladores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Pneumáticos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DOURADO, A. O.;DOURADO, ANTÔNIO O."
+                 NIVEL-DE-TREINAMENTO="Curso de curta duração"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="DANIEL MARTINS"
+                 NRO-ID-CNPQ-ORIENTADOR="3216599549790744"
+                 SEQUENCIA-ESTUDANTE="789427"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8216564259983255"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Antônio Otaviano Dourado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="síntese e análise cinemática de robôs"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Sistemas Mecânicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle Numérico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Mecânica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estática e Dinâmica Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robotização</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MORITZ, M. G." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="DANIEL MARTINS"
+                 NRO-ID-CNPQ-ORIENTADOR="3216599549790744"
+                 SEQUENCIA-ESTUDANTE="743487"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7784364950191954"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marcos Goularte Moritz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="construção de robôs industriais para aplicações especiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="síntese e análise cinemática de robôs"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Mecânica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOUZA, M. V." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="DANIEL MARTINS"
+                 NRO-ID-CNPQ-ORIENTADOR="3216599549790744"
+                 SEQUENCIA-ESTUDANTE="789852"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3681102624594931"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marcel Viana de Souza">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="síntese e análise cinemática de robôs"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LEITE, H. L. A." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="DANIEL MARTINS"
+                 NRO-ID-CNPQ-ORIENTADOR="3216599549790744"
+                 SEQUENCIA-ESTUDANTE="743366"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0877210930568592"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Hugo Leonardo Araújo Leite">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="síntese e análise cinemática de robôs"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MACHADO, Cláudio Luís D'Elia" NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="VICTOR JULIANO DE NEGRI"
+                 NRO-ID-CNPQ-ORIENTADOR="2067627583462699"
+                 SEQUENCIA-ESTUDANTE="430839"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9091398883165332"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Cláudio Luís D'Elia Machado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="controle de robôs hidráulicos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="construção de robôs hidráulicos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Comando numérico computadorizado</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle Não Linear</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino Profissionalizante</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hidráulica Industrial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BERTOL, D. W.;Bertol, D.;Bertol, Douglas W.;Bertol, Douglas"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDSON ROBERTO DE PIERI"
+                 NRO-ID-CNPQ-ORIENTADOR="0167966003029391"
+                 SEQUENCIA-ESTUDANTE="449175"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5099032394205654"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Douglas Wildgrube Bertol">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="construção de robôs industriais para aplicações especiais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica Móvel"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="programação fora de linha de robôs industriais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4425798989788608"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Buscar alternativas para os acionamentos dos robôs industriais para aplicações em que a carga é elevada (acionamentos hidráulicos) e o custo deve ser pequeno (acionamentos pneumáticos)."
+                         NOME-DA-LINHA-DE-PESQUISA="controle de acionamentos hidráulicos e pneumáticos com aplicação em robôs manipuladores"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">acionamentos hidráilicos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">acionamnetos pneumáticos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">controle</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">robôs</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3894445999140917" NOME-COMPLETO="Antonio Carlos Valdiero"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="98304"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0167966003029391" NOME-COMPLETO="Edson Roberto De Pieri"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="24745"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2067627583462699" NOME-COMPLETO="Victor Juliano De Negri"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="57533"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5680858790581538" NOME-COMPLETO="Eugenio de Bona Castelan Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="51996"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8630348977498378" NOME-COMPLETO="Felipe Barreto Campelo Cruz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="182642"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30405033" CODIGO-ESPECIALIDADE="30405033"
+                                  CODIGO-SUB-AREA="30405009"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de Processos Eletrônicos, Retroalimentação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Eletrônica Industrial, Sistemas e Controles Eletrônicos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="444"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30504074" CODIGO-ESPECIALIDADE="30504074"
+                                  CODIGO-SUB-AREA="30504007"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de Sistemas Mecânicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Projetos de Máquinas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="471"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30504040" CODIGO-ESPECIALIDADE="30504040"
+                                  CODIGO-SUB-AREA="30504007"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Fundamentos Gerais de Projetos das Máquinas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Projetos de Máquinas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="468"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8622817043240407"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento teórico-experimental de controladores para robôs industriais cujos efetuadores finais entram em contato com o meio para a realização de tarefas."
+                         NOME-DA-LINHA-DE-PESQUISA="controle de força em robôs manipuladores"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">controle</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">força</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">robôs i</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5285573488564448" NOME-COMPLETO="Marcelo Ricardo Stemmer"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="50128"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5613062218104041" NOME-COMPLETO="Lucas Weihmann"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="414070"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0167966003029391" NOME-COMPLETO="Edson Roberto De Pieri"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="24745"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0136325013477743" NOME-COMPLETO="Roberto Simoni"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2468718"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30405033" CODIGO-ESPECIALIDADE="30405033"
+                                  CODIGO-SUB-AREA="30405009"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de Processos Eletrônicos, Retroalimentação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Eletrônica Industrial, Sistemas e Controles Eletrônicos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="444"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30505046" CODIGO-ESPECIALIDADE="30505046"
+                                  CODIGO-SUB-AREA="30505003"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Robotização"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Processos de Fabricação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="477"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30504074" CODIGO-ESPECIALIDADE="30504074"
+                                  CODIGO-SUB-AREA="30504007"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de Sistemas Mecânicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Projetos de Máquinas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="471"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2651090402231876"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver metodologias para o planejamento de trajetórias como vistas à programação fora de linha de robôs industriais, com enfase na aplicação em soldagem."
+                         NOME-DA-LINHA-DE-PESQUISA="programação fora de linha de robôs industriais"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">programação fora de linha</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">geração de trajetórias</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">soldagem</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8496058927371924" NOME-COMPLETO="Patricia Della Méa Plentz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="275469"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8415236508188054" NOME-COMPLETO="Altamir Dias"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="19836"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0167966003029391" NOME-COMPLETO="Edson Roberto De Pieri"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="24745"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6628587731270497" NOME-COMPLETO="Rodrigo de Souza Vieira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="414674"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5099032394205654" NOME-COMPLETO="Douglas Wildgrube Bertol"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="449175"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304037" CODIGO-ESPECIALIDADE="10304037"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Software Básico"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="65"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30505046" CODIGO-ESPECIALIDADE="30505046"
+                                  CODIGO-SUB-AREA="30505003"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Robotização"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Processos de Fabricação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="477"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30504074" CODIGO-ESPECIALIDADE="30504074"
+                                  CODIGO-SUB-AREA="30504007"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de Sistemas Mecânicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Projetos de Máquinas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="471"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B.06"
+                                SUBSETOR="Extração de Petróleo e Gás Natural"
+                                SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.4" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9234545941991584"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento teórico de algoritmos de controle para robôs hidráulicos e sua validação experimental, para aplicação em braços acoplados a veículos submarinos."
+                         NOME-DA-LINHA-DE-PESQUISA="controle de robôs hidráulicos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">robôs</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">hidráulicos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0167966003029391" NOME-COMPLETO="Edson Roberto De Pieri"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="24745"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2067627583462699" NOME-COMPLETO="Victor Juliano De Negri"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="57533"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9091398883165332" NOME-COMPLETO="Cláudio Luís D'Elia Machado"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="430839"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30504074" CODIGO-ESPECIALIDADE="30504074"
+                                  CODIGO-SUB-AREA="30504007"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de Sistemas Mecânicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Projetos de Máquinas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="471"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30504040" CODIGO-ESPECIALIDADE="30504040"
+                                  CODIGO-SUB-AREA="30504007"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Fundamentos Gerais de Projetos das Máquinas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Projetos de Máquinas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="468"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="B" SUBSETOR="" SETOR="Indústrias Extrativas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4391324531242874"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de ferramentas de análise e síntese cinemática avançada de robôs."
+                         NOME-DA-LINHA-DE-PESQUISA="síntese e análise cinemática de robôs"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">síntese cinemática</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9372295416729783" NOME-COMPLETO="Henrique Simas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="347776"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3216599549790744" NOME-COMPLETO="Daniel Martins"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="88453"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5613062218104041" NOME-COMPLETO="Lucas Weihmann"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="414070"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0483602747631661" NOME-COMPLETO="Nardênio Almeida Martins"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="278122"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0136325013477743" NOME-COMPLETO="Roberto Simoni"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2468718"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6628587731270497" NOME-COMPLETO="Rodrigo de Souza Vieira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="414674"
+                               SEQUENCIA-PESQUISADOR="6"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8630348977498378" NOME-COMPLETO="Felipe Barreto Campelo Cruz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="182642"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8216564259983255" NOME-COMPLETO="Antônio Otaviano Dourado"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="789427"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7784364950191954" NOME-COMPLETO="Marcos Goularte Moritz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="743487"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3681102624594931" NOME-COMPLETO="Marcel Viana de Souza"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="789852"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0877210930568592" NOME-COMPLETO="Hugo Leonardo Araújo Leite"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="743366"
+                             SEQUENCIA-ESTUDANTE="5"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30504015" CODIGO-ESPECIALIDADE="30504015"
+                                  CODIGO-SUB-AREA="30504007"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Teoria dos Mecanismos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Projetos de Máquinas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="465"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2025990064709243"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver e sistematizar a metodologia da construção de robôs industriais para aplicações em que os robôs comerciais não podem ser empregados."
+                         NOME-DA-LINHA-DE-PESQUISA="construção de robôs industriais para aplicações especiais"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">construção</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8496058927371924" NOME-COMPLETO="Patricia Della Méa Plentz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="275469"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8415236508188054" NOME-COMPLETO="Altamir Dias"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="19836"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4177302857440817" NOME-COMPLETO="Emerson Pereira Raposo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="354442"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5285573488564448" NOME-COMPLETO="Marcelo Ricardo Stemmer"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="50128"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9372295416729783" NOME-COMPLETO="Henrique Simas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="347776"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3216599549790744" NOME-COMPLETO="Daniel Martins"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="88453"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5613062218104041" NOME-COMPLETO="Lucas Weihmann"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="414070"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0483602747631661" NOME-COMPLETO="Nardênio Almeida Martins"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="278122"
+                               SEQUENCIA-PESQUISADOR="8"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0167966003029391" NOME-COMPLETO="Edson Roberto De Pieri"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="24745"
+                               SEQUENCIA-PESQUISADOR="9"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0136325013477743" NOME-COMPLETO="Roberto Simoni"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2468718"
+                               SEQUENCIA-PESQUISADOR="10"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5680858790581538" NOME-COMPLETO="Eugenio de Bona Castelan Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="51996"
+                               SEQUENCIA-PESQUISADOR="11"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6628587731270497" NOME-COMPLETO="Rodrigo de Souza Vieira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="414674"
+                               SEQUENCIA-PESQUISADOR="12"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7784364950191954" NOME-COMPLETO="Marcos Goularte Moritz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="743487"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5099032394205654" NOME-COMPLETO="Douglas Wildgrube Bertol"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="449175"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30504074" CODIGO-ESPECIALIDADE="30504074"
+                                  CODIGO-SUB-AREA="30504007"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de Sistemas Mecânicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Projetos de Máquinas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="471"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30504031" CODIGO-ESPECIALIDADE="30504031"
+                                  CODIGO-SUB-AREA="30504007"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Elementos de Máquinas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Projetos de Máquinas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="467"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30504015" CODIGO-ESPECIALIDADE="30504015"
+                                  CODIGO-SUB-AREA="30504007"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Teoria dos Mecanismos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Projetos de Máquinas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="465"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4322348164659441"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver e sistematizar a metodologia de construção de robôs com acionamentos hidráulicos."
+                         NOME-DA-LINHA-DE-PESQUISA="construção de robôs hidráulicos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">robôs</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">construção</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">acionamentos hidrául</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3894445999140917" NOME-COMPLETO="Antonio Carlos Valdiero"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="98304"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0167966003029391" NOME-COMPLETO="Edson Roberto De Pieri"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="24745"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2067627583462699" NOME-COMPLETO="Victor Juliano De Negri"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="57533"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9091398883165332" NOME-COMPLETO="Cláudio Luís D'Elia Machado"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="430839"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30504074" CODIGO-ESPECIALIDADE="30504074"
+                                  CODIGO-SUB-AREA="30504007"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de Sistemas Mecânicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Projetos de Máquinas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="471"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30504031" CODIGO-ESPECIALIDADE="30504031"
+                                  CODIGO-SUB-AREA="30504007"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Elementos de Máquinas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Projetos de Máquinas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="467"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30504040" CODIGO-ESPECIALIDADE="30504040"
+                                  CODIGO-SUB-AREA="30504007"
+                                  CODIGO-AREA="30500001"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Fundamentos Gerais de Projetos das Máquinas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Projetos de Máquinas"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Mecânica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="468"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9473142630706046"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Modelagem e controle de robôs móveis. Planejamento de trajetórias. Análise e sínteses de robôs móveis."
+                         NOME-DA-LINHA-DE-PESQUISA="Robótica Móvel"
+                         SEQUENCIA-LINHA-DE-PESQUISA="8">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Robótica Móvel</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Modelagem Cinemática</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Modelagem Dinâmica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Controle Cinemático</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Controle Dinâmico</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8496058927371924" NOME-COMPLETO="Patricia Della Méa Plentz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="275469"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9372295416729783" NOME-COMPLETO="Henrique Simas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="347776"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0483602747631661" NOME-COMPLETO="Nardênio Almeida Martins"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="278122"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0167966003029391" NOME-COMPLETO="Edson Roberto De Pieri"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="24745"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5099032394205654" NOME-COMPLETO="Douglas Wildgrube Bertol"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="449175"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30000009" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA=""
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO=""
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="350"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

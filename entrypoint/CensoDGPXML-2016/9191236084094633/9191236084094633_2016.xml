@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="9191236084094633"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="121818"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="21102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="5086811331322199" CODIGO-AREA-PREDOMINANTE="21200009"
+                           NOME-DA-UNIDADE="Instituto de Ciências Biomédicas"
+                           NOME-DO-ORGAO="Instituto de Ciências Biomédicas"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SP"
+                           SIGLA-DA-INSTITUICAO="USP"
+                           NOME-DA-INSTITUICAO="Universidade de São Paulo"
+                           AREA-PREDOMINANTE="Microbiologia"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Biológicas"
+                           ANO-DE-CRIACAO="2015"
+                           NOME-DO-GRUPO="Bioinformática e genômica aplicadas ao estudo de micro-organismos">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="8644261025719801" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Arthur Gruber"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="7644850878243392" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Alda Maria Backx Noronha Madeira"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3550308" DDDFAX="11"
+                                       LONGITUDE="-46.72951790000002"
+                                       LATITUDE="-23.5677919"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="São Paulo"
+                                       NUMERO="1374"
+                                       COMPLEMENTO="Edifício Biomédicas 2"
+                                       LOGRADOURO="Avenida Professor Lineu Prestes"
+                                       HOME-PAGE="http://www.coccidia.icb.usp.br"
+                                       E-MAIL="argruber@usp.br"
+                                       FAX="3091-7417"
+                                       RAMAL=""
+                                       TELEFONE="3091-7274"
+                                       DDD="11"
+                                       CEP="05508000"
+                                       CIDADE="São Paulo"
+                                       UF="SP"
+                                       BAIRRO="Butantã"/>
+      <REPERCUSSOES>O grupo tem duas áreas principais de atuação: (1) desenvolvimento de aplicativos de Bioinformática para a análise de sequências e aplicação na genômica de micro-organismos e: (2) abordagens metodológicas para a descoberta de novos vírus. O grupo já desenvolveu a plataforma EGene, sistema para construção de pipelines de anotação automática de sequências, o TRAP, para catalogação e quantificação de repetições seriadas, o GenSeed, programa para a montagem progressiva de sequências de DNA dirigida por sequências semente. Mais recentemente, o grupo desenvolveu o GenSeed-HMM, que permite a reconstrução de sequências a partir de dados metagenômicos usando HMMs de perfil. O programa foi aplicado com sucesso para a descoberta de novos vírus usando como modelo fagos da subfamília Alpavirinae. O grupo ainda desenvolve e mantém o Parasite Image Database, banco relacional na web com imagens em alta resolução de parasitas com interface e descrições disponíveis em três idiomas.</REPERCUSSOES>
+      <REDES-DE-PESQUISA>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="fGEF"
+                           URL-DA-REDE-DE-PESQUISA="http://www.pgbioinfo.icb.ufmg.br/projetocapes/"
+                           NOME-DA-REDE-DE-PESQUISA="REDE DE COOPERAÇÃO ACADÊMICA PARA O ESTUDO E DESENVOLVIMENTO DE FERRAMENTAS PARA A GENÔMICA ESTRUTURAL E FUNCIONAL- EDITAL CAPES 51/2013"/>
+      </REDES-DE-PESQUISA>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="GRUBER, A.;Gruber, Arthur" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8644261025719801"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Arthur Gruber">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Banco de imagens Parasite Image Database"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de aplicativos de Bioinformática para análises genômicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Abordagens de Bioinformática para a descoberta de novos vírus"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia molecular de protozoários do gênero Eimeria"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Molecular e de Microorganismos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Protozoologia Parasitária Animal</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FERREIRA, A. J.;FERREIRA, ALMIR J.;FERREIRA, ALMIR JOSÉ"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5759853037209557"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Almir José Ferreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de aplicativos de Bioinformática para análises genômicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microbiologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MADEIRA, A. M. B. N.;NORONHA, A.M.B.;Madeira, Alda Maria B.N."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="F"
+                   NRO-ID-CNPQ="7644850878243392"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Alda Maria Backx Noronha Madeira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Banco de imagens Parasite Image Database"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia molecular de protozoários do gênero Eimeria"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioquímica dos Microorganismos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Protozoologia Parasitária Animal</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="DURHAM, A. M.;Durham, Alan M.;Durham, Alan Mitchell;DURHAM, ALAN;Durham, Alan;Alan Durham;A. Durham;Alan Mitchell Durham;Alan M. Durham;A. M. Durham;Durham, A"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1927611801056285"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Alan Mitchell Durham">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de aplicativos de Bioinformática para análises genômicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Abordagens de Bioinformática para a descoberta de novos vírus"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformatica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FERREIRA, J. E.;Ferreira, Joao Eduardo;Ferreira, João Eduardo;Ferreira, João E.;FERREIRA, JOAO E.;FERREIRA, JOÃO E;Joao Eduardo Ferreira;Joao E. Ferreira;FERREIRA, JOAO;FERREIRA, J.E."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0131770792108992"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="João Eduardo Ferreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Banco de imagens Parasite Image Database"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia e Técnicas da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ALVES, J. M. P.;Alves, J. M.;Alves, Joao M.;ALVES, J.;Alves, João M. P.;Alves, João M.;Alves, João Marcelo P.;Alves, João MP;Alves, Joao Marcelo;ALVES, JOÃO M.P.;PEREIRA ALVES, JOÃO MARCELO;Pereira Alves, J.M.;PEREIRA ALVES, J. M.;ALVES, JOÃO MARCELO PEREIRA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9140223036861678"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Joao Marcelo Pereira Alves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de aplicativos de Bioinformática para análises genômicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Abordagens de Bioinformática para a descoberta de novos vírus"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Evolução Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genômica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transcriptômica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="CASTRO, W. H. L." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ARTHUR GRUBER"
+                 NRO-ID-CNPQ-ORIENTADOR="8644261025719801"
+                 SEQUENCIA-ESTUDANTE="6708999"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6621534698161754"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Wendel Hime Lino Castro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de aplicativos de Bioinformática para análises genômicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MALVAREZ, Á. P." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALDA MARIA BACKX NORONHA MADEIRA"
+                 NRO-ID-CNPQ-ORIENTADOR="7644850878243392"
+                 SEQUENCIA-ESTUDANTE="5659782"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0559914181986422"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ádne Pereira Malvarez">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Banco de imagens Parasite Image Database"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Parasitologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NOGUEIRA, T. P." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ARTHUR GRUBER"
+                 NRO-ID-CNPQ-ORIENTADOR="8644261025719801"
+                 SEQUENCIA-ESTUDANTE="6906065"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6583997619707010"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Thais Pucci Nogueira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Banco de imagens Parasite Image Database"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, L. S.;OLIVEIRA, LILIANE;OLIVEIRA, LILIANE SANTANA;Oliveira, Liliane Santana"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ARTHUR GRUBER"
+                 NRO-ID-CNPQ-ORIENTADOR="8644261025719801"
+                 SEQUENCIA-ESTUDANTE="2818715"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4235412446778214"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Liliane Santana Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de aplicativos de Bioinformática para análises genômicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Abordagens de Bioinformática para a descoberta de novos vírus"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MANGOLINI, T. G." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ARTHUR GRUBER"
+                 NRO-ID-CNPQ-ORIENTADOR="8644261025719801"
+                 SEQUENCIA-ESTUDANTE="6814168"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9400617903920473"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Tânia Girão Mangolini">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de aplicativos de Bioinformática para análises genômicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Abordagens de Bioinformática para a descoberta de novos vírus"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GUIMARÃES, M. N." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ARTHUR GRUBER"
+                 NRO-ID-CNPQ-ORIENTADOR="8644261025719801"
+                 SEQUENCIA-ESTUDANTE="5622567"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1571506060794076"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Miriã Nunes Guimarães">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Abordagens de Bioinformática para a descoberta de novos vírus"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LUZ, E. G." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ARTHUR GRUBER"
+                 NRO-ID-CNPQ-ORIENTADOR="8644261025719801"
+                 SEQUENCIA-ESTUDANTE="6905928"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9337555654888084"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Edlane Gonçalves Luz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Banco de imagens Parasite Image Database"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pintura</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COSTA, B. T." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALDA MARIA BACKX NORONHA MADEIRA"
+                 NRO-ID-CNPQ-ORIENTADOR="7644850878243392"
+                 SEQUENCIA-ESTUDANTE="6908550"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3945010963027254"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruno Tadeu da Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Banco de imagens Parasite Image Database"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, R. R. S." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALDA MARIA BACKX NORONHA MADEIRA"
+                 NRO-ID-CNPQ-ORIENTADOR="7644850878243392"
+                 SEQUENCIA-ESTUDANTE="5244942"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0770446514572954"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rariane Roldina de Souza Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia molecular de protozoários do gênero Eimeria"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="PESQUISADORES DAS CIÊNCIAS BIOLÓGICAS"
+               TITULO-OCUPACAO="Pesquisador em biologia de microorganismos e parasitas"
+               CODIGO-CBO="2030-15"
+               NIVEL-DE-TREINAMENTO=""
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="F"
+               NOME-CITACOES="SILVA, E. R."
+               NRO-ID-CNPQ="9339326802188039"
+               GRAU-DE-ESCOLARIDADE="Ensino Médio (2o grau)"
+               ATIVIDADE-NO-GRUPO="Pesquisador em biologia de microorganismos e parasitas"
+               NOME-COMPLETO="Eunice Ribeiro da Silva"
+               SEQUENCIA-TECNICO="4592534"/>
+   </TECNICOS>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9281351136557538"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Essa linha de pesquisa objetiva desenvolver novas abordagens metodológicas para a descoberta de novos vírus. Entre as atividades desenvolvidas estão o desenvolvimento de algoritmos, sua implementação na forma de aplicativos e a aplicação em dados genômicos e metagenômicos. Entre as abordagens desenvolvidas e atualmente utilizadas, está o programa GenSeed-HMM, aplicativo para a montagem progressiva de sequências que utiliza sementes de HMMs de perfil.   "
+                         NOME-DA-LINHA-DE-PESQUISA="Abordagens de Bioinformática para a descoberta de novos vírus"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Descoberta de vírus</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Aplicativos de Bioinformática</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Modelos Probabilisticos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1927611801056285" NOME-COMPLETO="Alan Mitchell Durham"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="23975"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8644261025719801" NOME-COMPLETO="Arthur Gruber"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="83525"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9140223036861678" NOME-COMPLETO="Joao Marcelo Pereira Alves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="379412"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4235412446778214" NOME-COMPLETO="Liliane Santana Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2818715"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1571506060794076" NOME-COMPLETO="Miriã Nunes Guimarães"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5622567"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9400617903920473" NOME-COMPLETO="Tânia Girão Mangolini"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6814168"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20804008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20804008"
+                                  CODIGO-AREA="20800002"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia Molecular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Bioquímica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="311"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21201013" CODIGO-ESPECIALIDADE="21201013"
+                                  CODIGO-SUB-AREA="21201005"
+                                  CODIGO-AREA="21200009"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Virologia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia e Fisiologia dos Microorganismos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Microbiologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="336"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Bioinformática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7692154307826413"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Essa linha tem como objetivo o desenvolvimento de ferramentas de software de Bioinformática para a análise de diferentes dados genômicos. Entre os aplicativos, incluem-se  programas para anotação automática de sequências genéticas (EGene), caracterização de repetições seriadas (TRAP) e a reconstrução de sequências e descoberta de vírus (GenSeed e GenSeed-HMM). "
+                         NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de aplicativos de Bioinformática para análises genômicas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Desenvolvimento de software</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Anotação de genomas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Reconstrução de sequências de DNA</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Descoberta de vírus</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1927611801056285" NOME-COMPLETO="Alan Mitchell Durham"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="23975"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8644261025719801" NOME-COMPLETO="Arthur Gruber"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="83525"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9140223036861678" NOME-COMPLETO="Joao Marcelo Pereira Alves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="379412"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5759853037209557" NOME-COMPLETO="Almir José Ferreira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2485590"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4235412446778214" NOME-COMPLETO="Liliane Santana Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2818715"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6621534698161754" NOME-COMPLETO="Wendel Hime Lino Castro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6708999"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9400617903920473" NOME-COMPLETO="Tânia Girão Mangolini"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6814168"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20804008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20804008"
+                                  CODIGO-AREA="20800002"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia Molecular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Bioquímica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="311"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21201021" CODIGO-ESPECIALIDADE="21201021"
+                                  CODIGO-SUB-AREA="21201005"
+                                  CODIGO-AREA="21200009"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Bacteriologia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia e Fisiologia dos Microorganismos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Microbiologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="337"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21201013" CODIGO-ESPECIALIDADE="21201013"
+                                  CODIGO-SUB-AREA="21201005"
+                                  CODIGO-AREA="21200009"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Virologia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia e Fisiologia dos Microorganismos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Microbiologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="336"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5922036363309434"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esse linha de pesquisa objetiva a criação, aprimoramento progressivo e manutenção permanentes de um banco de imagens de parasitas. Entre as técnicas em desenvolvidas estão métodos de macro e microfotografia de parasitas, empilhamento de foco (&#34;focus stacking&#34;), desenvolvimento de modelos conceitual, lógico e físico do banco de dados, desenvolvimento de interface gráfica de usuário em ambiente web, desenvolvimento de vocabulário controlado e suporte a múltiplos idiomas."
+                         NOME-DA-LINHA-DE-PESQUISA="Banco de imagens Parasite Image Database"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Banco de imagens de parasitas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Banco de Dados Relacional</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">macrofotografia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Microfotografia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Empilhamento de foco</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0131770792108992" NOME-COMPLETO="João Eduardo Ferreira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="62152"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7644850878243392" NOME-COMPLETO="Alda Maria Backx Noronha Madeira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="76362"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8644261025719801" NOME-COMPLETO="Arthur Gruber"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="83525"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0559914181986422" NOME-COMPLETO="Ádne Pereira Malvarez"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5659782"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9337555654888084" NOME-COMPLETO="Edlane Gonçalves Luz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6905928"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6583997619707010" NOME-COMPLETO="Thais Pucci Nogueira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6906065"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3945010963027254" NOME-COMPLETO="Bruno Tadeu da Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6908550"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21300003" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="21300003"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Parasitologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="342"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303030" CODIGO-ESPECIALIDADE="10303030"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Banco de Dados"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="59"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1043018806287671"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Essa linha de pesquisa objetiva abordar vários aspectos da biologia molecular de parasitas do gênero Eimeria, visando o desenvolvimento de marcadores moleculares para diagnóstico, o estudo de genomas extra-cromossômicos e a caracterização do genoma e transcritoma dos parasitas. "
+                         NOME-DA-LINHA-DE-PESQUISA="Biologia molecular de protozoários do gênero Eimeria"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Coccidiose aviária</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Marcadores moleculares</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Diagnóstico molecular</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">transcriptoma</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7644850878243392" NOME-COMPLETO="Alda Maria Backx Noronha Madeira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="76362"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8644261025719801" NOME-COMPLETO="Arthur Gruber"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="83525"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0770446514572954"
+                             NOME-COMPLETO="Rariane Roldina de Souza Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5244942"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20804008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20804008"
+                                  CODIGO-AREA="20800002"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia Molecular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Bioquímica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="311"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21301026" CODIGO-ESPECIALIDADE="21301026"
+                                  CODIGO-SUB-AREA="21301000"
+                                  CODIGO-AREA="21300003"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Protozoologia Parasitária Animal"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Protozoologia de Parasitos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Parasitologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="345"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES="Sistema genérico de construção de pipelines para processamento e anotação automáticos de sequências biológicas. Disponível para download em http://www.coccidia.icb.usp.br/egene"
+                MODELO=""
+                VERSAO="1.0"
+                NOME="EGene"
+                CLASSIFICACAO="Demais aplicações"
+                TIPO-DE-LICENCIAMENTO="Livre"
+                DESENVOLVIMENTO-PROPRIO="S"
+                SEQUENCIA-SOFTWARE="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Capes</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="1">CNPq</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES="Programa para reconstrução de sequências de DNA baseado em montagem progressiva com o uso de sequências sementes de DNA, proteínas HMMs de perfil e dados de sequenciamento de nova geração. Entre as aplicações principais pode ser usado para a descoberta de novos vírus, levantamento de famílias de genes de proteínas, elementos extracromossômicos, etc. em dados metagenômicos. Disponível no endereço https://sourceforge.net/projects/genseedhmm/"
+                MODELO=""
+                VERSAO="1.0"
+                NOME="GenSeed-HMM"
+                CLASSIFICACAO="Demais aplicações"
+                TIPO-DE-LICENCIAMENTO="Livre"
+                DESENVOLVIMENTO-PROPRIO="S"
+                SEQUENCIA-SOFTWARE="1">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Capes</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="1">CNPq</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES="Base de dados de transcritos de protozoários do gênero Eimeria, contendo dados de sequências, anotações automáticas e análises de bioinformática. Disponível do endereço http://www.coccidia.icb.usp.br/eimeriatdb/"
+                MODELO=""
+                VERSAO="1.0"
+                NOME="The Eimeria Transcript Database"
+                CLASSIFICACAO="Acesso de conteúdo"
+                TIPO-DE-LICENCIAMENTO="Domínio público"
+                DESENVOLVIMENTO-PROPRIO="S"
+                SEQUENCIA-SOFTWARE="2">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Capes</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="1">CNPq</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="2">Fundação estadual de amparo à pesquisa</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES="Programa para reconstrução de sequências de DNA baseado em montagem progressiva com o uso de sequências sementes de DNA ou proteínas."
+                MODELO=""
+                VERSAO="1.0"
+                NOME="GenSeed"
+                CLASSIFICACAO="Demais aplicações"
+                TIPO-DE-LICENCIAMENTO="Livre"
+                DESENVOLVIMENTO-PROPRIO="S"
+                SEQUENCIA-SOFTWARE="3">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">CNPq</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES="Programa para análise qualitativa e quantitativa de repetições seriadas em gnomas. Disponível para download no endereço http://www.coccidia.icb.usp.br/trap/"
+                MODELO=""
+                VERSAO="1.1"
+                NOME="TRAP - Tandem Repeats Analysis Program"
+                CLASSIFICACAO="Demais aplicações"
+                TIPO-DE-LICENCIAMENTO="Livre"
+                DESENVOLVIMENTO-PROPRIO="S"
+                SEQUENCIA-SOFTWARE="4">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Capes</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="1">CNPq</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES="Programa para diagnóstico morfológico de espécies de protozoários do gênero Eimeria utilizando processamento digital de imagem e classificadores. Disponível em http://www.coccidia.icb.usp.br/coccimorph/"
+                MODELO=""
+                VERSAO="1.0"
+                NOME="COCCIMORPH"
+                CLASSIFICACAO="Demais aplicações"
+                TIPO-DE-LICENCIAMENTO="Livre"
+                DESENVOLVIMENTO-PROPRIO="S"
+                SEQUENCIA-SOFTWARE="5">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Capes</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+   </SOFTWARES>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

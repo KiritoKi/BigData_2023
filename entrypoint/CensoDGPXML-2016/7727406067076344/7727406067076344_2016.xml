@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="7727406067076344"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="100234"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="13102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="0708123888310995" CODIGO-AREA-PREDOMINANTE="20200005"
+                           NOME-DA-UNIDADE="Centro de Pesquisas René  Rachou"
+                           NOME-DO-ORGAO="Centro de Pesquisas René  Rachou"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="RJ"
+                           SIGLA-DA-INSTITUICAO="FIOCRUZ"
+                           NOME-DA-INSTITUICAO="Fundação Oswaldo Cruz"
+                           AREA-PREDOMINANTE="Genética"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Biológicas"
+                           ANO-DE-CRIACAO="2010"
+                           NOME-DO-GRUPO="Genômica e Biologia Computacional">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="8563794592947521" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Guilherme Corrêa de Oliveira"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="1720713819025709" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Angela Cristina Volpini"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3106200" DDDFAX="31"
+                                       LONGITUDE="-43.952023"
+                                       LATITUDE="-19.9217105"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Belo Horizonte"
+                                       NUMERO="1715"
+                                       COMPLEMENTO="Sala 21 - Centro de Excelência em Bioinformática"
+                                       LOGRADOURO="Avenida Augusto de Lima - de 1001 ao fim - lado ímpar"
+                                       HOME-PAGE="http://bioinfo.cpqrr.fiocruz.br/"
+                                       E-MAIL="oliveira@cpqrr.fiocruz.br"
+                                       FAX="3295-3115"
+                                       RAMAL=""
+                                       TELEFONE="3349-7720"
+                                       DDD="31"
+                                       CEP="30190002"
+                                       CIDADE="Belo Horizonte"
+                                       UF="MG"
+                                       BAIRRO="Barro Preto"/>
+      <REPERCUSSOES>O Grupo de Genômica e Biologia Computacional tem como modelo de pesquisa o Schistosoma mansoni.  O Grupo busca o uso da genômica para o estudo de aspectos biológicos do parasito, assim como o desenvolvimento de novos meios de controle quimioterapêutico e vacinal.O coordenador do Grupo também coordena a Rede Genoma de Minas Gerais, RGMG (http://rgmg.cpqrr.fiocruz.br) e o Centro de Excelência em Bioinformática, CEBio (http://www.cebio.org).  Através da RGMG e do CEBio o estudo genômico de outras espécies também é realizado em colaboração com diversos grupos no país e no exterior.</REPERCUSSOES>
+      <REDES-DE-PESQUISA>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="INCT"
+                           URL-DA-REDE-DE-PESQUISA="http://inctdt.cebio.org/"
+                           NOME-DA-REDE-DE-PESQUISA="Instituto Nacional de Ciência e Tecnologia em Doenças Tropicais"/>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="RGMG"
+                           URL-DA-REDE-DE-PESQUISA="http://rgmg.cpqrr.fiocruz.br/"
+                           NOME-DA-REDE-DE-PESQUISA="Rede Genoma de Minas Gerais"/>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="UGA-CTEGD"
+                           URL-DA-REDE-DE-PESQUISA="http://www.ctegd.uga.edu/"
+                           NOME-DA-REDE-DE-PESQUISA="UNIVERSITY OF GEORGIA - THE CENTER FOR TROPICAL AND EMERGING GLOBAL DISEASE"/>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="SEtTReND"
+                           URL-DA-REDE-DE-PESQUISA="http://www.schistodb.net/schistodb20/"
+                           NOME-DA-REDE-DE-PESQUISA="SCHISTOSOMA EPIGENETICS - TARGETS, REGULATION AND DRUGS"/>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="EMBRAPA "
+                           URL-DA-REDE-DE-PESQUISA="http://www.cnpgl.embrapa.br/"
+                           NOME-DA-REDE-DE-PESQUISA="EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA - GADO DE LEITE"/>
+      </REDES-DE-PESQUISA>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="VALADARES, R. B. S.;Valadares, Rafael B.;VALADARES, RAFAEL BORGES DA SILVA;DA SILVA VALADARES, RAFAEL BORGES;VALADARES, RAFAEL"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6384422328385521"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rafael Borges da Silva Valadares">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genômica funcional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Interação Planta-Microrganismo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Micorrizas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microbiologia e Bioquímica do Solo</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PAIS, F. S.;PAIS, FABIANO SVIATOPOLK-MIRSKY;PAIS, FABIANO S.;PAIS, FABIANO SVIATOPOLK MIRSKY;FABIANO SVIATOPOLK MIRSKY PAIS;FABIANO SVIATOPOLK-MIRSKY PAIS;PAIS, FABIANO S. M."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3917862630129689"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fabiano Sviatopolk-Mirsky Pais">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Biologia molecular do Schistosoma mansoni"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioquímica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Imunologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="VAZ, A. B. M.;Vaz, Aline B.M.;Vaz, Aline BM;Vaz, A.B.M.;Vaz, Aline B. M.;Aline BM Vaz;Vaz ABM;Aline Bruna Martins Vaz;Vaz Aline BM;Aline Vaz;MARTINS VAZ, ALINE B;Vaz, A. M."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3034158469601943"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Aline Bruna Martins Vaz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biodiversidade de fungos endofíticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biotecnologia de fungos endofíticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ecologia microbiana</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Molecular e de Microorganismos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Micologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microbiologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GÓES-NETO, A.;GOES-NETO, A.;Neto, A.G.;Goes-Neto, Aristoteles;Neto, Aristoteles Goes;Góes-Neto, Aristóteles;Goés-Neto, Aristóteles;Góes Neto, Aristóteles;Go'es-Neto, Aristo'teles;Aristóteles Góes-Neto;NETO, ARISTÓTELES GÓES;NETO, ARISTÓTELES GÔES;Goes-Neto, Aristóteles;Goes-Neto, A"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6134133834289438"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Aristóteles Góes Neto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Sintética"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia e Fisiologia dos Microorganismos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metagenômica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Micologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Taxonomia de Criptógamos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Silva, R. A.;da Silva, Rosiane Aparecida;da Silva-Pereira, Rosiane A.;Silva-Pereira, Rosiane Aparecida da;da Silva, Rosiane A.;Silva, Rosiane A.;SILVA-PEREIRA, ROSIANE A.;PEREIRA, ROSIANE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="F"
+                   NRO-ID-CNPQ="6405912413079760"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rosiane Aparecida da Silva Pereira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Biologia molecular do Schistosoma mansoni"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular e Celular de Parasitas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Proteômica de Parasitas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CARVALHO, M. R. S.;Carvalho, M. R. S.;Carvalho, Maria Raquel S.;Carvalho, M.R.S.;Carvalho, Maria Raquel Santos;Carvalho, MR;Carvalho, MRS;Carvalho, Maria Raquel S;Maria Raquel Santos Carvalho;Maria Raquel S Carvalho;Carvalho, M R S;Carvalho, M R;CARVALHO, MARIA R. S.;CARVALHO, MARIA;Carvalho, Maria-Raquel"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="F"
+                   NRO-ID-CNPQ="6744869566831263"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Maria Raquel Santos Carvalho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Clonagem Gênica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Conservação da biodiversidade</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética das Degenerações Retinianas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética das Habilidades Cognitivas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética e Melhoramento dos Animais Domésticos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Humana e Médica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="OLIVEIRA, G. C.;Oliveira, G. C.;OLIVEIRA, G;Oliveira, Guilherme;Oliveira, Guilherme Correa;De Oliveira, Guilherme Correa;Oliveira, G.C.;DE OLIVEIRA, G. C.;Oliveira, Guilherme Corrêa;Oliveira, Guilherme C;Oliveirag, G.;Oliveira, G.;CORRÊA-OLIVEIRA, GUILHERME;Guilherme Oliveira;Guilherme Correa Oliveira;OLIVEIRA, GUILHERME C.;OLIVEIRA, GUILHERME CORRÊA DE;Oliveira, G;De Oliveira, GC;OLIVEIRA, GUILHERME CORREA DE;oliveira g;oliveira, Guilherme Corrêa de;OLIVEIRA, G. C. D.;DE OLIVEIRA, GUILHERME CORRÊA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8563794592947521"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Guilherme Corrêa de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Biologia molecular do Schistosoma mansoni"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Molecular e de Microorganismos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Helmintologia de Parasitos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CUADROS-ORELLANA, S.;Orellana, Sara Cuadros;ORELLANA,, SARA CUADROS;CUADROS-ORELLANA, SARA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3138467006140339"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Sara Cuadros Orellana">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biotecnologia em Saúde Humana e Animal</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Molecular e de Microorganismos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genômica de Comunidades e Ecologia Microbiana</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microbiologia Aplicada</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="VOLPINI, A. C.;Volpini A.;Volpini AC;Volpini, Angela Cristina;VOLPINI, A;VOLPINI, Ã'NGELA;VOLPINI, ANGELA;VOLPINI, ANGELA C."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="F"
+                   NRO-ID-CNPQ="1720713819025709"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Angela Cristina Volpini">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Biologia molecular do Schistosoma mansoni"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>CIÊNCIAS DA SAÚDE</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>GERENCIAMENTO DE PROJETOS</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Protozoologia Parasitária Animal</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Protozoologia Parasitária Humana</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MOURÃO, M. M.;de Moraes Mourão, Marina;Mourão, Marina de Moraes;Mourão, Marina M.;MOURAO, M;Mourão, Mde M"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0271842903270328"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marina de Moraes Mourão">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Biologia molecular do Schistosoma mansoni"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioquímica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Imunologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Parasitologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="NAHUM, L.;NAHUM, L. A.;Nahum, Laila A.;Nahum, Laila Alves;Nahum, Laila A"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="F"
+                   NRO-ID-CNPQ="4773538355500199"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Laila Alves Nahum">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Biologia molecular do Schistosoma mansoni"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Evolução</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Molecular e de Microorganismos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genômica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Parasitologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Silva, L L;Silva, Larissa Lopes;Silva, Larissa L;Silva, Larissa;Scholte, Larissa Lopes Silva;Scholte, LLS;Scholte, L. L. S.;SCHOLTE, LARISSA L. S."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="11"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3184624581405522"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Larissa Lopes Silva Scholte">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Biologia molecular do Schistosoma mansoni"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Evolução</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genômica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Parasitologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FERNANDES, G. R.;Fernandes, Gabriel R.;Fernandes, G.R.;Fernandes, GR;FERNANDES, GABRIEL DA ROCHA;FERNANDES, GABRIEL R;FERNANDES, GABRIEL DA R.;FERNANDES, GABRIEL ROCHA;FERNANDES, G."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="12"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8989178759075946"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Gabriel da Rocha Fernandes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Molecular e de Microorganismos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PYLRO, V. S.;Pylro, Victor Satler;Victor Satler Pylro;PYLRO, VICTOR S.;PYLRO, VICTOR SALTER"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="13"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8806800138164566"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Victor Satler Pylro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ecologia Microbiana Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fungos Ectomicorrízicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Interação Micro-organismo/Meio ambiente</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metagenômica do solo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microbiologia Ambiental</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="Assis,J.G;Assis, Juliana G;Assis, J. G.;GERALDO, JULIANA ASSIS;GERALDO, JULIANA A."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado Sanduíche no Exterior"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="GUILHERME CORREA DE OLIVEIRA"
+                 NRO-ID-CNPQ-ORIENTADOR="8563794592947521"
+                 SEQUENCIA-ESTUDANTE="3148694"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2149775668715222"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Juliana Assis Geraldo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Biologia molecular do Schistosoma mansoni"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Animal</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GAVA, S. G.;GAVA, SANDRA G." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="GUILHERME CORREA DE OLIVEIRA"
+                 NRO-ID-CNPQ-ORIENTADOR="8563794592947521"
+                 SEQUENCIA-ESTUDANTE="2800185"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2592194768880728"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Sandra Grossi Gava">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Biologia molecular do Schistosoma mansoni"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioquímica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, F. S.;OLIVEIRA, FRANCISLON S.;OLIVEIRA, FRANCISLON SILVA;DE OLIVEIRA, FRANCISLON S."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="GUILHERME CORREA DE OLIVEIRA"
+                 NRO-ID-CNPQ-ORIENTADOR="8563794592947521"
+                 SEQUENCIA-ESTUDANTE="2242909"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3488290860135911"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Francislon Silva de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SEMENCHENKO, A." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="GUILHERME CORREA DE OLIVEIRA"
+                 NRO-ID-CNPQ-ORIENTADOR="8563794592947521"
+                 SEQUENCIA-ESTUDANTE="156120"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9829305295054746"
+                 PAIS-DE-NASCIMENTO="USA"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Anton Semenchenko">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica e Bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biofísica de Processos e Sistemas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gestão de Projetos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="GERENTES DE TECNOLOGIA DA INFORMAÇÃO"
+               TITULO-OCUPACAO="Gerente de desenvolvimento de sistemas"
+               CODIGO-CBO="1425-10"
+               NIVEL-DE-TREINAMENTO=""
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="M"
+               NOME-CITACOES="DOMINITINI, A. J.;Dominitini, A. J."
+               NRO-ID-CNPQ="4337365735112022"
+               GRAU-DE-ESCOLARIDADE="MBA"
+               ATIVIDADE-NO-GRUPO="Gerente de desenvolvimento de sistemas"
+               NOME-COMPLETO="Anderson Joaquim Dominitini"
+               SEQUENCIA-TECNICO="2139984"/>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="AUXILIARES DE LABORATÓRIO DA SAÚDE"
+               TITULO-OCUPACAO="Auxiliar de laboratório de análises clínicas"
+               CODIGO-CBO="5152-15"
+               NIVEL-DE-TREINAMENTO=""
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="F"
+               NOME-CITACOES="MONTEIRO, E."
+               NRO-ID-CNPQ="7908802170021333"
+               GRAU-DE-ESCOLARIDADE="Graduação"
+               ATIVIDADE-NO-GRUPO="Auxiliar de laboratório de análises clínicas"
+               NOME-COMPLETO="Elisangela Monteiro Coser"
+               SEQUENCIA-TECNICO="174063"/>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="LABORATORISTAS INDUSTRIAIS AUXILIARES"
+               TITULO-OCUPACAO="Auxiliar de laboratório de análises físico-químicas"
+               CODIGO-CBO="8181-10"
+               NIVEL-DE-TREINAMENTO=""
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="F"
+               NOME-CITACOES="OLIVEIRA, R. B. R."
+               NRO-ID-CNPQ="1414367078686298"
+               GRAU-DE-ESCOLARIDADE="Graduação"
+               ATIVIDADE-NO-GRUPO="Auxiliar de laboratório de análises físico-químicas"
+               NOME-COMPLETO="Renata de Barros Ramos Oliveira"
+               SEQUENCIA-TECNICO="3984828"/>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="ANALISTAS DE TECNOLOGIA DA INFORMAÇÃO"
+               TITULO-OCUPACAO="Analista de desenvolvimento de sistemas"
+               CODIGO-CBO="2124-05"
+               NIVEL-DE-TREINAMENTO="Especialização"
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="M"
+               NOME-CITACOES="SANTOS, F. G."
+               NRO-ID-CNPQ="7847366454992332"
+               GRAU-DE-ESCOLARIDADE="Graduação"
+               ATIVIDADE-NO-GRUPO="Analista de desenvolvimento de sistemas"
+               NOME-COMPLETO="Fausto Gonçalves dos Santos"
+               SEQUENCIA-TECNICO="3610962"/>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="BIÓLOGOS E AFINS" TITULO-OCUPACAO="Biólogo"
+               CODIGO-CBO="2211-05"
+               NIVEL-DE-TREINAMENTO="Doutorado"
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="M"
+               NOME-CITACOES="ARAÚJO, F. M. G.;ARAÚJO, FLÁVIO MARCOS GOMES;ARAUJO, F. M. G.;Flavio M.G.;Flávio M.G. de. Araújo;DE ARAÚJO, FLÁVIO M. G.;ARAUJO, FLÁVIO MARCOS GOMES;ARAÚJO, FLÁVIO M. G.;DE ARAÚJO, FLÁVIO M.G.;ARAÚJO, FLÁVIO"
+               NRO-ID-CNPQ="0216413834236245"
+               GRAU-DE-ESCOLARIDADE="Doutorado"
+               ATIVIDADE-NO-GRUPO="Biólogo"
+               NOME-COMPLETO="Flávio Marcos Gomes de Araújo"
+               SEQUENCIA-TECNICO="424170"/>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="BIÓLOGOS E AFINS" TITULO-OCUPACAO="Biólogo"
+               CODIGO-CBO="2211-05"
+               NIVEL-DE-TREINAMENTO=""
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="F"
+               NOME-CITACOES="Salim AC;SALIM, A. C. M.;SALIM, ''ANNA CHRISTINA MATOS"
+               NRO-ID-CNPQ="1036495926102983"
+               GRAU-DE-ESCOLARIDADE="Doutorado"
+               ATIVIDADE-NO-GRUPO="Biólogo"
+               NOME-COMPLETO="Anna Christina de Matos Salim"
+               SEQUENCIA-TECNICO="680052"/>
+   </TECNICOS>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9235581678302131"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver estudos genômicos, transcriptômicos e proteômicos e análises computacionais de diversos organismos."
+                         NOME-DA-LINHA-DE-PESQUISA="Genômica e Bioinformática"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">genoma</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">transcriptoma</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">proteoma</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">bioinformática</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">biologia computacional</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6384422328385521" NOME-COMPLETO="Rafael Borges da Silva Valadares"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2691834"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3917862630129689" NOME-COMPLETO="Fabiano Sviatopolk-Mirsky Pais"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="215442"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3034158469601943" NOME-COMPLETO="Aline Bruna Martins Vaz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="530035"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6134133834289438" NOME-COMPLETO="Aristóteles Góes Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="347215"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6405912413079760"
+                               NOME-COMPLETO="Rosiane Aparecida da Silva Pereira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="139667"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6744869566831263" NOME-COMPLETO="Maria Raquel Santos Carvalho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="42194"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8563794592947521" NOME-COMPLETO="Guilherme Corrêa de Oliveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="78902"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3138467006140339" NOME-COMPLETO="Sara Cuadros Orellana"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="123597"
+                               SEQUENCIA-PESQUISADOR="8"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1720713819025709" NOME-COMPLETO="Angela Cristina Volpini"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="402303"
+                               SEQUENCIA-PESQUISADOR="9"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4773538355500199" NOME-COMPLETO="Laila Alves Nahum"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="76879"
+                               SEQUENCIA-PESQUISADOR="10"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3184624581405522" NOME-COMPLETO="Larissa Lopes Silva Scholte"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="743015"
+                               SEQUENCIA-PESQUISADOR="11"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8989178759075946" NOME-COMPLETO="Gabriel da Rocha Fernandes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="866409"
+                               SEQUENCIA-PESQUISADOR="12"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8806800138164566" NOME-COMPLETO="Victor Satler Pylro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="874397"
+                               SEQUENCIA-PESQUISADOR="13"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3488290860135911" NOME-COMPLETO="Francislon Silva de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2242909"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9829305295054746" NOME-COMPLETO="Anton Semenchenko"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="156120"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20804008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20804008"
+                                  CODIGO-AREA="20800002"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Genômica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia Molecular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Bioquímica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="311"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4785391358519293"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Descrever novos genes, promotores, elementos funcionais, chassis de produção e desenvolver ferramentas de produção via células modificadas."
+                         NOME-DA-LINHA-DE-PESQUISA="Biologia Sintética"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">bioinformática</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">biologia sintética</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">genômica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">biologia de sistemas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6134133834289438" NOME-COMPLETO="Aristóteles Góes Neto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="347215"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20804008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20804008"
+                                  CODIGO-AREA="20800002"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Bioinformática e Biologia Computacional"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia Molecular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Bioquímica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="311"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20803001" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20803001"
+                                  CODIGO-AREA="20800002"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metabolismo e Bioenergética"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Bioquímica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="310"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1316065021693988"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Buscamos a identificação de novos alvos moleculares e compostos e novos antígenos candidatos à vacina para a esquistossomose.  A abordagem utilizada é genômica e molecular."
+                         NOME-DA-LINHA-DE-PESQUISA="Genômica e Biologia molecular do Schistosoma mansoni"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">esquistossomose</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Schistosoma mansoni</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">genoma</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">bioinformatica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">droga</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">vacina</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3917862630129689" NOME-COMPLETO="Fabiano Sviatopolk-Mirsky Pais"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="215442"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6405912413079760"
+                               NOME-COMPLETO="Rosiane Aparecida da Silva Pereira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="139667"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8563794592947521" NOME-COMPLETO="Guilherme Corrêa de Oliveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="78902"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1720713819025709" NOME-COMPLETO="Angela Cristina Volpini"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="402303"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0271842903270328" NOME-COMPLETO="Marina de Moraes Mourão"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="218361"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4773538355500199" NOME-COMPLETO="Laila Alves Nahum"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="76879"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3184624581405522" NOME-COMPLETO="Larissa Lopes Silva Scholte"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="743015"
+                               SEQUENCIA-PESQUISADOR="7"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2149775668715222" NOME-COMPLETO="Juliana Assis Geraldo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3148694"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2592194768880728" NOME-COMPLETO="Sandra Grossi Gava"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2800185"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20804008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20804008"
+                                  CODIGO-AREA="20800002"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Biologia Molecular do Schistosoma mansoni"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia Molecular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Bioquímica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="311"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20202008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20202008"
+                                  CODIGO-AREA="20200005"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Genética molecular do Schistosoma mansoni"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Genética Molecular e de Microorganismos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Genética"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="250"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="0157419377398127"
+               RAZAO-SOCIAL-DA-EMPRESA="Companhia Vale do Rio Doce"
+               NATUREZA-JURIDICA="Sociedade Anônima Aberta"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="33592510000154"
+               LOCALIDADE="Rio de Janeiro"
+               CIDADE="Rio de Janeiro"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="CVRD"
+               NOME-DA-EMPRESA="Companhia Vale do Rio Doce"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="19">Fornecimento, pelo parceiro, de insumos materiais para as atividades de pesquisa do grupo sem vinculação a um projeto específico de interesse mútuo</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="11">Transferência de recursos financeiros do grupo para o parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="1666995708301351"
+               RAZAO-SOCIAL-DA-EMPRESA="Satya Consultoria Ltda"
+               NATUREZA-JURIDICA="Sociedade Empresária Limitada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="10723320000123"
+               LOCALIDADE="Belo Horizonte"
+               CIDADE="Belo Horizonte"
+               UF="MG"
+               SIGLA-DA-EMPRESA="SATYA"
+               NOME-DA-EMPRESA="Satya Sistemas"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                          SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                          SETOR="Atividades dos serviços de tecnologia da informação"
+                                          GRANDE-SETOR="Informação e comunicação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que não se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="1869605583037515"
+               RAZAO-SOCIAL-DA-EMPRESA="Valid Biotecnologia Ltda"
+               NATUREZA-JURIDICA="Sociedade Empresária Limitada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="11456645000150"
+               LOCALIDADE="Belo Horizonte"
+               CIDADE="Belo Horizonte"
+               UF="MG"
+               SIGLA-DA-EMPRESA="MYLEUS"
+               NOME-DA-EMPRESA="Myleus Biotecnologia"
+               SEQUENCIA-EMPRESA="2">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.74.9"
+                                          SUBSETOR="Atividades profissionais, científicas e técnicas não especificadas anteriormente"
+                                          SETOR="Outras atividades profissionais, científicas e técnicas"
+                                          GRANDE-SETOR="Atividades profissionais, científicas e técnicas"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que não se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="18">Parceria com transfêrencia de recursos de qualquer espécie nos dois sentidos</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="5760218886603646"
+               RAZAO-SOCIAL-DA-EMPRESA="BIOCOD - Biotecnologia Ltda"
+               NATUREZA-JURIDICA="Sociedade Empresária Limitada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="03644004000109"
+               LOCALIDADE="Belo Horizonte"
+               CIDADE="Belo Horizonte"
+               UF="MG"
+               SIGLA-DA-EMPRESA="BIOCOD"
+               NOME-DA-EMPRESA="BIOCOD - Biotecnologia"
+               SEQUENCIA-EMPRESA="3">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="19">Fornecimento, pelo parceiro, de insumos materiais para as atividades de pesquisa do grupo sem vinculação a um projeto específico de interesse mútuo</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="10">Transferência de recursos financeiros do parceiro para o grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="3960012044254237"
+               RAZAO-SOCIAL-DA-EMPRESA="Bioaptus Consultoria e Serviços de Biotecnologia Ltda."
+               NATUREZA-JURIDICA="Sociedade Empresária Limitada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="10582049000153"
+               LOCALIDADE="Belo Horizonte"
+               CIDADE="Belo Horizonte"
+               UF="MG"
+               SIGLA-DA-EMPRESA="BIOAPTUS"
+               NOME-DA-EMPRESA="Bioaptus Consultoria e Serviços de Biotecnologia"
+               SEQUENCIA-EMPRESA="4">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.21.2"
+                                          SUBSETOR="Fabricação de produtos farmacêuticos"
+                                          SETOR="Fabricação de produtos farmoquímicos e farmacêuticos"
+                                          GRANDE-SETOR="Indústrias de transformação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="G.46.6"
+                                          SUBSETOR="Comércio atacadista de máquinas, aparelhos e equipamentos, exceto de tecnologias de informação e comunicação"
+                                          SETOR="Comércio por atacado, exceto veículos automotores e motocicletas"
+                                          GRANDE-SETOR="Comércio; reparação de veículos automotores e motocicletas"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="1"/>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.20.2"
+                                          SUBSETOR="Fabricação de produtos químicos orgânicos"
+                                          SETOR="Fabricação de produtos químicos"
+                                          GRANDE-SETOR="Indústrias de transformação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="2"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que não se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="14">Transferência de insumos materiais para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="24032015" DATA-ENTRADA="18112013"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3034158469601943"
+               NOME-DO-EGRESSO="Aline Bruna Martins Vaz"/>
+      <EGRESSO DATA-SAIDA="24032015" DATA-ENTRADA="18112013"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3917862630129689"
+               NOME-DO-EGRESSO="Fabiano Sviatopolk-Mirsky Pais"/>
+      <EGRESSO DATA-SAIDA="24032015" DATA-ENTRADA="18112013"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3184624581405522"
+               NOME-DO-EGRESSO="Larissa Lopes Silva Scholte"/>
+      <EGRESSO DATA-SAIDA="24032015" DATA-ENTRADA="23062014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3034158469601943"
+               NOME-DO-EGRESSO="Aline Bruna Martins Vaz"/>
+      <EGRESSO DATA-SAIDA="24032015" DATA-ENTRADA="23062014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3917862630129689"
+               NOME-DO-EGRESSO="Fabiano Sviatopolk-Mirsky Pais"/>
+      <EGRESSO DATA-SAIDA="24032015" DATA-ENTRADA="23062014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3184624581405522"
+               NOME-DO-EGRESSO="Larissa Lopes Silva Scholte"/>
+      <EGRESSO DATA-SAIDA="24032015" DATA-ENTRADA="10102014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3184624581405522"
+               NOME-DO-EGRESSO="Larissa Lopes Silva Scholte"/>
+      <EGRESSO DATA-SAIDA="24032015" DATA-ENTRADA="10102014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3917862630129689"
+               NOME-DO-EGRESSO="Fabiano Sviatopolk-Mirsky Pais"/>
+      <EGRESSO DATA-SAIDA="24032015" DATA-ENTRADA="10102014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3034158469601943"
+               NOME-DO-EGRESSO="Aline Bruna Martins Vaz"/>
+      <EGRESSO DATA-SAIDA="24032015" DATA-ENTRADA="10122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3184624581405522"
+               NOME-DO-EGRESSO="Larissa Lopes Silva Scholte"/>
+      <EGRESSO DATA-SAIDA="24032015" DATA-ENTRADA="10122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3917862630129689"
+               NOME-DO-EGRESSO="Fabiano Sviatopolk-Mirsky Pais"/>
+      <EGRESSO DATA-SAIDA="24032015" DATA-ENTRADA="10122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3034158469601943"
+               NOME-DO-EGRESSO="Aline Bruna Martins Vaz"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

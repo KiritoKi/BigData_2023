@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="0885492618252118"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="190055"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="04112016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="2720407863394252" CODIGO-AREA-PREDOMINANTE="30400007"
+                           NOME-DA-UNIDADE="Instituto Federal do Espírito Santo - Campus Serra"
+                           NOME-DO-ORGAO="Instituto Federal do Espírito Santo - Campus Serra"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="ES"
+                           SIGLA-DA-INSTITUICAO="IFES"
+                           NOME-DA-INSTITUICAO="Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo"
+                           AREA-PREDOMINANTE="Engenharia Elétrica"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="2011"
+                           NOME-DO-GRUPO="NERA - Núcleo de Estudos em Robótica e Automação">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="3651077981942079" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Leonardo Azevedo Scardua"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="3966230569744918" PAIS-DE-NASCIMENTO="PER" NACIONALIDADE="B"
+                        NOME-COMPLETO="Richard Junior Manuel Godinez Tello"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3205002" DDDFAX="27"
+                                       LONGITUDE="-40.198090699999966"
+                                       LATITUDE="-20.1920861"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Serra"
+                                       NUMERO="5"
+                                       COMPLEMENTO="IFES - Campus Serra"
+                                       LOGRADOURO="Rodovia ES-010 , km6"
+                                       HOME-PAGE="http://nera.sr.ifes.edu.br/"
+                                       E-MAIL="lascardua@ifes.edu.br"
+                                       FAX=""
+                                       RAMAL=""
+                                       TELEFONE="33489200"
+                                       DDD="27"
+                                       CEP="29173087"
+                                       CIDADE="Serra"
+                                       UF="ES"
+                                       BAIRRO="Manguinhos"/>
+      <REPERCUSSOES>Alguns resultados alcançados até o presente são:1. Desenvolvimento de sistema para navegação autônoma de veículos, inclusive com adaptação de um veículo comercial. Patente BR1020140216910 depositada junto ao INPI (aguardando avaliação): "Transporte Rodoviário Autônomo por Ferrovias Virtuais".2. Desenvolvimento do RoSoS - simulador gratuito de futebol de robôs para alunos de nível médio.3. Orientação e coordenação de atividades de robótica educacional e participação em competições de robótica regionais, nacionais e internacionais com conquista de vários prêmios.4. Premiação com terceiro melhor artigo apresentado no Workshop de Robótica Educacional de 2012 (parte do Latin American Robotics Symposium 2012).5. Realização de oficinas de Introdução à Eletrônica com Arduino e de Introdução a Sistemas Embarcados com Arduino para alunos de nível médio e técnico da escola estadual Clóvis Borges Miguel e do IFES.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="OLIVEIRA, H. C. G." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2016828655624540"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Hudson Cassio Gomes de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica Educacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administração</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MARTINS, F. N.;MARTINS, F.N.;MARTINSY, F.N.;MARTINSY, F. N.;MARTINS, FELIPE NASCIMENTO;Martins, Felipe N."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6987889322617026"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Felipe Nascimento Martins">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica e Automação Aplicada"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica Educacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica Educacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="AMARAL, E. M. A." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2192730100034417"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Eduardo Max Amaro Amaral">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica e Automação Aplicada"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica Educacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Computadores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Computadores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica e Inteligência Computacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SCARDUA, L. A.;SCARDUA, LEONARDO AZEVEDO;Leonardo A. Scardua;Scardua, Leonardo A."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3651077981942079"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Leonardo Azevedo Scardua">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica e Automação Aplicada"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aprendizado Autônomo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estimação de Estados em Sistemas Dinâmicos Não-Lineares</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PEREIRA, F. G.;Pereira, Flávio Garcia"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3794041743196202"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Flávio Garcia Pereira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica e Automação Aplicada"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cooperação entre robôs</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Cooperação entre robôs e seres humanos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica Móvel</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Visão computacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="RESENDE, C. Z.;RESENDE, CASSIUS Z.;RESENDE, CASSIUS ZANETTI"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4261626566157032"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Cassius Zanetti Resende">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica e Automação Aplicada"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Elétricos, Magnéticos e Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Eletrônica Industrial, Sistemas e Controles Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR SEQUENCIA-PESQUISADOR="6" SEXO="M" NRO-ID-CNPQ="9741308000396752"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rafael Peixoto Derenzi Vivacqua">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica e Automação Aplicada"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BASTOS FILHO, T. F.;Bastos, T. F.;Filho, T. F. B.;Bastos-Filho, T. F.;BASTOS-FILHO, TEODIANO FREIRE;Freire-Bastos, Teodiano;FILHO, TEODIANO FREIRE BASTOS;BASTOS, TEODIANO FREIRE;BASTOS, TEODIANO;Teodiano Freire Bastos-Filho;Teodiano Bastos-Filho;Bastos-Filho, Teodiano;TEODIANO, BASTOS;Bastos, Teodiano"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3761585497791105"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Teodiano Freire Bastos Filho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica de Reabilitação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CORTELETTI, R." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3373905719716652"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Reginaldo Corteletti">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica e Automação Aplicada"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Processos Eletrônicos, Retroalimentação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="TELLO, R. J. M. G.;TELLO, RICHARD M. G.;GODINEZ, RICHARD;TELLO, RICHARD JUNIOR MANUEL GODINEZ;TELLO, R. G.;TELLO, RICHARD J.M.G."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3966230569744918"
+                   PAIS-DE-NASCIMENTO="PER"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Richard Junior Manuel Godinez Tello">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica e Automação Aplicada"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica de Reabilitação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação Eletrônica de Processos Elétricos e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Biomédica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Eletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="SOUZA, C. L. N." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO AZEVEDO SCARDUA"
+                 NRO-ID-CNPQ-ORIENTADOR="3651077981942079"
+                 SEQUENCIA-ESTUDANTE="6280013"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3774618917916766"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Claudio Leandro Nascimento Souza">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica e Automação Aplicada"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FERRARINI, T. S." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RICHARD JUNIOR MANUEL GODINEZ TELLO"
+                 NRO-ID-CNPQ-ORIENTADOR="3966230569744918"
+                 SEQUENCIA-ESTUDANTE="4968419"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9540243726951324"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Thaís da Silva Ferrarini">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica de Reabilitação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FONSECA, E. N." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RICHARD JUNIOR MANUEL GODINEZ TELLO"
+                 NRO-ID-CNPQ-ORIENTADOR="3966230569744918"
+                 SEQUENCIA-ESTUDANTE="6104725"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5687503253141790"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Estevão Nolasco Fonseca">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Elétricos, Magnéticos e Eletrônicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NASCIMENTO, L. S." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RICHARD JUNIOR MANUEL GODINEZ TELLO"
+                 NRO-ID-CNPQ-ORIENTADOR="3966230569744918"
+                 SEQUENCIA-ESTUDANTE="2866016"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2006521338042237"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luiz Soneghet Nascimento">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica de Reabilitação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Processos Eletrônicos, Retroalimentação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Eletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica, Mecatrônica e Automação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="VASCONCELLOS, B. M." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RICHARD JUNIOR MANUEL GODINEZ TELLO"
+                 NRO-ID-CNPQ-ORIENTADOR="3966230569744918"
+                 SEQUENCIA-ESTUDANTE="6383577"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2749747136706265"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruno Meschiatti Vasconcellos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica de Reabilitação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PEREIRA, A. P. D." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FELIPE NASCIMENTO MARTINS"
+                 NRO-ID-CNPQ-ORIENTADOR="6987889322617026"
+                 SEQUENCIA-ESTUDANTE="4082540"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3968232322862066"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alan Pablo Donati Pereira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica e Automação Aplicada"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Mecânica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SCHROEFFER, M. G." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FELIPE NASCIMENTO MARTINS"
+                 NRO-ID-CNPQ-ORIENTADOR="6987889322617026"
+                 SEQUENCIA-ESTUDANTE="4222015"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1945683340067226"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Miguel Gonçalves Schroeffer">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Robótica e Automação Aplicada"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle e Automação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0953057243003520"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de ferramentas robóticas para apoio a pessoas com deficiência usando sensores e sinais biológicos como EMG, EOG e EEG."
+                         NOME-DA-LINHA-DE-PESQUISA="Robótica de Reabilitação"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Sinais Biológicos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">sensores</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Próteses</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3761585497791105" NOME-COMPLETO="Teodiano Freire Bastos Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="23222"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3966230569744918"
+                               NOME-COMPLETO="Richard Junior Manuel Godinez Tello"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="4180122"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9540243726951324" NOME-COMPLETO="Thaís da Silva Ferrarini"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4968419"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2006521338042237" NOME-COMPLETO="Luiz Soneghet Nascimento"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2866016"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2749747136706265" NOME-COMPLETO="Bruno Meschiatti Vasconcellos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6383577"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31301010" CODIGO-ESPECIALIDADE="31301010"
+                                  CODIGO-SUB-AREA="31301002"
+                                  CODIGO-AREA="31300006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento de Sinais Biológicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Bioengenharia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Biomédica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="648"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2475132496974559"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Aplicar a tecnologia de automação e de microcontroladores no desenvolvimento de sistemas robóticos, equipamentos automáticos e de sistemas embarcados."
+                         NOME-DA-LINHA-DE-PESQUISA="Robótica e Automação Aplicada"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Microcontroladores</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Automação de Processos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Eletrônica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Sistemas Embarcados</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Robótica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6987889322617026" NOME-COMPLETO="Felipe Nascimento Martins"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="406450"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2192730100034417" NOME-COMPLETO="Eduardo Max Amaro Amaral"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2293418"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3651077981942079" NOME-COMPLETO="Leonardo Azevedo Scardua"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="148361"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3794041743196202" NOME-COMPLETO="Flávio Garcia Pereira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="429825"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4261626566157032" NOME-COMPLETO="Cassius Zanetti Resende"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="171381"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9741308000396752" NOME-COMPLETO="Rafael Peixoto Derenzi Vivacqua"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="181457"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3373905719716652" NOME-COMPLETO="Reginaldo Corteletti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="67348"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3966230569744918"
+                               NOME-COMPLETO="Richard Junior Manuel Godinez Tello"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="4180122"
+                               SEQUENCIA-PESQUISADOR="8"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3774618917916766" NOME-COMPLETO="Claudio Leandro Nascimento Souza"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6280013"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3968232322862066" NOME-COMPLETO="Alan Pablo Donati Pereira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4082540"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1945683340067226" NOME-COMPLETO="Miguel Gonçalves Schroeffer"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4222015"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30403030" CODIGO-ESPECIALIDADE="30403030"
+                                  CODIGO-SUB-AREA="30403006"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Circuitos Eletrônicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Circuitos Elétricos, Magnéticos e Eletrônicos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="432"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30405025" CODIGO-ESPECIALIDADE="30405025"
+                                  CODIGO-SUB-AREA="30405009"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Automação Eletrônica de Processos Elétricos e Industriais"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Eletrônica Industrial, Sistemas e Controles Eletrônicos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="443"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.4" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8523670004564628"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver e promover atividades ligadas à robótica para estimular a busca pelo conhecimento técnico e científico, o trabalho em equipe e o desenvolvimento autônomo para solução de problemas. Também objetiva o desenvolvimento de hardware e software a serem aplicados em robótica educacional."
+                         NOME-DA-LINHA-DE-PESQUISA="Robótica Educacional"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Robótica Educacional</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Robótica Pedagógica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2016828655624540" NOME-COMPLETO="Hudson Cassio Gomes de Oliveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="3158171"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6987889322617026" NOME-COMPLETO="Felipe Nascimento Martins"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="406450"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2192730100034417" NOME-COMPLETO="Eduardo Max Amaro Amaral"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2293418"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="70807078" CODIGO-ESPECIALIDADE="70807078"
+                                  CODIGO-SUB-AREA="70807000"
+                                  CODIGO-AREA="70800006"
+                                  CODIGO-GRANDE-AREA="70000000"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Ensino Profissionalizante"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Tópicos Específicos de Educação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Educação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Humanas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1208"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30403030" CODIGO-ESPECIALIDADE="30403030"
+                                  CODIGO-SUB-AREA="30403006"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Circuitos Eletrônicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Circuitos Elétricos, Magnéticos e Eletrônicos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="432"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30402050" CODIGO-ESPECIALIDADE="30402050"
+                                  CODIGO-SUB-AREA="30402000"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas Eletrônicos de Medida e de Controle"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="428"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.4" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8454373827269336"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudar e desenvolver técnicas de visão computacional, principalmente com foco em aplicações ligadas à robótica e a outras áreas de automação."
+                         NOME-DA-LINHA-DE-PESQUISA="Visão Computacional"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Visão computacional</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Processamento digital de imagens</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6987889322617026" NOME-COMPLETO="Felipe Nascimento Martins"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="406450"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3794041743196202" NOME-COMPLETO="Flávio Garcia Pereira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="429825"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9741308000396752" NOME-COMPLETO="Rafael Peixoto Derenzi Vivacqua"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="181457"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5687503253141790" NOME-COMPLETO="Estevão Nolasco Fonseca"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6104725"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303057" CODIGO-ESPECIALIDADE="10303057"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento Gráfico (Graphics)"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="61"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28.6"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES="Simulador de futebol de robôs especialmente projetado para alunos de ensino médio. Utiliza a plataforma e a linguagem Processing como base. Disponível em: http://ivanseidel.github.io/Robot-Soccer-Simulator/ "
+                MODELO=""
+                VERSAO=""
+                NOME="RoSoS - Robot Soccer Simulator"
+                CLASSIFICACAO="Simulação"
+                TIPO-DE-LICENCIAMENTO="Domínio público"
+                DESENVOLVIMENTO-PROPRIO="S"
+                SEQUENCIA-SOFTWARE="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Orçamento da própria instituição</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES="Toolbox para MATLAB/Simulink para simulação de robôs de tração diferencial considerando seu modelo completo (cinemática + dinâmica). Estão incluídos parâmetros para simulação de vários robôs comerciais, como Pioneer 3 e Khepera III. Também inclui controladores adaptativos para seguimento de trajetória e bloco para cálculo de índices de desempenho. Disponível em: http://www.mathworks.com/matlabcentral/fileexchange/44850-velocity-based-dynamic-model-and-adaptive-controller-for-differential-steered-mobile-robot "
+                MODELO=""
+                VERSAO="1.4"
+                NOME="Modelo dinâmico e controladores para robôs móveis"
+                CLASSIFICACAO="Simulação"
+                TIPO-DE-LICENCIAMENTO="Livre"
+                DESENVOLVIMENTO-PROPRIO="S"
+                SEQUENCIA-SOFTWARE="1">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Orçamento da própria instituição</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES="Encontra o melhor arranjo de valores para ganhos de controlador de seguimento de trajetórias de robôs móveis utilizando Algoritmos Genéticos. As simulações são feitas em MATLAB utilizando o modelo dinâmico do robô móvel e os valores dos ganhos podem ser obtidos de forma a minimizar um índice de desempenho (como IAE, ITAE), um índice de energia ou uma combinação de ambos.   Disponível em: https://www.researchgate.net/publication/273257562_Optimizing_robot_controller_gains_with_Genetic_Algorithm_-_MATLABSimulink_code"
+                MODELO=""
+                VERSAO=""
+                NOME="Otimização de ganhos de controladores para robôs móveis com Algoritmos Genéticos"
+                CLASSIFICACAO="Simulação"
+                TIPO-DE-LICENCIAMENTO="Livre"
+                DESENVOLVIMENTO-PROPRIO="S"
+                SEQUENCIA-SOFTWARE="2">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Orçamento da própria instituição</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+   </SOFTWARES>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

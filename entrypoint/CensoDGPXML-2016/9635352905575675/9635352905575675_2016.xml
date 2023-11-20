@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="9635352905575675"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="161915"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="01042016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="3664254792794736" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE="Departamento de Pós-Graduação em Ciência da Computação"
+                           NOME-DO-ORGAO="Departamento de Pós-Graduação em Ciência da Computação"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="RS"
+                           SIGLA-DA-INSTITUICAO="PUCRS"
+                           NOME-DA-INSTITUICAO="Pontifícia Universidade Católica do Rio Grande do Sul"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2007"
+                           NOME-DO-GRUPO="Grupo de Gerência de Recursos e Virtualização (GGRV)">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="6703453792017497" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Cesar Augusto Fonticielha De Rose"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="4315350764773182" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Avelino Francisco Zorzo"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="4314902" DDDFAX="51"
+                                       LONGITUDE="-51.17461565132544"
+                                       LATITUDE="-30.060987930580794"
+                                       CAIXA-POSTAL="1429 "
+                                       LOCALIDADE="Porto Alegre"
+                                       NUMERO="6681"
+                                       COMPLEMENTO="Faculdade de Informática - Prédio 32"
+                                       LOGRADOURO="Pontifícia Universidade Católica do Rio Grande do Sul"
+                                       HOME-PAGE="www.inf.pucrs.br/~derose"
+                                       E-MAIL="cesar.derose@pucrs.br"
+                                       FAX="3320-3758"
+                                       RAMAL=""
+                                       TELEFONE="3320-3558"
+                                       DDD="51"
+                                       CEP="90619900"
+                                       CIDADE="Porto Alegre"
+                                       UF="RS"
+                                       BAIRRO="Partenon"/>
+      <REPERCUSSOES>Desenvolvimento de pesquisa e ensino nas áreas de gerencia de recursos e virtualização aplicadas as áreas de arquiteturas paralelas e distribuídas, redes de computadores e sistemas operacionais.As pesquisas do grupo são dedicadas ao estudo de técnicas e metodologias de gerencia de recursos e virtualização aplicadas no desenvolvimento de soluções para problemas das áreas de arquiteturas paralelas e distribuídas, redes de computadores e sistemas operacionais. O grupo apresenta atualmente duas linhas principais de pesquisa: (a) utilização e aprimoramento de técnicas de  virtualização em ambientes corporativos (Nuvens Computacionais) e (b) aprimoramento da gerencia de recursos em máquinas agregadas (clusters) e grades computacionais (grids)</REPERCUSSOES>
+      <REDES-DE-PESQUISA>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="RPEGA"
+                           URL-DA-REDE-DE-PESQUISA="http://www.petrobras.com.br/minisite/comunidade_cienciatecnologia/portugues/redestematicas_objetivos.asp"
+                           NOME-DA-REDE-DE-PESQUISA="Rede Petrobrás de Estudos de Geofísica Aplicada "/>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="SINAPAD"
+                           URL-DA-REDE-DE-PESQUISA="https://www.lncc.br/sinapad/"
+                           NOME-DA-REDE-DE-PESQUISA="SISTEMA NACIONAL DE PROCESSAMENTO DE ALTO DESEMPENHO"/>
+      </REDES-DE-PESQUISA>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="De Rose, C. A. F.;De Rose, César A. F.;De Rose, CAF.;De Rose , C.;De Rose, Cesar A. F.;DE ROSE, C.A.F.;ROSE, CESAR AUGUSTO FONTICIELHA DE;De Rose, Cesar;ROSE, CESAR A.F. DE;DE ROSE, CESAR A.F.;DE ROSE, CÉSAR A.F.;ROSE, CÉSAR A.F. DE;DE ROSE, CESAR A.;DE ROSE, C;DE ROSE, CÉSAR A. F."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6703453792017497"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Cesar Augusto Fonticielha De Rose">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprimoramento da gerência de recursos em máquinas agregadas (Clusters) e grades computacionais (Grids)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimizando uso de arquiteturas com grandes quantidades de memória não-volátil"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Utilização e aprimoramento de técnicas de virtualização em ambientes de Nuvem Computacional (Cloud)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gerência de Recursos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia e Técnicas da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>PROCESSAMENTO PARALELO E DISTRIBUÍDO (PPD)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ZORZO, A. F.;ZORZO, A;Zorzo, A.F.;Zorzo, Avelino F.;ZORZO, AVELINO;ZORZO, AVELINO FRANCISCO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4315350764773182"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Avelino Francisco Zorzo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimizando uso de arquiteturas com grandes quantidades de memória não-volátil"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Utilização e aprimoramento de técnicas de virtualização em ambientes de Nuvem Computacional (Cloud)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computabilidade e Modelos de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagem Formais e Autômatos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="NEVES, M. V.;NEVES, MARCELO V.;NEVES, MARCELO VEIGA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3728881230901653"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcelo Veiga Neves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprimoramento da gerência de recursos em máquinas agregadas (Clusters) e grades computacionais (Grids)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimizando uso de arquiteturas com grandes quantidades de memória não-volátil"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Paralelo e Distribuído</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Computadores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Embarcados</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="ROSSI, F. D.;Rossi, Fábio Diniz;ROSSI, F.D.;ROSSI, FABIO D.;ROSSI, FABIO DINIZ;DINIZ ROSSI, FABIO;ROSSI, FÁBIO D."
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CESAR AUGUSTO FONTICIELHA DE ROSE"
+                 NRO-ID-CNPQ-ORIENTADOR="6703453792017497"
+                 SEQUENCIA-ESTUDANTE="738716"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1338191155744103"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Fábio Diniz Rossi">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprimoramento da gerência de recursos em máquinas agregadas (Clusters) e grades computacionais (Grids)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Utilização e aprimoramento de técnicas de virtualização em ambientes de Nuvem Computacional (Cloud)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teleinformática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="XAVIER, M. G.;XAVIER, MIGUEL G.;XAVIER, MIGUEL GOMES;XAVIER, MIGUEL"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CESAR AUGUSTO FONTICIELHA DE ROSE"
+                 NRO-ID-CNPQ-ORIENTADOR="6703453792017497"
+                 SEQUENCIA-ESTUDANTE="4623152"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9200500508869891"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Miguel Gomes Xavier">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Utilização e aprimoramento de técnicas de virtualização em ambientes de Nuvem Computacional (Cloud)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BALADÃO, E." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CESAR AUGUSTO FONTICIELHA DE ROSE"
+                 NRO-ID-CNPQ-ORIENTADOR="6703453792017497"
+                 SEQUENCIA-ESTUDANTE="4222968"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3973331098593579"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Eduardo Baladão">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprimoramento da gerência de recursos em máquinas agregadas (Clusters) e grades computacionais (Grids)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimizando uso de arquiteturas com grandes quantidades de memória não-volátil"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LUDWIG, U. L." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CESAR AUGUSTO FONTICIELHA DE ROSE"
+                 NRO-ID-CNPQ-ORIENTADOR="6703453792017497"
+                 SEQUENCIA-ESTUDANTE="3832604"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3096192208379236"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Uillian Luiz Ludwig">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimizando uso de arquiteturas com grandes quantidades de memória não-volátil"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MEDAGLIA, D. R." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CESAR AUGUSTO FONTICIELHA DE ROSE"
+                 NRO-ID-CNPQ-ORIENTADOR="6703453792017497"
+                 SEQUENCIA-ESTUDANTE="3320068"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4774737493395691"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Diego Rahn Medaglia">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimizando uso de arquiteturas com grandes quantidades de memória não-volátil"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MATTEUSSI, K. J.;MATTEUSSI, Kassiano;MATTEUSSI, J. Kassiano;MATTEUSSI, KASSIANO J."
+                 NIVEL-DE-TREINAMENTO="Curso de curta duração"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CESAR AUGUSTO FONTICIELHA DE ROSE"
+                 NRO-ID-CNPQ-ORIENTADOR="6703453792017497"
+                 SEQUENCIA-ESTUDANTE="4820228"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3164563138635561"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Kassiano José Matteussi">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Utilização e aprimoramento de técnicas de virtualização em ambientes de Nuvem Computacional (Cloud)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>BigData</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação de Alto Desempenho</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Distribuídos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FRANÇA, G. R." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CESAR AUGUSTO FONTICIELHA DE ROSE"
+                 NRO-ID-CNPQ-ORIENTADOR="6703453792017497"
+                 SEQUENCIA-ESTUDANTE="5471060"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2700048634742306"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gabriel Radzki França">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Utilização e aprimoramento de técnicas de virtualização em ambientes de Nuvem Computacional (Cloud)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="STORCH, M. S." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CESAR AUGUSTO FONTICIELHA DE ROSE"
+                 NRO-ID-CNPQ-ORIENTADOR="6703453792017497"
+                 SEQUENCIA-ESTUDANTE="2329056"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8192135783907003"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Mauro Strelow Storch">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprimoramento da gerência de recursos em máquinas agregadas (Clusters) e grades computacionais (Grids)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Computadores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Distribuídos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MENDES, B. B." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CESAR AUGUSTO FONTICIELHA DE ROSE"
+                 NRO-ID-CNPQ-ORIENTADOR="6703453792017497"
+                 SEQUENCIA-ESTUDANTE="5307021"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8353116213809400"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruno Bragança Mendes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprimoramento da gerência de recursos em máquinas agregadas (Clusters) e grades computacionais (Grids)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BAUM JR, M. J.;BAUM JR, Mauricio Joni"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CESAR AUGUSTO FONTICIELHA DE ROSE"
+                 NRO-ID-CNPQ-ORIENTADOR="6703453792017497"
+                 SEQUENCIA-ESTUDANTE="4391792"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0180383852001223"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Mauricio Joni Baum Júnior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimizando uso de arquiteturas com grandes quantidades de memória não-volátil"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FONSECA, F. M. B." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CESAR AUGUSTO FONTICIELHA DE ROSE"
+                 NRO-ID-CNPQ-ORIENTADOR="6703453792017497"
+                 SEQUENCIA-ESTUDANTE="6623365"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2619706198040632"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Fábio Miguel Blasak da Fonseca">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimizando uso de arquiteturas com grandes quantidades de memória não-volátil"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PUGLIA, G. O." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="AVELINO FRANCISCO ZORZO"
+                 NRO-ID-CNPQ-ORIENTADOR="4315350764773182"
+                 SEQUENCIA-ESTUDANTE="4147598"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6719554334496136"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gianlucca Oliveira Puglia">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimizando uso de arquiteturas com grandes quantidades de memória não-volátil"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PEREZ, TACIANO" NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CESAR AUGUSTO FONTICIELHA DE ROSE"
+                 NRO-ID-CNPQ-ORIENTADOR="6703453792017497"
+                 SEQUENCIA-ESTUDANTE="775355"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9867177425633530"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Taciano Dreckmann Perez">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aprimoramento da gerência de recursos em máquinas agregadas (Clusters) e grades computacionais (Grids)"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="ADMINISTRADORES DE TECNOLOGIA DA INFORMAÇÃO"
+               TITULO-OCUPACAO="Administrador de sistemas operacionais"
+               CODIGO-CBO="2123-15"
+               NIVEL-DE-TREINAMENTO="Graduação"
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="M"
+               NOME-CITACOES="BELLÉ, R. L."
+               NRO-ID-CNPQ="5631611187088423"
+               GRAU-DE-ESCOLARIDADE="Ensino Médio (2o grau)"
+               ATIVIDADE-NO-GRUPO="Administrador de sistemas operacionais"
+               NOME-COMPLETO="Rafael Lorenzo Bellé"
+               SEQUENCIA-TECNICO="5585807"/>
+   </TECNICOS>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6263511113624414"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Ampliar o uso de técnicas de virtualização através da sua otimização e adaptação. Mais especificamente: otimizar a instalação e gerência de VMs visando a melhoria de desempenho de forma dinâmica, além de permitir o seu uso eficiente na emulação de ambientes distribuídos de larga escala; melhorar a alocação de recursos de VMs através da análise de desempenho; desenvolver recursos para o teste de infra-estruturas de software virtualizadas a partir de requisitos derivados de SLAs."
+                         NOME-DA-LINHA-DE-PESQUISA="Utilização e aprimoramento de técnicas de virtualização em ambientes de Nuvem Computacional (Cloud)"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Gerencia de recursos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Virtualização</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Service Level Agreement (SLA)</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Computação em Nuvem</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6703453792017497"
+                               NOME-COMPLETO="Cesar Augusto Fonticielha De Rose"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="97321"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4315350764773182" NOME-COMPLETO="Avelino Francisco Zorzo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="70909"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1338191155744103" NOME-COMPLETO="Fábio Diniz Rossi"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="738716"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9200500508869891" NOME-COMPLETO="Miguel Gomes Xavier"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4623152"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3164563138635561" NOME-COMPLETO="Kassiano José Matteussi"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4820228"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2700048634742306" NOME-COMPLETO="Gabriel Radzki França"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5471060"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8156949478632242" OBJETIVO-DA-LINHA-DE-PESQUISA="a"
+                         NOME-DA-LINHA-DE-PESQUISA="Aprimoramento da gerência de recursos em máquinas agregadas (Clusters) e grades computacionais (Grids)"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Gerência de Recursos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Máquinas Agregadas (cluster)</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Grades Computacionais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Monitoração de Carga</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6703453792017497"
+                               NOME-COMPLETO="Cesar Augusto Fonticielha De Rose"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="97321"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3728881230901653" NOME-COMPLETO="Marcelo Veiga Neves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="558253"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1338191155744103" NOME-COMPLETO="Fábio Diniz Rossi"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="738716"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3973331098593579" NOME-COMPLETO="Eduardo Baladão"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4222968"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8192135783907003" NOME-COMPLETO="Mauro Strelow Storch"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2329056"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8353116213809400" NOME-COMPLETO="Bruno Bragança Mendes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5307021"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9867177425633530" NOME-COMPLETO="Taciano Dreckmann Perez"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="775355"
+                             SEQUENCIA-ESTUDANTE="5"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304037" CODIGO-ESPECIALIDADE="10304037"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Software Básico"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="65"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="O.84.3"
+                                SUBSETOR="Administração pública, defesa e seguridade social"
+                                SETOR="Administração pública, defesa e seguridade social"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4519071727495906"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Os aspectos a serem investigados estão entres os tópicos a frente do seu tempo para equipamentos que ainda não estão no mercado (equipamentos com grandes quantidades de memória não-volátil ou com centenas de processadores). Se busca uma nova forma de organizar dados em sistemas de arquivos para grandes quantidades de memória não-volátil, alterando a forma como pensamos sistemas operacionais e o desenvolvimento de aplicações para estas máquinas."
+                         NOME-DA-LINHA-DE-PESQUISA="Otimizando uso de arquiteturas com grandes quantidades de memória não-volátil"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Sistemas Operacionais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Memórias não volateis</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Aplicações Paralelas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Máquinas Muticore</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Big Data</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6703453792017497"
+                               NOME-COMPLETO="Cesar Augusto Fonticielha De Rose"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="97321"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4315350764773182" NOME-COMPLETO="Avelino Francisco Zorzo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="70909"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3728881230901653" NOME-COMPLETO="Marcelo Veiga Neves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="558253"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3973331098593579" NOME-COMPLETO="Eduardo Baladão"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4222968"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3096192208379236" NOME-COMPLETO="Uillian Luiz Ludwig"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3832604"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4774737493395691" NOME-COMPLETO="Diego Rahn Medaglia"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3320068"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0180383852001223" NOME-COMPLETO="Mauricio Joni Baum Júnior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4391792"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2619706198040632" NOME-COMPLETO="Fábio Miguel Blasak da Fonseca"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6623365"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6719554334496136" NOME-COMPLETO="Gianlucca Oliveira Puglia"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4147598"
+                             SEQUENCIA-ESTUDANTE="6"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="2803850437408107"
+               RAZAO-SOCIAL-DA-EMPRESA="Hewllet Packard Co."
+               NATUREZA-JURIDICA=""
+               SEGMENTO-ECONOMICO=""
+               CNPJ=""
+               LOCALIDADE="Avondale"
+               CIDADE="Avondale"
+               UF=""
+               SIGLA-DA-EMPRESA="HP"
+               NOME-DA-EMPRESA="Hewllet Packard Co."
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que não se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="0516751064380756"
+               RAZAO-SOCIAL-DA-EMPRESA="HP Labs Palo Alto"
+               NATUREZA-JURIDICA=""
+               SEGMENTO-ECONOMICO=""
+               CNPJ=""
+               LOCALIDADE="Palo Alto"
+               CIDADE="Palo Alto"
+               UF=""
+               SIGLA-DA-EMPRESA="HP Labs"
+               NOME-DA-EMPRESA="HP Labs Palo Alto"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="14">Transferência de insumos materiais para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="7194173920943324"
+               RAZAO-SOCIAL-DA-EMPRESA="Dell Computadores do Brasil Ltda"
+               NATUREZA-JURIDICA="Sociedade Empresária Limitada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="72381189000110"
+               LOCALIDADE="Eldorado do Sul"
+               CIDADE="Eldorado do Sul"
+               UF="RS"
+               SIGLA-DA-EMPRESA="DELL"
+               NOME-DA-EMPRESA="Dell Computadores do Brasil"
+               SEQUENCIA-EMPRESA="2">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                          SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                          SETOR="Atividades dos serviços de tecnologia da informação"
+                                          GRANDE-SETOR="Informação e comunicação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="23">Outros tipos predominantes de relacionamento que não se enquadrem em nenhum dos anteriores.</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="2206312270055144"
+               RAZAO-SOCIAL-DA-EMPRESA="Petróleo Brasileiro S/A"
+               NATUREZA-JURIDICA="Sociedade de Economia Mista"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="33000167000101"
+               LOCALIDADE="Rio de Janeiro"
+               CIDADE="Rio de Janeiro"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="PETROBRAS"
+               NOME-DA-EMPRESA="Petróleo Brasileiro - Rio de Janeiro - Matriz"
+               SEQUENCIA-EMPRESA="3">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.19.2"
+                                          SUBSETOR="Fabricação de produtos derivados do petróleo"
+                                          SETOR="Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis"
+                                          GRANDE-SETOR="Indústrias de transformação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="12">Fornecimento de bolsas para o grupo pelo parceiro</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="14">Transferência de insumos materiais para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="03032016" DATA-ENTRADA="30072012"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3728881230901653"
+               NOME-DO-EGRESSO="Marcelo Veiga Neves"/>
+      <EGRESSO DATA-SAIDA="03032016" DATA-ENTRADA="26062014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3728881230901653"
+               NOME-DO-EGRESSO="Marcelo Veiga Neves"/>
+      <EGRESSO DATA-SAIDA="03032016" DATA-ENTRADA="30062014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3728881230901653"
+               NOME-DO-EGRESSO="Marcelo Veiga Neves"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="7035295858836993"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="125859"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="05092016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="7404425277041623" CODIGO-AREA-PREDOMINANTE="30600006"
+                           NOME-DA-UNIDADE="Departamento de Engenharia Química"
+                           NOME-DO-ORGAO="Departamento de Engenharia Química"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="RJ"
+                           SIGLA-DA-INSTITUICAO="UFRJ"
+                           NOME-DA-INSTITUICAO="Universidade Federal do Rio de Janeiro"
+                           AREA-PREDOMINANTE="Engenharia Química"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="1995"
+                           NOME-DO-GRUPO="Integração de Processos Químicos">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="0145732751364477" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Eduardo Mach Queiroz"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="6669992155373315" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Fernando Luiz Pellegrini Pessoa"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3304557" DDDFAX="21"
+                                       LONGITUDE="-43.23233290000002"
+                                       LATITUDE="-22.853563"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Rio de Janeiro"
+                                       NUMERO="149"
+                                       COMPLEMENTO="Bloco E - Escola de Química - Sala E209"
+                                       LOGRADOURO="Avenida Athos da Silveira Ramos"
+                                       HOME-PAGE="www.eq.ufrj.br"
+                                       E-MAIL="mach@eq.ufrj.br"
+                                       FAX="3938-7425"
+                                       RAMAL=""
+                                       TELEFONE="3938-7603"
+                                       DDD="21"
+                                       CEP="21941611"
+                                       CIDADE="Rio de Janeiro"
+                                       UF="RJ"
+                                       BAIRRO="Cidade Universitária"/>
+      <REPERCUSSOES>   O grupo tem suas atividades focadas em técnicas para a síntese e análise de redes para a integração de processos químicos. Foi desenvolvido um software - AtHENS - que sintetiza, automaticamente, redes de trocadores de calor. Posteriormente foi desenvolvida uma metodologia para a análise de sistemas chamada de Diagrama de Fontes. O primeiro Diagrama foi o DFA - Diagrama de Fontes de Água, para sistemas que utilizam água. Posteriormente foi estendido para sistemas que utilizam hidrogênio (DFH) e sistemas que emitem dióxido de carbono (DFC).  As ferramentas desenvolvidas já foram aplicadas em plantas químicas e principalmente na área de refino e petroquímica. Vários trabalhos de mestrado e doutorados já foram orientados no contexto do Grupo de Pesquisa.   Recentemente foram incluídas ao Grupo atividades em baterias de pré-aquecimento em refinarias, visando diminuir os aspectos energéticos e econômicos causados pela deposição</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="PESSOA, F. L. P.;Pessoa, Fernando L. P.;Pessoa, F.L.P.;Pessoa, Fernando Luiz Pellegrini;Pessoa, Fernando L.P.;PESSOA, FERNANDO L P;PELLEGRINI PESSOA, FERNANDO LUIZ;PESSOA, FERNANDO L. PELLEGRINI"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6669992155373315"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fernando Luiz Pellegrini Pessoa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Minimização de Efluentes Aquosos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Síntese e Análise de Redes de Trocadores de Calor"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sintese e Análise de Redes de Hidrogênio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gerenciamento de Redes que Emitem CO2"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Processos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Extração Usando Fluido Supercrítico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos Químicos e Bioquímicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Simulação de Processos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Síntese de Processos Bioquímicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Termodinâmica Aplicada</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LIPORACE, F. S.;LIPORACE, FABIO DOS SANTOS;LIPORACE, FÁBIO DOS SANTOS;LIPORACE, FÁBIO S.;Fábio S. Liporace"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2187264027296774"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fabio dos Santos Liporace">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Deposição em Trocadores de Calor"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Síntese e Análise de Redes de Trocadores de Calor"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle Avançado de Processos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Processos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Processos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Petróleo e Petroquímica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Projeto Básico de Sistemas de Escoamento</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="QUEIROZ, E. M.;QUEIROZ, EDUARDO MACH;QUEIROZ, E. MACH;MACH, EDUARDO;QUEIROZ, EDUARDO M.;E.M QUEIROZ;QUEIROZ, E.M.;QUEIROZ, E.M"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0145732751364477"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Eduardo Mach Queiroz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Minimização de Efluentes Aquosos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Deposição em Trocadores de Calor"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Síntese e Análise de Redes de Trocadores de Calor"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sintese e Análise de Redes de Hidrogênio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gerenciamento de Redes que Emitem CO2"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Alimentos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Processos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transferência de Calor</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="OLIVEIRA, S. G.;DE OLIVEIRA, SÉRGIO GREGÓRIO;DE OLIVEIRA, SERGIO GREGÓRIO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1450955328822804"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Sergio Gregorio de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Deposição em Trocadores de Calor"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="DELGADO, B. E. P. C.;BERNADETE E.P.C. DELGADO;DELGADO, B.E.P.C.;DELGADO, BERNADETE E.P.C.;DELGADO, BERNADETE E. P. C.;BERNADETE E. P. C. DELGADO;DELGADO, BERNADETE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="F"
+                   NRO-ID-CNPQ="1807924976003594"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Bernadete Elizardo Pereira da Costa Delgado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Minimização de Efluentes Aquosos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos Industriais de Engenharia Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="COSTA, André Luiz Hemerly;Costa, A.L.H.;Hemerly Costa, André Luiz;Costa, André L. H.;COSTA, ANDRÉ L.H.;COSTA, ANDRE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8951119580894280"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="André Luiz Hemerly Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Deposição em Trocadores de Calor"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Síntese e Análise de Redes de Trocadores de Calor"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Balanços Globais de Matéria e Energia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hidráulica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Operações de Separação e Mistura</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Linear, Não-Linear, Mista e Dinâmica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MIRRE, R. C.;MIRRE, REINALDO COELHO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0998625888288089"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Reinaldo Coelho Mirre">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Minimização de Efluentes Aquosos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Balanços Globais de Matéria e Energia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle da Poluição</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Processos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Operações de Separação e Mistura</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento Integrado dos Recursos Hídricos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PERLINGEIRO, C. A. G." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6583682324280544"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Carlos Augusto Guimaraes Perlingeiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Minimização de Efluentes Aquosos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Síntese e Análise de Redes de Trocadores de Calor"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Processos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos Industriais de Engenharia Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="CALIXTO, E. E. S.;CALIXTO, EWERTON E. S."
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FERNANDO LUIZ PELLEGRINI PESSOA"
+                 NRO-ID-CNPQ-ORIENTADOR="6669992155373315"
+                 SEQUENCIA-ESTUDANTE="592044"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0294075028935389"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ewerton Emmanuel da Silva Calixto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Minimização de Efluentes Aquosos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Diagrama de Fontes de Águas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Integração Enérgética</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Operações de Separação e Mistura</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos Industriais de Engenharia Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="TAVARES, V. B. G.;TAVARES, VIVIANE BARBOSA GUIMARÃES;TAVARES, VIVIANE B. G."
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDUARDO MACH QUEIROZ"
+                 NRO-ID-CNPQ-ORIENTADOR="0145732751364477"
+                 SEQUENCIA-ESTUDANTE="3057033"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7224800076380122"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Viviane Barbosa Guimarães Tavares">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Deposição em Trocadores de Calor"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Síntese e Análise de Redes de Trocadores de Calor"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem, Simulação, Monitoramento e Otimização de Redes de trocadores de calor</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização de Equipamentos e Processos da Indústria Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Petróleo e Petroquímica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos Industriais de Engenharia Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NAKAO, A.;NAKAO, ANDRESSA;Nakao, Andressa"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDUARDO MACH QUEIROZ"
+                 NRO-ID-CNPQ-ORIENTADOR="0145732751364477"
+                 SEQUENCIA-ESTUDANTE="2483320"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6897756729518431"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Andressa Nakao">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Deposição em Trocadores de Calor"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FRANCISCO, F. S.;FRANCISCO, FLÁVIO DA SILVA;FRANCISCO, FLÁVIO S."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FERNANDO LUIZ PELLEGRINI PESSOA"
+                 NRO-ID-CNPQ-ORIENTADOR="6669992155373315"
+                 SEQUENCIA-ESTUDANTE="2385512"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2215168284347755"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Flavio da Silva Francisco">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Minimização de Efluentes Aquosos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gerenciamento de Redes que Emitem CO2"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7050520042293115"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de metodologias para a síntese e análise de redes de trocadores de calor, bem como para o gerenciamento da operação de redes de trocadores sujeitos a processos de deposição."
+                         NOME-DA-LINHA-DE-PESQUISA="Síntese e Análise de Redes de Trocadores de Calor"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">engenharia de processos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">rede de trocadores de calor</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">tecnologia pinch</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">programação matemática</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Integração de processos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Deposição no Projeto de Trocadores de Calor</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6669992155373315" NOME-COMPLETO="Fernando Luiz Pellegrini Pessoa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="10739"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2187264027296774" NOME-COMPLETO="Fabio dos Santos Liporace"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="391918"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0145732751364477" NOME-COMPLETO="Eduardo Mach Queiroz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="4575"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8951119580894280" NOME-COMPLETO="André Luiz Hemerly Costa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="410406"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6583682324280544"
+                               NOME-COMPLETO="Carlos Augusto Guimaraes Perlingeiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="103137"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7224800076380122"
+                             NOME-COMPLETO="Viviane Barbosa Guimarães Tavares"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3057033"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.20"
+                                SUBSETOR="Fabricação de produtos químicos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.19.2"
+                                SUBSETOR="Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.19.3"
+                                SUBSETOR="Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4576054429517447"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de algoritmo para propor redes de equipamentos que utilizam água visando a minimização do seu consumo. São levados em conta possibilidades de reuso e de regeneração de correntes do processo. A análise está se estendendo para os sistema de tratamento para o descarte, visando uma análise mais abrangente do que se chama Sistema de Águas e também o estudo de Sistemas com descarte nulo."
+                         NOME-DA-LINHA-DE-PESQUISA="Minimização de Efluentes Aquosos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">síntese de rede</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">minimização de efluentes aquosos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Diagrama de Fontes de Água</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Consumo de água</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6669992155373315" NOME-COMPLETO="Fernando Luiz Pellegrini Pessoa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="10739"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0145732751364477" NOME-COMPLETO="Eduardo Mach Queiroz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="4575"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1807924976003594"
+                               NOME-COMPLETO="Bernadete Elizardo Pereira da Costa Delgado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="146455"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0998625888288089" NOME-COMPLETO="Reinaldo Coelho Mirre"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="190777"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6583682324280544"
+                               NOME-COMPLETO="Carlos Augusto Guimaraes Perlingeiro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="103137"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0294075028935389"
+                             NOME-COMPLETO="Ewerton Emmanuel da Silva Calixto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="592044"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2215168284347755" NOME-COMPLETO="Flavio da Silva Francisco"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2385512"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30601002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30601002"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Processos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Processos Industriais de Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="480"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.20"
+                                SUBSETOR="Fabricação de produtos químicos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9945260339571382"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo da dinâmica da deposição em trocadores de calor. Definição de rotinas para a manutenção de redes de trocadores visando a minimização de custos em função da perda de desempenho e dos custos de manutenção."
+                         NOME-DA-LINHA-DE-PESQUISA="Deposição em Trocadores de Calor"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">deposição em trocadores de calor</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">redes de trocadores de calor</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">dinâmica da deposição</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2187264027296774" NOME-COMPLETO="Fabio dos Santos Liporace"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="391918"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0145732751364477" NOME-COMPLETO="Eduardo Mach Queiroz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="4575"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1450955328822804" NOME-COMPLETO="Sergio Gregorio de Oliveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="97384"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8951119580894280" NOME-COMPLETO="André Luiz Hemerly Costa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="410406"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7224800076380122"
+                             NOME-COMPLETO="Viviane Barbosa Guimarães Tavares"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3057033"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6897756729518431" NOME-COMPLETO="Andressa Nakao"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2483320"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.19.2"
+                                SUBSETOR="Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.20.2"
+                                SUBSETOR="Fabricação de produtos químicos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3022032588796900"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Adaptar a metodologia do Diagrama de Fontes para analisar sistemas que emitem dióxido de carbono."
+                         NOME-DA-LINHA-DE-PESQUISA="Gerenciamento de Redes que Emitem CO2"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Diagrama de Fontes</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">emissão de CO2</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Diagrama de Fontes de Carbono</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6669992155373315" NOME-COMPLETO="Fernando Luiz Pellegrini Pessoa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="10739"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0145732751364477" NOME-COMPLETO="Eduardo Mach Queiroz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="4575"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2215168284347755" NOME-COMPLETO="Flavio da Silva Francisco"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2385512"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30600006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO=""
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="479"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="D.35.1"
+                                SUBSETOR="Eletricidade, gás e outras utilidades"
+                                SETOR="Eletricidade e gás"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4161781707123381"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="O foco é a análise do processo como um todo, de forma a promover uma rede integrada de produtores e consumidores de hidrogênio, explorando-se possíveis sinergias e interações entre as diversas unidades, visando à redução do consumo de hidrogênio de forma econômica. Esta em desenvolvimento uma metodologia, chamada Diagrama de Fontes de Hidrogênio(DFH), que guarda analogias com o DFA, para águas. A análise simultânea da pressão das correntes, permite a avaliação da distribuição dos compressores."
+                         NOME-DA-LINHA-DE-PESQUISA="Sintese e Análise de Redes de Hidrogênio"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">redes de hidrogênio</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">hidrogênio</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Diagrama de Fontes de Hidrogênio</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6669992155373315" NOME-COMPLETO="Fernando Luiz Pellegrini Pessoa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="10739"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0145732751364477" NOME-COMPLETO="Eduardo Mach Queiroz"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="4575"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Processos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.19.2"
+                                SUBSETOR="Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="4342412467610820" RAZAO-SOCIAL-DA-EMPRESA=""
+               NATUREZA-JURIDICA="Sociedade de Economia Mista"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="33000167081942"
+               LOCALIDADE="Rio de Janeiro"
+               CIDADE="Rio de Janeiro"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="CENPES"
+               NOME-DA-EMPRESA="Superintendencia de Engenharia Basica"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="15">Desenvolvimento de software para o parceiro pelo grupo</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="10">Transferência de recursos financeiros do parceiro para o grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="3293983796372621" RAZAO-SOCIAL-DA-EMPRESA=""
+               NATUREZA-JURIDICA="Fundação Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="33540014000157"
+               LOCALIDADE="Rio de Janeiro"
+               CIDADE="Rio de Janeiro"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="UERJ/CTC"
+               NOME-DA-EMPRESA="Centro de Tecnologia e Ciências"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="14">Desenvolvimento de software não-rotineiro para o grupo pelo parceiro</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

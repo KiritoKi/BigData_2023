@@ -1,0 +1,1372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="4203186904314955"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="234157"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="07102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="2051298011084067" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE="Campus Cornélio Procópio"
+                           NOME-DO-ORGAO="Campus Cornélio Procópio"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="PR"
+                           SIGLA-DA-INSTITUICAO="UTFPR"
+                           NOME-DA-INSTITUICAO="Universidade Tecnológica Federal do Paraná"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2010"
+                           NOME-DO-GRUPO="Bioinformática e Reconhecimento de Padrões">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="1660070580824436" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Fabrício Martins Lopes"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="4106407" DDDFAX="43"
+                                       LONGITUDE="-50.660297870635986"
+                                       LATITUDE="-23.186417547923035"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Cornélio Procópio"
+                                       NUMERO="1640"
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="Av. Alberto Carazzai"
+                                       HOME-PAGE="http://bioinfo.cp.utfpr.edu.br/"
+                                       E-MAIL="bioinfo-cp@utfpr.edu.br"
+                                       FAX="35204010"
+                                       RAMAL=""
+                                       TELEFONE="35203925"
+                                       DDD="43"
+                                       CEP="86300000"
+                                       CIDADE="Cornélio Procópio"
+                                       UF="PR"
+                                       BAIRRO="Centro"/>
+      <REPERCUSSOES>Grupo de pesquisa em formação com objetivo de desenvolver e aplicar técnicas de reconhecimento de padrões e computação paralela no processamento e análise de imagens, na modelagem de sistemas biológicos, e.g., redes gênicas e RNAs não-codificadores, envolvendo sua síntese, identificação e análise. Em particular, os principais objetivos são: 1) desenvolvimento e aplicação de técnicas de reconhecimento de padrões para a inferência de redes gênicas a partir de dados de expressão, bem como a integração de outros dados genômicos como proteínas, processo e função gênica, fluxo metabólico, localização celular e topologias de redes gênicas;2) desenvolvimento de programas e métodos em bioinformática aplicados à pesquisa de RNAs não-codificadores, destacando a análise estrutural (estrutura secundária), predição/anotação e criação de novos mecanismos de caracterização de ncRNA;3) investigação, desenvolvimento e validação de métodos e técnicas de reconhecimento de padrões, como a seleção/extração de características, redução de dimensionalidade, entre outros, os quais são aplicados no processamento e análise de imagens, recuperação de imagens baseada em conteúdo e no desenvolvimento de classificadores;4) aplicar a computação paralela em problemas de bioinformática.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="VILAS-BOAS, L. A.;Vilas-Boas, Laurival A.;., L.A. Vilas-Boas;Laurival Antonio Vilas Boas;Vilas-Boas, Laurival Antonio;Laurival Vilas-Boas;Laurival Vilas Boas;Boas, Laurival Vilas;Laurival Antonio Vllas-Boas;VILAS-BOAS, L A"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6053806923630324"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Laurival Antonio Vilas-Boas">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética e Genômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Funcioal de Sequências de Dna</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética e Ecologia de Bacillus Thuringiensis</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Molecular e de Microorganismos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genômica e Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geração Análise e Anotação de Sequências de Dna</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MARCELINO-GUIMARAES, F. C.;Marcelino, Francismar Corrêa;Marcelino, Francismar Côrrea;Marcelino-Guimarães, F.C.;Guimarães, F.C.M.;Marcelino-Guimarães, Francismar Corrêa;Marcelino, Francismar C.;Marcelino-GuimarÃ£es, Francismar C;MARCELINO-GUIMARÃES, FRANCISMAR C.;MARCELINO-GUIMARÃES, FRANCISMAR CORREA;MARCELINO, FRANCISMAR CORREA;MARCELINO-GUIMARÃES, FRANCISMAR C;MARCELINO-GUIMARÃES, F. C.;Francismar Marcelino;Marcelino, Francismar"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="F"
+                   NRO-ID-CNPQ="4585015105548818"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Francismar Corrêa Marcelino-Guimaraes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética e Genômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biossegurança de OGMs</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Molecular de Plantas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genômica Funcional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transformação de Plantas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PEREIRA, Luiz Filipe Protasio;Pereira, L.F.P.;Pereira, L. F. P.;Pereira, Luiz F.P.;Pereira, Luiz Felipe;Luiz F P Pereira;Pereira, Luiz F P;Pereira, Luiz Filipe P;Pereira, Luis Filipe Protasio;PEREIRA, LUIZ F. P.;PEREIRA, LUIZ FILIPE P.;Pereira, Luiz Filipe Protasio;PEREIRA, LUIZ"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1177022282500069"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Luiz Filipe Protasio Pereira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética e Genômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Clonagem e Caracterização de Genes</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fisiologia Vegetal</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Vegetal</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Melhoramento Vegetal</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transformação de Plantas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="HUNGRIA, M.;Hungria, Mariangela;Mariangela Hungria;M. Hungria;Hungria, M;Hungria M;M Hungria;MARIANGELA, HUNGRIA;HUNGRÍA, MARIANGELA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="F"
+                   NRO-ID-CNPQ="7355162785040506"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Mariangela Hungria da Cunha">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética e Genômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia e Fisiologia dos Microorganismos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biotecnologia do Solo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Molecular e de Microorganismos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Vegetal</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microbiologia Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Microbiologia e Bioquímica do Solo</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LOPES, Fabrício M.;LOPES, FABRICIO M.;LOPES, FABRÍCIO M;LOPES, FABRÍCIO MARTINS;FABRÍCIO MARTINS LOPES;Lopes, Fabricio Martins"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1660070580824436"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fabrício Martins Lopes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética e Genômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Análise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia e Técnicas da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Padrões</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="VICENTE, Fabio F.R.;VICENTE, Fábio FR;VICENTE, Fabio FR;Vicente, Fabio;VICENTE, FABIO FERNANDES DA ROCHA;Vicente, Fábio F. R."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5799700325728628"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fabio Fernandes da Rocha Vicente">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Padrões</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANCHES, D. S.;SANCHES, D.S.;SANCHES, DANILO SIPOLI;SANCHES, DANILO S."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6377657274398145"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Danilo Sipoli Sanches">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia e Técnicas da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento, Projeto e Controle de Sistemas de Produção</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transmissão da Energia Elétrica, Distribuição da Energia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="KASHIWABARA, A. Y.;Kashiwabara, André;KASHIWABARA, A;KASHIWABARA, ANDRÉ YOSHIAKI;KASHIWABARA, ANDRÉ Y."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3194328548975437"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Andre Yoshiaki Kashiwabara">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética e Genômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SAITO, Priscila Tiemi Maeda;SAITO, P. T. M;SAITO, PRISCILA T. M.;SAITO, PRISCILA T.M."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="F"
+                   NRO-ID-CNPQ="6652293216938994"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Priscila Tiemi Maeda Saito">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Análise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Paralela</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Padrões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Recuperação de Imagens Baseada em Conteúdo</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Distribuídos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BUGATTI, Pedro Henrique;BUGATTI, PEDRO H."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2177467029991118"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Pedro Henrique Bugatti">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Análise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BOVO, A. B." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5096294141072886"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Alessandro Botelho Bovo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia do Conhecimento</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Aplicada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PEREIRA JUNIOR, Francisco" TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="11"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9599087600537534"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Francisco Pereira Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Paralela"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Big Data</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Alto Desempenho</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SHISHIDO, H. Y." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="12"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6396350779085620"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Henrique Yoshikazu Shishido">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Paralela"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aplicações Paralelas e Distribuídas de Alto Desempenho</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento Mobile</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PASCHOAL, A. R.;Paschoal, Alexandre Rossi"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="13"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5834088144837137"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Alexandre Rossi Paschoal">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética e Genômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Paralela"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Computacional dos RNAs (Non-coding RNAs)</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Jogos e Entretenimento Digital</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Padrões</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="DOMINGUES, D. S.;Domingues, Douglas Silva;Domingues, Douglas S.;Domingues, Douglas;Domingues, Douglas S;DOMINGUES, D.;SILVA DOMINGUES, D."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="14"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7905667701769534"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Douglas Silva Domingues">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética e Genômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Anotação de Genes</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fisiologia de Plantas Cultivadas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Vegetal</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Nutrição e Crescimento Vegetal</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="GARCIA, Cynara Leão" NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANDRE YOSHIAKI KASHIWABARA"
+                 NRO-ID-CNPQ-ORIENTADOR="3194328548975437"
+                 SEQUENCIA-ESTUDANTE="598067"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3322948913377355"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Cynara Leão Garcia">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética e Genômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administração de Setores Específicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>INTELIGÊNCIA ARTIFICIAL</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NASCIMENTO, E. S." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALESSANDRO BOTELHO BOVO"
+                 NRO-ID-CNPQ-ORIENTADOR="5096294141072886"
+                 SEQUENCIA-ESTUDANTE="3553910"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2744461340274680"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Erinaldo Sanches Nascimento">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Algoritmos e Complexidade de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagem Formais e Autômatos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="KATAHIRA, I." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABRICIO MARTINS LOPES"
+                 NRO-ID-CNPQ-ORIENTADOR="1660070580824436"
+                 SEQUENCIA-ESTUDANTE="2158911"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9340096523226667"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Isaque Katahira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>DESENVOLVIMENTO DE SISTEMAS</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>LICENCIATURA EM INFORMÁTICA</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Padrões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teleinformática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, M. A. G." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABRICIO MARTINS LOPES"
+                 NRO-ID-CNPQ-ORIENTADOR="1660070580824436"
+                 SEQUENCIA-ESTUDANTE="4770862"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1190012286059312"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Murilo Abilio Gonçalves da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FONSECA, B. H. R." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE ROSSI PASCHOAL"
+                 NRO-ID-CNPQ-ORIENTADOR="5834088144837137"
+                 SEQUENCIA-ESTUDANTE="4676524"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2913898870212161"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruno Henrique Ribeiro da Fonseca">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PIOTTO, J. G. S." NIVEL-DE-TREINAMENTO="Mestrado Profissional"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABRICIO MARTINS LOPES"
+                 NRO-ID-CNPQ-ORIENTADOR="1660070580824436"
+                 SEQUENCIA-ESTUDANTE="5203524"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2278439690615967"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="João Gilberto de Souza Piotto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Análise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Software Básico</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GARBELINI, J. M. C." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="DANILO SIPOLI SANCHES"
+                 NRO-ID-CNPQ-ORIENTADOR="6377657274398145"
+                 SEQUENCIA-ESTUDANTE="5357238"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2960700899606501"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Jader Maikol Caldonazzo Garbelini">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teleinformática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CAMARGO, G." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="PRISCILA TIEMI MAEDA SAITO"
+                 NRO-ID-CNPQ-ORIENTADOR="6652293216938994"
+                 SEQUENCIA-ESTUDANTE="3888679"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4629979142571488"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Guilherme Camargo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Análise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PEREIRA, D. F.;PEREIRA, DOUGLAS F."
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL="C"
+                 BOLSA-CATEGORIA="Desenvolvimento Tecnológico Industrial"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="PRISCILA TIEMI MAEDA SAITO"
+                 NRO-ID-CNPQ-ORIENTADOR="6652293216938994"
+                 SEQUENCIA-ESTUDANTE="3748835"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0455761555736368"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Douglas Felipe Pereira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Análise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LEMOS, S. M. C." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="DOUGLAS SILVA DOMINGUES"
+                 NRO-ID-CNPQ-ORIENTADOR="7905667701769534"
+                 SEQUENCIA-ESTUDANTE="3829501"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3473844729483064"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Samara Mireza Correia de Lemos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética e Genômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COSTA JUNIOR, R. M." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALESSANDRO BOTELHO BOVO"
+                 NRO-ID-CNPQ-ORIENTADOR="5096294141072886"
+                 SEQUENCIA-ESTUDANTE="5257952"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7871719581982603"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ricardo Medeiros da Costa Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PIOVEZANI, A. R.;PIOVEZANI, AMANDA RUSISKA"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABRICIO MARTINS LOPES"
+                 NRO-ID-CNPQ-ORIENTADOR="1660070580824436"
+                 SEQUENCIA-ESTUDANTE="2184904"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7819202594528611"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Amanda Rusiska Piovezani">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ANTONIO, G. Y. A." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE ROSSI PASCHOAL"
+                 NRO-ID-CNPQ-ORIENTADOR="5834088144837137"
+                 SEQUENCIA-ESTUDANTE="4107589"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4083428904685474"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gabriel Yuri Alves de Antonio">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ITO, E. A." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Iniciação Tecnológica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABRICIO MARTINS LOPES"
+                 NRO-ID-CNPQ-ORIENTADOR="1660070580824436"
+                 SEQUENCIA-ESTUDANTE="5113089"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5833263148868450"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Eric Augusto Ito">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Padrões</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CASTILHO, T. R.;Castilho, Thullyo R."
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABRICIO MARTINS LOPES"
+                 NRO-ID-CNPQ-ORIENTADOR="1660070580824436"
+                 SEQUENCIA-ESTUDANTE="3576475"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7431827944800566"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Thullyo Radeli Castilho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Análise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hardware</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Gesiele Almeida Barros de Carvalho;CARVALHO, GESIELE ALMEIDA BARROS;CARVALHO, G.A.B.;BARROS DE CARVALHO, GESIELE ALMEIDA;BARROS-CARVALHO, G. A.;Gesiele Carvalho;G.A. Barros-Carvalho;BARROS-CARVALHO, G.A.;GESIELE A. BARROS-CARVALHO"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABRICIO MARTINS LOPES"
+                 NRO-ID-CNPQ-ORIENTADOR="1660070580824436"
+                 SEQUENCIA-ESTUDANTE="2742286"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2611742828741850"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gesiele Almeida Barros de Carvalho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética de procariotos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética vegetal</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="HATTORI, L. T." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABRICIO MARTINS LOPES"
+                 NRO-ID-CNPQ-ORIENTADOR="1660070580824436"
+                 SEQUENCIA-ESTUDANTE="4701308"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3388024222246752"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Leandro Takeshi Hattori">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Computação Paralela"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia e Técnicas da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANO, F. H." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANDRE YOSHIAKI KASHIWABARA"
+                 NRO-ID-CNPQ-ORIENTADOR="3194328548975437"
+                 SEQUENCIA-ESTUDANTE="4141922"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6335040809168100"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Fabio Hideo Sano">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética e Genômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOUZA, G. M. D.;Souza GMDD;DOMINGUES DE, GABRIE MARCOS"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABRICIO MARTINS LOPES"
+                 NRO-ID-CNPQ-ORIENTADOR="1660070580824436"
+                 SEQUENCIA-ESTUDANTE="3550284"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6640021407731254"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gabriel Marcos Domingues de Souza">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biotecnologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Citologia e Biologia Celular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética e Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Molecular e de Microorganismos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, J. C.;SILVA, JULIANA COSTA"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABRICIO MARTINS LOPES"
+                 NRO-ID-CNPQ-ORIENTADOR="1660070580824436"
+                 SEQUENCIA-ESTUDANTE="4826008"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3058281149654363"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Juliana Costa Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BRILHADOR, A.;BRILHADOR, Anderson.;Brilhador, Anderson"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FABRICIO MARTINS LOPES"
+                 NRO-ID-CNPQ-ORIENTADOR="1660070580824436"
+                 SEQUENCIA-ESTUDANTE="4655667"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0341341858649732"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Anderson Brilhador">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Análise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reconhecimento de Padrões</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LIMA, Geovana V. L."
+                 NIVEL-DE-TREINAMENTO="Mestrado Profissional"
+                 BOLSA-NIVEL="C"
+                 BOLSA-CATEGORIA="Desenvolvimento Tecnológico Industrial"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="PEDRO HENRIQUE BUGATTI"
+                 NRO-ID-CNPQ-ORIENTADOR="2177467029991118"
+                 SEQUENCIA-ESTUDANTE="4262470"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8553227523324588"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Geovana Veloso Loureiro de Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Análise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Digital de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GOYA, K. A." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANDRE YOSHIAKI KASHIWABARA"
+                 NRO-ID-CNPQ-ORIENTADOR="3194328548975437"
+                 SEQUENCIA-ESTUDANTE="5178632"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0261253387711451"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Karina Ayumi Goya">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MONTEIRO, N. M. G." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="PEDRO HENRIQUE BUGATTI"
+                 NRO-ID-CNPQ-ORIENTADOR="2177467029991118"
+                 SEQUENCIA-ESTUDANTE="6177631"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1360222126849257"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Nayara Maria Gonzales Monteiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética e Genômica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento e Análise de Imagens"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análises Clínicas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NEGRI, T. C." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ALEXANDRE ROSSI PASCHOAL"
+                 NRO-ID-CNPQ-ORIENTADOR="5834088144837137"
+                 SEQUENCIA-ESTUDANTE="6056374"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2796315436577373"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Tatianne da Costa Negri">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9607753051796254"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha de pesquisa propõe a investigação, desenvolvimento e validação de métodos e técnicas de reconhecimento de padrões, como por exemplo a seleção/extração de características, redução de dimensionalidade, entre outros, os quais são aplicados no processamento e análise de imagens, recuperação de imagens baseada em conteúdo e no desenvolvimento de classificadores."
+                         NOME-DA-LINHA-DE-PESQUISA="Processamento e Análise de Imagens"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">reconhecimento de padrões</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">seleção de características</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">análise de imagens</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">recuperação de imagens baseada em conteúdo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">classificadores</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1660070580824436" NOME-COMPLETO="Fabrício Martins Lopes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="336010"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6652293216938994" NOME-COMPLETO="Priscila Tiemi Maeda Saito"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2197120"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2177467029991118" NOME-COMPLETO="Pedro Henrique Bugatti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="1800938"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2278439690615967" NOME-COMPLETO="João Gilberto de Souza Piotto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5203524"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4629979142571488" NOME-COMPLETO="Guilherme Camargo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3888679"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0455761555736368" NOME-COMPLETO="Douglas Felipe Pereira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3748835"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7431827944800566" NOME-COMPLETO="Thullyo Radeli Castilho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3576475"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0341341858649732" NOME-COMPLETO="Anderson Brilhador"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4655667"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8553227523324588" NOME-COMPLETO="Geovana Veloso Loureiro de Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4262470"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1360222126849257" NOME-COMPLETO="Nayara Maria Gonzales Monteiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6177631"
+                             SEQUENCIA-ESTUDANTE="7"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303057" CODIGO-ESPECIALIDADE="10303057"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento Gráfico (Graphics)"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="61"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Reconhecimento de Padrões"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="A" SUBSETOR=""
+                                SETOR="Agricultura, Pecuária, Produção Florestal, Pesca e Aqüicultura"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7312327916521889"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="O objetivo desta linha de pesquisa é aplicar a computação paralela em problemas de bioinformática: (i) tratar problemas de bioinformática utilizando o poder computacional com arquiteturas híbridas de computação paralela, analisando esses resultados comparativamente; e (ii) processamento de grande quantidade de dados."
+                         NOME-DA-LINHA-DE-PESQUISA="Computação Paralela"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">bioinformática</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">computação paralela</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9599087600537534" NOME-COMPLETO="Francisco Pereira Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="759575"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6396350779085620" NOME-COMPLETO="Henrique Yoshikazu Shishido"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2147119"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5834088144837137" NOME-COMPLETO="Alexandre Rossi Paschoal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2091040"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3388024222246752" NOME-COMPLETO="Leandro Takeshi Hattori"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4701308"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303006" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Bioinformática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="56"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9071501370918021"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha de pesquisa tem por objetivo a modelagem de sistemas biológicos e o desenvolvimento de programas e métodos em bioinformática, como por exemplo a inferência de redes gênicas e estudos de RNAs não-codificadores. Em particular, se destaca o desenvolvimento de técnicas de reconhecimento de padrões para a inferência de redes gênicas a partir de dados genômicos e a análise estrutural, predição/anotação e criação de novos mecanismos de caracterização de ncRNA."
+                         NOME-DA-LINHA-DE-PESQUISA="Biologia Computacional e Sistêmica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">RNA</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">non-coding RNA</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Systems biology</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Reverse engineering</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Gene Regulatory Network (GRN)</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Pattern Recognition</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1177022282500069" NOME-COMPLETO="Luiz Filipe Protasio Pereira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="73690"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1660070580824436" NOME-COMPLETO="Fabrício Martins Lopes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="336010"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5799700325728628" NOME-COMPLETO="Fabio Fernandes da Rocha Vicente"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="660981"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6377657274398145" NOME-COMPLETO="Danilo Sipoli Sanches"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="1833946"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3194328548975437" NOME-COMPLETO="Andre Yoshiaki Kashiwabara"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="472703"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2177467029991118" NOME-COMPLETO="Pedro Henrique Bugatti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="1800938"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5096294141072886" NOME-COMPLETO="Alessandro Botelho Bovo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="428879"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5834088144837137" NOME-COMPLETO="Alexandre Rossi Paschoal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2091040"
+                               SEQUENCIA-PESQUISADOR="8"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7905667701769534" NOME-COMPLETO="Douglas Silva Domingues"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="302036"
+                               SEQUENCIA-PESQUISADOR="9"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3322948913377355" NOME-COMPLETO="Cynara Leão Garcia"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="598067"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2744461340274680" NOME-COMPLETO="Erinaldo Sanches Nascimento"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3553910"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9340096523226667" NOME-COMPLETO="Isaque Katahira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2158911"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1190012286059312" NOME-COMPLETO="Murilo Abilio Gonçalves da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4770862"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2913898870212161"
+                             NOME-COMPLETO="Bruno Henrique Ribeiro da Fonseca"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4676524"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2960700899606501"
+                             NOME-COMPLETO="Jader Maikol Caldonazzo Garbelini"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5357238"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4629979142571488" NOME-COMPLETO="Guilherme Camargo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3888679"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0455761555736368" NOME-COMPLETO="Douglas Felipe Pereira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3748835"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7871719581982603" NOME-COMPLETO="Ricardo Medeiros da Costa Junior"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5257952"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7819202594528611" NOME-COMPLETO="Amanda Rusiska Piovezani"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2184904"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4083428904685474" NOME-COMPLETO="Gabriel Yuri Alves de Antonio"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4107589"
+                             SEQUENCIA-ESTUDANTE="11"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5833263148868450" NOME-COMPLETO="Eric Augusto Ito"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5113089"
+                             SEQUENCIA-ESTUDANTE="12"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2611742828741850"
+                             NOME-COMPLETO="Gesiele Almeida Barros de Carvalho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2742286"
+                             SEQUENCIA-ESTUDANTE="13"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3388024222246752" NOME-COMPLETO="Leandro Takeshi Hattori"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4701308"
+                             SEQUENCIA-ESTUDANTE="14"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6335040809168100" NOME-COMPLETO="Fabio Hideo Sano"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4141922"
+                             SEQUENCIA-ESTUDANTE="15"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6640021407731254"
+                             NOME-COMPLETO="Gabriel Marcos Domingues de Souza"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3550284"
+                             SEQUENCIA-ESTUDANTE="16"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3058281149654363" NOME-COMPLETO="Juliana Costa Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4826008"
+                             SEQUENCIA-ESTUDANTE="17"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0261253387711451" NOME-COMPLETO="Karina Ayumi Goya"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5178632"
+                             SEQUENCIA-ESTUDANTE="18"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2796315436577373" NOME-COMPLETO="Tatianne da Costa Negri"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6056374"
+                             SEQUENCIA-ESTUDANTE="19"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10300007" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="BIoinformática"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="47"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="A" SUBSETOR=""
+                                SETOR="Agricultura, Pecuária, Produção Florestal, Pesca e Aqüicultura"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6135696154025968"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Envolve a análise de genomas, montagem de genomas, genômica comparativa, anotação de genomas e cromossomos, entre outros; análise de expressão gênica, desenvolvimento de métodos estatísticos para reconhecimento de genes diferencialmente expressos, classificadores baseados em expressão, métodos para determinar e descrever redes de regulação, análise de vias, integração de dados de expressão, anotação de dados de expressão e genes ou conjunto de genes; e descoberta de marcadores e genotipagem."
+                         NOME-DA-LINHA-DE-PESQUISA="Genética e Genômica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">análise de genomas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">montagem de genomas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">descoberta de marcadores</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">genotipagem</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">análise de expressão gênica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6053806923630324" NOME-COMPLETO="Laurival Antonio Vilas-Boas"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="114207"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4585015105548818"
+                               NOME-COMPLETO="Francismar Corrêa Marcelino-Guimaraes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="269026"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1177022282500069" NOME-COMPLETO="Luiz Filipe Protasio Pereira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="73690"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7355162785040506" NOME-COMPLETO="Mariangela Hungria da Cunha"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="23897"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1660070580824436" NOME-COMPLETO="Fabrício Martins Lopes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="336010"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3194328548975437" NOME-COMPLETO="Andre Yoshiaki Kashiwabara"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="472703"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5834088144837137" NOME-COMPLETO="Alexandre Rossi Paschoal"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2091040"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7905667701769534" NOME-COMPLETO="Douglas Silva Domingues"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="302036"
+                               SEQUENCIA-PESQUISADOR="8"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3322948913377355" NOME-COMPLETO="Cynara Leão Garcia"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="598067"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3473844729483064" NOME-COMPLETO="Samara Mireza Correia de Lemos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3829501"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6335040809168100" NOME-COMPLETO="Fabio Hideo Sano"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4141922"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1360222126849257" NOME-COMPLETO="Nayara Maria Gonzales Monteiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6177631"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10300007" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Bioinformática"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="47"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="A" SUBSETOR=""
+                                SETOR="Agricultura, Pecuária, Produção Florestal, Pesca e Aqüicultura"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="8353554970600111"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidade Estadual de Londrina"
+               NATUREZA-JURIDICA="Autarquia Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="78640489000153"
+               LOCALIDADE="Londrina"
+               CIDADE="Londrina"
+               UF="PR"
+               SIGLA-DA-EMPRESA="UEL"
+               NOME-DA-EMPRESA="Universidade Estadual de Londrina"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="17">Transferência de tecnologia desenvolvida pelo parceiro para o grupo</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="16">Transferência física temporária de recursos humanos do parceiro para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="17">Transferência física temporária de recursos humanos do grupo para as atividades do parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="1767964127554967"
+               RAZAO-SOCIAL-DA-EMPRESA="Área de Melhoramento e Genética Vegetal"
+               NATUREZA-JURIDICA="Autarquia Estadual ou do Distrito Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="75234757000149"
+               LOCALIDADE="Londrina"
+               CIDADE="Londrina"
+               UF="PR"
+               SIGLA-DA-EMPRESA="IAPAR"
+               NOME-DA-EMPRESA="Área de Melhoramento e Genética Vegetal"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="19">Fornecimento, pelo parceiro, de insumos materiais para as atividades de pesquisa do grupo sem vinculação a um projeto específico de interesse mútuo</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="21">Treinamento de pessoal do parceiro pelo grupo, incluindo cursos e treinamento "em serviço"</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="7075656935959222"
+               RAZAO-SOCIAL-DA-EMPRESA="Empresa Brasileira de Pesquisa Agropecuária"
+               NATUREZA-JURIDICA="Empresa Pública"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="00348003000110"
+               LOCALIDADE="Brasília"
+               CIDADE="Brasília"
+               UF="DF"
+               SIGLA-DA-EMPRESA="EMBRAPA"
+               NOME-DA-EMPRESA="Empresa Brasileira de Pesquisa Agropecuária"
+               SEQUENCIA-EMPRESA="2">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                          SUBSETOR="Pesquisa e desenvolvimento experimental em ciências físicas e naturais"
+                                          SETOR="Pesquisa e desenvolvimento científico"
+                                          GRANDE-SETOR="Atividades profissionais, científicas e técnicas"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="15">Desenvolvimento de software para o parceiro pelo grupo</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="16">Transferência de tecnologia desenvolvida pelo grupo para o parceiro</TIPO-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="17">Transferência de tecnologia desenvolvida pelo parceiro para o grupo</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="16">Transferência física temporária de recursos humanos do parceiro para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="17">Transferência física temporária de recursos humanos do grupo para as atividades do parceiro</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES="The intent of this software is to provide an open-source multiplataform graphical environment for bioinformatics problems, which supports many feature selection algorithms, criterion functions and graphic visualization tools such as scatterplots, parallel coordinates and graphs. A feature selection approach for growing genetic networks from seed genes (targets or predictors) is also implemented in the system.  The feature selection environment allows data analysis using several algorithms, criterion functions and graphic visualization tools. Our experiments have shown the software effectiveness in two distinct types of biological problems. Besides, the environment can be used in different pattern recognition applications, although the main concern regards bioinformatics tasks.  https://code.google.com/p/dimreduction/"
+                MODELO=""
+                VERSAO="1.26"
+                NOME="DimReduction"
+                CLASSIFICACAO="Engenharia/estatística/geoprocessamento"
+                TIPO-DE-LICENCIAMENTO="Livre"
+                DESENVOLVIMENTO-PROPRIO="S"
+                SEQUENCIA-SOFTWARE="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Capes</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="1">Fundação estadual de amparo à pesquisa</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES="The gene regulatory networks (GRN) are used to indicate how the genes are regulated and consequently give insights about the activity of live organisms in molecular level. However, there is an important problem: how to validate the network identification results? This work presents an approach to validate such algorithms by considering the AGN model generation and simulation. This project provides an Artificial Gene Networks (AGNs) model generation through theoretical models of complex networks, which is used to simulate temporal expression data, which can be used by computational methods to recover the network topology, and then, analyse the results based on complex networks measurements/topology.  https://code.google.com/p/jagn/"
+                MODELO=""
+                VERSAO="1.02"
+                NOME="jAGN"
+                CLASSIFICACAO="Engenharia/estatística/geoprocessamento"
+                TIPO-DE-LICENCIAMENTO="Livre"
+                DESENVOLVIMENTO-PROPRIO="S"
+                SEQUENCIA-SOFTWARE="1">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Capes</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="1">Fundação estadual de amparo à pesquisa</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+   </SOFTWARES>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

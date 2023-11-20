@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="5173859694227046"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="083359"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="30112016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="2305779826028425" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE="Departamento de Informática e Estatística"
+                           NOME-DO-ORGAO="Departamento de Informática e Estatística"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SC"
+                           SIGLA-DA-INSTITUICAO="UFSC"
+                           NOME-DA-INSTITUICAO="Universidade Federal de Santa Catarina"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2010"
+                           NOME-DO-GRUPO="Grupo de Qualidade de Software - GQS">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="3879944876244096" PAIS-DE-NASCIMENTO="RFA" NACIONALIDADE="E"
+                         NOME-COMPLETO="Christiane Anneliese Gresse von Wangenheim"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="8974834804658882" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Jean Carlo Rossa Hauck"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="4205407" DDDFAX="48"
+                                       LONGITUDE="-48.52395100000001"
+                                       LATITUDE="-27.585779"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Florianópolis"
+                                       NUMERO="S/N"
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="UFSC - Universidade Federal de Santa Catarina"
+                                       HOME-PAGE="http://www.gqs.ufsc.br"
+                                       E-MAIL="gresse@gmail.com"
+                                       FAX=""
+                                       RAMAL=""
+                                       TELEFONE="3721-4715"
+                                       DDD="48"
+                                       CEP="88040900"
+                                       CIDADE="Florianópolis"
+                                       UF="SC"
+                                       BAIRRO="Trindade"/>
+      <REPERCUSSOES>Avançando o estado da arte e prática na área de Engenharia de Software nacional e internacional, principalmente fornecendo suporte a micro e pequenas empresas de software e o ensino da Engenharia de Software possibilitando a melhoria de qualidade e produtividade de software.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="ZANELLA, A.;Zanella, Andreia;ZANELLA, A"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3086272505261137"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Andreia Zanella">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino de Engenharia de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise de Eficiência e Produtividade</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estatística</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ZIBETTI, André Wüst;ZIBETTI, ANDRÉ WÜST;WÜST ZIBETTI, ANDRÉ;ANDRÉ WÜST, ZIBETTI;ZIBETTI, A. WÜST"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="4148620280683594"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="André Wüst Zibetti">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino de Engenharia de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Numérica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização de Processos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Probabilidade e Estatística</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos Bioquímicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="HAUCK, Jean Carlo Rossa;Hauck, Jean Carlo R.;HAUCK, JEAN C R;HAUCK, J. C. R.;HAUCK, J C R"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8974834804658882"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Jean Carlo Rossa Hauck">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Melhoria e Avaliação de Processos de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino de Engenharia de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interação Humano-Computador/Usabilidade de Sistemas de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gerenciamento de projetos de software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GRESSE VON WANGENHEIM, C.;Gresse von Wangenheim, Christiane;von Wangenheim, Christiane Gresse;Wangenheim, Christiane Gresse von"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="F"
+                   NRO-ID-CNPQ="3879944876244096"
+                   PAIS-DE-NASCIMENTO="DEU"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Christiane Anneliese Gresse von Wangenheim">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino de Engenharia de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Melhoria e Avaliação de Processos de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interação Humano-Computador/Usabilidade de Sistemas de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gerenciamento de projetos de software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Usabilidade/UX</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Garantia de Controle de Qualidade</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gerência do Projeto e do Produto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>MELHORIA DE PROCESSO DE SOFTWARE</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BORGATTO, Adriano Ferreti;Borgatto, Adriano Ferreti"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0409933387817596"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Adriano Ferreti Borgatto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino de Engenharia de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interação Humano-Computador/Usabilidade de Sistemas de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Bayesiana</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estatística Experimental</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Lineares Generalizados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria da Resposta ao Item</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="ROCHA, J." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JEAN CARLO ROSSA HAUCK"
+                 NRO-ID-CNPQ-ORIENTADOR="8974834804658882"
+                 SEQUENCIA-ESTUDANTE="4940004"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9308014412760492"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Jhonata da Rocha">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interação Humano-Computador/Usabilidade de Sistemas de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PEREIRA, A. A." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JEAN CARLO ROSSA HAUCK"
+                 NRO-ID-CNPQ-ORIENTADOR="8974834804658882"
+                 SEQUENCIA-ESTUDANTE="5079615"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5157672470237365"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Anderson Andrade Pereira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interação Humano-Computador/Usabilidade de Sistemas de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COSTA, G. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JEAN CARLO ROSSA HAUCK"
+                 NRO-ID-CNPQ-ORIENTADOR="8974834804658882"
+                 SEQUENCIA-ESTUDANTE="5092477"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2839453781524780"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gabriel Soares Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interação Humano-Computador/Usabilidade de Sistemas de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LEAL, S. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JEAN CARLO ROSSA HAUCK"
+                 NRO-ID-CNPQ-ORIENTADOR="8974834804658882"
+                 SEQUENCIA-ESTUDANTE="5637510"
+                 SEXO="F"
+                 NRO-ID-CNPQ="5651708484332480"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Stéphanie da Silva Leal">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interação Humano-Computador/Usabilidade de Sistemas de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="TONUSSI, L. P." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JEAN CARLO ROSSA HAUCK"
+                 NRO-ID-CNPQ-ORIENTADOR="8974834804658882"
+                 SEQUENCIA-ESTUDANTE="4872181"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9844006061082855"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lucas Pagotto Tonussi">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interação Humano-Computador/Usabilidade de Sistemas de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DEKKER, B. A." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JEAN CARLO ROSSA HAUCK"
+                 NRO-ID-CNPQ-ORIENTADOR="8974834804658882"
+                 SEQUENCIA-ESTUDANTE="2738826"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6300240471682445"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruno de Abreu Dekker">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interação Humano-Computador/Usabilidade de Sistemas de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MATOS, F." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JEAN CARLO ROSSA HAUCK"
+                 NRO-ID-CNPQ-ORIENTADOR="8974834804658882"
+                 SEQUENCIA-ESTUDANTE="5613307"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4328138711383424"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Fabricio Matos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interação Humano-Computador/Usabilidade de Sistemas de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MISSFELDT FILHO, R." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="1A"
+                 BOLSA-CATEGORIA="Apoio Técnico a Pesquisa"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CHRISTIANE ANNELIESE GRESSE VON WANGENHEIM"
+                 NRO-ID-CNPQ-ORIENTADOR="3879944876244096"
+                 SEQUENCIA-ESTUDANTE="6588216"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9085610445740818"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Raul Missfeldt Filho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Melhoria e Avaliação de Processos de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="VIZEU, H. C." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CHRISTIANE ANNELIESE GRESSE VON WANGENHEIM"
+                 NRO-ID-CNPQ-ORIENTADOR="3879944876244096"
+                 SEQUENCIA-ESTUDANTE="6572502"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0630886719861140"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Henrique Campos de Vizeu">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Melhoria e Avaliação de Processos de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Artes Plásticas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, V. A." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CHRISTIANE ANNELIESE GRESSE VON WANGENHEIM"
+                 NRO-ID-CNPQ-ORIENTADOR="3879944876244096"
+                 SEQUENCIA-ESTUDANTE="6678009"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5069267135808231"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Vitor Abreu da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Melhoria e Avaliação de Processos de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="WEBER, A. R." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CHRISTIANE ANNELIESE GRESSE VON WANGENHEIM"
+                 NRO-ID-CNPQ-ORIENTADOR="3879944876244096"
+                 SEQUENCIA-ESTUDANTE="2362593"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1719019374450722"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alex Ricardo Weber">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Melhoria e Avaliação de Processos de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia e qualidade de Software</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, C. C." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CHRISTIANE ANNELIESE GRESSE VON WANGENHEIM"
+                 NRO-ID-CNPQ-ORIENTADOR="3879944876244096"
+                 SEQUENCIA-ESTUDANTE="6230750"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6946796817100082"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Chaiene De Conto de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Melhoria e Avaliação de Processos de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Direito</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Interpretação Cinematográfica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MACHADO, E. C." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL="1A"
+                 BOLSA-CATEGORIA="Apoio Técnico a Pesquisa"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CHRISTIANE ANNELIESE GRESSE VON WANGENHEIM"
+                 NRO-ID-CNPQ-ORIENTADOR="3879944876244096"
+                 SEQUENCIA-ESTUDANTE="6140902"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4916139490133452"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Eduardo Chequetto Machado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Melhoria e Avaliação de Processos de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CÓRDOVA, E. N." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CHRISTIANE ANNELIESE GRESSE VON WANGENHEIM"
+                 NRO-ID-CNPQ-ORIENTADOR="3879944876244096"
+                 SEQUENCIA-ESTUDANTE="4122579"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2426358187561936"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Eduardo Neves Córdova">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Melhoria e Avaliação de Processos de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia e Técnicas da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LACERDA, T. C.;LACERDA, THAÍSA;LACERDA, THAISA CARDOSO;Lacerda, Thaísa C."
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CHRISTIANE ANNELIESE GRESSE VON WANGENHEIM"
+                 NRO-ID-CNPQ-ORIENTADOR="3879944876244096"
+                 SEQUENCIA-ESTUDANTE="3782240"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3719710744379097"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Thaísa Cardoso Lacerda">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino de Engenharia de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GONÇALVES, R. Q.;GONÇALVES, RAFAEL QUEIROZ;GONÇALVES, RAFAEL;QUEIROZ GONÇALVES, RAFAEL;GONCALVES, RAFAEL QUEIROZ"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CHRISTIANE ANNELIESE GRESSE VON WANGENHEIM"
+                 NRO-ID-CNPQ-ORIENTADOR="3879944876244096"
+                 SEQUENCIA-ESTUDANTE="2939820"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2128958035598438"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rafael Queiroz Gonçalves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Gerenciamento de projetos de software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento Gráfico (Graphics)</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ALVES, J. M.;ALVES, JOAO MARCUS;ALVES, JOAO M."
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CHRISTIANE ANNELIESE GRESSE VON WANGENHEIM"
+                 NRO-ID-CNPQ-ORIENTADOR="3879944876244096"
+                 SEQUENCIA-ESTUDANTE="3511599"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3246582685156957"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="João Marcus Alves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Melhoria e Avaliação de Processos de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BATTISTELLA, P. E." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CHRISTIANE ANNELIESE GRESSE VON WANGENHEIM"
+                 NRO-ID-CNPQ-ORIENTADOR="3879944876244096"
+                 SEQUENCIA-ESTUDANTE="2062644"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7548058179895594"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Paulo Eduardo Battistella">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino de Engenharia de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino a Distância</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estrutura de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informática na Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ALVES, N. C." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL="1A"
+                 BOLSA-CATEGORIA="Apoio Técnico a Pesquisa"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CHRISTIANE ANNELIESE GRESSE VON WANGENHEIM"
+                 NRO-ID-CNPQ-ORIENTADOR="3879944876244096"
+                 SEQUENCIA-ESTUDANTE="5238328"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3320136950129484"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Nathalia da Cruz Alves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interação Humano-Computador/Usabilidade de Sistemas de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PETRI, Giani." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="CHRISTIANE ANNELIESE GRESSE VON WANGENHEIM"
+                 NRO-ID-CNPQ-ORIENTADOR="3879944876244096"
+                 SEQUENCIA-ESTUDANTE="2464339"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0210940455131933"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Giani Petri">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Ensino de Engenharia de Software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Jogos Educacionais</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3626386805125555"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver modelos, métodos e objetos de aprendizagem para o ensino de Engenharia de Software."
+                         NOME-DA-LINHA-DE-PESQUISA="Ensino de Engenharia de Software"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Engenharia de Software</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Educação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Jogos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Dinâmicas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Objetos de Aprendizagem</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="6">Ensino</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0409933387817596" NOME-COMPLETO="Adriano Ferreti Borgatto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="266051"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3086272505261137" NOME-COMPLETO="Andreia Zanella"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2242908"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="4148620280683594" NOME-COMPLETO="André Wüst Zibetti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="787163"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8974834804658882" NOME-COMPLETO="Jean Carlo Rossa Hauck"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="576248"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3879944876244096"
+                               NOME-COMPLETO="Christiane Anneliese Gresse von Wangenheim"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="156641"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7548058179895594" NOME-COMPLETO="Paulo Eduardo Battistella"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2062644"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3719710744379097" NOME-COMPLETO="Thaísa Cardoso Lacerda"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3782240"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0210940455131933" NOME-COMPLETO="Giani Petri"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2464339"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303022" CODIGO-ESPECIALIDADE="10303022"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Software"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="58"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="70804028" CODIGO-ESPECIALIDADE="70804028"
+                                  CODIGO-SUB-AREA="70804001"
+                                  CODIGO-AREA="70800006"
+                                  CODIGO-GRANDE-AREA="70000000"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Métodos e Técnicas de Ensino"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Ensino-Aprendizagem"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Educação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Humanas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1192"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3699240596175952"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver modelos e métodos para melhoria e avaliação de processo de software"
+                         NOME-DA-LINHA-DE-PESQUISA="Melhoria e Avaliação de Processos de Software"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">CMMI</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">ISO/IEC 15504</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Engenharia de Software</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Melhoria de Processos de Software</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Avaliação de Processos de Software</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8974834804658882" NOME-COMPLETO="Jean Carlo Rossa Hauck"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="576248"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3879944876244096"
+                               NOME-COMPLETO="Christiane Anneliese Gresse von Wangenheim"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="156641"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0630886719861140" NOME-COMPLETO="Henrique Campos de Vizeu"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6572502"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5069267135808231" NOME-COMPLETO="Vitor Abreu da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6678009"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3246582685156957" NOME-COMPLETO="João Marcus Alves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3511599"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6946796817100082" NOME-COMPLETO="Chaiene De Conto de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6230750"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2426358187561936" NOME-COMPLETO="Eduardo Neves Córdova"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4122579"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9085610445740818" NOME-COMPLETO="Raul Missfeldt Filho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6588216"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1719019374450722" NOME-COMPLETO="Alex Ricardo Weber"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2362593"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4916139490133452" NOME-COMPLETO="Eduardo Chequetto Machado"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6140902"
+                             SEQUENCIA-ESTUDANTE="8"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303022" CODIGO-ESPECIALIDADE="10303022"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Software"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="58"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6274912633092596"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver modelos e métodos para Engenharia de Usabilidade"
+                         NOME-DA-LINHA-DE-PESQUISA="Interação Humano-Computador/Usabilidade de Sistemas de Software"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">IHC</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Interação Homem-Computador</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Usabilidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Design de Interface</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0409933387817596" NOME-COMPLETO="Adriano Ferreti Borgatto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="266051"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8974834804658882" NOME-COMPLETO="Jean Carlo Rossa Hauck"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="576248"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3879944876244096"
+                               NOME-COMPLETO="Christiane Anneliese Gresse von Wangenheim"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="156641"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4328138711383424" NOME-COMPLETO="Fabricio Matos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5613307"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9308014412760492" NOME-COMPLETO="Jhonata da Rocha"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4940004"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5651708484332480" NOME-COMPLETO="Stéphanie da Silva Leal"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5637510"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5157672470237365" NOME-COMPLETO="Anderson Andrade Pereira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5079615"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2839453781524780" NOME-COMPLETO="Gabriel Soares Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5092477"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6300240471682445" NOME-COMPLETO="Bruno de Abreu Dekker"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2738826"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9844006061082855" NOME-COMPLETO="Lucas Pagotto Tonussi"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4872181"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3320136950129484" NOME-COMPLETO="Nathalia da Cruz Alves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5238328"
+                             SEQUENCIA-ESTUDANTE="8"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303022" CODIGO-ESPECIALIDADE="10303022"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Software"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="58"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1137304743006054"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolver modelos, métodos e ferramentas para gerenciamento de projetos de software"
+                         NOME-DA-LINHA-DE-PESQUISA="Gerenciamento de projetos de software"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Gerenciamento de Projetos de Software</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">PMBOK</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">dotProject</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8974834804658882" NOME-COMPLETO="Jean Carlo Rossa Hauck"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="576248"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3879944876244096"
+                               NOME-COMPLETO="Christiane Anneliese Gresse von Wangenheim"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="156641"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2128958035598438" NOME-COMPLETO="Rafael Queiroz Gonçalves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2939820"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303022" CODIGO-ESPECIALIDADE="10303022"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Software"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="58"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="27102016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="PESQUISADOR"
+               NRO-ID-CNPQ="2367123232031409"
+               NOME-DO-EGRESSO="Rafael Savi"/>
+      <EGRESSO DATA-SAIDA="27102016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="PESQUISADOR"
+               NRO-ID-CNPQ="6597934311081812"
+               NOME-DO-EGRESSO="Juliane Vargas Nunes"/>
+      <EGRESSO DATA-SAIDA="12082014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0550061168037246"
+               NOME-DO-EGRESSO="Herivelton Coelho"/>
+      <EGRESSO DATA-SAIDA="12082014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2542622857394740"
+               NOME-DO-EGRESSO="Maiara Heil Cancian"/>
+      <EGRESSO DATA-SAIDA="12082014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2550920261974213"
+               NOME-DO-EGRESSO="Saulo Cecim Al Achkar"/>
+      <EGRESSO DATA-SAIDA="27102016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7089234611329984"
+               NOME-DO-EGRESSO="Laís de Oliveira Souza"/>
+      <EGRESSO DATA-SAIDA="17112015" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7372740504522037"
+               NOME-DO-EGRESSO="Caroline Krone"/>
+      <EGRESSO DATA-SAIDA="12082014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3565495879338836"
+               NOME-DO-EGRESSO="Lara Cristina Wilpert"/>
+      <EGRESSO DATA-SAIDA="12082014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7029579385076121"
+               NOME-DO-EGRESSO="Thiago Michels Bonetti"/>
+      <EGRESSO DATA-SAIDA="12082014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="5192219233228456"
+               NOME-DO-EGRESSO="André Marques Pereira"/>
+      <EGRESSO DATA-SAIDA="12082014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="6295111676825069"
+               NOME-DO-EGRESSO="Alexis Piazza"/>
+      <EGRESSO DATA-SAIDA="12082014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3246582685156957"
+               NOME-DO-EGRESSO="João Marcus Alves"/>
+      <EGRESSO DATA-SAIDA="17112015" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4478178558515453"
+               NOME-DO-EGRESSO="Rodrigo Araujo Barbalho"/>
+      <EGRESSO DATA-SAIDA="12082014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="5379946712005815"
+               NOME-DO-EGRESSO="João Paulo Girardi Piccinini"/>
+      <EGRESSO DATA-SAIDA="12082014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2678322955123399"
+               NOME-DO-EGRESSO="Rafael Faccio"/>
+      <EGRESSO DATA-SAIDA="17112015" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="3719710744379097"
+               NOME-DO-EGRESSO="Thaísa Cardoso Lacerda"/>
+      <EGRESSO DATA-SAIDA="12082014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2284485715350642"
+               NOME-DO-EGRESSO="Debora Comochina"/>
+      <EGRESSO DATA-SAIDA="12082014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9582843589166024"
+               NOME-DO-EGRESSO="Rafael Reiter de Albuquerque"/>
+      <EGRESSO DATA-SAIDA="12082014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7153734800509370"
+               NOME-DO-EGRESSO="Pedro van Rooij Costa"/>
+      <EGRESSO DATA-SAIDA="12082014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="8408429231250475"
+               NOME-DO-EGRESSO="Fabio Bittencourt Forte"/>
+      <EGRESSO DATA-SAIDA="17112015" DATA-ENTRADA="28112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="2404513923093241"
+               NOME-DO-EGRESSO="Matheus Rosado Vill"/>
+      <EGRESSO DATA-SAIDA="17112015" DATA-ENTRADA="28112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="1817705617667095"
+               NOME-DO-EGRESSO="Giovane Daniel dos Santos"/>
+      <EGRESSO DATA-SAIDA="17112015" DATA-ENTRADA="28112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="4000532260029852"
+               NOME-DO-EGRESSO="Mathias Olivio Reolon"/>
+      <EGRESSO DATA-SAIDA="27102016" DATA-ENTRADA="28112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7014560310709243"
+               NOME-DO-EGRESSO="Paulo Jair Junckes Filho"/>
+      <EGRESSO DATA-SAIDA="17112015" DATA-ENTRADA="28112014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="8564441525360535"
+               NOME-DO-EGRESSO="Fernando Taranto Cassettari"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

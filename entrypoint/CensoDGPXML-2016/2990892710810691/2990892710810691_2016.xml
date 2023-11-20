@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="2990892710810691"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="202415"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="09102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="0584005779912872" CODIGO-AREA-PREDOMINANTE="31300006"
+                           NOME-DA-UNIDADE=""
+                           NOME-DO-ORGAO="Universidade Federal de São João Del-Rei"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="MG"
+                           SIGLA-DA-INSTITUICAO="UFSJ"
+                           NOME-DA-INSTITUICAO="Universidade Federal de São João Del-Rei"
+                           AREA-PREDOMINANTE="Engenharia Biomédica"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="1994"
+                           NOME-DO-GRUPO="Bioengenharia de Sistemas Neuronais">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="2815105916715425" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Antônio-Carlos Guimarães de Almeida"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="8935880436472564" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Antônio Márcio Rodrigues"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3162500" DDDFAX="32"
+                                       LONGITUDE="-44.25077369999997"
+                                       LATITUDE="-21.1248621"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="São João Del Rei"
+                                       NUMERO="74 - Lab. Neuroc. Exp. e Comp."
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="Praça Dom Helvécio"
+                                       HOME-PAGE="http://www.ufsj.edu.br/ppbe"
+                                       E-MAIL="acga@ufsj.edu.br"
+                                       FAX="33792541"
+                                       RAMAL=""
+                                       TELEFONE="33792417"
+                                       DDD="32"
+                                       CEP="36301160"
+                                       CIDADE="São João del Rei"
+                                       UF="MG"
+                                       BAIRRO="DOM BOSCO"/>
+      <REPERCUSSOES>O Grupo de Bioengenharia de Sistemas Neuronais atua estudando atividades de tecidos neuronais combinando experimentos com simulação computacional. Dois fenômenos são abordados nesses estudos: a epilepsia e a depressão alastrante (DA). Fatias de cérebro e retina de ave são utilizadas experimentalmente para indução dos fenômenos. A interpretação dos resultados experimentais de indução de atividade epileptiforme e depressão alastrante são muito limitadas quando feitas unicamente por meio de uma análise estatística de parâmetros extraídos dos grafoelementos dos sinais registrados em situações normais e durante manipulações farmacológicas. Esse tipo de estratégia, embora muito utilizada, permite inferir de forma pouco convincente a respeito da influência dos mecanismos biofísicos e eletroquímicos subcelulares sobre o comportamento global do sistema. Para contornar essas limitações, nosso grupo, além de desenvolver os experimentos, os reproduz em computador. Por meio de modelagem matemática são representados milhares de células, compondo um tecido neuronal, a partir de suas interligações através de conexões sinápticas e não-sinápticas. Os modelos desenvolvidos, ao invés de utilizar circuitos elétricos análogos para representar as células, são modelos eletroquímicos, que envolvem os principais sistemas celulares de recuperação dos gradientes iônicos transmembrânicos, e permitem simular medidas experimentais associadas com o potencial ou com as concentrações iônicas intra e extracelulares. Através dessas estratégias o grupo tem contribuído para o entendimento dos mecanismos de deflagração e propagação de atividades epileptiformes e de ondas de DA.</REPERCUSSOES>
+      <REDES-DE-PESQUISA>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="INNT"
+                           URL-DA-REDE-DE-PESQUISA="http://inct.cnpq.br/web/inct-innt/home"
+                           NOME-DA-REDE-DE-PESQUISA="INCT: INSTITUTO NACIONAL DE NEUROCIÊNCIA TRANSLACIONAL"/>
+      </REDES-DE-PESQUISA>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="SANTOS, I.C.;Santos, Ivan Carlos;DOS SANTOS, IVAN CARLOS;Dos Santos, Ivans Carlos;SANTOS, IVAN CARLOS DOS;SANTOS, IVAN C."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8545258785789014"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ivan Carlos dos Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fisiologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="DUARTE, M. A.;DUARTE, M;Duarte, Mario A.;DUARTE, MARIO ANTÔNIO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6131624828925287"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Mário Antônio Duarte">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioengenharia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medições Fisiológicas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem de Fenômenos Biológicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Sinais Biológicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ALMEIDA, A.C.G. ou GUIMARAES ALMEIDA, A.C. ou ALMEIDA, A.C.;Almeida, Antônio-Carlos G.;Almeida, Antonio-Carlos G. de;de Almeida, Antônio-Carlos G;de Almeida, Antonio-Carlos;de Almeida, A C G;de Almeida, Antonio-Carlos G.;De Almeida, Antônio-Carlos G.;De Almeida, Antonio-Carlos Guimaraes;DE ALMEIDA, ANTONIO-CARLOS GUIMARÃES;ALMEIDA, ANTONIO-CARLOS GUIMARÃ£ES DE;GUIMARAES ALMEIDA, ANTONIO-CARLOS;GUIMARAES DE ALMEIDA, ANTONIO-CARLOS;GUIMARÃES DE ALMEIDA, ANTÔNIO-CARLOS;DE ALMEIDA, AC;DE ALMEIDA, ANTÔNIO-CARLOS GUIMARÃES;ANTONIO-CARLOS ALMEIDA;DE ALMEIDA, ANTÃ?NIO-CARLOS G.;Antonio-Carlos G. de Almeida;ACG de Almeida;G. DE ALMEIDA, ANTONIO-CARLOS;DE ALMEIDA, A.-C.G.;ALMEIDA, ANTÔNIO C. G."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2815105916715425"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Antônio-Carlos Guimarães de Almeida">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medições Fisiológicas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem de Fenômenos Biológicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Sinais Biológicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SILVEIRA, G. A.;Silveira, Gilcelio;Silveira, Gilcélio A.;DA SILVEIRA, GILCÉLIO AMARAL"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9535110786262036"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Gilcélio Amaral da Silveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Anatomia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neuroanatomia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="RODRIGUES, A. M.;RODRIGUES, A;Rodrigues, Antônio M;de Almeida, Antônio-Carlos G.;Rodrigues, A M;Rodrigues, Antônio M.;Rodrigues, Antônio Márcio;RODRIGUES, AM;RODRIGUES, ANTONIO M.;RODRIGUES, ANTÃ?NIO M.;Antônio Márcio Rodrigues;Antônio Márcio Rodrigues3;RODRIGUES, A.M."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8935880436472564"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Antônio Márcio Rodrigues">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biofísica Celular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem de Fenômenos Biológicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MIRANDA, M. F.;MIRANDA, MF;MIRANDA, MAISA F.;MIRANDA, MAÍSA FERREIRA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="F"
+                   NRO-ID-CNPQ="9906562536942424"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Maísa Ferreira Miranda">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Epilepsia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neurociências</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neurofisiologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CIACCI, L. S." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0318250475391912"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Lívia da Silva Ciacci">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioengenharia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Comportamento Animal</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fisiologia de Órgãos e Sistemas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Sinais Biológicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Toxicologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANTOS, L. E. C.;SANTOS, LUIZ EDUARDO CANTON;SANTOS, L.E.C."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7100356846491853"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Luiz Eduardo Canton Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Anatomia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biofísica Celular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Celular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Histologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Morfologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neurofisiologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GOMES, V. C.;DE CASTRO GOMES, VITOR;GOMES, VITOR DE CASTRO;GOMES, VÍTOR DE CASTRO;GOMES, VITOR DE C.;CASTRO-GOMES, V;CASTRO-GOMES, VITOR"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8664307972154136"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Vitor de Castro Gomes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Psicologia Cognitiva</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Psicologia Experimental</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Psicologia Fisiológica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Técnicas de Processamento Estatístico, Matemático e Computacional em Psicologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="BATISTA, A. G.;BATISTA, ALINE G." NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO-CARLOS GUIMARAES DE ALMEIDA"
+                 NRO-ID-CNPQ-ORIENTADOR="2815105916715425"
+                 SEQUENCIA-ESTUDANTE="584810"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9218750375596362"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Aline Gisele Batista">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neurofísica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FRANÇA, K. L. A.;FRANÇA, KEITE LIRA DE ALMEIDA"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO MARCIO RODRIGUES"
+                 NRO-ID-CNPQ-ORIENTADOR="8935880436472564"
+                 SEQUENCIA-ESTUDANTE="2202043"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8309567094226807"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Keite Lira de Almeida França">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem de Fenômenos Biológicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NOGUEIRA, G. S.;NOGUEIRA, G.S." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO-CARLOS GUIMARAES DE ALMEIDA"
+                 NRO-ID-CNPQ-ORIENTADOR="2815105916715425"
+                 SEQUENCIA-ESTUDANTE="2160078"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3493346209172481"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gisele Silva Nogueira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biofísica Celular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biofísica de Processos e Sistemas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fisiologia de Órgãos e Sistemas</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, D. B." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO MARCIO RODRIGUES"
+                 NRO-ID-CNPQ-ORIENTADOR="8935880436472564"
+                 SEQUENCIA-ESTUDANTE="2874909"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7615706781904029"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Delmo Benedito Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neurofisiologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="RIBEIRO, K. T." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARIO ANTONIO DUARTE"
+                 NRO-ID-CNPQ-ORIENTADOR="6131624828925287"
+                 SEQUENCIA-ESTUDANTE="2304845"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3784951082327102"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Kelison Tadeu Ribeiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biofísica Celular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia e Técnicas da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem de Fenômenos Biológicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neurofisica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Não Lineares</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LOPES, M. R.;LOPES, MARIANA RODRIGUES" NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO-CARLOS GUIMARAES DE ALMEIDA"
+                 NRO-ID-CNPQ-ORIENTADOR="2815105916715425"
+                 SEQUENCIA-ESTUDANTE="649573"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1820042523708400"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Mariana Rodrigues Lopes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>epilepsia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>neurociências</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>neurofisiologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="D'ANGELO, L. R. B."
+                 NIVEL-DE-TREINAMENTO="Curso de curta duração"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="IVAN CARLOS DOS SANTOS"
+                 NRO-ID-CNPQ-ORIENTADOR="8545258785789014"
+                 SEQUENCIA-ESTUDANTE="4122160"
+                 SEXO="F"
+                 NRO-ID-CNPQ="5886028386834528"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Letícia Romanna Batista D'Angelo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioengenharia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COSTA, Victor Diego Cupertino" NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO-CARLOS GUIMARAES DE ALMEIDA"
+                 NRO-ID-CNPQ-ORIENTADOR="2815105916715425"
+                 SEQUENCIA-ESTUDANTE="2286976"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5321386708904624"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Victor Diego Cupertino Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioética</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Geral</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Farmacologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fisiologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Morfologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FERREIRA, K. A." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARIO ANTONIO DUARTE"
+                 NRO-ID-CNPQ-ORIENTADOR="6131624828925287"
+                 SEQUENCIA-ESTUDANTE="2254550"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4977617507322019"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Karla Aparecida Ferreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioengenharia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biofísica Celular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Celular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fisiologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Morfologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neurofisiologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, S. C. B." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO-CARLOS GUIMARAES DE ALMEIDA"
+                 NRO-ID-CNPQ-ORIENTADOR="2815105916715425"
+                 SEQUENCIA-ESTUDANTE="4183331"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1177232768802130"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Silvia Cristina Braga da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neurofisiologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CARDOSO, J. P." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="IVAN CARLOS DOS SANTOS"
+                 NRO-ID-CNPQ-ORIENTADOR="8545258785789014"
+                 SEQUENCIA-ESTUDANTE="4255505"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4702418865869325"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Juliana Pereira Cardoso">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciências Biológicas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>ENGENHARIA BIOMÉDICA</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Neurofisiologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="BIÓLOGOS E AFINS" TITULO-OCUPACAO="Biólogo"
+               CODIGO-CBO="2211-05"
+               NIVEL-DE-TREINAMENTO="Doutorado"
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="F"
+               NOME-CITACOES="AARÃO, M. C.;AARÃO, MAYRA C.;AARÃ£O, MAYRA C."
+               NRO-ID-CNPQ="5301996821224743"
+               GRAU-DE-ESCOLARIDADE="Mestrado"
+               ATIVIDADE-NO-GRUPO="Biólogo"
+               NOME-COMPLETO="Mayra Consuelo Aarão"
+               SEQUENCIA-TECNICO="890710"/>
+   </TECNICOS>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2264351086351334"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de procedimentos experimentais e simulações computacionais nos estudos de epilepsia, com destaque para as atividades epileptiformes não-sinápticas e o fenômeno de Depressão Alastrante de Leão utilizando fatia de córtex cerebral de vertebrados como modelo experimental paralelamente à implementação de modelos matemáticos que permitem analisar os resultados experimentais."
+                         NOME-DA-LINHA-DE-PESQUISA="Neurociência Experimental e Computacional"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Modelagem Matemática</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Tecidos Neuronais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Depressão Alastrante</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Cultura Celular</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Epilepsia</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8545258785789014" NOME-COMPLETO="Ivan Carlos dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="349836"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6131624828925287" NOME-COMPLETO="Mário Antônio Duarte"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="49196"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2815105916715425"
+                               NOME-COMPLETO="Antônio-Carlos Guimarães de Almeida"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="74087"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9535110786262036" NOME-COMPLETO="Gilcélio Amaral da Silveira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="276130"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8935880436472564" NOME-COMPLETO="Antônio Márcio Rodrigues"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="188970"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9906562536942424" NOME-COMPLETO="Maísa Ferreira Miranda"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2252398"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0318250475391912" NOME-COMPLETO="Lívia da Silva Ciacci"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2236349"
+                               SEQUENCIA-PESQUISADOR="7"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7100356846491853" NOME-COMPLETO="Luiz Eduardo Canton Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="806500"
+                               SEQUENCIA-PESQUISADOR="8"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8664307972154136" NOME-COMPLETO="Vitor de Castro Gomes"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2062573"
+                               SEQUENCIA-PESQUISADOR="9"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9218750375596362" NOME-COMPLETO="Aline Gisele Batista"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="584810"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8309567094226807" NOME-COMPLETO="Keite Lira de Almeida França"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2202043"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3493346209172481" NOME-COMPLETO="Gisele Silva Nogueira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2160078"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7615706781904029" NOME-COMPLETO="Delmo Benedito Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2874909"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3784951082327102" NOME-COMPLETO="Kelison Tadeu Ribeiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2304845"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1820042523708400" NOME-COMPLETO="Mariana Rodrigues Lopes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="649573"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5886028386834528" NOME-COMPLETO="Letícia Romanna Batista D'Angelo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4122160"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5321386708904624" NOME-COMPLETO="Victor Diego Cupertino Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2286976"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4977617507322019" NOME-COMPLETO="Karla Aparecida Ferreira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2254550"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1177232768802130" NOME-COMPLETO="Silvia Cristina Braga da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4183331"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4702418865869325" NOME-COMPLETO="Juliana Pereira Cardoso"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4255505"
+                             SEQUENCIA-ESTUDANTE="11"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20902000" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20902000"
+                                  CODIGO-AREA="20900007"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Eletrofisiologia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biofísica Celular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Biofísica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="315"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31301029" CODIGO-ESPECIALIDADE="31301029"
+                                  CODIGO-SUB-AREA="31301002"
+                                  CODIGO-AREA="31300006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Modelagem de Fenômenos Biológicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Bioengenharia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Biomédica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="649"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31301010" CODIGO-ESPECIALIDADE="31301010"
+                                  CODIGO-SUB-AREA="31301002"
+                                  CODIGO-AREA="31300006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Processamento de Sinais Biológicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Bioengenharia"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Biomédica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="648"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="9058626540935772" RAZAO-SOCIAL-DA-EMPRESA=""
+               NATUREZA-JURIDICA="Autarquia Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="33663683000116"
+               LOCALIDADE="Rio de Janeiro"
+               CIDADE="Rio de Janeiro"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="PEB"
+               NOME-DA-EMPRESA="Programa de Engenharia Biomédica"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="5312068331300203" RAZAO-SOCIAL-DA-EMPRESA=""
+               NATUREZA-JURIDICA="Autarquia Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="60453032000174"
+               LOCALIDADE="São Paulo"
+               CIDADE="São Paulo"
+               UF="SP"
+               SIGLA-DA-EMPRESA="UNIFESP"
+               NOME-DA-EMPRESA="Departamento de Neurologia/Neurocirurgia"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA/>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="14">Transferência de insumos materiais para as atividades de pesquisa do grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS>
+      <EQUIPAMENTO DISPONIBILIZADO-OUTROS-PESQUISADORES="N" ESTADO="Atualizado"
+                   SITUACAO="Em instalação"
+                   CUSTO-AQUISICAO="500000"
+                   MOEDA-AQUISICAO="REAL"
+                   DATA-FIM-AQUISICAO-EQUIPAMENTO-SISTEMA="09122014"
+                   DATA-INICIO-AQUISICAO-EQUIPAMENTO-SISTEMA="05122014"
+                   ESPECIFICACOES="80 núcleos, 1Tb RAM, 80 TbHD"
+                   MODELO="SGI 2000"
+                   MARCA="Silicon Graphics"
+                   NOME="Computador de Alta Performance"
+                   CLASSIFICACAO="Equipamentos de Informática"
+                   TIPO-DE-EQUIPAMENTO="Sistema"
+                   DESENVOLVIMENTO-PROPRIO="N"
+                   SEQUENCIA-EQUIPAMENTO="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Finep</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </EQUIPAMENTO>
+      <EQUIPAMENTO DISPONIBILIZADO-OUTROS-PESQUISADORES="N" ESTADO="Atualizado"
+                   SITUACAO="Em operação"
+                   CUSTO-AQUISICAO="870000"
+                   MOEDA-AQUISICAO="REAL"
+                   ANO-AQUISICAO-EQUIPAMENTO-UNITARIO="2014"
+                   ESPECIFICACOES="Sistema de microscopia confocal em tempo real com simultâneo registro eletrofisiológico"
+                   MODELO="Live 7"
+                   MARCA="Zeiss"
+                   NOME="Microscópio Confocal"
+                   CLASSIFICACAO="Microscópios"
+                   TIPO-DE-EQUIPAMENTO="Equipamento unitário"
+                   DESENVOLVIMENTO-PROPRIO="N"
+                   SEQUENCIA-EQUIPAMENTO="1">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Finep</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </EQUIPAMENTO>
+      <EQUIPAMENTO DISPONIBILIZADO-OUTROS-PESQUISADORES="N" ESTADO="Atualizado"
+                   SITUACAO="Em operação"
+                   CUSTO-AQUISICAO="200000"
+                   MOEDA-AQUISICAO="REAL"
+                   ANO-AQUISICAO-EQUIPAMENTO-UNITARIO="2012"
+                   ESPECIFICACOES=""
+                   MODELO="Hyrax C50"
+                   MARCA="Zeiss"
+                   NOME="Criostato "
+                   CLASSIFICACAO="Histologia"
+                   TIPO-DE-EQUIPAMENTO="Equipamento unitário"
+                   DESENVOLVIMENTO-PROPRIO="N"
+                   SEQUENCIA-EQUIPAMENTO="2">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Finep</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </EQUIPAMENTO>
+      <EQUIPAMENTO DISPONIBILIZADO-OUTROS-PESQUISADORES="N" ESTADO="Atualizado"
+                   SITUACAO="Em operação"
+                   CUSTO-AQUISICAO="800000"
+                   MOEDA-AQUISICAO="REAL"
+                   ANO-AQUISICAO-EQUIPAMENTO-UNITARIO="2013"
+                   ESPECIFICACOES=""
+                   MODELO="LSM 710"
+                   MARCA="Zeiss"
+                   NOME="Microscópio Confocal "
+                   CLASSIFICACAO="Microscópios"
+                   TIPO-DE-EQUIPAMENTO="Equipamento unitário"
+                   DESENVOLVIMENTO-PROPRIO="N"
+                   SEQUENCIA-EQUIPAMENTO="3">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Fundação estadual de amparo à pesquisa</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </EQUIPAMENTO>
+   </EQUIPAMENTOS>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="09122014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7100356846491853"
+               NOME-DO-EGRESSO="Luiz Eduardo Canton Santos"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0318250475391912"
+               NOME-DO-EGRESSO="Lívia da Silva Ciacci"/>
+      <EGRESSO DATA-SAIDA="09122014" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9906562536942424"
+               NOME-DO-EGRESSO="Maísa Ferreira Miranda"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0318250475391912"
+               NOME-DO-EGRESSO="Lívia da Silva Ciacci"/>
+      <EGRESSO DATA-SAIDA="09122014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9906562536942424"
+               NOME-DO-EGRESSO="Maísa Ferreira Miranda"/>
+      <EGRESSO DATA-SAIDA="09122014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7100356846491853"
+               NOME-DO-EGRESSO="Luiz Eduardo Canton Santos"/>
+      <EGRESSO DATA-SAIDA="09122014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9906562536942424"
+               NOME-DO-EGRESSO="Maísa Ferreira Miranda"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0318250475391912"
+               NOME-DO-EGRESSO="Lívia da Silva Ciacci"/>
+      <EGRESSO DATA-SAIDA="09122014" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7100356846491853"
+               NOME-DO-EGRESSO="Luiz Eduardo Canton Santos"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="09122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0318250475391912"
+               NOME-DO-EGRESSO="Lívia da Silva Ciacci"/>
+      <EGRESSO DATA-SAIDA="09102016" DATA-ENTRADA="09122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="0318250475391912"
+               NOME-DO-EGRESSO="Lívia da Silva Ciacci"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

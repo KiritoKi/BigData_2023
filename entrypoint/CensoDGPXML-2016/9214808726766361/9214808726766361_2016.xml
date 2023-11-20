@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="9214808726766361"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="083043"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="17082016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="2051298011084067" CODIGO-AREA-PREDOMINANTE="10500006"
+                           NOME-DA-UNIDADE="Departamento Acadêmico de Física"
+                           NOME-DO-ORGAO="Departamento Acadêmico de Física"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="PR"
+                           SIGLA-DA-INSTITUICAO="UTFPR"
+                           NOME-DA-INSTITUICAO="Universidade Tecnológica Federal do Paraná"
+                           AREA-PREDOMINANTE="Física"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2011"
+                           NOME-DO-GRUPO="Física Computacional">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="9065135095315460" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Rafael Carvalho Barreto"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="4106902" DDDFAX="41"
+                                       LONGITUDE="-49.26936864852905"
+                                       LATITUDE="-25.43924745899584"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Curitiba"
+                                       NUMERO="sala 112"
+                                       COMPLEMENTO="Laboratório de Física Computacional"
+                                       LOGRADOURO="Av. Sete de Setembro, 3165, bloco N"
+                                       HOME-PAGE="hpc.ct.utfpr.edu.br"
+                                       E-MAIL="baarreth@gmail.com"
+                                       FAX="9883-3114"
+                                       RAMAL=""
+                                       TELEFONE="8700-4554"
+                                       DDD="41"
+                                       CEP="80230901"
+                                       CIDADE="Curitiba"
+                                       UF="PR"
+                                       BAIRRO="Rebouças"/>
+      <REPERCUSSOES>O foco do grupo é o desenvolvimento e uso de ferramentas computacionais para o estudo de sistemas físicos, com interesse científico e tecnológico. Tais ferramentas se manifestam na montagem e manutenção de cluster para computação de alto desempenho, e implementação e uso de programas de simulação com código livre. Há especial interesse na modelagem e simulação de sistemas atômicos e moleculares, biomoléculas e membranas celulares, utilizando não apenas potenciais empíricos, mas também cálculos de primeiros princípios. Os trabalhos produzidos pelo grupo enquadram-se na área de física computacional, física atômica e molecular, biofísica, química teórica, química computacional e mecânica estatística.</REPERCUSSOES>
+      <REDES-DE-PESQUISA>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="INDI-Saúde"
+                           URL-DA-REDE-DE-PESQUISA="http://estatico.cnpq.br/programas/inct/_apresentacao/inct_diag_saude.html#particip"
+                           NOME-DA-REDE-DE-PESQUISA="INCT PARA DIAGNÓSTICO EM SAÚDE PÚBLICA"/>
+      </REDES-DE-PESQUISA>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="BARRETO, R. C.;BARRETO, R.C." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9065135095315460"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rafael Carvalho Barreto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Intrumentação Eletrônica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação computacional de moléculas biológicas e membranas celulares"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Propriedades, estrutura e espectroscopia de sistemas moleculares"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Estrutura eletrônica de líquidos moleculares"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de ferramentas computacionais para simulação de sistemas físicos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Atômica e Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Simulação Computacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GODOI, W. C.;Godoi, W C;GODOI, W;GODOI, W.C.;GODOI, WALMOR CARDOSO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1099680203756198"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Walmor Cardoso Godoi">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Intrumentação Eletrônica"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de ferramentas computacionais para simulação de sistemas físicos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Materiais e Metalúrgica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ensino de Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Radiologia Industrial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Realidade Virtual</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PASCHUK, S. A.;Paschuk, Sergei A.;Paschuk, Sergei Anatolyevich;Pashchuk, S.A.;S.A. Pashchuk"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5290164798310287"
+                   PAIS-DE-NASCIMENTO="RUS"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Sergei Anatolyevich Paschuk">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Tomografia Computadorizada com Feixe de Protons"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aplicações de Radioisótopos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aplicações Industriais de Radioisótopos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desintegração Nuclear e Radioatividade</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Odontológica e Médico-Hospitalar</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Experimentais e Instrumentação para Partículas Elementares e Física Nuclear</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reações Nucleares e Espalhamento Geral</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="MIQUELIN, C. A.;Miquelin, Charlie Antoni;Miquelin, Charlie A."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2797875007644990"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Charlie Antoni Miquelin">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens Digitais Médicas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medicina Nuclear</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento de Imagens Digitais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Proteção Radiológica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Radiologia Médica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ressonância Magnética</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Tomografia Computadorizada</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="GONÇALVES, M. BROWN;Gonçalves, Marcos Brown;Gonçalves, Marcos B.;BROWN GONÇALVES, MARCOS"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2535484439420670"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Marcos Brown Gonçalves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Propriedades, estrutura e espectroscopia de sistemas moleculares"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação computacional de moléculas biológicas e membranas celulares"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estrutura Eletrônica de Átomos e Moléculas; Teoria</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física da Matéria Condensada</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="GOMES, V. B." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAFAEL CARVALHO BARRETO"
+                 NRO-ID-CNPQ-ORIENTADOR="9065135095315460"
+                 SEQUENCIA-ESTUDANTE="6824164"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4268357338657933"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Victor Barpp Gomes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de ferramentas computacionais para simulação de sistemas físicos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="AMIN, L. K." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAFAEL CARVALHO BARRETO"
+                 NRO-ID-CNPQ-ORIENTADOR="9065135095315460"
+                 SEQUENCIA-ESTUDANTE="6821538"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5108636807475664"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lucas Kuttner Amin">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação computacional de moléculas biológicas e membranas celulares"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estrutura Eletrônica de Átomos e Moléculas; Teoria</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem de Sistemas Biológicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Química Teórica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, T. G.;SILVA, TIAGO G." NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARCOS BROWN GONCALVES"
+                 NRO-ID-CNPQ-ORIENTADOR="2535484439420670"
+                 SEQUENCIA-ESTUDANTE="2270676"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4260914374392907"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Tiago Gutierres da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação computacional de moléculas biológicas e membranas celulares"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Propriedades, estrutura e espectroscopia de sistemas moleculares"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="UKAN PEREIRA, F." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Graduação Sanduíche no Exterior"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="RAFAEL CARVALHO BARRETO"
+                 NRO-ID-CNPQ-ORIENTADOR="9065135095315460"
+                 SEQUENCIA-ESTUDANTE="4908873"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0699315625315261"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Felipe Ukan Pereira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de ferramentas computacionais para simulação de sistemas físicos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Elétricos, Magnéticos e Eletrônicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0678651318011353"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Utilização de modelagem e simulação computacional para produzir imagens do interior de objetos, de maneira não invasiva, utilizando feixes de prótons."
+                         NOME-DA-LINHA-DE-PESQUISA="Tomografia Computadorizada com Feixe de Protons"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Física Computacional</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Física Nuclear</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5290164798310287" NOME-COMPLETO="Sergei Anatolyevich Paschuk"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="226688"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10504001" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10504001"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Nuclear"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="109"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9130663279308111"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Obter teoricamente as propriedades eletrônicas de moléculas em meio solvente utilizando métodos QM/MM."
+                         NOME-DA-LINHA-DE-PESQUISA="Estrutura eletrônica de líquidos moleculares"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">QM/MM</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Dinâmica Molecular</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Monte Carlo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Hartree-Fock</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Estrutura Eletrônica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9065135095315460" NOME-COMPLETO="Rafael Carvalho Barreto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="286610"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10505016" CODIGO-ESPECIALIDADE="10505016"
+                                  CODIGO-SUB-AREA="10505008"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Estrutura Eletrônica de Átomos e Moléculas; Teoria"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Atômica e Molecular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="117"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.20"
+                                SUBSETOR="Fabricação de produtos químicos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5062596050310862"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Obter teoricamente as propriedades termodinâmicas, estruturais e espectroscópicas de moléculas através de métodos de primeiros princípios."
+                         NOME-DA-LINHA-DE-PESQUISA="Propriedades, estrutura e espectroscopia de sistemas moleculares"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Estrutura Eletrônica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Ab initio</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Espectro vibracional</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9065135095315460" NOME-COMPLETO="Rafael Carvalho Barreto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="286610"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2535484439420670" NOME-COMPLETO="Marcos Brown Gonçalves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="693591"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4260914374392907" NOME-COMPLETO="Tiago Gutierres da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2270676"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10505016" CODIGO-ESPECIALIDADE="10505016"
+                                  CODIGO-SUB-AREA="10505008"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Estrutura Eletrônica de Átomos e Moléculas; Teoria"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Atômica e Molecular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="117"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5870918091041566"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Implementar, modelar e simular sistemas físicos utilizando métodos numéricos, física teórica e computação de alto desempenho."
+                         NOME-DA-LINHA-DE-PESQUISA="Desenvolvimento de ferramentas computacionais para simulação de sistemas físicos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Dinâmica Molecular</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Física Computacional</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Computação de Alto Desempenho</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Mecânica Quântica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Cálculo Numérico</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9065135095315460" NOME-COMPLETO="Rafael Carvalho Barreto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="286610"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1099680203756198" NOME-COMPLETO="Walmor Cardoso Godoi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="204050"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4268357338657933" NOME-COMPLETO="Victor Barpp Gomes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6824164"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0699315625315261" NOME-COMPLETO="Felipe Ukan Pereira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4908873"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303022" CODIGO-ESPECIALIDADE="10303022"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Software"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="58"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10500006" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Computacional"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="89"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2865640961869785"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Obter teoricamente as propriedades físicas de proteínas, membranas, micelas e sistemas de interesse biológico através de técnicas de dinâmica molecular."
+                         NOME-DA-LINHA-DE-PESQUISA="Simulação computacional de moléculas biológicas e membranas celulares"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Dinâmica Molecular</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Membrana Celular</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Ácido Graxo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Proteínas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Biomoléculas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9065135095315460" NOME-COMPLETO="Rafael Carvalho Barreto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="286610"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2535484439420670" NOME-COMPLETO="Marcos Brown Gonçalves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="693591"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5108636807475664" NOME-COMPLETO="Lucas Kuttner Amin"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6821538"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4260914374392907" NOME-COMPLETO="Tiago Gutierres da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2270676"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20901003" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20901003"
+                                  CODIGO-AREA="20900007"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Simulação Computacional de Biomoléculas"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biofísica Molecular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Biofísica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="314"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10505016" CODIGO-ESPECIALIDADE="10505016"
+                                  CODIGO-SUB-AREA="10505008"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Estrutura Eletrônica de Átomos e Moléculas; Teoria"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Atômica e Molecular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="117"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10501045" CODIGO-ESPECIALIDADE="10501045"
+                                  CODIGO-SUB-AREA="10501002"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Física Estatística e Termodinâmica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Geral"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="94"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7952876650423970"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Produção e desenvolvimento de instrumentação eletrônica."
+                         NOME-DA-LINHA-DE-PESQUISA="Intrumentação Eletrônica"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Microcontroladores</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9065135095315460" NOME-COMPLETO="Rafael Carvalho Barreto"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="286610"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1099680203756198" NOME-COMPLETO="Walmor Cardoso Godoi"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="204050"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30405025" CODIGO-ESPECIALIDADE="30405025"
+                                  CODIGO-SUB-AREA="30405009"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Automação Eletrônica de Processos Elétricos e Industriais"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Eletrônica Industrial, Sistemas e Controles Eletrônicos"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="443"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.27"
+                                SUBSETOR="Fabricação de máquinas, aparelhos e materiais elétricos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9122436892273880"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Utilização de ferramentas de processamento de imagens digitais no auxilio a qualidade da imagem e diagnóstico por imagens. "
+                         NOME-DA-LINHA-DE-PESQUISA="Processamento de Imagens Digitais Médicas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Processamento de Imagens Digitais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2797875007644990" NOME-COMPLETO="Charlie Antoni Miquelin"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="328033"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="40106004" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="40106004"
+                                  CODIGO-AREA="40100006"
+                                  CODIGO-GRANDE-AREA="40000001"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Radiologia Médica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Medicina"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências da Saúde"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="695"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS>
+      <EQUIPAMENTO DISPONIBILIZADO-OUTROS-PESQUISADORES="S" ESTADO="Atualizado"
+                   SITUACAO="Em operação"
+                   CUSTO-AQUISICAO="300000"
+                   MOEDA-AQUISICAO="REAL"
+                   DATA-FIM-AQUISICAO-EQUIPAMENTO-SISTEMA="31122015"
+                   DATA-INICIO-AQUISICAO-EQUIPAMENTO-SISTEMA="01012012"
+                   ESPECIFICACOES="10 nodes: de 12 a 24 cores/node, RAM de 64 a 144GB/node, + storage com 100TB, + no-breaks, + switches, + 2 ar-condicionados (60 mil BTU)"
+                   MODELO=""
+                   MARCA="Diversos fabricantes"
+                   NOME="Cluster"
+                   CLASSIFICACAO="Equipamentos de Informática"
+                   TIPO-DE-EQUIPAMENTO="Sistema"
+                   DESENVOLVIMENTO-PROPRIO="N"
+                   SEQUENCIA-EQUIPAMENTO="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Capes</ENTIDADE-FINANCIADORA>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="1">Orçamento da própria instituição</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </EQUIPAMENTO>
+   </EQUIPAMENTOS>
+   <SOFTWARES>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="0"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES=""
+                MODELO=""
+                VERSAO="pré-alfa"
+                NOME="OpenQMMM"
+                CLASSIFICACAO="Simulação"
+                TIPO-DE-LICENCIAMENTO="Livre"
+                DESENVOLVIMENTO-PROPRIO="N"
+                SEQUENCIA-SOFTWARE="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Recursos próprios</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+   </SOFTWARES>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

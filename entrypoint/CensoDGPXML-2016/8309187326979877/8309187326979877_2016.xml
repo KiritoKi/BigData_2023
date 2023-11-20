@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="8309187326979877"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="093205"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="06102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="7968586390788673" CODIGO-AREA-PREDOMINANTE="30600006"
+                           NOME-DA-UNIDADE="Departamento de Engenharia de Sistemas Químicos"
+                           NOME-DO-ORGAO="Departamento de Engenharia de Sistemas Químicos"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SP"
+                           SIGLA-DA-INSTITUICAO="UNICAMP"
+                           NOME-DA-INSTITUICAO="Universidade Estadual de Campinas"
+                           AREA-PREDOMINANTE="Engenharia Química"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="2008"
+                           NOME-DO-GRUPO="Controle e Automação de Processos Químicos">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="0198429231091856" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Ana Maria Frattini Fileti"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="1108208002886617" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Flávio Vasconcelos da Silva"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3509502" DDDFAX="19"
+                                       LONGITUDE="-47.064147700000035"
+                                       LATITUDE="-22.8181235"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Campinas"
+                                       NUMERO="500"
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="Avenida Albert Einstein"
+                                       HOME-PAGE="http://www.feq.unicamp.br/index.php/ana-maria-frattini-fileti"
+                                       E-MAIL="frattini@feq.unicamp.br"
+                                       FAX=""
+                                       RAMAL=""
+                                       TELEFONE="35213945"
+                                       DDD="19"
+                                       CEP="13083852"
+                                       CIDADE="Campinas"
+                                       UF="SP"
+                                       BAIRRO="Cidade Universitária"/>
+      <REPERCUSSOES>Este grupo atua na área de automação e controle de processos, com ênfase à obtenção de dados experimentais para projetos de controladores e à implementação destes controladores digitais em protótipos em escala piloto no Laboratório de Controle e Automação de Processos da FEQ/UNICAMP. Tecnologias de ponta são utilizadas em termos de hardware, como sistemas Fieldbus e CLP?s. Baseando-se nestas tecnologias, procura-se implementar controladores não comerciais, desenvolvidos pelos estudantes e pesquisadores do grupo, em linguagem de programação e também utilizando planilhas eletrônicas. Isto é possível graças à utilização de comunicação OPC (OLE for process control) que troca informações entre o software supervisório de controle e os demais softwares de interesse. Controle à distância por meio da internet é permitido aos protótipos do laboratório, possibilitando o ensino de práticas experimentais de controle à distância. Isto se repercute na formação de recursos humanos qualificados, aos níveis de graduação e pós-graduação, para atuação no setor industrial. Além disto elevada produção científica resulta desta importante estrutura laboratorial.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="ZEMP, R. J.;Zemp, Roger;J. ZEMP, ROGER"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0287619689362926"
+                   PAIS-DE-NASCIMENTO="DEU"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Roger Josef Zemp">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Eficiência e Integração Energética"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle de colunas de destilação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle de sistemas de refrigeração"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Digital via comunicação OPC"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Aproveitamento da Energia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Balanços Globais de Matéria e Energia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Operações de Separação e Mistura</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="LEITE, B. S.;Leite, B. S." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8201291234541343"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Brenno Santos Leite">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Térmicos e de Indústrias de Celulose"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Meio Ambiente</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos Industriais de Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Produção de Celulose e Recuperação Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SILVA, F. V.;Silva, Flávio Vasconcelos da;DA SILVA, FLAVIO VASCONCELOS;SILVA, F.V.;F. V. da Silva;SILVA, F. V. DA;DA SILVA, FLÁVIO VASCONCELOS;Silva, Flávio V."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1108208002886617"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Flávio Vasconcelos da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Monitoramento de vazamento em tubulações"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização de Processos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem por redes neurais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Adaptativo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle de reator de biodiesel"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle de colunas de destilação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle de sistemas de refrigeração"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="8"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Digital via comunicação OPC"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="9"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Processos Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="D¿ANGELO, JOSÉ VICENTE HALLAK;D'ANGELO, J. V. H.;DANGELO;JVH;DANGELO, J.V.H.;José Vicente H. d'Angelo;José V. H. d'Angelo;JVH DANGELO;JVH D'ANGELO;J.V.H. d'Angelo;d¿Angelo, J.V.H.;JOSÉ VICENTE HALLAK D¿ANGELO;D'ANGELO, JOSÉ VICENTE HALLAK;JOSÉ VICENTE HALLAK DANGELO;José Vicente Hallak d'Angelo;José V. Hallak d'Angelo;HALLAK D'ANGELO, JOSÉ V.;HALLAK D&#146;ANGELO, JOSÉ V.;José V. Hallak d&#146;Angelo;Hallak d'Angelo, José V.;HALLAK D`ANGELO, JOSÉ V.;HALLAK D?ANGELO, JOSÉ V.;DANGELO, JOSE VICENTE;DANGELO, JOSÉ VICENTE;D&#146;ANGELO, JOSÉ VICENTE HALLAK"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6887557952389828"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="José Vicente Hallak d'Angelo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização de Processos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Térmicos e de Indústrias de Celulose"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Análise Exergética</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem Simulação Otimização e Controle de Processos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Operações de Separação e Mistura</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Produção de Celulose e Papel</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Termodinâmica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FRANCO, I. C.;Franco, I.C.;FRANCO, IVAN C."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1824542004734318"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ivan Carlos Franco">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle de sistemas de refrigeração"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Digital via comunicação OPC"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle, Automação e Intrumentação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Identificação de Sistemas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem e Simulação de Processos Químicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Refrigeração Industrial</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FILETI, A. M. F.;FILETTI, A. M. F.;Fileti, Ana M.F.;Fileti, A.M.F.;Fileti, Ana M. F.;Fileti, Ana Maria Frattini;Filetti, A.M.F.;FILETTI, A M.F;FRATTINI FILETI, ANA M.;Fileti, A;FRATTINI FILETI, A;FILETI, A.M.FRATTINI;FRATTINI FILETI, ANA MARIA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0198429231091856"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ana Maria Frattini Fileti">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle por modelo neural inverso"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Monitoramento de vazamento em tubulações"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização de Processos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem por redes neurais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Adaptativo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="6"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle de reator de biodiesel"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="7"
+                               SEQUENCIA-LINHA-DE-PESQUISA="8"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle de colunas de destilação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="8"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle de sistemas de refrigeração"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="9"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Digital via comunicação OPC"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="10"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Processos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial Em Sistemas Químicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem Simulação e Identificação de Processos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Operações de Separação e Mistura</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Operações Industriais e Equipamentos para Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Químicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANTOS, R. B." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="F"
+                   NRO-ID-CNPQ="7261447394457726"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Rejane Barbosa Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem por redes neurais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Digital via comunicação OPC"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="COSTA, T. V.;COSTA, T.;Thiago V. Costa;COSTA, T.V.;COSTA, THIAGO V.;COSTA, T. V. da"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7727041370404080"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Thiago Vaz da Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização de Processos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Adaptativo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação e Controle de Processos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Simulação e Controle de Processos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SANTOS, B. F.;Santos, Brunno F.;DOS SANTOS, BRUNNO FERREIRA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="8"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9451118933341619"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Brunno Ferreira dos Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização de Processos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem por redes neurais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica, Mecatrônica e Automação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FERREIRA, Newton Libanio" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="9"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7359355909451067"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Newton Libanio Ferreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização de Processos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem e Simulação de Processos Químicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Petróleo e Petroquímica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos Orgânicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Projeto de Instalações Químicas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Reatores Químicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ALVAREZ, L. A.;Alvarez, Luz A." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="10"
+                   SEXO="F"
+                   NRO-ID-CNPQ="1421164611428656"
+                   PAIS-DE-NASCIMENTO="COL"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Luz Adriana Alvarez Toro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização de Processos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Adaptativo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="VIDAL, S. F. S." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FLAVIO VASCONCELOS DA SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="1108208002886617"
+                 SEQUENCIA-ESTUDANTE="2968915"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4067311972228358"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Saulo Fernando dos Santos Vidal">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem por redes neurais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle de sistemas de refrigeração"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BITTENCOURT S. S." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOSE VICENTE HALLAK D ANGELO"
+                 NRO-ID-CNPQ-ORIENTADOR="6887557952389828"
+                 SEQUENCIA-ESTUDANTE="2454475"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2688622741817424"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Samara Storion Bittencourt">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Térmicos e de Indústrias de Celulose"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="TIZZO, L. M." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA MARIA FRATTINI FILETI"
+                 NRO-ID-CNPQ-ORIENTADOR="0198429231091856"
+                 SEQUENCIA-ESTUDANTE="2496724"
+                 SEXO="F"
+                 NRO-ID-CNPQ="5112405451719843"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lívia Martins Tizzo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle de sistemas de refrigeração"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processos Industriais de Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Simulação e controle de processos químicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ANDREUCCETTI, M. T.;Andreuccetti, Melissa Tatiana"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOSE VICENTE HALLAK D ANGELO"
+                 NRO-ID-CNPQ-ORIENTADOR="6887557952389828"
+                 SEQUENCIA-ESTUDANTE="560109"
+                 SEXO="F"
+                 NRO-ID-CNPQ="5098378335121562"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Melissa Tatiana Andreuccetti">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Térmicos e de Indústrias de Celulose"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Álcool</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Alimentos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Papel e Celulose</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ARAÚJO, H. V.;DE ARAÚJO, HUGO VALENÇA;ARAÚJO, HUGO V. DE"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOSE VICENTE HALLAK D ANGELO"
+                 NRO-ID-CNPQ-ORIENTADOR="6887557952389828"
+                 SEQUENCIA-ESTUDANTE="2702680"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3658480891112150"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Hugo Valença de Araújo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas Térmicos e de Indústrias de Celulose"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="12"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="RAMOS, V. S." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FLAVIO VASCONCELOS DA SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="1108208002886617"
+                 SEQUENCIA-ESTUDANTE="2569024"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0419561926689242"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Victor Santana Ramos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle de sistemas de refrigeração"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CAVALIERI, F. G." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA MARIA FRATTINI FILETI"
+                 NRO-ID-CNPQ-ORIENTADOR="0198429231091856"
+                 SEQUENCIA-ESTUDANTE="3939400"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9843931546078171"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Flávio Gonçalves Cavalieri">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Monitoramento de vazamento em tubulações"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Circuitos Elétricos, Magnéticos e Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Processos Eletrônicos, Retroalimentação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica, Mecatrônica e Automação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Telecomunicações</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COELHO, F. A." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ROGER JOSEF ZEMP"
+                 NRO-ID-CNPQ-ORIENTADOR="0287619689362926"
+                 SEQUENCIA-ESTUDANTE="2735555"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7316975557784147"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Filipe Alves Coelho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Eficiência e Integração Energética"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de processos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Inteligentes</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, B. G." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA MARIA FRATTINI FILETI"
+                 NRO-ID-CNPQ-ORIENTADOR="0198429231091856"
+                 SEQUENCIA-ESTUDANTE="2878284"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4644037152739645"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruno Guzzo da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem por redes neurais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Sanitária</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ALMEIDA, R. A." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FLAVIO VASCONCELOS DA SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="1108208002886617"
+                 SEQUENCIA-ESTUDANTE="2231421"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0909002981614728"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ricardo Augusto de Almeida">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle de colunas de destilação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Digital via comunicação OPC"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Processos Eletrônicos, Retroalimentação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Eletrônica Industrial, Sistemas e Controles Eletrônicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação Eletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Eletrônicos de Medida e de Controle</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SENCIO, R. R.;SENCIO, RAFAEL R." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Mestrado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FLAVIO VASCONCELOS DA SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="1108208002886617"
+                 SEQUENCIA-ESTUDANTE="5785689"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7150584502991309"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rafael Ribeiro Sencio">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Adaptativo"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Digital via comunicação OPC"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="VAZZOLER, A." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ROGER JOSEF ZEMP"
+                 NRO-ID-CNPQ-ORIENTADOR="0287619689362926"
+                 SEQUENCIA-ESTUDANTE="2772638"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9540544293913068"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alex Vazzoler">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Eficiência e Integração Energética"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="11"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Catálise</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Síntese Orgânica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LEITE, SIBELE A. F.;Leite, S. A. F.;Leite, Sibele Augusta Ferreira;Sibele Augusta Ferreira Leite"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOSE VICENTE HALLAK D ANGELO"
+                 NRO-ID-CNPQ-ORIENTADOR="6887557952389828"
+                 SEQUENCIA-ESTUDANTE="205948"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8646571803908937"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Sibele Augusta Ferreira Leite">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização de Processos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciências Ambientais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FONSECA, R. R.;FONSECA, R.;FONSECA, RODOLPHO RODRIGUES;FONSECA, RODOLPHO R."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FLAVIO VASCONCELOS DA SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="1108208002886617"
+                 SEQUENCIA-ESTUDANTE="2319563"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8717432238038729"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rodolpho Rodrigues Fonseca">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Fuzzy"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Digital via comunicação OPC"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Automação e Controle de Processos Químicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Bioquímica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelagem e Simulação de Processos Químicos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, C. A. M.;SILVA, CARLOS ADRIANO MOREIRA DA"
+                 NIVEL-DE-TREINAMENTO="Outros"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA MARIA FRATTINI FILETI"
+                 NRO-ID-CNPQ-ORIENTADOR="0198429231091856"
+                 SEQUENCIA-ESTUDANTE="3991197"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3245134293522108"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Carlos Adriano Moreira da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle por modelo neural inverso"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem por redes neurais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transferência de Massa</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FERNANDES, L. B." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA MARIA FRATTINI FILETI"
+                 NRO-ID-CNPQ-ORIENTADOR="0198429231091856"
+                 SEQUENCIA-ESTUDANTE="3833095"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3814926380329943"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luiza Baptista Fernandes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Monitoramento de vazamento em tubulações"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="7"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem por redes neurais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>automação e controle de processos quimicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Corrosão</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Hidrometalurgia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>inteligência artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pirometalurgia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="RUIZ, I. S." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Mestrado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FLAVIO VASCONCELOS DA SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="1108208002886617"
+                 SEQUENCIA-ESTUDANTE="3819363"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3039498167426338"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ivander Salvador Ruiz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Modelagem por redes neurais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle de colunas de destilação"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="9"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa em Engenharia de Processos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MASSUCHETTO, L. H. P." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOSE VICENTE HALLAK D ANGELO"
+                 NRO-ID-CNPQ-ORIENTADOR="6887557952389828"
+                 SEQUENCIA-ESTUDANTE="5632010"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8757238336303091"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luiz Henrique Parolin Massuchetto">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização de Processos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SENA, H. J." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA MARIA FRATTINI FILETI"
+                 NRO-ID-CNPQ-ORIENTADOR="0198429231091856"
+                 SEQUENCIA-ESTUDANTE="3283000"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0220906938149410"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Homero Jacinto Sena">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização de Processos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Digital via comunicação OPC"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CARVALHO, S. M. R." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Mestrado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOSE VICENTE HALLAK D ANGELO"
+                 NRO-ID-CNPQ-ORIENTADOR="6887557952389828"
+                 SEQUENCIA-ESTUDANTE="3260671"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4296970506478883"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Stella Maia Rocha de Carvalho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização de Processos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NASCIMENTO, R. B. C." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Mestrado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="JOSE VICENTE HALLAK D ANGELO"
+                 NRO-ID-CNPQ-ORIENTADOR="6887557952389828"
+                 SEQUENCIA-ESTUDANTE="5994921"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1623503404042109"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Raiza Barcelos Corrêa do Nascimento">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização de Processos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SAFADY, L. F.;SAFADY, L.F." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Mestrado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANA MARIA FRATTINI FILETI"
+                 NRO-ID-CNPQ-ORIENTADOR="0198429231091856"
+                 SEQUENCIA-ESTUDANTE="3629978"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6611176674808043"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luís Felipe Safady">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização de Processos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Digital via comunicação OPC"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Processos e Sistemas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle e Identificação de Processos Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medicamentos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Polímeros e Colóides</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Produtos Naturais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Eletrônicos de Medida e de Controle</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVESTRE, C. F." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="FLAVIO VASCONCELOS DA SILVA"
+                 NRO-ID-CNPQ-ORIENTADOR="1108208002886617"
+                 SEQUENCIA-ESTUDANTE="4329794"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0407669225847198"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Carolina Fonseca Silvestre">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Otimização de Processos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Digital via comunicação OPC"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="10"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle e Automação de Processos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Ambiental</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Química</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instrumentação e Controle de Processos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Química, Física, Fisico-Química e Bioquímica dos Alim. e das Mat-Primas Alimentares</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Tratamento de Efluentes</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6811110173362666"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Aplicação de controladores Fuzzy do tipo Mandani ou Sugeno a processos químicos."
+                         NOME-DA-LINHA-DE-PESQUISA="Controle Fuzzy"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Fuzzy</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">inteligência artificial</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1108208002886617" NOME-COMPLETO="Flávio Vasconcelos da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="362427"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1824542004734318" NOME-COMPLETO="Ivan Carlos Franco"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="572586"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0198429231091856" NOME-COMPLETO="Ana Maria Frattini Fileti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100443"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0419561926689242" NOME-COMPLETO="Victor Santana Ramos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2569024"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4067311972228358" NOME-COMPLETO="Saulo Fernando dos Santos Vidal"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2968915"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8717432238038729" NOME-COMPLETO="Rodolpho Rodrigues Fonseca"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2319563"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de processos químicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.20"
+                                SUBSETOR="Fabricação de produtos químicos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4450708602296768"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Obtenção de modelos neurais a partir de dados experimentais visando utilização em algoritmo de controle ou em otimização de processos."
+                         NOME-DA-LINHA-DE-PESQUISA="Modelagem por redes neurais"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">inteligência artificial</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">redes neurais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1108208002886617" NOME-COMPLETO="Flávio Vasconcelos da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="362427"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0198429231091856" NOME-COMPLETO="Ana Maria Frattini Fileti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100443"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7261447394457726" NOME-COMPLETO="Rejane Barbosa Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="833048"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9451118933341619" NOME-COMPLETO="Brunno Ferreira dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2444427"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4644037152739645" NOME-COMPLETO="Bruno Guzzo da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2878284"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4067311972228358" NOME-COMPLETO="Saulo Fernando dos Santos Vidal"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2968915"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3039498167426338" NOME-COMPLETO="Ivander Salvador Ruiz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3819363"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3814926380329943" NOME-COMPLETO="Luiza Baptista Fernandes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3833095"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3245134293522108" NOME-COMPLETO="Carlos Adriano Moreira da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3991197"
+                             SEQUENCIA-ESTUDANTE="5"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de processos químicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30603161" CODIGO-ESPECIALIDADE="30603161"
+                                  CODIGO-SUB-AREA="30603005"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Petróleo e Petroquímica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Tecnologia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="504"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.20"
+                                SUBSETOR="Fabricação de produtos químicos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4209708271736785"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Aplicação de algoritmos de otimização tradicionais para encontrar condições operacionais ótimas ou visando encontrar melhor ação de controle a ser tomada num processo. Aplicação de algoritmos genéticos para otimização de parâmetros de controlador Fuzzy."
+                         NOME-DA-LINHA-DE-PESQUISA="Otimização de Processos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">otimização</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">solver</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">algoritmo genético</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1108208002886617" NOME-COMPLETO="Flávio Vasconcelos da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="362427"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6887557952389828" NOME-COMPLETO="José Vicente Hallak d'Angelo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="76700"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0198429231091856" NOME-COMPLETO="Ana Maria Frattini Fileti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100443"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7727041370404080" NOME-COMPLETO="Thiago Vaz da Costa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2318968"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1421164611428656" NOME-COMPLETO="Luz Adriana Alvarez Toro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2821257"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9451118933341619" NOME-COMPLETO="Brunno Ferreira dos Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2444427"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7359355909451067" NOME-COMPLETO="Newton Libanio Ferreira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="257991"
+                               SEQUENCIA-PESQUISADOR="7"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4296970506478883" NOME-COMPLETO="Stella Maia Rocha de Carvalho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3260671"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0220906938149410" NOME-COMPLETO="Homero Jacinto Sena"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3283000"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6611176674808043" NOME-COMPLETO="Luís Felipe Safady"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3629978"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8646571803908937" NOME-COMPLETO="Sibele Augusta Ferreira Leite"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="205948"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1623503404042109"
+                             NOME-COMPLETO="Raiza Barcelos Corrêa do Nascimento"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5994921"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8757238336303091"
+                             NOME-COMPLETO="Luiz Henrique Parolin Massuchetto"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5632010"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0407669225847198" NOME-COMPLETO="Carolina Fonseca Silvestre"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4329794"
+                             SEQUENCIA-ESTUDANTE="7"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de processos químicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30603013" CODIGO-ESPECIALIDADE="30603013"
+                                  CODIGO-SUB-AREA="30603005"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Balanços Globais de Matéria e Energia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Tecnologia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="489"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.20"
+                                SUBSETOR="Fabricação de produtos químicos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9423931967702488"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Aplicação experimental de controladores feedback com adaptação de parâmetros visando atender às necessidades de sistemas não-lineares e transientes"
+                         NOME-DA-LINHA-DE-PESQUISA="Controle Adaptativo"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">adaptativo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">self-tuning</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">gain scheduling</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1108208002886617" NOME-COMPLETO="Flávio Vasconcelos da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="362427"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0198429231091856" NOME-COMPLETO="Ana Maria Frattini Fileti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100443"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7727041370404080" NOME-COMPLETO="Thiago Vaz da Costa"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2318968"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1421164611428656" NOME-COMPLETO="Luz Adriana Alvarez Toro"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2821257"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7150584502991309" NOME-COMPLETO="Rafael Ribeiro Sencio"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5785689"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de processos químicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.20"
+                                SUBSETOR="Fabricação de produtos químicos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4619076669398314"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Aplicação de rede neural inversa como controlador de processos não-lineares. Neste tipo de controlador a ação de controle é a própria saída do modelo."
+                         NOME-DA-LINHA-DE-PESQUISA="Controle por modelo neural inverso"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">redes neurais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">controle neural</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0198429231091856" NOME-COMPLETO="Ana Maria Frattini Fileti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100443"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3245134293522108" NOME-COMPLETO="Carlos Adriano Moreira da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3991197"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de processos químicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2400633403284090"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha visa a implementação de diferentes sistemas de controle a um sistema de refrigeração visando economia de energia."
+                         NOME-DA-LINHA-DE-PESQUISA="Controle de sistemas de refrigeração"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">refrigeração</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">economia de energia</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0198429231091856" NOME-COMPLETO="Ana Maria Frattini Fileti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100443"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1108208002886617" NOME-COMPLETO="Flávio Vasconcelos da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="362427"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1824542004734318" NOME-COMPLETO="Ivan Carlos Franco"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="572586"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0287619689362926" NOME-COMPLETO="Roger Josef Zemp"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11055"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5112405451719843" NOME-COMPLETO="Lívia Martins Tizzo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2496724"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0419561926689242" NOME-COMPLETO="Victor Santana Ramos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2569024"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4067311972228358" NOME-COMPLETO="Saulo Fernando dos Santos Vidal"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2968915"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de processos químicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30603048" CODIGO-ESPECIALIDADE="30603048"
+                                  CODIGO-SUB-AREA="30603005"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Alimentos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Tecnologia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="492"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.20"
+                                SUBSETOR="Fabricação de produtos químicos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="H" SUBSETOR=""
+                                SETOR="Transporte, armazenagem e correio"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4398601540036810"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Visa a detecção e localização de vazamentos em tubulações longas de produtos químicos por meio de monitoramento de pressão on line."
+                         NOME-DA-LINHA-DE-PESQUISA="Monitoramento de vazamento em tubulações"
+                         SEQUENCIA-LINHA-DE-PESQUISA="7">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">vazamento</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">tubulações</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0198429231091856" NOME-COMPLETO="Ana Maria Frattini Fileti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100443"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1108208002886617" NOME-COMPLETO="Flávio Vasconcelos da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="362427"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9843931546078171" NOME-COMPLETO="Flávio Gonçalves Cavalieri"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3939400"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3814926380329943" NOME-COMPLETO="Luiza Baptista Fernandes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3833095"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30601002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30601002"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="petroquímica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Processos Industriais de Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="480"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.19.2"
+                                SUBSETOR="Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.20"
+                                SUBSETOR="Fabricação de produtos químicos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0321992647955013"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Otimizar e controlar as condições operacionais de uma reação piloto de transesterificação com catálise enzimática."
+                         NOME-DA-LINHA-DE-PESQUISA="Controle de reator de biodiesel"
+                         SEQUENCIA-LINHA-DE-PESQUISA="8">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">biodiesel</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">controle de processos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">transesterificação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0198429231091856" NOME-COMPLETO="Ana Maria Frattini Fileti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100443"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1108208002886617" NOME-COMPLETO="Flávio Vasconcelos da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="362427"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de processos químicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30603161" CODIGO-ESPECIALIDADE="30603161"
+                                  CODIGO-SUB-AREA="30603005"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Petróleo e Petroquímica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Tecnologia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="504"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4618462019339945"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Visa o desenvolvimento e aplicação experimental de controladores clássicos e avançados a colunas-piloto de destilação em batelada."
+                         NOME-DA-LINHA-DE-PESQUISA="Controle de colunas de destilação"
+                         SEQUENCIA-LINHA-DE-PESQUISA="9">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">destilação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">destilação batelada</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0198429231091856" NOME-COMPLETO="Ana Maria Frattini Fileti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100443"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1108208002886617" NOME-COMPLETO="Flávio Vasconcelos da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="362427"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0287619689362926" NOME-COMPLETO="Roger Josef Zemp"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11055"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3039498167426338" NOME-COMPLETO="Ivander Salvador Ruiz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3819363"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0909002981614728" NOME-COMPLETO="Ricardo Augusto de Almeida"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2231421"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de processos químicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.20"
+                                SUBSETOR="Fabricação de produtos químicos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8532189634841743"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Implementação experimental prática de comunicação OPC entre os diferentes softwares usados para programação de controladores e os equipamentos de campo instalados."
+                         NOME-DA-LINHA-DE-PESQUISA="Controle Digital via comunicação OPC"
+                         SEQUENCIA-LINHA-DE-PESQUISA="10">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">OLE for process control</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">OPC</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1108208002886617" NOME-COMPLETO="Flávio Vasconcelos da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="362427"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0198429231091856" NOME-COMPLETO="Ana Maria Frattini Fileti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="100443"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1824542004734318" NOME-COMPLETO="Ivan Carlos Franco"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="572586"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0287619689362926" NOME-COMPLETO="Roger Josef Zemp"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11055"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7261447394457726" NOME-COMPLETO="Rejane Barbosa Santos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="833048"
+                               SEQUENCIA-PESQUISADOR="5"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0909002981614728" NOME-COMPLETO="Ricardo Augusto de Almeida"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2231421"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0220906938149410" NOME-COMPLETO="Homero Jacinto Sena"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3283000"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6611176674808043" NOME-COMPLETO="Luís Felipe Safady"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3629978"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7150584502991309" NOME-COMPLETO="Rafael Ribeiro Sencio"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5785689"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8717432238038729" NOME-COMPLETO="Rodolpho Rodrigues Fonseca"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2319563"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0407669225847198" NOME-COMPLETO="Carolina Fonseca Silvestre"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4329794"
+                             SEQUENCIA-ESTUDANTE="6"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30602009" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30602009"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Controle de processos químicos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações Industriais e Equipamentos para Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="484"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.20"
+                                SUBSETOR="Fabricação de produtos químicos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1518593898409488"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudos computacionais e/ou experimentais de processos sob o aspecto de eficiência e integração energética."
+                         NOME-DA-LINHA-DE-PESQUISA="Eficiência e Integração Energética"
+                         SEQUENCIA-LINHA-DE-PESQUISA="11">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">eficiência energética</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0287619689362926" NOME-COMPLETO="Roger Josef Zemp"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="11055"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7316975557784147" NOME-COMPLETO="Filipe Alves Coelho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2735555"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9540544293913068" NOME-COMPLETO="Alex Vazzoler"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2772638"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30601002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30601002"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Processos Industriais de Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="480"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.19.2"
+                                SUBSETOR="Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.19.3"
+                                SUBSETOR="Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4315518948546889"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Análise e Otimização de Sistemas de Indústrias de Celulose, e de Sistemas Térmicos."
+                         NOME-DA-LINHA-DE-PESQUISA="Sistemas Térmicos e de Indústrias de Celulose"
+                         SEQUENCIA-LINHA-DE-PESQUISA="12">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Celulose e papel</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">sistemas industriais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8201291234541343" NOME-COMPLETO="Brenno Santos Leite"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="718753"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6887557952389828" NOME-COMPLETO="José Vicente Hallak d'Angelo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="76700"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2688622741817424" NOME-COMPLETO="Samara Storion Bittencourt"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2454475"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5098378335121562" NOME-COMPLETO="Melissa Tatiana Andreuccetti"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="560109"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3658480891112150" NOME-COMPLETO="Hugo Valença de Araújo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2702680"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30601002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30601002"
+                                  CODIGO-AREA="30600006"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Processos Industriais de Engenharia Química"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Química"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="480"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="1017535786928523"
+               RAZAO-SOCIAL-DA-EMPRESA="PMB Automação Industrial Ltda"
+               NATUREZA-JURIDICA="Sociedade Empresária Limitada"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="08998654000168"
+               LOCALIDADE="Campinas"
+               CIDADE="Campinas"
+               UF="SP"
+               SIGLA-DA-EMPRESA="I-SYSTEMS"
+               NOME-DA-EMPRESA="I-Systems"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.71.1"
+                                          SUBSETOR="Serviços de arquitetura e engenharia e atividades técnicas relacionadas"
+                                          SETOR="Serviços de arquitetura e engenharia; testes e análises técnicas"
+                                          GRANDE-SETOR="Atividades profissionais, científicas e técnicas"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9451118933341619"
+               NOME-DO-EGRESSO="Brunno Ferreira dos Santos"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7727041370404080"
+               NOME-DO-EGRESSO="Thiago Vaz da Costa"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="22042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7261447394457726"
+               NOME-DO-EGRESSO="Rejane Barbosa Santos"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9451118933341619"
+               NOME-DO-EGRESSO="Brunno Ferreira dos Santos"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7261447394457726"
+               NOME-DO-EGRESSO="Rejane Barbosa Santos"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7727041370404080"
+               NOME-DO-EGRESSO="Thiago Vaz da Costa"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7261447394457726"
+               NOME-DO-EGRESSO="Rejane Barbosa Santos"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7727041370404080"
+               NOME-DO-EGRESSO="Thiago Vaz da Costa"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9451118933341619"
+               NOME-DO-EGRESSO="Brunno Ferreira dos Santos"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9451118933341619"
+               NOME-DO-EGRESSO="Brunno Ferreira dos Santos"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7261447394457726"
+               NOME-DO-EGRESSO="Rejane Barbosa Santos"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="25042014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7727041370404080"
+               NOME-DO-EGRESSO="Thiago Vaz da Costa"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="15122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7727041370404080"
+               NOME-DO-EGRESSO="Thiago Vaz da Costa"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="15122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7261447394457726"
+               NOME-DO-EGRESSO="Rejane Barbosa Santos"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="15122014"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9451118933341619"
+               NOME-DO-EGRESSO="Brunno Ferreira dos Santos"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="18032016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7727041370404080"
+               NOME-DO-EGRESSO="Thiago Vaz da Costa"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="18032016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7261447394457726"
+               NOME-DO-EGRESSO="Rejane Barbosa Santos"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="18032016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9451118933341619"
+               NOME-DO-EGRESSO="Brunno Ferreira dos Santos"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="19032016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7727041370404080"
+               NOME-DO-EGRESSO="Thiago Vaz da Costa"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="19032016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="9451118933341619"
+               NOME-DO-EGRESSO="Brunno Ferreira dos Santos"/>
+      <EGRESSO DATA-SAIDA="06102016" DATA-ENTRADA="19032016"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="7261447394457726"
+               NOME-DO-EGRESSO="Rejane Barbosa Santos"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

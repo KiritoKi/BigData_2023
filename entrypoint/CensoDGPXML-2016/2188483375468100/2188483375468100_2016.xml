@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="2188483375468100"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="085710"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="10102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="6559786900267134" CODIGO-AREA-PREDOMINANTE="30400007"
+                           NOME-DA-UNIDADE="Faculdade de Engenharia de Bauru"
+                           NOME-DO-ORGAO="Faculdade de Engenharia de Bauru"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SP"
+                           SIGLA-DA-INSTITUICAO="UNESP"
+                           NOME-DA-INSTITUICAO="Universidade Estadual Paulista Júlio de Mesquita Filho"
+                           AREA-PREDOMINANTE="Engenharia Elétrica"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="2004"
+                           NOME-DO-GRUPO="Análise, Computação e Estudos Econômicos de Sistemas de Energia">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="2013445187247691" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Leonardo Nepomuceno"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="8479687404526958" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Edméa Cássia Baptista"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3506003" DDDFAX="14"
+                                       LONGITUDE="-49.034386100000006"
+                                       LATITUDE="-22.3339076"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Bauru"
+                                       NUMERO="14-01"
+                                       COMPLEMENTO="Departamento de Engenharia Elétrica"
+                                       LOGRADOURO="Avenida Engenheiro Luiz Edmundo Carrijo Coube"
+                                       HOME-PAGE=""
+                                       E-MAIL="leo@feb.unesp.br"
+                                       FAX="31036116"
+                                       RAMAL=""
+                                       TELEFONE="31036115"
+                                       DDD="14"
+                                       CEP="17033360"
+                                       CIDADE="Bauru"
+                                       UF="SP"
+                                       BAIRRO="Núcleo Residencial Presidente Geisel"/>
+      <REPERCUSSOES>O grupo tem como objetivo fundamental a análise, modelagem e implementação de sistemas computacionais de suporte ao planejamento e operação dos sistemas de energia. O grupo tem se dedicado a incorporar nestes modelos aspectos relacionados aos mercados de energia, criados devido ao processo de desregulamentação introduzido no Brasil. Dentre as ferramentas desenvolvidas destacam-se o modelo Fluxo de Potência Ótimo (FPO) utilizando como técnica de solução os métodos de pontos interiores; modelos de despacho econômico que envolvem a representação de pontos de carregamentos de válvula e a representação da transmissão; modelos de Pré-despacho específico para sistemas predominantemente hidrotérmicos, no qual as restrições da transmissão são representadas em detalhe, incluindo aspectos ativos e reativos; modelos de leilão do dia seguinte que possam dar sustentação ao cálculo de preços de equilíbrio de mercados e despachos para sistemas hidrotérmicos;</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="SILVA, P. S.;SILVA, P. S. da;DA SILVA, PAULO SERGIO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1713208286133403"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Paulo Sérgio da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicação de Sistemas Inteligentes em Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Despacho e Pré-Despacho de Geração"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desregulamentação e Novos Mercados de Energia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Controle de Processos Eletrônicos, Retroalimentação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Elétricos de Potência</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Inteligentes</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BALBO, A. R.;Balbo, Antonio Roberto;BALBO, ANTONIO R."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0884799120343367"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Antonio Roberto Balbo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Despacho e Pré-Despacho de Geração"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fluxo de Potência Ótimo - FPO"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada - Análise Numérica - Otimização</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Geração de Energia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="NEPOMUCENO, L.;NEPOMUCENO, LEONARDO;LEONARDO NEPOMUCENO;L. NEPOMUCENO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2013445187247691"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Leonardo Nepomuceno">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Aplicação de Sistemas Inteligentes em Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Despacho e Pré-Despacho de Geração"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desregulamentação e Novos Mercados de Energia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geração da Energia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medição, Controle, Correção e Proteção de Sistemas Elétricos  de Potência</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Novos Mercados de Energia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transmissão da Energia Elétrica, Distribuição da Energia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="BAPTISTA, E. C.;Baptista, Edméa Cássia;BAPTISTA, E;Baptista, E.C.;BAPTISTA, EDMEA C.;BAPTISTA, EDMÉA C.;CASSIA BAPTISTA, EDMEA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="F"
+                   NRO-ID-CNPQ="8479687404526958"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Edméa Cássia Baptista">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fluxo de Potência Ótimo - FPO"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transmissão da Energia Elétrica, Distribuição da Energia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SOLER, E. M.;SOLER, EDILAINE MARTINS;SOLER, EDILAINE M."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="F"
+                   NRO-ID-CNPQ="0196503152950828"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Edilaine Martins Soler">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fluxo de Potência Ótimo - FPO"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Não Linear</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Não Linear Inteira Mista</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Elétricos de Potência</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="SOUZA, R. R." NIVEL-DE-TREINAMENTO="Outros" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO ROBERTO BALBO"
+                 NRO-ID-CNPQ-ORIENTADOR="0884799120343367"
+                 SEQUENCIA-ESTUDANTE="5283561"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7876936860818148"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Rafael Ramos de Souza">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, A. Q." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO NEPOMUCENO"
+                 NRO-ID-CNPQ-ORIENTADOR="2013445187247691"
+                 SEQUENCIA-ESTUDANTE="4760733"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3053951071052531"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alberto Quialheiro de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Despacho e Pré-Despacho de Geração"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administração</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BARBOSA, M.R.S" NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO ROBERTO BALBO"
+                 NRO-ID-CNPQ-ORIENTADOR="0884799120343367"
+                 SEQUENCIA-ESTUDANTE="2810976"
+                 SEXO="F"
+                 NRO-ID-CNPQ="7150853713582584"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Mariana Rodrigues Soares Barbosa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Despacho e Pré-Despacho de Geração"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, D. P." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDILAINE MARTINS SOLER"
+                 NRO-ID-CNPQ-ORIENTADOR="0196503152950828"
+                 SEQUENCIA-ESTUDANTE="3611782"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3793989420136350"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Daisy Paes Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geração da Energia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CAMPANHA, P. S." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDMEA CASSIA BAPTISTA"
+                 NRO-ID-CNPQ-ORIENTADOR="8479687404526958"
+                 SEQUENCIA-ESTUDANTE="2680990"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4406299978349282"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Paulo Sérgio Campanha">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Conversão e Retificação da Energia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geração da Energia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Instalações Elétricas e Industriais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Máquinas Elétricas e Dispositivos de Potência</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Medição, Controle, Correção e Proteção de Sistemas Elétricos  de Potência</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transmissão da Energia Elétrica, Distribuição da Energia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FERRAZ, A. C." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO ROBERTO BALBO"
+                 NRO-ID-CNPQ-ORIENTADOR="0884799120343367"
+                 SEQUENCIA-ESTUDANTE="2875150"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9445450310711349"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Aline de Castro Ferraz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>ESTATÍSTICA</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="DELGADO, J. A.;DELGADO, JÉSSICA A."
+                 NIVEL-DE-TREINAMENTO="Curso de curta duração"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDMEA CASSIA BAPTISTA"
+                 NRO-ID-CNPQ-ORIENTADOR="8479687404526958"
+                 SEQUENCIA-ESTUDANTE="4449832"
+                 SEXO="F"
+                 NRO-ID-CNPQ="5910548581390255"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Jéssica Antonio Delgado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PEREIRA, A. C.;PEREIRA, AUGUSTO CESAR"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO NEPOMUCENO"
+                 NRO-ID-CNPQ-ORIENTADOR="2013445187247691"
+                 SEQUENCIA-ESTUDANTE="4940214"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1022640878729024"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Augusto Cesar Pereira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desregulamentação e Novos Mercados de Energia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geração da Energia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="OLIVEIRA, L. T.;OLIVEIRA, LARISSA TEBALDI DE;OLIVEIRA, LARISSA T."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO ROBERTO BALBO"
+                 NRO-ID-CNPQ-ORIENTADOR="0884799120343367"
+                 SEQUENCIA-ESTUDANTE="3915689"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9499963476268028"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Larissa Tebaldi de Oliveira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PINHEIRO, R. B. N.;Pinheiro, Ricardo Bento Nogueira;PINHEIRO, R. B. N. M."
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO ROBERTO BALBO"
+                 NRO-ID-CNPQ-ORIENTADOR="0884799120343367"
+                 SEQUENCIA-ESTUDANTE="2373100"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2025655130042036"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ricardo Bento Nogueira Mori Pinheiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fluxo de Potência Ótimo - FPO"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Aplicada</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CAVERSAN, A. S." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO ROBERTO BALBO"
+                 NRO-ID-CNPQ-ORIENTADOR="0884799120343367"
+                 SEQUENCIA-ESTUDANTE="6163086"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3212537142795951"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Amanda Suellen Caversan">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COSTA, M. T." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDMEA CASSIA BAPTISTA"
+                 NRO-ID-CNPQ-ORIENTADOR="8479687404526958"
+                 SEQUENCIA-ESTUDANTE="4494531"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2273541750841546"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marina Teixeira Costa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fluxo de Potência Ótimo - FPO"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GODOI, A. P." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="EDMEA CASSIA BAPTISTA"
+                 NRO-ID-CNPQ-ORIENTADOR="8479687404526958"
+                 SEQUENCIA-ESTUDANTE="4274209"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8619838276557403"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Adilson Preto de Godoi">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fluxo de Potência Ótimo - FPO"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Otimização</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Linear, Não-Linear, Mista e Dinâmica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SOUZA, M. L. P. S." NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO ROBERTO BALBO"
+                 NRO-ID-CNPQ-ORIENTADOR="0884799120343367"
+                 SEQUENCIA-ESTUDANTE="4959615"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6061942835650438"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Maria Laura Parra Spagnuolo de Souza">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="BREGADIOLI, G. F.;BREGADIOLI, GABRIELA FERNANDA"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO NEPOMUCENO"
+                 NRO-ID-CNPQ-ORIENTADOR="2013445187247691"
+                 SEQUENCIA-ESTUDANTE="4538977"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9106690978376342"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gabriela Fernanda Bregadioli">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desregulamentação e Novos Mercados de Energia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fluxo de potência ótimo.</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mercados de energia elétrica.</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, T. F.;FORTI DA SILVA, TIAGO"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO NEPOMUCENO"
+                 NRO-ID-CNPQ-ORIENTADOR="2013445187247691"
+                 SEQUENCIA-ESTUDANTE="3974776"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1228684220253463"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Tiago Forti da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desregulamentação e Novos Mercados de Energia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geração da Energia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Transmissão da Energia Elétrica, Distribuição da Energia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CABANA, T. G." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO NEPOMUCENO"
+                 NRO-ID-CNPQ-ORIENTADOR="2013445187247691"
+                 SEQUENCIA-ESTUDANTE="4952436"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8926535361518949"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Tiago Gomes Cabana">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desregulamentação e Novos Mercados de Energia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CIARELLI, W. F.;DE FREITAS CIARELLI, WAGNER;DE F. CIARELLI, W;DE F. CIARELLI, W.;DE F CIARELLI, W.;DE CIARELLI, W.F.;DE CIARELLI, W. F.;CIARELLI, WAGNER DE_FREITAS"
+                 NIVEL-DE-TREINAMENTO="Aperfeiçoamento"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO NEPOMUCENO"
+                 NRO-ID-CNPQ-ORIENTADOR="2013445187247691"
+                 SEQUENCIA-ESTUDANTE="3762891"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4078427719573349"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Wagner de Freitas Ciarelli">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desregulamentação e Novos Mercados de Energia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geração da Energia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Elétricos de Potência</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GONÇALVES, E.;GONÇALVES, ELIS" NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO ROBERTO BALBO"
+                 NRO-ID-CNPQ-ORIENTADOR="0884799120343367"
+                 SEQUENCIA-ESTUDANTE="2982777"
+                 SEXO="F"
+                 NRO-ID-CNPQ="9346622994215127"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Elis Gonçalves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Despacho e Pré-Despacho de Geração"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática aplicada e computacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CAPELLINI, M. V." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO NEPOMUCENO"
+                 NRO-ID-CNPQ-ORIENTADOR="2013445187247691"
+                 SEQUENCIA-ESTUDANTE="6466736"
+                 SEXO="M"
+                 NRO-ID-CNPQ="9059861914143004"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marcus Vinícius Capellini">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Desregulamentação e Novos Mercados de Energia"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MARTINS, A. C. S." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ANTONIO ROBERTO BALBO"
+                 NRO-ID-CNPQ-ORIENTADOR="0884799120343367"
+                 SEQUENCIA-ESTUDANTE="3022483"
+                 SEXO="F"
+                 NRO-ID-CNPQ="0069336903150676"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Andrea Camila dos Santos Martins">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="TÓFOLI, M. F." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO NEPOMUCENO"
+                 NRO-ID-CNPQ-ORIENTADOR="2013445187247691"
+                 SEQUENCIA-ESTUDANTE="5960918"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3696501670232149"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Marielena Fonseca Tófoli">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Fluxo de Potência Ótimo - FPO"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Elétrica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Robótica, Mecatrônica e Automação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="8127865427893763"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="A linha de pesquisa &#34;Aplicação de Sistemas Inteligentes em Sistemas de Potência&#34; tem por objetivo a aplicação de procedimentos, metodologias e estratégias inteligentes que permitam a modelagem e a otimização de determinados problemas relacionados aos sistemas elétricos de potência, para os quais as técnicas e métodos convencionais de modelagem e solução têm se mostrado ineficientes."
+                         NOME-DA-LINHA-DE-PESQUISA="Aplicação de Sistemas Inteligentes em Sistemas de Potência"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Redes Neurais Artificiais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Algoritmos Genéticos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1713208286133403" NOME-COMPLETO="Paulo Sérgio da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="148309"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2013445187247691" NOME-COMPLETO="Leonardo Nepomuceno"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="108963"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30404010" CODIGO-ESPECIALIDADE="30404010"
+                                  CODIGO-SUB-AREA="30404002"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Geração da Energia Elétrica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas Elétricos de Potência"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="435"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30404029" CODIGO-ESPECIALIDADE="30404029"
+                                  CODIGO-SUB-AREA="30404002"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Transmissão da Energia Elétrica, Distribuição da Energia Elétrica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas Elétricos de Potência"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="436"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="D.35.1"
+                                SUBSETOR="Eletricidade, gás e outras utilidades"
+                                SETOR="Eletricidade e gás"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4064277918065933"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Os problemas de Despacho e Pré-despacho de geração têm como objetivo mais fundamental a definição de políticas ótimas de geração para sistemas elétricos de potência.Esta linha de pesquisa tem como objetivo o desenvolvimento de modelos matemáticos e métodos de solução para problemas de Despacho e Pré-despacho de Geração, para sistemas predominantemente hidrotérmicos."
+                         NOME-DA-LINHA-DE-PESQUISA="Despacho e Pré-Despacho de Geração"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Despacho de Geração</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Pré-Despacho de Geração</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1713208286133403" NOME-COMPLETO="Paulo Sérgio da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="148309"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0884799120343367" NOME-COMPLETO="Antonio Roberto Balbo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="73965"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2013445187247691" NOME-COMPLETO="Leonardo Nepomuceno"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="108963"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3053951071052531" NOME-COMPLETO="Alberto Quialheiro de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4760733"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7150853713582584" NOME-COMPLETO="Mariana Rodrigues Soares Barbosa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2810976"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9346622994215127" NOME-COMPLETO="Elis Gonçalves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2982777"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30404010" CODIGO-ESPECIALIDADE="30404010"
+                                  CODIGO-SUB-AREA="30404002"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Geração da Energia Elétrica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas Elétricos de Potência"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="435"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30404029" CODIGO-ESPECIALIDADE="30404029"
+                                  CODIGO-SUB-AREA="30404002"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Transmissão da Energia Elétrica, Distribuição da Energia Elétrica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas Elétricos de Potência"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="436"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="D.35.1"
+                                SUBSETOR="Eletricidade, gás e outras utilidades"
+                                SETOR="Eletricidade e gás"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4256453377800080"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha de pesquisa tem por objetivo investigar o impacto dos novos mercados de energia nos modelos utilizados para o planejamento, gerenciamento e operação dos sistemas de produção e transmissão de energia elétrica em sistemas de potência."
+                         NOME-DA-LINHA-DE-PESQUISA="Desregulamentação e Novos Mercados de Energia"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Novos Mercados de Energia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Desregulamentação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1713208286133403" NOME-COMPLETO="Paulo Sérgio da Silva"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="148309"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2013445187247691" NOME-COMPLETO="Leonardo Nepomuceno"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="108963"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1022640878729024" NOME-COMPLETO="Augusto Cesar Pereira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4940214"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9106690978376342" NOME-COMPLETO="Gabriela Fernanda Bregadioli"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4538977"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1228684220253463" NOME-COMPLETO="Tiago Forti da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3974776"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8926535361518949" NOME-COMPLETO="Tiago Gomes Cabana"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4952436"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4078427719573349" NOME-COMPLETO="Wagner de Freitas Ciarelli"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3762891"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9059861914143004" NOME-COMPLETO="Marcus Vinícius Capellini"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6466736"
+                             SEQUENCIA-ESTUDANTE="6"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30404010" CODIGO-ESPECIALIDADE="30404010"
+                                  CODIGO-SUB-AREA="30404002"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Geração da Energia Elétrica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas Elétricos de Potência"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="435"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30404029" CODIGO-ESPECIALIDADE="30404029"
+                                  CODIGO-SUB-AREA="30404002"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Transmissão da Energia Elétrica, Distribuição da Energia Elétrica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas Elétricos de Potência"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="436"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="D.35.1"
+                                SUBSETOR="Eletricidade, gás e outras utilidades"
+                                SETOR="Eletricidade e gás"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4707849212605610"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha tem como objetivo pesquisar e aplicar os principais métodos de otimização aos problemas de sistemas elétricos de potência"
+                         NOME-DA-LINHA-DE-PESQUISA="Métodos de Otimização Aplicados a Sistemas de Potência"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Método de Pontos Interiores</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Otimização Nâo-Linear</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Otimização Linear</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0884799120343367" NOME-COMPLETO="Antonio Roberto Balbo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="73965"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2013445187247691" NOME-COMPLETO="Leonardo Nepomuceno"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="108963"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8479687404526958" NOME-COMPLETO="Edméa Cássia Baptista"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="250707"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0196503152950828" NOME-COMPLETO="Edilaine Martins Soler"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="863185"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7876936860818148" NOME-COMPLETO="Rafael Ramos de Souza"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5283561"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3793989420136350" NOME-COMPLETO="Daisy Paes Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3611782"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4406299978349282" NOME-COMPLETO="Paulo Sérgio Campanha"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2680990"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9445450310711349" NOME-COMPLETO="Aline de Castro Ferraz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2875150"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5910548581390255" NOME-COMPLETO="Jéssica Antonio Delgado"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4449832"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9499963476268028" NOME-COMPLETO="Larissa Tebaldi de Oliveira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3915689"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2025655130042036"
+                             NOME-COMPLETO="Ricardo Bento Nogueira Mori Pinheiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2373100"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3212537142795951" NOME-COMPLETO="Amanda Suellen Caversan"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6163086"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8619838276557403" NOME-COMPLETO="Adilson Preto de Godoi"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4274209"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6061942835650438"
+                             NOME-COMPLETO="Maria Laura Parra Spagnuolo de Souza"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4959615"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9106690978376342" NOME-COMPLETO="Gabriela Fernanda Bregadioli"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4538977"
+                             SEQUENCIA-ESTUDANTE="11"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="9346622994215127" NOME-COMPLETO="Elis Gonçalves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2982777"
+                             SEQUENCIA-ESTUDANTE="12"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0069336903150676" NOME-COMPLETO="Andrea Camila dos Santos Martins"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3022483"
+                             SEQUENCIA-ESTUDANTE="13"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3696501670232149" NOME-COMPLETO="Marielena Fonseca Tófoli"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5960918"
+                             SEQUENCIA-ESTUDANTE="14"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10104020" CODIGO-ESPECIALIDADE="10104020"
+                                  CODIGO-SUB-AREA="10104003"
+                                  CODIGO-AREA="10100008"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Análise Numérica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática Aplicada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Matemática"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="27"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30404002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30404002"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas Elétricos de Potência"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="434"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="D.35.1"
+                                SUBSETOR="Eletricidade, gás e outras utilidades"
+                                SETOR="Eletricidade e gás"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7792321507493120"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Esta linha tem como objetivo investigar e propor novos modelos e novas técnicas de solução para o problema de Fluxo de Potência Ótimo - FPO de sistemas de energia"
+                         NOME-DA-LINHA-DE-PESQUISA="Fluxo de Potência Ótimo - FPO"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Fluxo de Potência Ótimo</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">FPO</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0884799120343367" NOME-COMPLETO="Antonio Roberto Balbo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="73965"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8479687404526958" NOME-COMPLETO="Edméa Cássia Baptista"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="250707"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0196503152950828" NOME-COMPLETO="Edilaine Martins Soler"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="863185"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2025655130042036"
+                             NOME-COMPLETO="Ricardo Bento Nogueira Mori Pinheiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2373100"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2273541750841546" NOME-COMPLETO="Marina Teixeira Costa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4494531"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8619838276557403" NOME-COMPLETO="Adilson Preto de Godoi"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4274209"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3696501670232149" NOME-COMPLETO="Marielena Fonseca Tófoli"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5960918"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30404029" CODIGO-ESPECIALIDADE="30404029"
+                                  CODIGO-SUB-AREA="30404002"
+                                  CODIGO-AREA="30400007"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Transmissão da Energia Elétrica, Distribuição da Energia Elétrica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas Elétricos de Potência"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Elétrica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="436"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="D.35.1"
+                                SUBSETOR="Eletricidade, gás e outras utilidades"
+                                SETOR="Eletricidade e gás"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="0210340388072677"
+               RAZAO-SOCIAL-DA-EMPRESA="Companhia de Transmissão de Energia Elétrica Paulista"
+               NATUREZA-JURIDICA="Sociedade Anônima Aberta"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="02998611000104"
+               LOCALIDADE="São Paulo"
+               CIDADE="São Paulo"
+               UF="SP"
+               SIGLA-DA-EMPRESA="CTEEP"
+               NOME-DA-EMPRESA="Companhia de Transmissão de Energia Elétrica Paulista"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="D.35.1"
+                                          SUBSETOR="Geração, transmissão e distribuição de energia elétrica"
+                                          SETOR="Eletricidade, gás e outras utilidades"
+                                          GRANDE-SETOR="Eletricidade e gás"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="10">Transferência de recursos financeiros do parceiro para o grupo</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

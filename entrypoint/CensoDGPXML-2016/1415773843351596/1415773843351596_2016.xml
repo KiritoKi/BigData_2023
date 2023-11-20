@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="1415773843351596"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="231758"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="07102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="5764948876154037" CODIGO-AREA-PREDOMINANTE="10300007"
+                           NOME-DA-UNIDADE=""
+                           NOME-DO-ORGAO="Universidade Federal do Pampa"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="RS"
+                           SIGLA-DA-INSTITUICAO="UNIPAMPA"
+                           NOME-DA-INSTITUICAO="Universidade Federal do Pampa"
+                           AREA-PREDOMINANTE="Ciência da Computação"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2011"
+                           NOME-DO-GRUPO="Computação de Alta Eficiência - HECO - High Efficiency Computing">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="8935551668939735" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Leonardo Bidese de Pinho"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="0904659771560359" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Bruno Silveira Neves"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="4301602" DDDFAX="53"
+                                       LONGITUDE="-54.063613414764404"
+                                       LATITUDE="-31.30651463340026"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Bagé"
+                                       NUMERO="1650"
+                                       COMPLEMENTO="Sala 2307 - LabHECO"
+                                       LOGRADOURO="Travessa Quarenta e Cinco (Malafaia)"
+                                       HOME-PAGE="http://porteiras.s.unipampa.edu.br/heco/"
+                                       E-MAIL="leonardo.pinho@unipampa.edu.br"
+                                       FAX=""
+                                       RAMAL=""
+                                       TELEFONE="32405465"
+                                       DDD="53"
+                                       CEP="96413170"
+                                       CIDADE="Bagé"
+                                       UF="RS"
+                                       BAIRRO="Industrial I"/>
+      <REPERCUSSOES>O grupo de pesquisa de computação de alta eficiência HECO (High Efficiency Computing) trata-se de uma nova equipe de pesquisa e desenvolvimento da UNIPAMPA, no sul do Brasil, onde a comunidade de computação de alto desempenho é referência no país, interessada em aspectos de hardware e software de sistemas concebidos para aplicações de propósito geral e específicas que funcionem da melhor forma possível com o menor gasto de tempo (melhor desempenho e/ou aprimorada experiência de usuário) e esforço (menor custo, incluindo a escolha da alternativa tecnológica mais apropriada associada ao baixo consumo energético).O HECO foi formado em 2008, dentro do contexto do curso de graduação em Engenharia de Computação, no Campus Bagé, sendo coordenado pelos professores Bruno Silveira Neves e Leonardo Bidese de Pinho, os quais supervisionam as pesquisas realizadas por vários estudantes do curso nas seguintes linhas de pesquisa:. Métricas de Engenharia de Software aplicadas a sistemas multicore;. Análise de custo-desempenho de aplicações de propósito geral reais usando sistemas heterogêneos compostos por processadores convencionais e aceleradores como GPUs;. Síntese de hardware para aplicações específicas usualmente implementadas em software; . Sistemas multimídia distribuídos escaláveis de alto desempenho capazes te atender grandes quantidades de usuários concorrentes;. Soluções escaláveis e custo-efetivas baseadas em redes de sensores sem fio.Atualmente o HECO recebe suporte parcial por meio de editais internos da UNIPAMPA - incluindo a compra de equipamentos de pesquisa, usados na implementação do Laboratório HECO (HECOlab), e de bolsas de iniciação à pesquisa, através do Programa de Bolsas de Desenvolvimento Acadêmico (PBDA) - e de projetos financiados pelas agências FAPERGS, CNPq e FINEP, nos quais a equipe do HECO coopera com grupos consolidados de diferentes institutos de pesquisa (UFRJ, UFRGS e EMBRAPA).</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="NEVES, B. S.;NEVES, BRUNO S" TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0904659771560359"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Bruno Silveira Neves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métricas de Engenharia de Software aplicadas a sistemas multicore"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Síntese de hardware para aplicações específicas usualmente implementadas em software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas multimídia distribuídos escaláveis de alto desempenho"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise de custo-desempenho de aplicações de propósito geral reais usando sistemas heterogêneos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura e Organização de Sistemas Computacionais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ferramentas de CAD</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Projeto de Hardware e Software</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Eletrônicos Embarcados</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="AMARAL, E. M. H.;DO AMARAL, ERICO MARCELO HOFF;AMARAL, ERICO M. H."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2530535838251633"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Érico Marcelo Hoff do Amaral">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Soluções escaláveis e custo-efetivas baseadas em redes de sensores sem fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gerência de TI</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Informática na Educação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes de Computadores</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Segurança da Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="CAMARGO, S. S.;CAMARGO, SANDRO DA SILVA;CAMARGO, SANDRO;CAMARGO, SANDRO SILVA;DA SILVA CAMARGO, SANDRO;SANDRO DA SILVA CAMARGO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8826344853104147"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Sandro da Silva Camargo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Soluções escaláveis e custo-efetivas baseadas em redes de sensores sem fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Descoberta de Conhecimento Em Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="PINHO, L. B.;PINHO, L.B.;PINHO, LEONARDO B.;DE PINHO, LEONARDO BIDESE"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="8935551668939735"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Leonardo Bidese de Pinho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métricas de Engenharia de Software aplicadas a sistemas multicore"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Soluções escaláveis e custo-efetivas baseadas em redes de sensores sem fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Síntese de hardware para aplicações específicas usualmente implementadas em software"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Sistemas multimídia distribuídos escaláveis de alto desempenho"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise de custo-desempenho de aplicações de propósito geral reais usando sistemas heterogêneos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Paralela, Concorrente e Distribuída</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Escalabilidade e Alto Desempenho</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pecuária de Precisão</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Redes Sem Fio</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Vídeo Sob Demanda</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas Distribuídos Multimídia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FERREIRA, Ana P. L.;Ferreira, Ana Paula L.;Ludtke Ferreira, Ana Paula;Lüdtke Ferreira, Ana Paula;FERREIRA, ANA PAULA LUDTKE;Ferreira, Ana Paula Luedtke;Luedtke Ferreira, Ana Paula"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="F"
+                   NRO-ID-CNPQ="7596917589143251"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ana Paula Lüdtke Ferreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Soluções escaláveis e custo-efetivas baseadas em redes de sensores sem fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Aplicada à Agropecuária</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Educação em Engenharia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Especificação Formal</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inteligência Artificial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Formais</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Verificação Formal</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="DEANGELO, M. D." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO BIDESE DE PINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="8935551668939735"
+                 SEQUENCIA-ESTUDANTE="3153684"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8402439053590723"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Moises Diego Deangelo">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Soluções escaláveis e custo-efetivas baseadas em redes de sensores sem fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CARDOSO, M. A." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO BIDESE DE PINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="8935551668939735"
+                 SEQUENCIA-ESTUDANTE="5503541"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1285681161090886"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Morgana Antunes Cardoso">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Soluções escaláveis e custo-efetivas baseadas em redes de sensores sem fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PINHO, F. R." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO BIDESE DE PINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="8935551668939735"
+                 SEQUENCIA-ESTUDANTE="4360910"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6802284275730806"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Felipe Ritta do Pinho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Soluções escaláveis e custo-efetivas baseadas em redes de sensores sem fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gerenciamento de Redes</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Linguagens de Programação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Manutenção de Computadores</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="RICHA, C. H." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO BIDESE DE PINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="8935551668939735"
+                 SEQUENCIA-ESTUDANTE="4907306"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1591457882109231"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="César Huegel Richa">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Soluções escaláveis e custo-efetivas baseadas em redes de sensores sem fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Banco de Dados</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geoprocessamento</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>SIG e Sensoriamento Remoto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MOREIRA, O. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LEONARDO BIDESE DE PINHO"
+                 NRO-ID-CNPQ-ORIENTADOR="8935551668939735"
+                 SEQUENCIA-ESTUDANTE="5555034"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0500349431132160"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Odair dos Santos Moreira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Soluções escaláveis e custo-efetivas baseadas em redes de sensores sem fio"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS>
+      <TECNICO TITULO-FAMILIA-OCUPACAO="TÉCNICOS DE DESENVOLVIMENTO DE SISTEMAS E APLICAÇÕES"
+               TITULO-OCUPACAO="Programador de sistemas de informação"
+               CODIGO-CBO="3171-10"
+               NIVEL-DE-TREINAMENTO="Graduação"
+               PAIS-DE-NASCIMENTO="BRA"
+               NACIONALIDADE="B"
+               SEXO="M"
+               NOME-CITACOES="GONÇALVES, M. S."
+               NRO-ID-CNPQ="3140777859481493"
+               GRAU-DE-ESCOLARIDADE="Ensino Médio (2o grau)"
+               ATIVIDADE-NO-GRUPO="Programador de sistemas de informação"
+               NOME-COMPLETO="Meurer Sandim Gonçalves"
+               SEQUENCIA-TECNICO="6848773"/>
+   </TECNICOS>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4916638538546686"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Demonstrar um relacionamento entre métricas de qualidade de software, favoráveis ao reuso de software, manutenibilidade e redução do tempo de execução, emétricas de e¿ciência, tais como ciclos gastos, energia, consumo de memória, entre outras, buscando, assim, identi¿car os impactos que a variação das métricas de softwares causam sobre a e¿ciência de uma aplicação paralela quando executada em uma plataforma multiprocessada embarcada."
+                         NOME-DA-LINHA-DE-PESQUISA="Métricas de Engenharia de Software aplicadas a sistemas multicore"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">multicore</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Métricas</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Engenharia de Software</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0904659771560359" NOME-COMPLETO="Bruno Silveira Neves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="617532"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8935551668939735" NOME-COMPLETO="Leonardo Bidese de Pinho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="231728"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10303022" CODIGO-ESPECIALIDADE="10303022"
+                                  CODIGO-SUB-AREA="10303006"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Software"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Metodologia e Técnicas da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="58"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3528014885187406"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Análise de custo-desempenho de aplicações de propósito geral reais usando sistemas heterogêneos compostos por processadores convencionais e aceleradores como unidades gráficas de processamento (GPUs - graphic processing units)"
+                         NOME-DA-LINHA-DE-PESQUISA="Análise de custo-desempenho de aplicações de propósito geral reais usando sistemas heterogêneos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">escalabilidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">multicore</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">vídeo sob demanda</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0904659771560359" NOME-COMPLETO="Bruno Silveira Neves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="617532"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8935551668939735" NOME-COMPLETO="Leonardo Bidese de Pinho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="231728"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7120100976365461"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Pesquisa exploratória-experimental sobre soluções custo-efetivas baseadas em hardware reconfigurável para aplicações usualmente implementadas em software"
+                         NOME-DA-LINHA-DE-PESQUISA="Síntese de hardware para aplicações específicas usualmente implementadas em software"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">vídeo sob demanda</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Síntese</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">FPGA</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Microeletrônica</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0904659771560359" NOME-COMPLETO="Bruno Silveira Neves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="617532"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8935551668939735" NOME-COMPLETO="Leonardo Bidese de Pinho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="231728"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304010" CODIGO-ESPECIALIDADE="10304010"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Hardware"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="63"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4514870797591748"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Sistemas multimídia distribuídos escaláveis de alto desempenho capazes te atender grandes quantidades de usuários concorrentes"
+                         NOME-DA-LINHA-DE-PESQUISA="Sistemas multimídia distribuídos escaláveis de alto desempenho"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">escalabilidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">vídeo sob demanda</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Sistemas Distribuídos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Multimídia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Custo-desempenho</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0904659771560359" NOME-COMPLETO="Bruno Silveira Neves"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="617532"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8935551668939735" NOME-COMPLETO="Leonardo Bidese de Pinho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="231728"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304002" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Sistemas Distribuídos Multimídia"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="62"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4672543645444628"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Análise de soluções para monitoramento baseadas em redes de sensores sem fio, em particular aplicadas ao rastreamento animal em ambientes de manejo extensivo dentro de sistemas de integração lavoura-pecuária."
+                         NOME-DA-LINHA-DE-PESQUISA="Soluções escaláveis e custo-efetivas baseadas em redes de sensores sem fio"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Redes de sensores sem ffio</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">rastreabilidade</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">ambiência</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2530535838251633" NOME-COMPLETO="Érico Marcelo Hoff do Amaral"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="744570"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8826344853104147" NOME-COMPLETO="Sandro da Silva Camargo"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="248215"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="8935551668939735" NOME-COMPLETO="Leonardo Bidese de Pinho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="231728"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7596917589143251" NOME-COMPLETO="Ana Paula Lüdtke Ferreira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="391355"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8402439053590723" NOME-COMPLETO="Moises Diego Deangelo"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3153684"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1285681161090886" NOME-COMPLETO="Morgana Antunes Cardoso"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5503541"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6802284275730806" NOME-COMPLETO="Felipe Ritta do Pinho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4360910"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1591457882109231" NOME-COMPLETO="César Huegel Richa"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4907306"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0500349431132160" NOME-COMPLETO="Odair dos Santos Moreira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5555034"
+                             SEQUENCIA-ESTUDANTE="5"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="50304020" CODIGO-ESPECIALIDADE="50304020"
+                                  CODIGO-SUB-AREA="50304003"
+                                  CODIGO-AREA="50300008"
+                                  CODIGO-GRANDE-AREA="50000004"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Construções Rurais"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Construções Rurais e Ambiência"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia Agrícola"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Agrárias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="808"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10304029" CODIGO-ESPECIALIDADE="10304029"
+                                  CODIGO-SUB-AREA="10304002"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Arquitetura de Sistemas de Computação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sistemas de Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="64"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C.28.3"
+                                SUBSETOR="Fabricação de máquinas e equipamentos"
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="A.01.5"
+                                SUBSETOR="Agricultura, Pecuária e Serviços Relacionados"
+                                SETOR="Agricultura, Pecuária, Produção Florestal, Pesca e Aqüicultura"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="7404425277041623"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidade Federal do Rio de Janeiro"
+               NATUREZA-JURIDICA="Autarquia Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="33663683000116"
+               LOCALIDADE="Rio de Janeiro"
+               CIDADE="Rio de Janeiro"
+               UF="RJ"
+               SIGLA-DA-EMPRESA="UFRJ"
+               NOME-DA-EMPRESA="Universidade Federal do Rio de Janeiro"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="1554213867338831"
+               RAZAO-SOCIAL-DA-EMPRESA="Universidade Federal do Rio Grande do Sul"
+               NATUREZA-JURIDICA="Autarquia Federal"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="92969856000198"
+               LOCALIDADE="Porto Alegre"
+               CIDADE="Porto Alegre"
+               UF="RS"
+               SIGLA-DA-EMPRESA="UFRGS"
+               NOME-DA-EMPRESA="Universidade Federal do Rio Grande do Sul"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="7075656935959222"
+               RAZAO-SOCIAL-DA-EMPRESA="Empresa Brasileira de Pesquisa Agropecuária"
+               NATUREZA-JURIDICA="Empresa Pública"
+               SEGMENTO-ECONOMICO=""
+               CNPJ="00348003000110"
+               LOCALIDADE="Brasília"
+               CIDADE="Brasília"
+               UF="DF"
+               SIGLA-DA-EMPRESA="EMBRAPA"
+               NOME-DA-EMPRESA="Empresa Brasileira de Pesquisa Agropecuária"
+               SEQUENCIA-EMPRESA="2">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                          SUBSETOR="Pesquisa e desenvolvimento experimental em ciências físicas e naturais"
+                                          SETOR="Pesquisa e desenvolvimento científico"
+                                          GRANDE-SETOR="Atividades profissionais, científicas e técnicas"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="11">Pesquisa científica com considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="19">Outras formas de remuneração que não se enquadrem em nenhuma das anteriores.</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

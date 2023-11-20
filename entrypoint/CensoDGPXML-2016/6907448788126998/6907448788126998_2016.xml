@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="6907448788126998"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="195324"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="07102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="2305779826028425" CODIGO-AREA-PREDOMINANTE="30800005"
+                           NOME-DA-UNIDADE="Departamento de Engenharia de Produção e Sistemas"
+                           NOME-DO-ORGAO="Departamento de Engenharia de Produção e Sistemas"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="SC"
+                           SIGLA-DA-INSTITUICAO="UFSC"
+                           NOME-DA-INSTITUICAO="Universidade Federal de Santa Catarina"
+                           AREA-PREDOMINANTE="Engenharia de Produção"
+                           GRANDE-AREA-PREDOMINANTE="Engenharias"
+                           ANO-DE-CRIACAO="2013"
+                           NOME-DO-GRUPO="Sistemas Produtivos e Logísticos - S-ProLog">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="0574333309366837" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Enzo Morosini Frazzon"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="6653325962006463" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                        NOME-COMPLETO="Fernando Antônio Forcellini"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="4205407" DDDFAX="48"
+                                       LONGITUDE="-48.51787269115448"
+                                       LATITUDE="-27.601043279001466"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Florianópolis"
+                                       NUMERO="."
+                                       COMPLEMENTO="Centro Tecnológico - Engenharia de Produção e Sistemas"
+                                       LOGRADOURO="UFSC - Universidade Federal de Santa Catarina"
+                                       HOME-PAGE="www.prologis.ufsc.br"
+                                       E-MAIL="enzo.frazzon@ufsc.br"
+                                       FAX="37217076"
+                                       RAMAL=""
+                                       TELEFONE="37217076"
+                                       DDD="48"
+                                       CEP="88040900"
+                                       CIDADE="Florianópolis"
+                                       UF="SC"
+                                       BAIRRO="Trindade"/>
+      <REPERCUSSOES>A crescente complexidade dos sistemas produtivos e de logística é uma das principais características do ambiente socioeconômico e produtivo contemporâneo. A interação entre processos, pessoas, organizações, instalações, infraestruturas e tecnologias, envolvidos em fluxos de material e informação, em um contexto competitivo e internacional, exige a adoção de uma abordagem sistêmica para a análise e proposição de soluções eficientes, efetivas, inteligentes e integradas para a produção e a logística de bens e serviços.Neste contexto, as principais áreas de interesse científico e prático estão relacionadas ao planejamento, programação e controle de processos produtivos; projeto de produtos e serviços; sincronização de fluxos de material e informação; planejamento, programação e controle de serviços e operações logísticas; planejamento e alocação de infraestrutura física; uso de tecnologias de informação, comunicação e posicionamento; e gerenciamento das organizações e dos aspectos sociot</REPERCUSSOES>
+      <REDES-DE-PESQUISA>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="BRAGECRIM"
+                           URL-DA-REDE-DE-PESQUISA="www.bragecrim.net"
+                           NOME-DA-REDE-DE-PESQUISA="BRAZILIAN-GERMAN COLLABORATIVE RESEARCH INITIATIVE ON MANUFACTURING TECHNOLOGY"/>
+      </REDES-DE-PESQUISA>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="DUTRA, Moisés Lima;DUTRA, MOISÉS-LIMA"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1973469817655034"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Moisés Lima Dutra">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Informação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Interoperabilidade</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ontologias</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Representação da Informação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Representação do Conhecimento</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FRAZZON, E. M.;Frazzon, Enzo Morosini;FRAZZON, ENZO;FRAZZON, ENZO M.;MOROSINI FRAZZON, ENZO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="0574333309366837"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Enzo Morosini Frazzon">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Macrologística - Articulação estratégica dos sistemas de transporte e logística"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ManuSer - Sistemas Manufatura + Serviço"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Sistemas Produtivos e Logísticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administração da Produção</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Operação de Sistemas de Transporte</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento e Organização do Sistema de Transporte</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento, Projeto e Controle de Sistemas de Produção</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Suprimentos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="KITZBERGER, J." TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="1367290556890111"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Jerson Kitzberger">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administração de Empresas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Produção</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="FORCELLINI, F. A.;Forcellini, Fernando A.;Forcellini, Fernando Antônio;FORCELLINI, FERNANDO A;FORCELLINI, FERNANDO ANTONIO;FORCELLINI, FERNANDO"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6653325962006463"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Fernando Antônio Forcellini">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ManuSer - Sistemas Manufatura + Serviço"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Desenvolvimento de Produto</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Máquinas e Implementos Agrícolas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Máquinas, Motores e Equipamentos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Metodologia de Projeto do Produto</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="ISRAEL, E. F.;ISRAEL, EDUARDO" TITULACAO-MAXIMA="Mestrado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9035909387941212"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Eduardo Francisco Israel">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="VIEIRA, G. E.;Vieira, Guilherme Ernani;VIEIRA, GUILHERME E.;VIEIRA, G.E."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="5"
+                   SEXO="M"
+                   NRO-ID-CNPQ="2980755358096151"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Guilherme Ernani Vieira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Sistemas Produtivos e Logísticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Produção</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Transportes</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Gerência de Produção</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Logística</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento, Projeto e Controle de Sistemas de Produção</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="VILLARROEL DÁVALOS, R. D." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="6"
+                   SEXO="M"
+                   NRO-ID-CNPQ="9740960638316314"
+                   PAIS-DE-NASCIMENTO="BOL"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Ricardo Villarroel Dávalos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Sistemas Produtivos e Logísticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administração da Produção</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Arquitetura de Sistemas de Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Produção</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Programação Linear, Não-Linear, Mista e Dinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Sistemas de Informação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="URIONA MALDONADO, M.;Uriona-Maldonado, Mauricio;Uriona Maldonado, Mauricio"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="7"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6929645347412345"
+                   PAIS-DE-NASCIMENTO="BOL"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Mauricio Uriona Maldonado">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Sistemas Produtivos e Logísticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Economia de Tecnologia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Fontes Renováveis de Energia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelamento e Simulação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Mudança Tecnológica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>sistemas de inovação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="MAZZUCO, D. E." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ENZO MOROSINI FRAZZON"
+                 NRO-ID-CNPQ-ORIENTADOR="0574333309366837"
+                 SEQUENCIA-ESTUDANTE="4177218"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5996019322658489"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Diego Evandro Mazzuco">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Sistemas Produtivos e Logísticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Produção</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="HOLTZ, T. H." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ENZO MOROSINI FRAZZON"
+                 NRO-ID-CNPQ-ORIENTADOR="0574333309366837"
+                 SEQUENCIA-ESTUDANTE="6283987"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2888673569326504"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Tulio Henrique Holtz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Sistemas Produtivos e Logísticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Suprimentos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PIMENTEL, R.;PIMENTEL, RICARDO" NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ENZO MOROSINI FRAZZON"
+                 NRO-ID-CNPQ-ORIENTADOR="0574333309366837"
+                 SEQUENCIA-ESTUDANTE="2095465"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2608783249034370"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Ricardo Pimentel">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Sistemas Produtivos e Logísticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Produção</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia Mecânica - Processos de Fabricação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento, Projeto e Controle de Sistemas de Produção</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PORTELA, P." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL="  "
+                 BOLSA-CATEGORIA="Iniciação Científica"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ENZO MOROSINI FRAZZON"
+                 NRO-ID-CNPQ-ORIENTADOR="0574333309366837"
+                 SEQUENCIA-ESTUDANTE="6816011"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2046818503911596"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Pedro Pfeifer Portela Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Simulação de Sistemas Produtivos e Logísticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LOPES, A. A.;ALBRECHT, ANDRÉ" NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ENZO MOROSINI FRAZZON"
+                 NRO-ID-CNPQ-ORIENTADOR="0574333309366837"
+                 SEQUENCIA-ESTUDANTE="4670224"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5300956144497935"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="André Albrecht Lopes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Suprimentos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="Lima, Antonio Diogo;Passos, A. D." NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ENZO MOROSINI FRAZZON"
+                 NRO-ID-CNPQ-ORIENTADOR="0574333309366837"
+                 SEQUENCIA-ESTUDANTE="563551"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3545324887251492"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Antonio Diogo Passos Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LIRA, A. R." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ENZO MOROSINI FRAZZON"
+                 NRO-ID-CNPQ-ORIENTADOR="0574333309366837"
+                 SEQUENCIA-ESTUDANTE="5249107"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2733326225884511"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Augusto Rocha Lira">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Produção</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CONSTANTE, J. M." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ENZO MOROSINI FRAZZON"
+                 NRO-ID-CNPQ-ORIENTADOR="0574333309366837"
+                 SEQUENCIA-ESTUDANTE="313230"
+                 SEXO="M"
+                 NRO-ID-CNPQ="6368963045385507"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Jonas Mendes Constante">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Macrologística - Articulação estratégica dos sistemas de transporte e logística"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administração de Empresas</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Administração de Setores Específicos</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Estratégia Empresarial</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Inovação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento e Organização do Sistema de Transporte</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento Institucional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CASTRO, V. F." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ENZO MOROSINI FRAZZON"
+                 NRO-ID-CNPQ-ORIENTADOR="0574333309366837"
+                 SEQUENCIA-ESTUDANTE="2275304"
+                 SEXO="M"
+                 NRO-ID-CNPQ="0408312855021306"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Vinicius Ferreira de Castro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Macrologística - Articulação estratégica dos sistemas de transporte e logística"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GOMES, A. A." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ENZO MOROSINI FRAZZON"
+                 NRO-ID-CNPQ-ORIENTADOR="0574333309366837"
+                 SEQUENCIA-ESTUDANTE="3958359"
+                 SEXO="F"
+                 NRO-ID-CNPQ="2650422179528148"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Aliana Adelina Gomes">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MATES, W. C." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ENZO MOROSINI FRAZZON"
+                 NRO-ID-CNPQ-ORIENTADOR="0574333309366837"
+                 SEQUENCIA-ESTUDANTE="3862708"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2388576789586572"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Willian Chaves Mates">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Geotécnica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="WESTRUPP, M. B." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ENZO MOROSINI FRAZZON"
+                 NRO-ID-CNPQ-ORIENTADOR="0574333309366837"
+                 SEQUENCIA-ESTUDANTE="5258289"
+                 SEXO="M"
+                 NRO-ID-CNPQ="1473059102803438"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Mauricio Back Westrupp">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Macrologística - Articulação estratégica dos sistemas de transporte e logística"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento de Transportes</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PINHEIRO, É. V." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ENZO MOROSINI FRAZZON"
+                 NRO-ID-CNPQ-ORIENTADOR="0574333309366837"
+                 SEQUENCIA-ESTUDANTE="4102634"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5344898551717128"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Éder Vasco Pinheiro">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Macrologística - Articulação estratégica dos sistemas de transporte e logística"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento de Transportes</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MENDONÇA, L. H. S.;HENRIQUE SOUZA MENDONÇA, LUIZ"
+                 NIVEL-DE-TREINAMENTO=""
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ENZO MOROSINI FRAZZON"
+                 NRO-ID-CNPQ-ORIENTADOR="0574333309366837"
+                 SEQUENCIA-ESTUDANTE="5163097"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5654820599637551"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Luiz Henrique Souza Mendonça">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Macrologística - Articulação estratégica dos sistemas de transporte e logística"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MURCIA, P. A. H.;HURTADO, PAULA ANDREA;HURTADO, P. A."
+                 NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ENZO MOROSINI FRAZZON"
+                 NRO-ID-CNPQ-ORIENTADOR="0574333309366837"
+                 SEQUENCIA-ESTUDANTE="5111937"
+                 SEXO="F"
+                 NRO-ID-CNPQ="3101240780559162"
+                 PAIS-DE-NASCIMENTO="COL"
+                 NACIONALIDADE="E"
+                 NOME-COMPLETO="Paula Andrea Hurtado Murcia">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Produção</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, L. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ENZO MOROSINI FRAZZON"
+                 NRO-ID-CNPQ-ORIENTADOR="0574333309366837"
+                 SEQUENCIA-ESTUDANTE="5478574"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2812857927826975"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Lucas de Souza Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Produção</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FURLAN, C. M." NIVEL-DE-TREINAMENTO="Mestrado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ENZO MOROSINI FRAZZON"
+                 NRO-ID-CNPQ-ORIENTADOR="0574333309366837"
+                 SEQUENCIA-ESTUDANTE="4033656"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1703183119377397"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Caroline Mazzuco Furlan">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Pesquisa Operacional</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="PIRES, M. C.;CARDOSO PIRES, MATHEUS"
+                 NIVEL-DE-TREINAMENTO="Mestrado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="ENZO MOROSINI FRAZZON"
+                 NRO-ID-CNPQ-ORIENTADOR="0574333309366837"
+                 SEQUENCIA-ESTUDANTE="5728642"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7488741853945294"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Matheus Cardoso Pires">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planejamento de Transportes</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS>
+      <COLABORADOR-ESTRANGEIRO NOME-CITACOES="HELLINGRATH, B.;HELLINGRATH, BERND;Hellingrath, Bernd;Hellingrath, B.;Bernd Hellingrath;B. Hellingrath"
+                               SEXO="M"
+                               NRO-ID-CNPQ="9643584666699836"
+                               PAIS-DE-NASCIMENTO="DEU"
+                               NACIONALIDADE="E"
+                               NOME-COMPLETO="Bernd Hellingrath"
+                               TITULACAO-MAXIMA="Doutorado"
+                               SEQUENCIA-COLABORADOR="1">
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Humanitarian Logistics</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Information Systems</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Planning and Controlling in Supply Chain Management</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Supply Chain Management</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </COLABORADOR-ESTRANGEIRO>
+   </COLABORADORES-ESTRANGEIROS>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="3589891937252470"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Abordando o planejamento e controle de sistemas de produção e a operação de sistemas de transporte esta linha de pesquisa objetiva analisar e propor modelos conceituais, tecnologias, métodos e práticas para o desenvolvimento de sistemas produtivos e logísticos inteligentes. Visa, também, com foco no controle e integração entre processos, analisar, por meio de métodos e ferramentas computacionais, a adaptabilidade e a eficiência de sistemas produtivos e logísticos."
+                         NOME-DA-LINHA-DE-PESQUISA="ProLogIS - Sistemas produtivos e logísticos inteligentes"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Planejamento e controle de sistemas de produção</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Operação de sistemas de transporte</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Sistemas produtivos e logísticos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Simulação</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Controle</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1973469817655034" NOME-COMPLETO="Moisés Lima Dutra"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="126800"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0574333309366837" NOME-COMPLETO="Enzo Morosini Frazzon"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="134386"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2980755358096151" NOME-COMPLETO="Guilherme Ernani Vieira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="343305"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9740960638316314" NOME-COMPLETO="Ricardo Villarroel Dávalos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="375943"
+                               SEQUENCIA-PESQUISADOR="4"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9035909387941212" NOME-COMPLETO="Eduardo Francisco Israel"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="870672"
+                               SEQUENCIA-PESQUISADOR="5"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6929645347412345" NOME-COMPLETO="Mauricio Uriona Maldonado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2064566"
+                               SEQUENCIA-PESQUISADOR="6"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="1367290556890111" NOME-COMPLETO="Jerson Kitzberger"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2461976"
+                               SEQUENCIA-PESQUISADOR="7"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3545324887251492" NOME-COMPLETO="Antonio Diogo Passos Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="563551"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2608783249034370" NOME-COMPLETO="Ricardo Pimentel"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2095465"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2388576789586572" NOME-COMPLETO="Willian Chaves Mates"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3862708"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2650422179528148" NOME-COMPLETO="Aliana Adelina Gomes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3958359"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1703183119377397" NOME-COMPLETO="Caroline Mazzuco Furlan"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4033656"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5996019322658489" NOME-COMPLETO="Diego Evandro Mazzuco"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4177218"
+                             SEQUENCIA-ESTUDANTE="6"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5300956144497935" NOME-COMPLETO="André Albrecht Lopes"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4670224"
+                             SEQUENCIA-ESTUDANTE="7"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3101240780559162" NOME-COMPLETO="Paula Andrea Hurtado Murcia"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5111937"
+                             SEQUENCIA-ESTUDANTE="8"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2733326225884511" NOME-COMPLETO="Augusto Rocha Lira"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5249107"
+                             SEQUENCIA-ESTUDANTE="9"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2812857927826975" NOME-COMPLETO="Lucas de Souza Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5478574"
+                             SEQUENCIA-ESTUDANTE="10"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7488741853945294" NOME-COMPLETO="Matheus Cardoso Pires"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5728642"
+                             SEQUENCIA-ESTUDANTE="11"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2046818503911596" NOME-COMPLETO="Pedro Pfeifer Portela Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6816011"
+                             SEQUENCIA-ESTUDANTE="12"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30801028" CODIGO-ESPECIALIDADE="30801028"
+                                  CODIGO-SUB-AREA="30801001"
+                                  CODIGO-AREA="30800005"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Planejamento, Projeto e Controle de Sistemas de Produção"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Gerência de Produção"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Produção"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="542"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30801044" CODIGO-ESPECIALIDADE="30801044"
+                                  CODIGO-SUB-AREA="30801001"
+                                  CODIGO-AREA="30800005"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Suprimentos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Gerência de Produção"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Produção"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="544"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31003036" CODIGO-ESPECIALIDADE="31003036"
+                                  CODIGO-SUB-AREA="31003001"
+                                  CODIGO-AREA="31000002"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Operação de Sistemas de Transporte"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações de Transportes"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Transportes"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="598"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="H" SUBSETOR=""
+                                SETOR="Transporte, armazenagem e correio"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1460562577408146"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Com ênfase no projeto e desenvolvimento de sistemas de produção, manufatura e serviços correlatos esta linha de pesquisa objetiva analisar e propor modelos conceituais, tecnologias, métodos e práticas voltadas ao desenvolvimento de sistemas manufatura + serviço."
+                         NOME-DA-LINHA-DE-PESQUISA="ManuSer - Sistemas Manufatura + Serviço"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Projeto de produtos e serviços</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Sistemas de produção, manufatura e serviços</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Sistemas manufatura + serviço</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0574333309366837" NOME-COMPLETO="Enzo Morosini Frazzon"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="134386"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6653325962006463" NOME-COMPLETO="Fernando Antônio Forcellini"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="345737"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30803055" CODIGO-ESPECIALIDADE="30803055"
+                                  CODIGO-SUB-AREA="30803004"
+                                  CODIGO-AREA="30800005"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Desenvolvimento de Produto"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Engenharia do Produto"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Produção"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="557"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30803020" CODIGO-ESPECIALIDADE="30803020"
+                                  CODIGO-SUB-AREA="30803004"
+                                  CODIGO-AREA="30800005"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Metodologia de Projeto do Produto"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Engenharia do Produto"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Produção"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="554"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30803004" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30803004"
+                                  CODIGO-AREA="30800005"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Engenharia do Produto"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Produção"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="552"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="H" SUBSETOR=""
+                                SETOR="Transporte, armazenagem e correio"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5445456435272576"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Abrangendo o projeto, planejamento e organização dos sistemas de transporte e logística esta linha de pesquisa objetiva propor e analisar abordagens estratégicas com foco na articulação entre o transporte de cargas e passageiros, processos logístico, aspectos físicos e territoriais, tecnologias e infraestruturas. Objetiva, ainda, analisar, através da aplicação de ferramentas e métodos computacionais, a viabilidade de investimentos em infraestruturas de transportes e de logística."
+                         NOME-DA-LINHA-DE-PESQUISA="Macrologística - Articulação estratégica dos sistemas de transporte e logística"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Projeto dos sistemas de transporte e logística</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Planejamento dos sistemas de transporte</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Estratégia</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Transporte de cargas e passageiros</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Aspectos físicos e territoriais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0574333309366837" NOME-COMPLETO="Enzo Morosini Frazzon"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="134386"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6368963045385507" NOME-COMPLETO="Jonas Mendes Constante"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="313230"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="0408312855021306" NOME-COMPLETO="Vinicius Ferreira de Castro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2275304"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5344898551717128" NOME-COMPLETO="Éder Vasco Pinheiro"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4102634"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5654820599637551" NOME-COMPLETO="Luiz Henrique Souza Mendonça"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5163097"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1473059102803438" NOME-COMPLETO="Mauricio Back Westrupp"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5258289"
+                             SEQUENCIA-ESTUDANTE="5"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30804027" CODIGO-ESPECIALIDADE="30804027"
+                                  CODIGO-SUB-AREA="30804000"
+                                  CODIGO-AREA="30800005"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Localização Industrial"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Engenharia Econômica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Produção"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="560"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31003010" CODIGO-ESPECIALIDADE="31003010"
+                                  CODIGO-SUB-AREA="31003001"
+                                  CODIGO-AREA="31000002"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Engenharia de Tráfego"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Operações de Transportes"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Transportes"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="596"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="31001017" CODIGO-ESPECIALIDADE="31001017"
+                                  CODIGO-SUB-AREA="31001009"
+                                  CODIGO-AREA="31000002"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Planejamento e Organização do Sistema de Transporte"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Planejamento de Transportes"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Transportes"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="588"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="H" SUBSETOR=""
+                                SETOR="Transporte, armazenagem e correio"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="1477940467066834"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="A linha de pesquisa objetiva analisar sistemas de produção e logística através de diferentes técnicas de simulação como, por exemplo, simulação de eventos discretos e simulação de sistemas multiagente. As atividades estão articuladas com a linha de pesquisa Sistemas Produtivos e Logísticos."
+                         NOME-DA-LINHA-DE-PESQUISA="Simulação de Sistemas Produtivos e Logísticos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Modelagem matemática e simulação computacional</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Sistemas Produtivos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Logística</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="0574333309366837" NOME-COMPLETO="Enzo Morosini Frazzon"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="134386"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="2980755358096151" NOME-COMPLETO="Guilherme Ernani Vieira"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="343305"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="9740960638316314" NOME-COMPLETO="Ricardo Villarroel Dávalos"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="375943"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6929645347412345" NOME-COMPLETO="Mauricio Uriona Maldonado"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="2064566"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2608783249034370" NOME-COMPLETO="Ricardo Pimentel"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2095465"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5996019322658489" NOME-COMPLETO="Diego Evandro Mazzuco"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="4177218"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2888673569326504" NOME-COMPLETO="Tulio Henrique Holtz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6283987"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2046818503911596" NOME-COMPLETO="Pedro Pfeifer Portela Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6816011"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="30802008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="30802008"
+                                  CODIGO-AREA="30800005"
+                                  CODIGO-GRANDE-AREA="30000009"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Pesquisa Operacional"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Engenharia de Produção"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Engenharias"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="546"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="C" SUBSETOR=""
+                                SETOR="Indústrias de Transformação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="1182068458709555"
+               RAZAO-SOCIAL-DA-EMPRESA="University of Bremen"
+               NATUREZA-JURIDICA=""
+               SEGMENTO-ECONOMICO=""
+               CNPJ=""
+               LOCALIDADE="Bremen"
+               CIDADE="Bremen"
+               UF=""
+               SIGLA-DA-EMPRESA="UNI BREMEM"
+               NOME-DA-EMPRESA="Universität Bremen"
+               SEQUENCIA-EMPRESA="0">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+      <EMPRESA NRO-ID-CNPQ-INSTITUICAO="0218292835090319"
+               RAZAO-SOCIAL-DA-EMPRESA="Westfälische Wilhelms - Universität Münster"
+               NATUREZA-JURIDICA=""
+               SEGMENTO-ECONOMICO=""
+               CNPJ="EX36463654"
+               LOCALIDADE="Munster"
+               CIDADE="Munster"
+               UF=""
+               SIGLA-DA-EMPRESA="WWU MÜNSTER"
+               NOME-DA-EMPRESA="University of Münster"
+               SEQUENCIA-EMPRESA="1">
+         <SETORES-DE-ATIVIDADE-ECONOMICA>
+            <SETOR-DE-ATIVIDADE-ECONOMICA ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação superior"
+                                          SETOR="Educação"
+                                          GRANDE-SETOR="Educação"
+                                          SEQUENCIA-SETOR-DE-ATIVIDADE="0"/>
+         </SETORES-DE-ATIVIDADE-ECONOMICA>
+         <TIPOS-DE-RELACAO>
+            <TIPO-DE-RELACAO SEQUENCIA-TIPO-DE-RELACAO="10">Pesquisa científica sem considerações de uso imediato dos resultados</TIPO-DE-RELACAO>
+         </TIPOS-DE-RELACAO>
+         <TIPOS-DE-REMUNERACAO>
+            <TIPO-DE-REMUNERACAO SEQUENCIA-TIPO-DE-REMUNERACAO="13">Parceria sem a transferência de recursos de qualquer espécie, envolvendo exclusivamente relacionamento de risco</TIPO-DE-REMUNERACAO>
+         </TIPOS-DE-REMUNERACAO>
+      </EMPRESA>
+   </EMPRESAS>
+   <EQUIPAMENTOS/>
+   <SOFTWARES>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="10000"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES=""
+                MODELO=""
+                VERSAO="6"
+                NOME="SIMIO"
+                CLASSIFICACAO="Simulação"
+                TIPO-DE-LICENCIAMENTO="Comercial"
+                DESENVOLVIMENTO-PROPRIO="N"
+                SEQUENCIA-SOFTWARE="0">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0"/>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+      <SOFTWARE DISPONIBILIZADO-OUTROS-PESQUISADORES="S" CUSTO-LICENCIAMENTO="10000"
+                MOEDA-LICENCIAMENTO="REAL"
+                ESPECIFICACOES=""
+                MODELO=""
+                VERSAO=""
+                NOME="ANYLOGIC"
+                CLASSIFICACAO="Simulação"
+                TIPO-DE-LICENCIAMENTO="Comercial"
+                DESENVOLVIMENTO-PROPRIO="N"
+                SEQUENCIA-SOFTWARE="1">
+         <ENTIDADES-FINANCIADORAS>
+            <ENTIDADE-FINANCIADORA SEQUENCIA-ENTIDADE-FINANCIADORA="0">Capes</ENTIDADE-FINANCIADORA>
+         </ENTIDADES-FINANCIADORAS>
+      </SOFTWARE>
+   </SOFTWARES>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>

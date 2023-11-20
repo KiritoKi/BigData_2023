@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="3123139621431830"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="093219"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="11102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="2373948979169847" CODIGO-AREA-PREDOMINANTE="10500006"
+                           NOME-DA-UNIDADE="Departamento de Física Teórica"
+                           NOME-DO-ORGAO="Departamento de Física Teórica"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="RJ"
+                           SIGLA-DA-INSTITUICAO="UERJ"
+                           NOME-DA-INSTITUICAO="Universidade do Estado do Rio de Janeiro"
+                           AREA-PREDOMINANTE="Física"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Exatas e da Terra"
+                           ANO-DE-CRIACAO="2000"
+                           NOME-DO-GRUPO="FÍSICA MATEMÁTICA E COMPUTACIONAL">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="6397080352351635" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="B"
+                         NOME-COMPLETO="Luis Antonio Campinho Pereira da Mota"/>
+         <SEGUNDO-LIDER NRO-ID-CNPQ="3779547665338962" PAIS-DE-NASCIMENTO="ESC" NACIONALIDADE="E"
+                        NOME-COMPLETO="James Ewan Faskin Skea"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3304557" DDDFAX="02"
+                                       LONGITUDE="-43.225546099999974"
+                                       LATITUDE="-22.9212265"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Rio de Janeiro"
+                                       NUMERO="524"
+                                       COMPLEMENTO=""
+                                       LOGRADOURO="Universidade do Estado do Rio de Janeiro - UERJ"
+                                       HOME-PAGE="http://"
+                                       E-MAIL="lacpdamota@gmail.com"
+                                       FAX=""
+                                       RAMAL=""
+                                       TELEFONE="22343546"
+                                       DDD="02"
+                                       CEP="20550900"
+                                       CIDADE="Rio de Janeiro"
+                                       UF="RJ"
+                                       BAIRRO="Maracanã"/>
+      <REPERCUSSOES>O Grupo de Física Matemática e Computacional principalmente trabalha no desenvolvimento de ferramentas computacionais e novas técnicas que apoiam a pesquisa em várias áreas da Física. As linhas de pesquisa atualmente incluem.1) Classificação de Soluções de Einstein em Relatividade Geral (um banco de dados que detalha características de vários espaços-tempos está disponível na homepage http://jim.dft.if.uerj.br)2) Desenvolvimento de técnicas algébricas para a solução de equações diferenciais ordinárias. Membros do grupo contribuiram com algoritmos que atualmente fazem parte do resolvedor de equações diferenciais ordinárias no ambiente simbólico Maple (desde a versão 5 do pacote distribuído mundialmente e pelo menos até a versão comercial número 11).3) Medidas de caos em sistemas dinâmicos. O software Ndynamics, traça trajetórias no espaço de fase de um sistema dinâmico, e calcula a dimensão fractal associada. Esse software implementa uma interface híbrida que aproveita o que há de mais poderoso nos ambientes simbólicos (flexibilidade e interface amigável) e numéricos (velocidade de cálculo).Fora do impacto óbvio dos algoritmos de resolução de equações diferenciais em Maple, os programas do grupo são extensivamente usados pos pessoas de outros grupos do departamento, do instituto e de outras instituições. O pacote Ndynamics faz parte da "library" de Computer PhysicsCommunications. O pacote PS-solver também está nesta "library" bem como no  "Maple Application Center", ambas bibliotecas com referee e divulgação internacional. O grupo desenvolveu novas ténicas que servem de base, por exemplo, para um método algorítimico para solução de equações diferenciais de segunda ordem. Que saibamos único na literatura. Na parte de Física Estatística, um membro do grupo tem uma longa carreira (com aproximadamente 900 citações)  e uma outra parte do grupo entrou recentemente no Estudo de Séries Temporais, com a defesa de uma dissertação de mestrado.</REPERCUSSOES>
+      <REDES-DE-PESQUISA/>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="DUARTE, L. G. S.;DUARTE, L.G.S.;Duarte, L G S"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3550872419786360"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Luiz Guilherme Silva Duarte">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise de Sistemas Caóticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Resolução Analítica de Equações Diferenciais e Sistemas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos Numéricos para a Resolução de Equações Diferenciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Séries Temporais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Simbólica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Matemáticos da Física</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SKEA, J. E. F.;SKEA, J.E.F." TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="3779547665338962"
+                   PAIS-DE-NASCIMENTO="ESC"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="James Ewan Faskin Skea">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Classificação Invariante de Espaços-Tempos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise de Sistemas Caóticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos Numéricos para a Resolução de Equações Diferenciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Resolução Analítica de Equações Diferenciais e Sistemas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Computacional Simbólico e Numérico</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Matemáticos da Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Relatividade e Gravitação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="da MOTA, L. A. C. P.;DA MOTA, L.A.C.P."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="2"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6397080352351635"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Luis Antonio Campinho Pereira da Mota">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Resolução Analítica de Equações Diferenciais e Sistemas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise de Sistemas Caóticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos Numéricos para a Resolução de Equações Diferenciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Física Matemática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Séries Temporais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Matemática Simbólica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Matemáticos da Física</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="Linhares, C. A.;Linhares, C.;LINHARES, C.A.;Cesar A. Linhares;Linhares, Cesar A."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="3"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5995298963763405"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Cesar Augusto Linhares da Fonseca Junior">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Séries Temporais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Geral</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Teoria Geral de Partículas e Campos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="AVELLAR, Jayr;COSTA FILHO, Jayr Avellar;Avellar, J."
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="4"
+                   SEXO="M"
+                   NRO-ID-CNPQ="6507839159156333"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="B"
+                   NOME-COMPLETO="Jayr Avellar Costa Filho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos Numéricos para a Resolução de Equações Diferenciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Física Matemática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Matemáticos da Física</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="CLAUDINO, André.;L.G.C. Claudino, André"
+                 NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ GUILHERME SILVA DUARTE"
+                 NRO-ID-CNPQ-ORIENTADOR="3550872419786360"
+                 SEQUENCIA-ESTUDANTE="2251328"
+                 SEXO="M"
+                 NRO-ID-CNPQ="5448242503820544"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="André Luiz Gomes da Cruz Claudino">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Resolução Analítica de Equações Diferenciais e Sistemas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação Gráfica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física da Matéria Condensada</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>INFORMAÇÃO QUÂNTICA</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>NANOFABRICAÇÃO</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Processamento distribuído</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="MELO, A. B.;MELO, A." NIVEL-DE-TREINAMENTO="" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIS ANTONIO CAMPINHO PEREIRA DA MOTA"
+                 NRO-ID-CNPQ-ORIENTADOR="6397080352351635"
+                 SEQUENCIA-ESTUDANTE="282290"
+                 SEXO="F"
+                 NRO-ID-CNPQ="6277084511926648"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Andrea Barroso Melo Monteiro de Queiroz">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Resolução Analítica de Equações Diferenciais e Sistemas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Física Matemática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Acreditação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Áreas Clássicas de Fenomenologia e suas Aplicações</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ótica Quântica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="CARDOSO, M. S." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIZ GUILHERME SILVA DUARTE"
+                 NRO-ID-CNPQ-ORIENTADOR="3550872419786360"
+                 SEQUENCIA-ESTUDANTE="3767147"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3355786074300779"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Maurício dos Santos Cardoso">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Resolução Analítica de Equações Diferenciais e Sistemas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ROCHA, A. F." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIS ANTONIO CAMPINHO PEREIRA DA MOTA"
+                 NRO-ID-CNPQ-ORIENTADOR="6397080352351635"
+                 SEQUENCIA-ESTUDANTE="3047288"
+                 SEXO="M"
+                 NRO-ID-CNPQ="2813188660502017"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Alex Fraga Rocha">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise de Sistemas Caóticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Métodos Numéricos para a Resolução de Equações Diferenciais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="NUNEZ, E." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIS ANTONIO CAMPINHO PEREIRA DA MOTA"
+                 NRO-ID-CNPQ-ORIENTADOR="6397080352351635"
+                 SEQUENCIA-ESTUDANTE="53512"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4353254615441476"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Emilio Nunez">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Resolução Analítica de Equações Diferenciais e Sistemas"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="ALVES, P. R. L." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIS ANTONIO CAMPINHO PEREIRA DA MOTA"
+                 NRO-ID-CNPQ-ORIENTADOR="6397080352351635"
+                 SEQUENCIA-ESTUDANTE="2570904"
+                 SEXO="M"
+                 NRO-ID-CNPQ="8100550275390429"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Paulo Ricardo Lourenço Alves">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Análise de Sistemas Caóticos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Séries Temporais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Estatística e Termodinâmica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física Matemática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Métodos Matemáticos da Física</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="FARIA, L. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="LUIS ANTONIO CAMPINHO PEREIRA DA MOTA"
+                 NRO-ID-CNPQ-ORIENTADOR="6397080352351635"
+                 SEQUENCIA-ESTUDANTE="5112563"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4987689131098575"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Leandro Soares Faria">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Séries Temporais"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="6"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Astronomia</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Áudio</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Computação</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Eletrônica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Física</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS/>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4927878507164725"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="O trabalho do grupo pode ser resumido no desenvolvimento de métodos e algoritmos para tratar de aspectos matemáticos que tem se concentrado na integrabilidade de sistemas dinâmicos e na análise global de séries temporais e de sua previsibilidade.Depois deste desenvolvimento, tratamos de implimentar tais métodos em pacotes computacionais para disponibilizar estes resultados para a comunidade científica."
+                         NOME-DA-LINHA-DE-PESQUISA="Física Matemática"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Sistemas dinâmicos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Séries Temporais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Caos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Computação Algébrica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Métodos Numéricos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6397080352351635"
+                               NOME-COMPLETO="Luis Antonio Campinho Pereira da Mota"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25313"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6507839159156333" NOME-COMPLETO="Jayr Avellar Costa Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="905276"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6277084511926648"
+                             NOME-COMPLETO="Andrea Barroso Melo Monteiro de Queiroz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="282290"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10104011" CODIGO-ESPECIALIDADE="10104011"
+                                  CODIGO-SUB-AREA="10104003"
+                                  CODIGO-AREA="10100008"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Física Matemática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática Aplicada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Matemática"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="26"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="6388797092348840"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Muitos sistemas Físicos (e os tratados em outras áreas de conhecimento) são entendidos em termos de sistemas de equações diferenciais. Nos propomos a criar novos métodos de tratá-las e implementar estas descobertas em pacotes computacionais"
+                         NOME-DA-LINHA-DE-PESQUISA="Resolução Analítica de Equações Diferenciais e Sistemas"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Equações Diferenciais Ordinárias</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Computação Algébrica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Métodos Numéricos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Equações Diferenciais</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3550872419786360" NOME-COMPLETO="Luiz Guilherme Silva Duarte"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="56332"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3779547665338962" NOME-COMPLETO="James Ewan Faskin Skea"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="196290"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6397080352351635"
+                               NOME-COMPLETO="Luis Antonio Campinho Pereira da Mota"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25313"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="5448242503820544"
+                             NOME-COMPLETO="André Luiz Gomes da Cruz Claudino"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2251328"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="6277084511926648"
+                             NOME-COMPLETO="Andrea Barroso Melo Monteiro de Queiroz"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="282290"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3355786074300779" NOME-COMPLETO="Maurício dos Santos Cardoso"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3767147"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4353254615441476" NOME-COMPLETO="Emilio Nunez"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="53512"
+                             SEQUENCIA-ESTUDANTE="4"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10501010" CODIGO-ESPECIALIDADE="10501010"
+                                  CODIGO-SUB-AREA="10501002"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Métodos Matemáticos da Física"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Geral"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="91"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10104011" CODIGO-ESPECIALIDADE="10104011"
+                                  CODIGO-SUB-AREA="10104003"
+                                  CODIGO-AREA="10100008"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Física Matemática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática Aplicada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Matemática"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="26"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="2825719103634801"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvimento de métodos e algoritmos e sua posterior implementação computacional.- cálculo de dimensão fractal- resolução dos sistemas usando um misto de computação algébrica e numérica"
+                         NOME-DA-LINHA-DE-PESQUISA="Análise de Sistemas Caóticos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Caos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Dimensões Fractais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Sistemas Dinâmicos</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3550872419786360" NOME-COMPLETO="Luiz Guilherme Silva Duarte"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="56332"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3779547665338962" NOME-COMPLETO="James Ewan Faskin Skea"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="196290"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6397080352351635"
+                               NOME-COMPLETO="Luis Antonio Campinho Pereira da Mota"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25313"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2813188660502017" NOME-COMPLETO="Alex Fraga Rocha"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3047288"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8100550275390429" NOME-COMPLETO="Paulo Ricardo Lourenço Alves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2570904"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10501010" CODIGO-ESPECIALIDADE="10501010"
+                                  CODIGO-SUB-AREA="10501002"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Métodos Matemáticos da Física"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Geral"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="91"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="9892085572696857"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Não Informado"
+                         NOME-DA-LINHA-DE-PESQUISA="Classificação Invariante de Espaços-Tempos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Relatividade Geral</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Classificação Invariante</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Computação Algébrica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Soluções Exatas das Equações de Einstein</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3779547665338962" NOME-COMPLETO="James Ewan Faskin Skea"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="196290"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10501010" CODIGO-ESPECIALIDADE="10501010"
+                                  CODIGO-SUB-AREA="10501002"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Métodos Matemáticos da Física"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Geral"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="91"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10501037" CODIGO-ESPECIALIDADE="10501037"
+                                  CODIGO-SUB-AREA="10501002"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Relatividade e Gravitação"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Geral"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="93"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7630892023601258"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Nesta linha temos nos concentrado na produção de pacotes computacionais com as ferramentas matemáticos necessários para o trabalho de pesquisa na área."
+                         NOME-DA-LINHA-DE-PESQUISA="Métodos Numéricos para a Resolução de Equações Diferenciais"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Equações Diferenciais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Computação Numérica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Interfaces Numéricas-Algébricas em Computação</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3550872419786360" NOME-COMPLETO="Luiz Guilherme Silva Duarte"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="56332"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3779547665338962" NOME-COMPLETO="James Ewan Faskin Skea"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="196290"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6397080352351635"
+                               NOME-COMPLETO="Luis Antonio Campinho Pereira da Mota"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25313"
+                               SEQUENCIA-PESQUISADOR="3"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6507839159156333" NOME-COMPLETO="Jayr Avellar Costa Filho"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="905276"
+                               SEQUENCIA-PESQUISADOR="4"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="2813188660502017" NOME-COMPLETO="Alex Fraga Rocha"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3047288"
+                             SEQUENCIA-ESTUDANTE="1"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10501010" CODIGO-ESPECIALIDADE="10501010"
+                                  CODIGO-SUB-AREA="10501002"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Métodos Matemáticos da Física"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Geral"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="91"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5366075048301707"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estudo das técnicas da análise não linear de séries temporais, redução de ruídos  e previsões utilizando-as"
+                         NOME-DA-LINHA-DE-PESQUISA="Séries Temporais"
+                         SEQUENCIA-LINHA-DE-PESQUISA="6">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">séries temporais</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">k-fold validation</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">mapeamento global</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="3550872419786360" NOME-COMPLETO="Luiz Guilherme Silva Duarte"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="56332"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="6397080352351635"
+                               NOME-COMPLETO="Luis Antonio Campinho Pereira da Mota"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="25313"
+                               SEQUENCIA-PESQUISADOR="2"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5995298963763405"
+                               NOME-COMPLETO="Cesar Augusto Linhares da Fonseca Junior"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="15393"
+                               SEQUENCIA-PESQUISADOR="3"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8100550275390429" NOME-COMPLETO="Paulo Ricardo Lourenço Alves"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="2570904"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4987689131098575" NOME-COMPLETO="Leandro Soares Faria"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5112563"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10501010" CODIGO-ESPECIALIDADE="10501010"
+                                  CODIGO-SUB-AREA="10501002"
+                                  CODIGO-AREA="10500006"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Métodos Matemáticos da Física"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Física Geral"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Física"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="91"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10104020" CODIGO-ESPECIALIDADE="10104020"
+                                  CODIGO-SUB-AREA="10104003"
+                                  CODIGO-AREA="10100008"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Análise Numérica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática Aplicada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Matemática"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="27"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="J.62.0"
+                                SUBSETOR="Atividades dos serviços de tecnologia da informação"
+                                SETOR="Informação e comunicação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS>
+      <EGRESSO DATA-SAIDA="24102014" DATA-ENTRADA="15032013"
+               TP-PARTICIPACAO-EGRESSO="ESTUDANTE"
+               NRO-ID-CNPQ="6507839159156333"
+               NOME-DO-EGRESSO="Jayr Avellar Costa Filho"/>
+   </EGRESSOS>
+</GRUPO-DE-PESQUISA>

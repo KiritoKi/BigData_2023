@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPO-DE-PESQUISA xmlns="http://www.cnpq.br/lmpl/2002/XSD/Grupo" NRO-ID-GRUPO="4361090132810055"
+                   ESTRATIFICACAO=""
+                   FORMATO-HORA-ATUALIZACAO="HHMMSS"
+                   HORA-ATUALIZACAO="112643"
+                   FORMATO-DATA-ATUALIZACAO="DDMMAAAA"
+                   DATA-ATUALIZACAO="24102016"
+                   SISTEMA-ORIGEM-XML="Lattes Extrator">
+   <IDENTIFICACAO-DO-GRUPO NRO-ID-CNPQ-INSTITUICAO="7404425277041623" CODIGO-AREA-PREDOMINANTE="20900007"
+                           NOME-DA-UNIDADE=""
+                           NOME-DO-ORGAO="Universidade Federal do Rio de Janeiro"
+                           FLAG-INSTITUICAO-DE-ENSINO=""
+                           FLAG-AGENCIA-FOMENTO="N"
+                           SIGLA-DO-PAIS-DA-INSTITUICAO="BRA"
+                           NOME-DO-PAIS-DA-INSTITUICAO="BRA"
+                           UF-DA-INSTITUICAO="RJ"
+                           SIGLA-DA-INSTITUICAO="UFRJ"
+                           NOME-DA-INSTITUICAO="Universidade Federal do Rio de Janeiro"
+                           AREA-PREDOMINANTE="Biofísica"
+                           GRANDE-AREA-PREDOMINANTE="Ciências Biológicas"
+                           ANO-DE-CRIACAO="2015"
+                           NOME-DO-GRUPO="BITFUN -- Bioninformática, Transcriptomica e Genômica Funcional -- http://bitfun.biof.ufrj.br">
+      <LIDERES>
+         <PRIMEIRO-LIDER NRO-ID-CNPQ="5337477770035604" PAIS-DE-NASCIMENTO="BRA" NACIONALIDADE="E"
+                         NOME-COMPLETO="Marc Andre Michael Thorsten Sammeth"/>
+      </LIDERES>
+      <ENDERECO-INSTITUCIONAL-DO-GRUPO COD-PAIS-ISO-A3="BRA" COD-MUNICIPIO-IBGE="3304557" DDDFAX=""
+                                       LONGITUDE="-43.228092300000014"
+                                       LATITUDE="-22.8397828"
+                                       CAIXA-POSTAL=""
+                                       LOCALIDADE="Rio de Janeiro"
+                                       NUMERO="373"
+                                       COMPLEMENTO="Bloco G"
+                                       LOGRADOURO="CCS - Centro de Ciências da Saúde"
+                                       HOME-PAGE="http://bitfun.biof.ufrj.br"
+                                       E-MAIL="micha@sammeth.net"
+                                       FAX=""
+                                       RAMAL=""
+                                       TELEFONE="4042-4224"
+                                       DDD="21"
+                                       CEP="21941902"
+                                       CIDADE="Rio de Janeiro"
+                                       UF="RJ"
+                                       BAIRRO="Cidade Universitária"/>
+      <REPERCUSSOES>Olá. Somos o Laboratório de Bioinformática, Transcriptômica e Genômica Funcional (BITFUN), um grupo recém-formado na UFRJ. Contudo, participamos em vários projetos de pesquisa nacional e internacional em genética, genômica e expressão gênica. O nosso objetivo principal é avançar nosso conhecimento dos mecanismos moleculares que controlam a regulação no nível de RNA - considerando os processos de transcrição, processamento e degradação - e como a variação da informação codificada no genoma pode provocar diferenças na composição do transcriptoma celular. Além disso, desenvolvemos algoritmos e ferramentas computacionais para melhorar a pesquisa baseada em sequenciamento de última geração, e participamos na anotação de elementos funcionais em organismos tropicais, animais, plantas, microorganismos e vírus. Ao longo de nosso caminho, descobrimos diversos novos fenômenos da biologia molecular e de sistemas. Nosso site: http://bitfun.biof.ufrj.br</REPERCUSSOES>
+      <REDES-DE-PESQUISA>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="GTEx"
+                           URL-DA-REDE-DE-PESQUISA="http://www.gtexportal.org"
+                           NOME-DA-REDE-DE-PESQUISA="NHGRI / NIH"/>
+         <REDE-DE-PESQUISA SIGLA-DA-REDE-DE-PESQUISA="PRONEX"
+                           URL-DA-REDE-DE-PESQUISA="http://www.faperj.br/?id=31.4.8"
+                           NOME-DA-REDE-DE-PESQUISA="PRONEX: GENÔMICA FUNCIONAL EM SAÚDE: AGENTES INFECCIOSOS E HOSPEDEIROS."/>
+      </REDES-DE-PESQUISA>
+   </IDENTIFICACAO-DO-GRUPO>
+   <PESQUISADORES>
+      <PESQUISADOR NOME-CITACOES="OTI, M.;OTI, MARTIN;OTI, M;Oti, Martin"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="0"
+                   SEXO="M"
+                   NRO-ID-CNPQ="7159887760112013"
+                   PAIS-DE-NASCIMENTO="NGA"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Martin Okechukwu Oti">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Pós-Transcricional de Expressão Gênica - Splicing"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética e genômica funcional em humanos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos para bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Humana e Médica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Quantitativa</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+      <PESQUISADOR NOME-CITACOES="SAMMETH, M.;SAMMETH, MICHAEL;SAMMETH, MICHA;Sammeth, Michael;GTEX Consortium, the"
+                   TITULACAO-MAXIMA="Doutorado"
+                   SEQUENCIA-PESQUISADOR="1"
+                   SEXO="M"
+                   NRO-ID-CNPQ="5337477770035604"
+                   PAIS-DE-NASCIMENTO="BRA"
+                   NACIONALIDADE="E"
+                   NOME-COMPLETO="Marc Andre Michael Thorsten Sammeth">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica funcional de animais, plantas e microorganismos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="1"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Pós-Transcricional de Expressão Gênica - Splicing"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="2"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Interação da expressão gênica entre patogeno e hospedeiro"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="3"
+                               SEQUENCIA-LINHA-DE-PESQUISA="3"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética e genômica funcional em humanos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="4"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos para bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="5"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Alternative Splicing</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biofísica Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformatics</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biologia Molecular</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Genética Humana e Médica</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>RNA-Seq</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </PESQUISADOR>
+   </PESQUISADORES>
+   <ESTUDANTES>
+      <ESTUDANTE NOME-CITACOES="CARVALHO, G. L. V." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARC ANDRE MICHAEL THORSTEN SAMMETH"
+                 NRO-ID-CNPQ-ORIENTADOR="5337477770035604"
+                 SEQUENCIA-ESTUDANTE="5669031"
+                 SEXO="M"
+                 NRO-ID-CNPQ="4327115966698382"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Gustavo Luis Veloso de Carvalho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos para bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SANTOS, J. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARC ANDRE MICHAEL THORSTEN SAMMETH"
+                 NRO-ID-CNPQ-ORIENTADOR="5337477770035604"
+                 SEQUENCIA-ESTUDANTE="6897303"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1180897706331703"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Julia da Silva Santos">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica funcional de animais, plantas e microorganismos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos para bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Alimentos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="LIMA, M. E. S." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARC ANDRE MICHAEL THORSTEN SAMMETH"
+                 NRO-ID-CNPQ-ORIENTADOR="5337477770035604"
+                 SEQUENCIA-ESTUDANTE="6910109"
+                 SEXO="F"
+                 NRO-ID-CNPQ="4439551064006263"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Monyque Evans Souza Lima">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica funcional de animais, plantas e microorganismos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos para bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Engenharia de Bioprocessos</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA, B. A. B." NIVEL-DE-TREINAMENTO="Graduação" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARC ANDRE MICHAEL THORSTEN SAMMETH"
+                 NRO-ID-CNPQ-ORIENTADOR="5337477770035604"
+                 SEQUENCIA-ESTUDANTE="5173179"
+                 SEXO="F"
+                 NRO-ID-CNPQ="1056232100662802"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Bruna Aparecida Bernardes da Silva">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica funcional de animais, plantas e microorganismos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Pós-Transcricional de Expressão Gênica - Splicing"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética e genômica funcional em humanos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Biofísica</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="SILVA-GARCIA, A. C." NIVEL-DE-TREINAMENTO="Graduação"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA=""
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARC ANDRE MICHAEL THORSTEN SAMMETH"
+                 NRO-ID-CNPQ-ORIENTADOR="5337477770035604"
+                 SEQUENCIA-ESTUDANTE="6095619"
+                 SEXO="F"
+                 NRO-ID-CNPQ="8572497358466608"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Anna Carolina Silva Garcia">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica funcional de animais, plantas e microorganismos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Pós-Transcricional de Expressão Gênica - Splicing"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos para bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Imunologia</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="COELHO, V.L." NIVEL-DE-TREINAMENTO="Doutorado" BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARC ANDRE MICHAEL THORSTEN SAMMETH"
+                 NRO-ID-CNPQ-ORIENTADOR="5337477770035604"
+                 SEQUENCIA-ESTUDANTE="3375609"
+                 SEXO="M"
+                 NRO-ID-CNPQ="3104488709288770"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Vitor Lima Coelho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Controle Pós-Transcricional de Expressão Gênica - Splicing"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="2"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos para bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Bioinformática</AREA-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Ciência da Computação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+      <ESTUDANTE NOME-CITACOES="GODINHO, C. P. S." NIVEL-DE-TREINAMENTO="Doutorado"
+                 BOLSA-NIVEL=""
+                 BOLSA-CATEGORIA="Doutorado"
+                 NOME-DO-ORIENTADOR-NO-GRUPO="MARC ANDRE MICHAEL THORSTEN SAMMETH"
+                 NRO-ID-CNPQ-ORIENTADOR="5337477770035604"
+                 SEQUENCIA-ESTUDANTE="3136467"
+                 SEXO="M"
+                 NRO-ID-CNPQ="7451071734024975"
+                 PAIS-DE-NASCIMENTO="BRA"
+                 NACIONALIDADE="B"
+                 NOME-COMPLETO="Caio Padoan de Sá Godinho">
+         <LINHAS-DE-PESQUISA-RH>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genômica funcional de animais, plantas e microorganismos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="1"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Genética e genômica funcional em humanos"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="4"/>
+            <LINHA-DE-PESQUISA NOME-DA-LINHA-DE-PESQUISA="Algoritmos para bioinformática"
+                               SEQUENCIA-IDENTIFICADORA-DA-LINHA-DE-PESQUISA="0"
+                               SEQUENCIA-LINHA-DE-PESQUISA="5"/>
+         </LINHAS-DE-PESQUISA-RH>
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO/>
+         </AREAS-DE-ATUACAO>
+      </ESTUDANTE>
+   </ESTUDANTES>
+   <COLABORADORES-ESTRANGEIROS>
+      <COLABORADOR-ESTRANGEIRO NOME-CITACOES="BAUMBACH, J.;BAUMBACH, JAN;BAUMBACH, J" SEXO="M"
+                               NRO-ID-CNPQ="8263618008894199"
+                               PAIS-DE-NASCIMENTO="BRA"
+                               NACIONALIDADE="E"
+                               NOME-COMPLETO="Jan Baumbach"
+                               TITULACAO-MAXIMA="Doutorado"
+                               SEQUENCIA-COLABORADOR="1">
+         <AREAS-DE-ATUACAO>
+            <AREA-DE-ATUACAO>Modelos Analíticos e de Simulação</AREA-DE-ATUACAO>
+         </AREAS-DE-ATUACAO>
+      </COLABORADOR-ESTRANGEIRO>
+   </COLABORADORES-ESTRANGEIROS>
+   <TECNICOS/>
+   <LINHAS-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="7238894964150853"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Estamos estudando os genomas e os seus atributos funcionais em animais, plantas e organismos unicelulares, com foco especial em espécies tropicais. Os nossos esforços aqui incluem a montagem de genomas, a anotação e caracterização de genes, a comparação genômica entre diferentes cepas e espécies, assim como o mapeamento de elementos funcionais pesquisados com experimentos controlados de sequenciamento. Os resultados estão disponibilizados no Navegador de Genomas da UFRJ: http://genome.ufrj.br"
+                         NOME-DA-LINHA-DE-PESQUISA="Genômica funcional de animais, plantas e microorganismos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="1">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">genômica de organismos unicelulares</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Genômica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">genômica animal</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">genômica vegetal</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5337477770035604"
+                               NOME-COMPLETO="Marc Andre Michael Thorsten Sammeth"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="4613860"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7451071734024975" NOME-COMPLETO="Caio Padoan de Sá Godinho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3136467"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1056232100662802"
+                             NOME-COMPLETO="Bruna Aparecida Bernardes da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5173179"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8572497358466608" NOME-COMPLETO="Anna Carolina Silva Garcia"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6095619"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1180897706331703" NOME-COMPLETO="Julia da Silva Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6897303"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4439551064006263" NOME-COMPLETO="Monyque Evans Souza Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6910109"
+                             SEQUENCIA-ESTUDANTE="5"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20800002" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="20800002"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Bioinformática Aplicada"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Bioinformática"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Bioquímica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="304"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20800002" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="20800002"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Genômica Animal, Vegetal, e de Microorganismos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Genômica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Bioquímica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="304"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20200005" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="20200005"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Genômica Funcional"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Genômica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Genética"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="248"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="A.01"
+                                SUBSETOR="Agricultura, Pecuária e Serviços Relacionados"
+                                SETOR="Agricultura, Pecuária, Produção Florestal, Pesca e Aqüicultura"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="A.02" SUBSETOR="Produção Florestal"
+                                SETOR="Agricultura, Pecuária, Produção Florestal, Pesca e Aqüicultura"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="5956921283382896"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Especialmente considerando os descobrimentos recentes com o sequenciamento de alto desempenho aplicado à RNA, splicing tornou-se um mecanismo chave na regulação e na adaptação da expressão gênica em eucarióticos. Estamos pesquisando o papel que o spliceossoma desempenha durante a mitose e na divisão assimétrica de células. Para os nossos objetivos, conduzimos também uma comparação do uso do spliceossoma U12 entre diferentes genes, espécies e indivíduos."
+                         NOME-DA-LINHA-DE-PESQUISA="Controle Pós-Transcricional de Expressão Gênica - Splicing"
+                         SEQUENCIA-LINHA-DE-PESQUISA="2">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Transcriptômica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">Splicing</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Splicing Alternativo</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5337477770035604"
+                               NOME-COMPLETO="Marc Andre Michael Thorsten Sammeth"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="4613860"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7159887760112013" NOME-COMPLETO="Martin Okechukwu Oti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="6167486"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3104488709288770" NOME-COMPLETO="Vitor Lima Coelho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3375609"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1056232100662802"
+                             NOME-COMPLETO="Bruna Aparecida Bernardes da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5173179"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8572497358466608" NOME-COMPLETO="Anna Carolina Silva Garcia"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6095619"
+                             SEQUENCIA-ESTUDANTE="3"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20804008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20804008"
+                                  CODIGO-AREA="20800002"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia Molecular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Bioquímica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="311"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21400008" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="21400008"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="bioinformatica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sequenciamento da nova geração"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Biotecnologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1408"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10300007" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Transcriptomica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Bioinformatica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="47"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0781848190807669"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Usando métodos da teoria de grafos e da biologia de sistemas, estamos desenvolvendo novas abordagens para a análise da comunicação gênica entre patógeno e hospedeiro. Usando novas abordagens do sequenciamento de RNA de ambas espécies juntas (¿Dual RNA-Seq¿) , estamos analisando as redes de correlação de expressão gênica para esse sistema dual com o intuito de elucidar os mecanismos de regulação da interação molecular entre patógeno e hospedeiro."
+                         NOME-DA-LINHA-DE-PESQUISA="Interação da expressão gênica entre patogeno e hospedeiro"
+                         SEQUENCIA-LINHA-DE-PESQUISA="3">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">patógenos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">patogenômica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">transcriptoma</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">genomica funcional</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5337477770035604"
+                               NOME-COMPLETO="Marc Andre Michael Thorsten Sammeth"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="4613860"
+                               SEQUENCIA-PESQUISADOR="1"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA/>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20804008" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20804008"
+                                  CODIGO-AREA="20800002"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia Molecular"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Bioquímica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="311"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10300007" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Genomica Comparativa"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Bioinformatica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="47"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10104003" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10104003"
+                                  CODIGO-AREA="10100008"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Biomatematica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática Aplicada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Matemática"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="25"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="0593684461518592"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="O nosso grupo pesquisa os mecanismos moleculares de diferentes processos que desempenham um papel na decodificação da informação genética e transformam ela num fenótipo funcional ou doente. Focamos em particular no nível pós-transcricional de regulação na expressão gênica e no processamento de RNA, especialmente por splicing. Estamos participando no projeto GTEx (Genotype-Tissue Expression), atualmente o maior projeto da era pós-genômica em humanos. O sitio deste projeto é: http://www.gtexportal"
+                         NOME-DA-LINHA-DE-PESQUISA="Genética e genômica funcional em humanos"
+                         SEQUENCIA-LINHA-DE-PESQUISA="4">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">genética</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">diversidade genética</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Doenças genéticas</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5337477770035604"
+                               NOME-COMPLETO="Marc Andre Michael Thorsten Sammeth"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="4613860"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7159887760112013" NOME-COMPLETO="Martin Okechukwu Oti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="6167486"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7451071734024975" NOME-COMPLETO="Caio Padoan de Sá Godinho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3136467"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1056232100662802"
+                             NOME-COMPLETO="Bruna Aparecida Bernardes da Silva"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5173179"
+                             SEQUENCIA-ESTUDANTE="2"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20800002" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="20800002"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Genômica Funcional"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Biologia Computacional"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Bioquímica"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="304"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="20205007" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="20205007"
+                                  CODIGO-AREA="20200005"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO=""
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Genética Humana e Médica"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Genética"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="253"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10104003" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10104003"
+                                  CODIGO-AREA="10100008"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Bioestatistica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática Aplicada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Matemática"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="25"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="P.85.3" SUBSETOR="Educação" SETOR="Educação"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="Q.86.4"
+                                SUBSETOR="Atividades de atenção à saúde humana"
+                                SETOR="Saúde humana e serviços sociais"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+      <LINHA-DE-PESQUISA NRO-ID-CNPQ-LINHA-PESQUISA="4819104244616664"
+                         OBJETIVO-DA-LINHA-DE-PESQUISA="Desenvolvemos novos algoritmos para a bioinformática aplicada à genômica, transcriptômica e outros elementos funcionais mediante sequenciamento de alto desempenho. Especialmente os sequenciadores da última geração (por exemplo, Ion Torrent) põem novos desafios em diversos algoritmos de problemas já abordados, por exemplo para a montagem genômica. Alêm disso o nosso grupo continua a melhorar os programas QAlign, Astalavista e Flux anteriormente desenvolvidos:  http://software.sammeth.net"
+                         NOME-DA-LINHA-DE-PESQUISA="Algoritmos para bioinformática"
+                         SEQUENCIA-LINHA-DE-PESQUISA="5">
+         <PALAVRAS-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="1">Bioinformática</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="2">algoritmos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="3">Grafos</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="4">Programação Dinamica</PALAVRA-CHAVE>
+            <PALAVRA-CHAVE SEQUENCIA-PALAVRA-CHAVE="5">Programação Linear</PALAVRA-CHAVE>
+         </PALAVRAS-CHAVE>
+         <PESQUISADORES-LINHA>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="5337477770035604"
+                               NOME-COMPLETO="Marc Andre Michael Thorsten Sammeth"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="4613860"
+                               SEQUENCIA-PESQUISADOR="1"/>
+            <PESQUISADOR-LINHA NRO-ID-CNPQ="7159887760112013" NOME-COMPLETO="Martin Okechukwu Oti"
+                               SEQUENCIA-IDENTIFICADORA-DO-PESQUISADOR="6167486"
+                               SEQUENCIA-PESQUISADOR="2"/>
+         </PESQUISADORES-LINHA>
+         <ESTUDANTES-LINHA>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="7451071734024975" NOME-COMPLETO="Caio Padoan de Sá Godinho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3136467"
+                             SEQUENCIA-ESTUDANTE="1"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="3104488709288770" NOME-COMPLETO="Vitor Lima Coelho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="3375609"
+                             SEQUENCIA-ESTUDANTE="2"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4327115966698382" NOME-COMPLETO="Gustavo Luis Veloso de Carvalho"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="5669031"
+                             SEQUENCIA-ESTUDANTE="3"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="8572497358466608" NOME-COMPLETO="Anna Carolina Silva Garcia"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6095619"
+                             SEQUENCIA-ESTUDANTE="4"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="1180897706331703" NOME-COMPLETO="Julia da Silva Santos"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6897303"
+                             SEQUENCIA-ESTUDANTE="5"/>
+            <ESTUDANTE-LINHA NRO-ID-CNPQ="4439551064006263" NOME-COMPLETO="Monyque Evans Souza Lima"
+                             SEQUENCIA-IDENTIFICADORA-DO-ESTUDANTE="6910109"
+                             SEQUENCIA-ESTUDANTE="6"/>
+         </ESTUDANTES-LINHA>
+         <AREAS-DO-CONHECIMENTO>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="21400008" CODIGO-ESPECIALIDADE="" CODIGO-SUB-AREA=""
+                                  CODIGO-AREA="21400008"
+                                  CODIGO-GRANDE-AREA="20000006"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Bioinformática"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Sequenciamento da Nova Geração"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Biotecnologia"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Biológicas"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="1408"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10302000" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10302000"
+                                  CODIGO-AREA="10300007"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Algoritmos"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática da Computação"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Ciência da Computação"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="53"/>
+            <AREA-DO-CONHECIMENTO COD-AREA-DO-CONHECIMENTO="10104003" CODIGO-ESPECIALIDADE=""
+                                  CODIGO-SUB-AREA="10104003"
+                                  CODIGO-AREA="10100008"
+                                  CODIGO-GRANDE-AREA="10000003"
+                                  NOME-DA-ESPECIALIDADE-DO-CONHECIMENTO="Biomatematica"
+                                  NOME-DA-SUB-AREA-DO-CONHECIMENTO="Matemática Aplicada"
+                                  NOME-DA-AREA-DO-CONHECIMENTO="Matemática"
+                                  NOME-GRANDE-AREA-DO-CONHECIMENTO="Ciências Exatas e da Terra"
+                                  SEQUENCIA-AREA-DO-CONHECIMENTO="25"/>
+         </AREAS-DO-CONHECIMENTO>
+         <SETORES-DE-APLICACAO>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.74.9"
+                                SUBSETOR="Outras atividades profissionais, científicas e técnicas"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="2791"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.72.1"
+                                SUBSETOR="Pesquisa e desenvolvimento científico"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="7"/>
+            <SETOR-DE-APLICACAO ORIGEM-CNAE="CNAE II" CODIGO-CNAE="M.74"
+                                SUBSETOR="Outras atividades profissionais, científicas e técnicas"
+                                SETOR="Atividades profissionais, científicas e técnicas"
+                                SEQUENCIA-SETOR-DE-APLICACAO="14"/>
+         </SETORES-DE-APLICACAO>
+      </LINHA-DE-PESQUISA>
+   </LINHAS-DE-PESQUISA>
+   <EMPRESAS/>
+   <EQUIPAMENTOS/>
+   <SOFTWARES/>
+   <EGRESSOS/>
+</GRUPO-DE-PESQUISA>
